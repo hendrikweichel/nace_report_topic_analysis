@@ -1,4 +1,5 @@
 import matplotlib.pyplot as plt
+import numpy as np
 
 def plot_similarity_distributions(df, cos_threshold, NACE_codes = None, name: str = ""):
     df = df[df["Sentences"].apply(lambda x: len(x)>10)]
@@ -47,4 +48,26 @@ def plot_nbr_threshold(df, cos_threshold: float, NACE_codes: dict = None, name: 
         fig.suptitle(f"{name}.csv: NACE class {NACE_codes[name+'.csv']}", fontsize=16)
     else: 
         fig.suptitle(f"{name}.csv", fontsize=16)
+    return fig
+
+
+def plot_correlation_over_document_pages(df, cos_threshold: float = None, NACE_codes: dict = None, name: str = ""): 
+    # get top three names
+    df_temp = df.iloc[:, 3:][df.iloc[:, 3:] > cos_threshold]
+    top3_cols = df_temp.fillna(0).mean().sort_values(ascending=False).head(3)
+
+    fig, ax = plt.subplots(figsize=(12, 6))
+    scores = [column for column in df.columns if "Scores" in column]
+    for score in top3_cols.index: 
+        ax.plot(df_temp[score], label=score)
+    
+    ax.set_xlabel("Nbr Chunk")
+    ax.set_ylabel("Cosine similarity")
+    ax.legend()
+    if NACE_codes: 
+        fig.suptitle(f"{name}.csv: NACE class {NACE_codes[name+'.csv']}", fontsize=16)
+    else: 
+        fig.suptitle(f"{name}.csv", fontsize=16)
+    return fig
+
     return fig
