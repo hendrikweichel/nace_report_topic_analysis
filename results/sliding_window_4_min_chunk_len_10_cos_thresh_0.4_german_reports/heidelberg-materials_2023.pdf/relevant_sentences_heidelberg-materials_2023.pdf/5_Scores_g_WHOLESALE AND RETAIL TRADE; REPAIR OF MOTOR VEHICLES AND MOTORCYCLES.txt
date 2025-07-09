@@ -1,0 +1,299 @@
+Scores_g_WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLESScore 0.6
+finished goods and goods for resale .  . prepayments .  . inventories
+
+Score 0.565
+. finished goods and goods for resale .  . prepayments .
+
+Score 0.552
+particularly with respect to our supply chains we have supplemented our ex isting ri sk ma nagement  wi th su itable processes in the context of the requirements of the german supply chain due diligence act lksg among others.  further information on this topic can be found in the compliance section . explanation	of	the	key	figuresthe key figures revenue capital expenses capex and operating expenses opex relevant to the eu taxonomy regulation were determined with reference to the definitions  se t ou t in th e an nex to th e de legated ac t eu   to ar ticle  of re gulation  .  the r elevant  r evenue c apex a nd o pex w ere a ssigned to the abovementioned taxonomyeligible economic activities.  standard reporting assignment by business line was us ed to de termine th e ke y fig ures av oiding the possibility  of do uble co unting ac ross th e tw o ec onomic activities
+
+Score 0.543
+reclassification  to profit or loss interest expenses interest risk . reclassification  to profit or loss material costs electricity price risk .  . reclassification  to cost of finished goods and goods for resale currency risk . income taxes
+
+Score 0.538
+reclassification  to profit or loss material costs electricity price risk .  . reclassification  to cost of finished goods and goods for resale currency risk . income taxes .
+
+Score 0.537
+. reclassification  to cost of finished goods and goods for resale currency risk . income taxes .  . gainslosses arising from equity accounted investments
+
+Score 0.535
+. reclassification  adjustments for gainslosses included in profit or loss .  . income taxes . currency translation
+
+Score 0.531
+the r elevant  r evenue c apex a nd o pex w ere a ssigned to the abovementioned taxonomyeligible economic activities.  standard reporting assignment by business line was us ed to de termine th e ke y fig ures av oiding the possibility  of do uble co unting ac ross th e tw o ec onomic activities. revenuethe key figure for sustainable revenue pursuant to the taxonomy regulation is calculated on the basis of revenue related to the taxonomyaligned economic activities numerator divided by total revenue denominator.  revenue is de fined as th e re venue sh own in th e consolidated income statement that relates to revenue from contracts wi th cu stomers pu rsuant to if rs  .  this can be found in note
+
+Score 0.524
+goods purchased for resale .  . miscellaneous .  .
+
+Score 0.524
+this category mainly includes trade receivables that are intended for sale in the context of factoring transactions.  changes in the fair value and income from these assets are recognised  di rectly in pr ofit or los s in th e period in which they are incurred.  financial assets are derecognised from the balance sheet at the point in time that the contractual rights to cash flows from the asset expire or the financial asset is transferred.   tr ansferred fin ancial as sets are full y derecognised  if all ris ks and re wards are sub stantially transferred to the acquirer.  if the risks and rewards are only partially transferred risk sharing the assets continue to be recognised to the extent of the maximum risk retained due to the impossibility of resale
+
+Score 0.519
+reclassification  to cost of finished goods and goods for resale currency risk . income taxes .  . gainslosses arising from equity accounted investments .
+
+Score 0.518
+. reclassification  to profit or loss interest expenses interest risk . reclassification  to profit or loss material costs electricity price risk .  . reclassification  to cost of finished goods and goods for resale currency risk
+
+Score 0.514
+.  share of alternative raw materials contained in other building materials such as asphalt .  .  .  eu	taxonomy	regulationtaxonomyeligible revenue
+
+Score 0.511
+standard reporting assignment by business line was us ed to de termine th e ke y fig ures av oiding the possibility  of do uble co unting ac ross th e tw o ec onomic activities. revenuethe key figure for sustainable revenue pursuant to the taxonomy regulation is calculated on the basis of revenue related to the taxonomyaligned economic activities numerator divided by total revenue denominator.  revenue is de fined as th e re venue sh own in th e consolidated income statement that relates to revenue from contracts wi th cu stomers pu rsuant to if rs  .  this can be found in note 	.
+
+Score 0.506
+in th e co ntext of th e sa le of th e products separate performance obligations may arise from transport se rvices as we ll as fr om se rvices di rectly related to the sale of the products.  these services are generally performed at the time that the control of the products is tr ansferred.   in a fe w ex ceptional ca ses the transport services are performed after the control of the products has been transferred.  in accordance with ifrs   r evenue fr om co ntracts wi th cu stomers the revenue relating to these transport services is realised later than the corresponding product revenue.  the revenue is measured on the basis of the consideration defined in the contract with a customer including variable consideration such as discounts volume rebates or other contractual price reductions
+
+Score 0.505
+currency translation .  . reclassification  adjustments for gainslosses included in profit or loss .  . income taxes
+
+Score 0.505
+assessment of taxonomy eligibilitythe portfolio of our economic activities was assessed in the reporting ye ar wi th re gard to ta xonomy el igibility under the de legated ac ts.  in ad dition to ccm .  .  manufacture  of ce ment r epresented  in th e fo llowing as the cement business line ccm .
+
+Score 0.505
+fi nancial assets held for the purpose of sale are also assigned to this measurement category.  this category mainly includes trade receivables that are intended for sale in the context of factoring transactions.  changes in the fair value and income from these assets are recognised  di rectly in pr ofit or los s in th e period in which they are incurred.  financial assets are derecognised from the balance sheet at the point in time that the contractual rights to cash flows from the asset expire or the financial asset is transferred.   tr ansferred fin ancial as sets are full y derecognised  if all ris ks and re wards are sub stantially transferred to the acquirer
+
+Score 0.504
+change in finished goods and work in progress .  . own work capitalised .  . operating revenue
+
+Score 0.504
+as we ha ve be en impl ementing comp liance processes in these areas for many years and are continuously re viewing and ex panding th em we ha ve com e to the conclusion that the minimum safeguards are being met.  one current example of our continuous optimisation efforts is our work in the field of human rights to further expand our analysis of significant risks and their impact on potentially affected parties.  particularly with respect to our supply chains we have supplemented our ex isting ri sk ma nagement  wi th su itable processes in the context of the requirements of the german supply chain due diligence act lksg among others.  further information on this topic can be found in the compliance section . explanation	of	the	key	figuresthe key figures revenue capital expenses capex and operating expenses opex relevant to the eu taxonomy regulation were determined with reference to the definitions  se t ou t in th e an nex to th e de legated ac t eu   to ar ticle  of re gulation
+
+Score 0.504
+in addition minimum social standards termed minimum safeguards must be met. assessment of taxonomy eligibilitythe portfolio of our economic activities was assessed in the reporting ye ar wi th re gard to ta xonomy el igibility under the de legated ac ts.  in ad dition to ccm .  .  manufacture  of ce ment r epresented  in th e fo llowing as the cement business line ccm
+
+Score 0.503
+. goods purchased for resale .  . miscellaneous .
+
+Score 0.501
+. inventories .  .  . trade receivables
+
+Score 0.5
+revenue is allocated to countries according to the supplying companys country of origin. information by countryrevenue with external customersnoncurrent assets m usa germany united kingdom australia france indonesia canada italy other countries total intangible assets and property plant and equipmentconsolidated financial statementsgroup notesheidelberg materials 	 notes 	to	the	income	statement.  r evenuethe revenue sh own in th e co nsolidated  in come st atement r elates  t o r evenue f rom c ontracts w ith c ustomers in accordance  wi th if rs  .  in th e fo llowing ta ble th e revenue is br oken do wn in to tw o ca tegories ty pe of products and services business lines and group areas. revenue development by group areas and business linescement aggregatesreadymixed concreteasphalt serviceotherintragroup eliminations totalm western and southern europe northern and eastern europecentral asia north america asiapacific africaeastern mediterranean basin group services intergroup  area revenue within business lines total intergroup  area revenue between business lines total consolidated financial statementsgroup notesheidelberg materials
+
+Score 0.499
+information by countryrevenue with external customersnoncurrent assets m usa germany united kingdom australia france indonesia canada italy other countries total intangible assets and property plant and equipmentconsolidated financial statementsgroup notesheidelberg materials 	 notes 	to	the	income	statement.  r evenuethe revenue sh own in th e co nsolidated  in come st atement r elates  t o r evenue f rom c ontracts w ith c ustomers in accordance  wi th if rs  .  in th e fo llowing ta ble th e revenue is br oken do wn in to tw o ca tegories ty pe of products and services business lines and group areas. revenue development by group areas and business linescement aggregatesreadymixed concreteasphalt serviceotherintragroup eliminations totalm western and southern europe northern and eastern europecentral asia north america asiapacific africaeastern mediterranean basin group services intergroup  area revenue within business lines total intergroup  area revenue between business lines total consolidated financial statementsgroup notesheidelberg materials .  other operating incomeother operating income m foreign exchange gains
+
+Score 0.499
+further information on this topic can be found in the compliance section . explanation	of	the	key	figuresthe key figures revenue capital expenses capex and operating expenses opex relevant to the eu taxonomy regulation were determined with reference to the definitions  se t ou t in th e an nex to th e de legated ac t eu   to ar ticle  of re gulation  .  the r elevant  r evenue c apex a nd o pex w ere a ssigned to the abovementioned taxonomyeligible economic activities.  standard reporting assignment by business line was us ed to de termine th e ke y fig ures av oiding the possibility  of do uble co unting ac ross th e tw o ec onomic activities. revenuethe key figure for sustainable revenue pursuant to the taxonomy regulation is calculated on the basis of revenue related to the taxonomyaligned economic activities numerator divided by total revenue denominator
+
+Score 0.499
+work in progress .  . finished goods and goods for resale .  . prepayments
+
+Score 0.499
+if the right to consideration is unconditional it is recognised as a trade receivable.  heidelberg ma terials grants its customers country and industryspecific  pa yment te rms wh ich normall y include payment wi thin  to  da ys af ter th e da te of invoicing.  contract assets and contract liabilities are not shown se parately in th e ba lance sh eet bu t un der other operating receivables and assets and other operating liabilities re spectively.   th ey ar e sh own se parately in the notes.  costs directly attributable to obtaining or ful filling th e con tract are re cognised as an expense wh en th ey ar e in curred as th e am ortisation period is generally no longer than one year
+
+Score 0.498
+further explanations on provisions can be found in note .  other provisions. financial assets are classified on the basis of the contractual cash flo ws an d th e bu siness mo del us ed.  wh ile the contractual  ca sh flo ws ar e de termined by th e ch aracteristics  of th e fin ancial ins trument dis cretionary  decisions m ay b e r equired w hen a ssessing u nder w hich business model a financial asset should be classified.  for certain contracts a decision must be made as to whether they sh ould be tr eated as de rivatives or accounted for as ow n us e con tracts
+
+Score 0.498
+furthermore the executive directors are responsible for such internal control as the executive directors consider necessary to enable the preparation of the annual report that is free from material misstatement  wh ether du e to fr aud m anipulation  of the annual report or error. the eu taxonomy regulation and the delegated acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which cl arifications  ha ve no t ye t be en pu blished in every case.  therefore the executive directors have disclosed their interpretation of the eu taxonomy regulation and the delegated acts adopted thereunder in section information  ac cording to th e eutaxonomy  regulation   of th e combin ed nonfinancial st atement.  they are responsible for the defensibility of this interpretation.  due to the immanent risk that indeterminate legal terms ma y be in terpreted di fferently th e le gal conformity of the interpretation is subject to uncertainties
+
+Score 0.497
+these services are generally performed at the time that the control of the products is tr ansferred.   in a fe w ex ceptional ca ses the transport services are performed after the control of the products has been transferred.  in accordance with ifrs   r evenue fr om co ntracts wi th cu stomers the revenue relating to these transport services is realised later than the corresponding product revenue.  the revenue is measured on the basis of the consideration defined in the contract with a customer including variable consideration such as discounts volume rebates or other contractual price reductions.  the variable consideration is estimated on the basis of the most likely amount
+
+Score 0.497
+. impairment losses on operating receivables and contract assets .  . losses from derecognition of operating receivables .
+
+Score 0.497
+in th e fo llowing ta ble th e revenue is br oken do wn in to tw o ca tegories ty pe of products and services business lines and group areas. revenue development by group areas and business linescement aggregatesreadymixed concreteasphalt serviceotherintragroup eliminations totalm western and southern europe northern and eastern europecentral asia north america asiapacific africaeastern mediterranean basin group services intergroup  area revenue within business lines total intergroup  area revenue between business lines total consolidated financial statementsgroup notesheidelberg materials .  other operating incomeother operating income m foreign exchange gains .  . gains from sale of fixed assets
+
+Score 0.496
+inventories .  .  . trade receivables .
+
+Score 0.496
+one current example of our continuous optimisation efforts is our work in the field of human rights to further expand our analysis of significant risks and their impact on potentially affected parties.  particularly with respect to our supply chains we have supplemented our ex isting ri sk ma nagement  wi th su itable processes in the context of the requirements of the german supply chain due diligence act lksg among others.  further information on this topic can be found in the compliance section . explanation	of	the	key	figuresthe key figures revenue capital expenses capex and operating expenses opex relevant to the eu taxonomy regulation were determined with reference to the definitions  se t ou t in th e an nex to th e de legated ac t eu   to ar ticle  of re gulation  .  the r elevant  r evenue c apex a nd o pex w ere a ssigned to the abovementioned taxonomyeligible economic activities
+
+Score 0.493
+explanation	of	the	key	figuresthe key figures revenue capital expenses capex and operating expenses opex relevant to the eu taxonomy regulation were determined with reference to the definitions  se t ou t in th e an nex to th e de legated ac t eu   to ar ticle  of re gulation  .  the r elevant  r evenue c apex a nd o pex w ere a ssigned to the abovementioned taxonomyeligible economic activities.  standard reporting assignment by business line was us ed to de termine th e ke y fig ures av oiding the possibility  of do uble co unting ac ross th e tw o ec onomic activities. revenuethe key figure for sustainable revenue pursuant to the taxonomy regulation is calculated on the basis of revenue related to the taxonomyaligned economic activities numerator divided by total revenue denominator.  revenue is de fined as th e re venue sh own in th e consolidated income statement that relates to revenue from contracts wi th cu stomers pu rsuant to if rs
+
+Score 0.493
+changes 	in	operating 	assets  liabilitiesoperating assets consist of inventories trade receivables and other assets used in operating activities.  operating liabilities include trade payables and other liabilities from operating activities. . 	 investments 	cash	outflowthe payments  fo r in vestments  di ffer fr om ad ditions in the fixed asset movement schedule which shows for instance noncash transactions as additions such as additions in connection  with leasing transactions.   consolidated financial statementsgroup notesheidelberg materials of the total ca shrelevant  in vestments  of
+
+Score 0.493
+items	that	maybe	be	reclassified 	subsequently 	to	profit	or	losscash flow hedges  change  in fair value .  . reclassification  adjustments for gainslosses included in profit or loss .  . income taxes
+
+Score 0.492
+reclassification  adjustments for gainslosses included in profit or loss .  . income taxes . currency translation .
+
+Score 0.492
+trade receivables and other receivables .  . cash and cash equivalents .  . derivatives   hedge accounting
+
+Score 0.491
+operating liabilities include trade payables and other liabilities from operating activities. . 	 investments 	cash	outflowthe payments  fo r in vestments  di ffer fr om ad ditions in the fixed asset movement schedule which shows for instance noncash transactions as additions such as additions in connection  with leasing transactions.   consolidated financial statementsgroup notesheidelberg materials of the total ca shrelevant  in vestments  of  .  m illion previous year
+
+Score 0.491
+. property plant and equipment .  . subsidiaries and other business units .
+
+Score 0.489
+procurement 	ma nagementprocurement 	at		he idelberg		ma terialsour category leader organisation facilitates the procurement of important commodity groups at group level.  we bundle processcritical goods and services usually with hi gh vo lumes int o pr ocurement  ca tegories in order to obtain better terms and conditions from our suppliers.  the tasks of the category leaders within the group include conducting price negotiations concluding framework  agr eements sup plier man agement and observing current market and price developments. the second component of procurement management is the local purchasing at our production sites.  the local purchasing departments also obtain goods and services directly vi a th e gr oup fr amework ag reements
+
+Score 0.489
+. currency translation .  . reclassification  adjustments for gainslosses included in profit or loss .
+
+Score 0.488
+income i s  r ecognised  w hen c ontrol o f a p romised g ood or service is transferred to a customer.  it is measured at the fair value of the consideration received or receivable including variable consideration sales tax and other duties collected on behalf of third parties are not taken into account.  heidelberg ma terials primarily generates revenue from simply structured sales of building materials such as cement aggregates including processed primary raw materials readymixed concrete and asphalt for which the co ntrol is tr ansferred to th e cu stomer at a specific point in ti me.  in th e co ntext of th e sa le of th e products separate performance obligations may arise from transport se rvices as we ll as fr om se rvices di rectly related to the sale of the products.  these services are generally performed at the time that the control of the products is tr ansferred
+
+Score 0.487
+consolidated financial statementsgroup notesheidelberg materials 	 notes 	to	the	segment	reporting heidelberg ma terials segment reporting is based on the groups internal division into geographical regions corresponding to the management organisation.  heidelberg ma terials is divided into six group areas western and southern europe belgiumnetherlands france germany italy spain and the united kingdom northern and eastern europecentral asia denmark iceland no rway sw eden an d th e ba ltic st ates as well as the cr ossborder  no rdic pr ecast gr oup an d mibau group bosniaherzegovina bulgaria croatia czechia georgia greece hungary kazakhstan poland romania russia and slovakia north america canada and usa asiapacific  au stralia ban gladesh br unei ch ina india indonesia malaysia singapore and thailand africaeastern mediterranean basin benin burkina faso dr congo  eg ypt th e ga mbia gh ana is rael liberia morocco mozambique south africa tanzania togo and turkey group services comprise the international trading activities heidelberg materials evaluates the performance in the segments primarily on the basis of the result from current operations.  as group financing including financing expenses and income is managed centrally by the group and income taxes are in general calculated across business lines neither is allocated to segments.  the ifrs us ed in th ese fin ancial st atements fo rm th e basis for the valuation principles of the segment reporting.  the intergroup areas revenue represents the revenue b etween  s egments
+
+Score 0.486
+the eu taxonomy regulation and the delegated acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which cl arifications  ha ve no t ye t be en pu blished in every case.  therefore the executive directors have disclosed their interpretation of the eu taxonomy regulation and the delegated acts adopted thereunder in section information  ac cording to th e eutaxonomy  regulation   of th e combin ed nonfinancial st atement.  they are responsible for the defensibility of this interpretation.  due to the immanent risk that indeterminate legal terms ma y be in terpreted di fferently th e le gal conformity of the interpretation is subject to uncertainties. audit firms independence and quality managementwe have complied with the german professional  provisions regarding independence  as well as other ethical requirements
+
+Score 0.485
+.  eu	taxonomy	regulationtaxonomyeligible revenue .  .  .   thereof taxonomyaligned  revenue
+
+Score 0.485
+heidelberg ma terials is divided into six group areas western and southern europe belgiumnetherlands france germany italy spain and the united kingdom northern and eastern europecentral asia denmark iceland no rway sw eden an d th e ba ltic st ates as well as the cr ossborder  no rdic pr ecast gr oup an d mibau group bosniaherzegovina bulgaria croatia czechia georgia greece hungary kazakhstan poland romania russia and slovakia north america canada and usa asiapacific  au stralia ban gladesh br unei ch ina india indonesia malaysia singapore and thailand africaeastern mediterranean basin benin burkina faso dr congo  eg ypt th e ga mbia gh ana is rael liberia morocco mozambique south africa tanzania togo and turkey group services comprise the international trading activities heidelberg materials evaluates the performance in the segments primarily on the basis of the result from current operations.  as group financing including financing expenses and income is managed centrally by the group and income taxes are in general calculated across business lines neither is allocated to segments.  the ifrs us ed in th ese fin ancial st atements fo rm th e basis for the valuation principles of the segment reporting.  the intergroup areas revenue represents the revenue b etween  s egments.  i n t he r econciliation  i ntra group relationships  be tween th e se gments are el iminated
+
+Score 0.483
+.  . miscellaneous operating receivables .  .
+
+Score 0.483
+r evenuethe revenue sh own in th e co nsolidated  in come st atement r elates  t o r evenue f rom c ontracts w ith c ustomers in accordance  wi th if rs  .  in th e fo llowing ta ble th e revenue is br oken do wn in to tw o ca tegories ty pe of products and services business lines and group areas. revenue development by group areas and business linescement aggregatesreadymixed concreteasphalt serviceotherintragroup eliminations totalm western and southern europe northern and eastern europecentral asia north america asiapacific africaeastern mediterranean basin group services intergroup  area revenue within business lines total intergroup  area revenue between business lines total consolidated financial statementsgroup notesheidelberg materials .  other operating incomeother operating income m foreign exchange gains .
+
+Score 0.483
+it is measured at the fair value of the consideration received or receivable including variable consideration sales tax and other duties collected on behalf of third parties are not taken into account.  heidelberg ma terials primarily generates revenue from simply structured sales of building materials such as cement aggregates including processed primary raw materials readymixed concrete and asphalt for which the co ntrol is tr ansferred to th e cu stomer at a specific point in ti me.  in th e co ntext of th e sa le of th e products separate performance obligations may arise from transport se rvices as we ll as fr om se rvices di rectly related to the sale of the products.  these services are generally performed at the time that the control of the products is tr ansferred.   in a fe w ex ceptional ca ses the transport services are performed after the control of the products has been transferred
+
+Score 0.482
+we have therefore not applied the reporting pursuant to annex xii. heidelberg materials other economic activities such as the readymixed concreteasphalt business line are taxonomynoneligible  und er th e curr ently kno wn le gal acts.  we also analysed crosssectional economic activities for the capital expenses capex and operating expenses opex kpis but this did not result in any additional reportable activities. review of the technical screening criteria the technical screening criteria for taxonomy alignment with the cl imate miti gation ob jective we re reviewed by an int erdisciplinary  work ing group and wi th the involvement  of fu rther ex perts in pa rticular wi th regard to the interpretation  of the do no significant harm  dnsh  c riteria.  t he r equirements  o f t he c limate change adaptation  de legated ac t we re no t pu rsued further as we ar e cu rrently un able to ac hieve ta xonomyaligned revenue capital expenses and operating expenses in ac cordance wi th th e ta xonomy regul ation
+
+Score 0.481
+. current provisions .  . trade payables .
+
+Score 0.48
+we bundle processcritical goods and services usually with hi gh vo lumes int o pr ocurement  ca tegories in order to obtain better terms and conditions from our suppliers.  the tasks of the category leaders within the group include conducting price negotiations concluding framework  agr eements sup plier man agement and observing current market and price developments. the second component of procurement management is the local purchasing at our production sites.  the local purchasing departments also obtain goods and services directly vi a th e gr oup fr amework ag reements.   in this way we co mbine th e ad vantages of ce ntral an d local procurement
+
+Score 0.479
+.  . trade payables and miscellaneous operating liabilities ac .  .
+
+Score 0.478
+insofar as an outflow or inflow of ec onomic be nefits is pos sible de tails of contingent liabilities and assets are provided in the notes. income i s  r ecognised  w hen c ontrol o f a p romised g ood or service is transferred to a customer.  it is measured at the fair value of the consideration received or receivable including variable consideration sales tax and other duties collected on behalf of third parties are not taken into account.  heidelberg ma terials primarily generates revenue from simply structured sales of building materials such as cement aggregates including processed primary raw materials readymixed concrete and asphalt for which the co ntrol is tr ansferred to th e cu stomer at a specific point in ti me.  in th e co ntext of th e sa le of th e products separate performance obligations may arise from transport se rvices as we ll as fr om se rvices di rectly related to the sale of the products
+
+Score 0.478
+.  .  . trade receivables and other receivables .
+
+Score 0.477
+provisions and liabilities .  . gross amount .  . netting
+
+Score 0.477
+foreign exchange losses .  . impairment losses on operating receivables and contract assets .  . losses from derecognition of operating receivables
+
+Score 0.476
+heidelberg ma terials primarily generates revenue from simply structured sales of building materials such as cement aggregates including processed primary raw materials readymixed concrete and asphalt for which the co ntrol is tr ansferred to th e cu stomer at a specific point in ti me.  in th e co ntext of th e sa le of th e products separate performance obligations may arise from transport se rvices as we ll as fr om se rvices di rectly related to the sale of the products.  these services are generally performed at the time that the control of the products is tr ansferred.   in a fe w ex ceptional ca ses the transport services are performed after the control of the products has been transferred.  in accordance with ifrs   r evenue fr om co ntracts wi th cu stomers the revenue relating to these transport services is realised later than the corresponding product revenue
+
+Score 0.476
+the total amount for all business lines corresponds to the presentation in the research and development section .  lease expenses for shortterm leases and lowvalue assets expenses th at me et th e de finition of if rs  le ases but are not recognised as a rightofuse asset or lease liability because they relate to a shortterm lease  months or a lowvalue asset.  the total amount for all business lines corresponds to the lease expenses in the other operating expenses in note	. .  repair and maintenancebuilding renovation measures expenditure  on re pair ma terials sp are and we ar parts and repair services from external providers and employees
+
+Score 0.476
+is reported in the other operating liabilities.  at the time of the sale of the receivables the fair value of the expected losses of .  mi llion previous year .  i s r ecognised  i n t he fi nancial r esult a s a n e xpense.  to ensure legal validity trade receivables of
+
+Score 0.476
+. .  . . 	 changes 	in	operating 	assets  liabilitiesoperating assets consist of inventories trade receivables and other assets used in operating activities
+
+Score 0.476
+e .  th e av erage nu mber of da ys fr om invoicing to receipt of payment.  in each countrys domestic business trade receivables may be secured by various types of collateral such as guarantees letters of credit and other types of credit insurance.  these securities are considered an integral part of the trade receivables and are taken into account when cal culating impairm ent.  th e se curities received as at  december  amount to
+
+Score 0.475
+th e av erage nu mber of da ys fr om invoicing to receipt of payment.  in each countrys domestic business trade receivables may be secured by various types of collateral such as guarantees letters of credit and other types of credit insurance.  these securities are considered an integral part of the trade receivables and are taken into account when cal culating impairm ent.  th e se curities received as at  december  amount to  .  million previous year
+
+Score 0.474
+. property plant and equipment .  .  . inventories
+
+Score 0.474
+miscellaneous operating receivables .  .  .  . other	receivables 	and	assets	that	qualify	as	financial	instruments
+
+Score 0.474
+the segment reporting is prepared in ac cordance wi th th e re gulations of ifrs  operating  segments. for reasons of clarity some individual items have been combined in the income statement and in the balance sheet.  explanations of these items are contained in the notes.  the in come st atement cl assifies ex penses according to their nature.  to improve the level of information the ad ditional ordin ary re sult is sh own se parately in the income statement
+
+Score 0.473
+provisions and liabilities .  . carryforward  of unused tax losses and interest tax credits .  . gross amount
+
+Score 0.473
+. trade receivables and other operating receivables  amortised  cost .  . cash and cash equivalents  amortised cost .
+
+Score 0.472
+.  .  . miscellaneous operating receivables .
+
+Score 0.472
+property plant and equipment .  .  . inventories .
+
+Score 0.472
+. trade receivables and other receivables ac .  .  .
+
+Score 0.472
+. trade payables and miscellaneous operating liabilities ac .  .  .
+
+Score 0.469
+the revenue and noncurrent assets of the main countries are shown in the table below.  revenue is allocated to countries according to the supplying companys country of origin. information by countryrevenue with external customersnoncurrent assets m usa germany united kingdom australia france indonesia canada italy other countries total intangible assets and property plant and equipmentconsolidated financial statementsgroup notesheidelberg materials 	 notes 	to	the	income	statement.  r evenuethe revenue sh own in th e co nsolidated  in come st atement r elates  t o r evenue f rom c ontracts w ith c ustomers in accordance  wi th if rs  .  in th e fo llowing ta ble th e revenue is br oken do wn in to tw o ca tegories ty pe of products and services business lines and group areas
+
+Score 0.469
+in each countrys domestic business trade receivables may be secured by various types of collateral such as guarantees letters of credit and other types of credit insurance.  these securities are considered an integral part of the trade receivables and are taken into account when cal culating impairm ent.  th e se curities received as at  december  amount to  .  million previous year .
+
+Score 0.469
+the intergroup areas revenue represents the revenue b etween  s egments.  i n t he r econciliation  i ntra group relationships  be tween th e se gments are el iminated. the revenue and noncurrent assets of the main countries are shown in the table below.  revenue is allocated to countries according to the supplying companys country of origin. information by countryrevenue with external customersnoncurrent assets m usa germany united kingdom australia france indonesia canada italy other countries total intangible assets and property plant and equipmentconsolidated financial statementsgroup notesheidelberg materials 	 notes 	to	the	income	statement
+
+Score 0.468
+.  . trade receivables and other receivables ac .  .
+
+Score 0.468
+. miscellaneous operating receivables .  .  .
+
+Score 0.468
+we want to further increase transparency  with regard to the various scope  categories.  for this reason we report on scope category processing of sold products fo r th e fir st ti me fo r th e   fin ancial ye ar.  the methodology used is based on default values in accordance  wi th gr eenhouse ga s pr otocol gu idelines.  we take into account the nonfinal end products sold and apply the standard emission factor to determine the total emissions for further processing.  also for the first time we report on scope  category  investments
+
+Score 0.468
+according to their classification  li abilities di rectly co nnected with the se assets a re  s hown i n a s eparate l ine o n t he l iability s ide of the balance sheet. for discontinued  operations the net result is shown in a separate line in the income statement.  in the statement of cash flo ws th e ca sh flo ws ar e br oken do wn into continuing and discontinued operations.  for discontinued  ope rations th e pr evious ye ars figur es in th e income statement  th e st atement of ca sh flo ws an d the segment reporting are adjusted accordingly in the year of the re classification.   th e no tes in clude ad ditional details on the assets held for sale and discontinued operations
+
+Score 0.467
+.  .  eu	taxonomy	regulationtaxonomyeligible revenue .  .
+
+Score 0.467
+. work in progress .  . finished goods and goods for resale .
+
+Score 0.466
+.  .  . trade payables and miscellaneous operating liabilities .
+
+Score 0.466
+. reclassification  adjustments for gainslosses included in profit or loss .  . income taxes .
+
+Score 0.466
+we did not identify any relevant taxonomyeligible activities in the reporting year.  we have therefore not applied the reporting pursuant to annex xii. heidelberg materials other economic activities such as the readymixed concreteasphalt business line are taxonomynoneligible  und er th e curr ently kno wn le gal acts.  we also analysed crosssectional economic activities for the capital expenses capex and operating expenses opex kpis but this did not result in any additional reportable activities. review of the technical screening criteria the technical screening criteria for taxonomy alignment with the cl imate miti gation ob jective we re reviewed by an int erdisciplinary  work ing group and wi th the involvement  of fu rther ex perts in pa rticular wi th regard to the interpretation  of the do no significant harm  dnsh  c riteria
+
+Score 0.466
+. trade receivables and other receivables fvtpl .  .  .
+
+Score 0.466
+inventories . total	assets . noncurrent liabilities . current liabilities . total	liabilities
+
+Score 0.466
+trade receivables and other operating receivables  amortised  cost .  . cash and cash equivalents  amortised cost .  . liabilitiesbonds payable bank loans and miscellaneous other financial liabilities
+
+Score 0.465
+this responsibility includes the selection and application of appropriate nonfinancial and sustainability  reporting methods and making assumptions and estimates about indi vidual non financial and su stainability  disclosures of the group that are reasonable in the circumstances.  furthermore the executive directors are responsible for such internal control as the executive directors consider necessary to enable the preparation of the annual report that is free from material misstatement  wh ether du e to fr aud m anipulation  of the annual report or error. the eu taxonomy regulation and the delegated acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which cl arifications  ha ve no t ye t be en pu blished in every case.  therefore the executive directors have disclosed their interpretation of the eu taxonomy regulation and the delegated acts adopted thereunder in section information  ac cording to th e eutaxonomy  regulation   of th e combin ed nonfinancial st atement.  they are responsible for the defensibility of this interpretation
+
+Score 0.464
+furthermore  he idelberg ma terials effe cted ot her divestments in the previous year that are of minor importance for th e pr esentation  of th e as sets fin ancial an d earnings position of the group. consolidated financial statementsgroup notesheidelberg materials 	 notes 	to	the	segment	reporting heidelberg ma terials segment reporting is based on the groups internal division into geographical regions corresponding to the management organisation.  heidelberg ma terials is divided into six group areas western and southern europe belgiumnetherlands france germany italy spain and the united kingdom northern and eastern europecentral asia denmark iceland no rway sw eden an d th e ba ltic st ates as well as the cr ossborder  no rdic pr ecast gr oup an d mibau group bosniaherzegovina bulgaria croatia czechia georgia greece hungary kazakhstan poland romania russia and slovakia north america canada and usa asiapacific  au stralia ban gladesh br unei ch ina india indonesia malaysia singapore and thailand africaeastern mediterranean basin benin burkina faso dr congo  eg ypt th e ga mbia gh ana is rael liberia morocco mozambique south africa tanzania togo and turkey group services comprise the international trading activities heidelberg materials evaluates the performance in the segments primarily on the basis of the result from current operations.  as group financing including financing expenses and income is managed centrally by the group and income taxes are in general calculated across business lines neither is allocated to segments.  the ifrs us ed in th ese fin ancial st atements fo rm th e basis for the valuation principles of the segment reporting
+
+Score 0.463
+.  . trade receivables and other receivables fvtpl .  .
+
+Score 0.463
+as group financing including financing expenses and income is managed centrally by the group and income taxes are in general calculated across business lines neither is allocated to segments.  the ifrs us ed in th ese fin ancial st atements fo rm th e basis for the valuation principles of the segment reporting.  the intergroup areas revenue represents the revenue b etween  s egments.  i n t he r econciliation  i ntra group relationships  be tween th e se gments are el iminated. the revenue and noncurrent assets of the main countries are shown in the table below
+
+Score 0.463
+revenue development by group areas and business linescement aggregatesreadymixed concreteasphalt serviceotherintragroup eliminations totalm western and southern europe northern and eastern europecentral asia north america asiapacific africaeastern mediterranean basin group services intergroup  area revenue within business lines total intergroup  area revenue between business lines total consolidated financial statementsgroup notesheidelberg materials .  other operating incomeother operating income m foreign exchange gains .  . gains from sale of fixed assets .
+
+Score 0.462
+.  .  . trade receivables and other receivables fvtpl .
+
+Score 0.462
+. 	 changes 	in	operating 	assets  liabilitiesoperating assets consist of inventories trade receivables and other assets used in operating activities.  operating liabilities include trade payables and other liabilities from operating activities. . 	 investments 	cash	outflowthe payments  fo r in vestments  di ffer fr om ad ditions in the fixed asset movement schedule which shows for instance noncash transactions as additions such as additions in connection  with leasing transactions
+
+Score 0.462
+depending on the category different m easures a re a greed w ith s uppliers t o i dentify and mitigate risks.  the globally standardised requirements for sup plier comp liance wi th su stainability  standards are to be implemented and continuously developed wi th th e co operation of ex perts in es g hu man rights compliance occupational safety and procurement both in the individual country organisations and at group level.  groupwide  pr ocurement  gu idelines pr ovide cl ear instructions regarding our supplier relations and procurement activities.  the most important tool used for this purpose is ou r su pplier co de of co nduct wh ich we communicate  to ou r gl obal an d lo cal su ppliers so that they ac cept th e pr inciples de fined in th e co de and  follow the gu idelines.  the code inc orporates  ke y  principles of the international labour organization ilo and the requirements of the german supply chain due  di ligence ac t l ieferkettensorgfaltspflichtengesetz lksg
+
+Score 0.461
+. provisions and liabilities .  . carryforward  of unused tax losses and interest tax credits .
+
+Score 0.461
+impairment losses on operating receivables and contract assets .  . losses from derecognition of operating receivables .  . other expenses

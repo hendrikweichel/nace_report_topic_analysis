@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.581
+ Other financial assets
+
+Score 0.561
+Generally shares in investment funds are accounted for securities held as noncurrent financial assets. Exceptions were those shares which represented plan assets and therefore were not accessible by all other creditors. These shares are held exclusively for the purpose of settling liabilities arising from postemployment obligations or comparable obligations with a longterm maturity and are to be offset against such liabilities.
+
+Score 0.559
+Sep in millions of Other assetsOther provisionsOther liabilitiesInterest rate hedging contractsCombined interest and currency hedging contractsDerivative financial instruments requiring recognition
+
+Score 0.557
+ Financial liabilities 
+
+Score 0.557
+The following table discloses the carrying amounts of each category of financial assets and financial liabilities
+
+Score 0.547
+Treasury sharesIssued capitalCapital reserveOther retained earningsUnappropriated net incomeSpecial reserve with an equity portionProvisionsProvisions for pensions and similar commitmentsProvisions for taxesOther provisionsLiabilitiesLiabilities to banksTrade payablesLiabilities to affiliated companiesOther liabilitiesDeferred incomeTotal shareholders equity and liabilities
+
+Score 0.542
+ Other current financial assets
+
+Score 0.537
+Sep. in millions of NoteAssetsNoncurrent assets Intangible assetsProperty plant and equipment Financial assetsCurrent assetsInventoriesAdvance payments receivedReceivables and other assetsTrade receivablesReceivables from affiliated companiesOther receivables and other assetsOther SecuritiesCash and cash equivalentsPrepaid expensesDeferred tax assetsActive difference resulting from offsettingTotal assetsShareholders equity and liabilities Shareholders equitySubscribed capital
+
+Score 0.534
+Sep in millions of Equity securitiesFixed income securitiesGovernment bondsCorporate bondsAlternative investmentsMulti strategy fundsDerivativesCash and cash equivalentsInsurance contractsOther assetsTotal
+
+Score 0.524
+Components of defined benefit costs recognized in the Consolidated Statements of incomeReturn on plan assets excluding amounts included in net interest income and net interest expensesActuarial gains lossesEffects of asset ceilingRemeasurements recognized in the Consolidated Statements of Comprehensive IncomeEmployer contributionsPlan participants contributions Benefits paidSettlement paymentsBusiness combinations disposals and otherForeign currency translation effects Other reconciling itemsBalance at fiscal yearendGermanyU.S. U.K. CHOther countriesTotalthereof provisions for pensions and similar obligationsthereof net defined benefit assets presented in Other assets
+
+Score 0.52
+Siemens Financial Services in fiscal recorded higher earnings before taxes in the debt business despite a volatile credit environment. In the prior period earnings before taxes were burdened by . billion in connection with the sale of the financing and leasing business in Russia at the end of the fiscal year. The equity business recorded strong results. While both periods under review included gains from the sales of equity investments fiscal additionally included higher gains from fair value measurements of investments and gains from energyrelated investments in connection with rising prices in global energy markets.Net cash from operations defined as the sum of cash flows from operating and investing activities amounted to million compared to million in fiscal . In fiscal and fiscal net cash from operations comprised Free cash flow of million and million respectively while remaining cash flows from investing activities including from changes in receivables from financing activities comprised million and million respectively. Despite the increase in receivables from financing activities total assets decreased since the end of fiscal due primarily to negative currency translation effects. SFSs business scope and capital allocation is focused on areas of intense domain knowhow closely aligned with Siemens customers and markets particularly for Digital Industries Smart Infrastructure and Mobility. Accordingly SFS is influenced by the business development of the markets served by the industrial businesses among other factors including macroeconomic effects such as inflation or recession which could impact the credit risk of customers. In addition to its high level of diversification across industries SFS has a strong regional footprint in investmentgrade countries with the highest share in the U.S. SFS intends to maintain a highly diversified portfolio across regions while participating in the strong economic development of selected Asian markets.
+
+Score 0.519
+ Other financial obligations
+
+Score 0.517
+Sep in million of Carrying amountMarket valueDeviation from carrying amountMixed fundsBondbased fundsSharebased fundsMoney market fundsShares in investment assets according to investment objects 
+
+Score 0.517
+thereof maturitiesthereof maturitiesin million of Sep up to year year up to yearsmore than yearsSep up to year year up to yearsmore than yearsLiabilities to banksTrade payablesLiabilities to affiliated companiesOther liabilitiesthereof to longterm investeesthereof miscellaneous liabilitiestherein from taxestherein for social securityLiabilities
+
+Score 0.515
+Sep in millions of ChangeCash and cash equivalentsTrade and other receivablesOther current financial assetsContract assetsInventoriesCurrent income tax assetsOther current assetsAssets classified as held for disposalTotal current assetsGoodwillOther intangible assetsProperty plant and equipmentInvestments accounted for using the equity methodOther financial assetsDeferred tax assetsOther assetsTotal noncurrent assetsTotal assets
+
+Score 0.514
+financing measures. In addition we concerned ourselves with personnelrelated matters regarding the Managing 
+
+Score 0.511
+The following table shows the carrying amounts if any of derivative financial instruments that are not included in valuation units and the balance sheet items in which the carrying amounts are recognized
+
+Score 0.51
+ Derivative financial instruments and hedging activities
+
+Score 0.508
+as the chief financial officer of a publicly listed international company include engagement with nonfinancial aspects and the reporting thereon. As the current chief 
+
+Score 0.507
+Sep in millions of Loans receivable Interestbearing debt securities Derivative financial instruments Other NOTE 
+
+Score 0.507
+Siemens Energy Investment includes our investment in Siemens Energy accounted for using the equity method and previously a smaller investment in connection with Siemens Energy sold in fiscal .Siemens Real Estate SRE Siemens Real Estate is responsible for uniform and comprehensive management of Company real estate worldwide except for Siemens Healthineers and supports the industrial businesses and corporate activities with customerspecific real estate solutions.Innovation mainly includes results from our units Technology and Next.Governance primarily includes Siemens brand fees and governance costs group managing costs IT and corporate services.Centrally carried pension expense includes the Companys pension related income expense not allocated to the segments POC or Siemens Real Estate.Financing eliminations and other items comprise activities of Advanta and Global Business Services results from corporate projects equity interests and activities generally intended for closure as well as activities remaining from divestments consolidation of transactions within the segments certain reconciliation and reclassification items as well as central financing activities. It also includes interest income and expense such as for example interest not allocated to segments or POC referred to as financing interest interest related to central financing activities or resulting consolidation and reconciliation effects on interest. 
+
+Score 0.503
+of service as the chief financial officer of publicly listed 
+
+Score 0.502
+ Financial assets designated as measured at FVTPL
+
+Score 0.499
+Fiscal yearin millions of to and thereafterNonderivative financial liabilitiesNotes and bonds Loans from banks Other financial indebtedness Lease liabilities Trade payables Other financial liabilities Derivative financial liabilities Credit guarantees
+
+Score 0.498
+Sep in millions of Loans receivable Receivables from finance leases Derivative financial instruments Equity instruments Other 
+
+Score 0.498
+ Financial risk management
+
+Score 0.496
+ Reported in the following line items of the Statements of Financial Position as of September and respectively Trade and other receivables Other current financial assets and Other financial assets except for separately disclosed million and million equity instruments in Other financial assets thereof million and million at FVOCI million and million financial assets designated as measured at FVTPL and million and million derivative financial instruments thereof in Other financial assets million and million as well as million and million debt instruments measured at FVTPL in Other financial assets. Includes million and million trade receivables from the sale of goods and services thereof million and million with a term of more than twelve months as of September and . Reported in line items Other current financial assets and Other financial assets. Reported in Other financial assets. Includes fair value hedge adjustments. Reported in the following line items of the Statements of Financial Position Shortterm debt and current maturities of longterm debt Trade payables Other current financial liabilities Long term debt and Other financial liabilities except for separately disclosed derivative financial instruments of million and million as of September and respectively. Reported in line items Other current financial liabilities and Other financial liabilities.
+
+Score 0.492
+Calculation of capital employedTotal equityLess Goodwill and other intangible assets resulting from purchase price allocation related to the Varian acquisitionPlus Longterm debtPlus Shortterm debt and current maturities of longterm debtLess Cash and cash equivalentsLess Current interestbearing debt securitiesLess Fair value of foreign currency and interest hedges relating to short and longterm debtPlus Provisions for pensions and similar obligationsLess SFS debtPlus Adjustments from assets classified as held for disposal and liabilities associated with assets classified as held for disposal Less Adjustment for deferred taxes on net accumulated actuarial gainslosses on provisions for pensions and similar obligationsCapital employed continuing and discontinued operations
+
+Score 0.492
+Industrial Business recorded cash inflows from operating activities that exceeded its profit with the highest contribution from Digital Industries. Cash outflows from changes in operating net working capital were due mainly to Siemens Healthineers which recorded a significant buildup of trade and other receivables as well as inventories due in part to the expected growth of business activities in coming quarters. Cash outflows for purchase of investments and financial assets for investment purposes included additions of assets eligible as central bank collateral and payments for debt or equity investments.Cash outflows from change in receivables from financing activities of SFS related primarily to SFSs debt business.Cash inflows from other disposals of assets included mainly proceeds from disposals of assets eligible as central bank collateral from the sale of the Commercial Vehicles business by Portfolio Companies and from the sale or disposal of debt or equity investments. Cash outflows from the reissuance of treasury shares and other transactions with owners were driven by the purchase of Siemens Healthineers AG treasury shares. 
+
+Score 0.49
+ Plus Provisions for pensions and similar obligations Plus Credit guarantees Industrial net debt Income from continuing operations before income taxes PlusLess Interest income interest expenses and other financial income expenses net Plus Amortization depreciation and impairments EBITDA Industrial net debtEBITDA..
+
+Score 0.489
+Sep in millions of Obligations from guaranteesWarranty obligations thereof relating to financing of affiliated companies thereof relating to performance guarantees on behalf of affiliated companies thereof OthersGuarantees and other commitments
+
+Score 0.487
+ Item Other interest expensesincome net primarily consists of interest relating to corporate debt and related hedging activities as well as interest income on corporate assets.
+
+Score 0.486
+Interest rate risk is the risk that the fair value or future cash flows of a financial instrument will fluctuate because of changes in market interest rates. This risk arises whenever interest terms of financial assets and liabilities are different. In order to manage the Companys position with regard to interest rate risk interest income and interest expenses Corporate Treasury performs a comprehensive corporate interest rate risk management by using fixed or variable interest rates from bond issuances and derivative financial instruments when appropriate. The interest rate risk is mitigated by managing interest rate risk within an integrated Asset Liability Management approach and results primarily from funding in the U.S. dollar British pound and euro. This includes SFS business for which the interest rate risk was formerly managed separately.If there are no conflicting countryspecific regulations all Siemens operating units generally obtain any required financing through Corporate Treasury in the form of loans or intercompany clearing accounts. The same concept is adopted for deposits of cash generated by the units. As of September and the VaR relating to the interest rate was million and million. The decrease was driven mainly by a decrease in interest rate sensitivity for the U.S. dollar and a lower interest rate volatility for the euro. 
+
+Score 0.485
+Fair values of each type of derivative financial instruments reported as financial assets or financial liabilities in line items Other current financial assets liabilities or Other financial assets liabilities are
+
+Score 0.483
+finance risk management law including compliance and 
+
+Score 0.481
+Intangible assetsConcessions and industrial property rightsGoodwillProperty plant and equipment Land land rights and buildings including buildings on thirdparty landTechnical equipment and machineryOther equipment plant and office equipment Equipment leased to othersAdvanced payments made and construction in progressFinancial assetsShares in affiliated companiesShares in investmentsLoansSecuritiesNoncurrent assets
+
+Score 0.478
+The following shares in investment funds according to investment objects were held
+
+Score 0.478
+Net interest expenses relating to provisions for pensions and similar obligations amount to million and million respectively in fiscal and . The DBO is attributable to actives and to deferreds with vested benefits and and to retirees and surviving dependents and respectively in fiscal and .The DBO remeasurements comprise actuarial gains and losses resulting from
+
+Score 0.477
+Includes assets reclassified to Assets classified as held for disposal and dispositions of those entities.
+
+Score 0.476
+ Other intangible assets and property plant and equipment
+
+Score 0.475
+.. Risk management organization and responsibilities 
+
+Score 0.474
+Continuing operationsContinuing and discontinued operationsFiscal yearFiscal yearin thousandsManufacturing and servicesSales and marketingResearch and developmentAdministration and general servicesNOTE 
+
+Score 0.473
+Financial assetsFinancial liabilitiesSep Sep in millions of Gross amounts Amounts offset in the Statement of Financial PositionNet amounts in the Statement of Financial Position Related amounts not offset in the Statement of Financial Position Net amounts NOTE 
+
+Score 0.473
+Equity Investments. In accordance with these Bylaws the 
+
+Score 0.471
+. Financial performance system
+
+Score 0.47
+Noncurrent notes and bondsCurrent notes and bondsLoans from banks current and noncurrentOther financial indebtedness current and noncurrentLease liabilities current and noncurrentTotal debt
+
+Score 0.47
+ Cash and cash equivalents Derivatives designated in a hedge accounting relationship Financial assets mandatorily measured at FVTPL
+
+Score 0.47
+Continuing operationsContinuing and discontinued operationsFiscal yearFiscal yearin millions of Wages and salaries Statutory social welfare contributions and expenses for optional support Expenses relating to postemployment benefits 
+
+Score 0.469
+Other includes provisions for life and industrial business reinsurance contracts liability property construction in connection with the Siemens Energy business of million and million as of September and thereof life million and million and industrial business million and million respectively as of September and . The provisions are for incurred and reported insurance losses as well as for incurred hence not yet reported insurance losses as of fiscal yearend. The provision is determined using actuarial standard valuation methodologies which are parameterized based on historical loss data. Life reinsurance contracts have an average term of years whereas the cash outflows for the industrial business reinsurance contracts are expected within the next five years. Other also includes provisions for Legal Proceedings as far as the risks that are subject to such Legal Proceedings are not already covered by project accounting. Provisions for Legal Proceedings amounted to million and million as of September and respectively. As of September and million and million are included for claims and charges resulting from the construction business. Furthermore Other includes provision for indemnifications in connection with dispositions of businesses of million and million as of September and . Such indemnifications may protect the buyer from potential tax legal and other risks in conjunction with the purchased business. 
+
+Score 0.468
+Virtually all equity securities have quoted prices in active markets. The fair value of fixed income securities is based on prices provided by price service agencies. The fixed income securities are traded in active markets and almost all fixed income securities are investment grade. Alternative investments include hedge funds private equity and real estate investments thereof real estate used by the Company with a fair value of million and million respectively as of September and . Multi strategy funds mainly comprise absolute return funds and diversified growth funds that invest in various asset classes within a single fund and aim to stabilize return and reduce volatility. Derivatives predominantly consist of financial instruments for hedging interest rate risk and inflation risk.Future cash flowsEmployer contributions expected to be paid to defined benefit plans in fiscal are million. Over the next ten fiscal years average annual benefit payments of million and million respectively are expected as of September and . The weighted average duration of the DBO for Siemens defined benefit plans was and years respectively as of September and .
+
+Score 0.468
+decisions also focused on the discussion of the pension system and the preparation and approval of investment and divestment projects andor financial measures. For 
+
+Score 0.467
+ Includes past service benefitscosts settlement gainslosses and administration costs related to liabilities.
+
+Score 0.466
+. Net assets and financial position 
+
+Score 0.466
+Other operating income in fiscal and mainly includes gains from disposals of businesses of million and million respectively thereof in fiscal mail and parcelhandling business of Siemens Logistics GmbH million and Yunex Traffic million gains from sales of property plant and equipment of million and million respectively as well as insurance related income in both years.
+
+Score 0.465
+Fiscal yearin millions of Cash flows from operating activitiesNet incomeChange in operating net working capitalOther reconciling items to cash flows from operating activities continuing operationsCash flows from operating activities continuing operationsCash flows from operating activities discontinued operationsCash flows from operating activities continuing and discontinued operationsCash flows from investing activitiesAdditions to intangible assets and property plant and equipment Acquisitions of businesses net of cash acquiredPurchase of investments and financial assets for investment purposesChange in receivables from financing activities of SFSOther disposals of assetsCash flows from investing activities continuing operationsCash flows from investing activities discontinued operationsCash flows from investing activities continuing and discontinued operationsCash flows from financing activitiesPurchase of treasury sharesReissuance of treasury shares and other transactions with ownersIssuance of longterm debtRepayment of longterm debt including current maturities of longterm debtChange in shortterm debt and other financing activitiesInterest paidDividends paid to shareholders of Siemens AGDividends attributable to noncontrolling interestsCash flows from financing activities continuing operationsCash flows from financing activities discontinued operationsCash flows from financing activities continuing and discontinued operations
+
+Score 0.465
+Item Loans receivable primarily relate to longterm loan transactions of SFS. 
+
+Score 0.465
+Siemens Financial Services provides financing solutions for Siemens customers as well as other companies in the form of debt and equity investments. Based on its comprehensive financing knowhow and specialist technology expertise in the areas of Siemens businesses SFS supports its customers investments with leasing lending working capital and structured financing solutions and offers a broad range of equipment and project financing. In addition SFS supports Siemens industrial businesses with financial advisory services and via a joint gotomarket that includes SFSs risk management expertise such as to assess the risk profiles of projects or business models. Furthermore SFS collaborates with Siemens industrial businesses to codevelop new digital business models and also supports its customers through targeted financings in sustainable technologies and projects.
+
+Score 0.464
+Sep Sep CarryingCarryingin millions of Fair valueamountFair valueamountNotes and bonds Loans from banks and other financial indebtedness 
+
+Score 0.463
+ Receivables and other assets
+
+Score 0.462
+Profit of the segment SFSIn contrast to performance measurement principles applied to other segments interest income and expenses are included since interest is an important source of revenue and expense of SFS.Asset measurement principlesManagement determined Assets Net capital employed as a measure to assess capital intensity of the segments except for SFS. Its definition corresponds to the Profit measure except for amortization expenses of intangible assets acquired in business combinations which are not part of Profit however the related intangible assets are included in the segments Assets. Segment Assets is based on Total assets of the Consolidated Statements of Financial Position primarily excluding intragroup financing receivables tax related assets and assets of discontinued operations since the corresponding positions are excluded from Profit. The remaining assets are reduced by noninterestbearing liabilities other than tax related liabilities e.g. trade payables to derive Assets. In contrast Assets of SFS is Total assets. In individual cases assets of Mobility include projectspecific intercompany financing of longterm projects. Assets of Siemens Healthineers include real estate while real estate of all other segments is carried at SRE.OrdersOrders are determined principally as estimated revenue of accepted purchase orders for which enforceable rights and obligations exist as well as subsequent order value changes and adjustments excluding letters of intent. To determine orders Siemens considers termination rights and customers creditworthiness. As of September and order backlog totaled billion and billion continuing operations thereof Digital Industries billion and billion Smart Infrastructure billion and billion Mobility billion and billion and Siemens Healthineers billion and billion. In fiscal Siemens expects to convert approximately billion of the September order backlog into revenue thereof at Digital Industries approximately billion Smart Infrastructure approximately billion Mobility approximately billion and Siemens Healthineers approximately billion.Free cash flow definitionFree cash flow of the segments constitutes cash flows from operating activities less additions to intangible assets and property plant and equipment. Except for SFS it excludes financing interest except for cases where interest on qualifying assets is capitalized or classified as contract costs it also excludes income tax as well as certain other payments and proceeds. Free cash flow of SFS includes related financing interest payments and proceeds income tax payments and proceeds of SFS are excluded. In individual cases free cash flow of Mobility includes projectspecific intercompany financing of longterm projects. Amortization depreciation and impairmentsAmortization depreciation and impairments includes depreciation and impairments of property plant and equipment as well as amortization and impairments of intangible assets each net of reversals of impairment.
+
+Score 0.46
+Fiscal yearin millions of Interest component of changes in the pension and personnelrelated provisions that are offsetagainst designated plan assetsIncome from designated plan assetsExpenses from designated plan assetsFinancial income expenses net from pension and personnelrelated provisions that are offsetagainst designated plan assetsInterest component of changes in the pension and personnelrelated provisions that are not offset against designated plan assetsResult from realization of monetary balance sheet items denominated in foreign currenciesResult from foreign currency interest rate and other derivative financial instrumentsResult from changes in provisions for risks relating to derivative financial instruments Reversal of impairments of loans and securitiesImpairments of loans and securitiesOther financial incomeOther financial expensesOther financial income expenses net
+
+Score 0.459
+Sep in millions of Level Level Level TotalFinancial assets measured at fair value Equity instruments measured at FVTPL Equity instruments measured at FVOCI Debt instruments measured at FVTPL Derivative financial instruments Not designated in a hedge accounting relationship including embedded derivatives In connection with fair value hedges In connection with cash flow hedges Financial liabilities measured at fair value Derivative financial instruments Not designated in a hedge accounting relationship including embedded derivatives In connection with fair value hedges In connection with cash flow hedges Sep in millions of Level Level Level TotalFinancial assets measured at fair value Equity instruments measured at FVTPL Equity instruments measured at FVOCI Debt instruments measured at FVTPL Derivative financial instruments Not designated in a hedge accounting relationship including embedded derivatives In connection with fair value hedges In connection with cash flow hedges Financial liabilities measured at fair value Derivative financial instruments Not designated in a hedge accounting relationship including embedded derivatives In connection with fair value hedges In connection with cash flow hedges 
+
+Score 0.459
+Derivative financial instruments not designated in a hedging relationshipThe Company manages its risks associated with fluctuations in foreign currency denominated receivables payables debt firm commitments and forecast transactions primarily through a Companywide portfolio approach. Under this approach the Companywide risks are aggregated centrally and various derivative financial instruments primarily foreign currency exchange contracts foreign currency 
+
+Score 0.459
+Fair value of equity instruments quoted in an active market is based on price quotations at periodend date. Fair value of debt instruments is either based on prices provided by price service agencies or is estimated by discounting future cash flows using current market interest rates.Fair values of derivative financial instruments are determined in accordance with the specific type of instrument. Fair values of derivative interest rate contracts are estimated by discounting expected future cash flows using current market interest rates and yield curves over the remaining term of the instrument. Interest rate futures are valued based on quoted market prices if available. Fair values of foreign currency derivatives are based on forward exchange rates. Options are generally valued based on quoted market prices or based on option pricing models. No compensating effects from underlying transactions e.g. firm commitments and forecast transactions are considered.The Company limits default risks resulting from derivative financial instruments by generally transacting with financial institutions with a minimum credit rating of investment grade. Based on Siemens net risk exposure towards the counterparty the resulting credit risk is considered via a credit valuation adjustment.As of September and Level financial assets include venture capital investments of million and million Next investments. In fiscal and new level investments and purchases amounted to million and million respectively. Sales of Level financial assets amounted to million and million respectively in fiscal and . Net gains losses resulting from financial instruments are
+
+Score 0.458
+Sales of goods and services and other incomePurchases of goods and services and other expensesReceivablesLiabilitiesFiscal YearFiscal YearSep Sep Sep Sep in millions of Joint ventures Associates 
+
+Score 0.458
+sales finance risk management law including compliance and human resources. 
+
+Score 0.456
+Amounts reclassified to net income in connection with interest rate risk hedges and nonoperative foreign currency hedges are presented in Other financial income expenses net. Reclassifications of foreign currency risk hedges with operative business purposes are presented as functional costs. Costs of hedging reserve is the forward element of forward contracts that are not designated as hedge accounting and which are amortized to interest expense on a straightline basis as the hedged item is timeperiod related. 
+
+Score 0.456
+Derivative financial instruments not designated in a hedging relationshipInterest rate risk management uses derivative financial instruments under a portfoliobased approach to manage interest risk actively. The approach does not qualify for hedge accounting. Gains and losses in connection with interest rate swap agreements are recorded in Other financial income expenses net. The interest rate risk management includes SFS business for which the interest rate risk was formerly managed separately.Cash flow hedges of floatingrate commercial papersIn September Siemens ended cash flow hedge accounting. Previously Siemens applied cash flow hedge accounting to a revolving portfolio of floatingrate commercial papers of nominal US million.Fair value hedges of fixedrate debt obligationsUnder interest rate swap agreements outstanding in fiscal and the Company agreed to pay a variable rate of interest multiplied by a notional principal amount and to receive in return an amount equal to a specified fixed rate of interest multiplied by the same notional principal amount. These interest rate swap agreements offset future changes in interest rates designated as hedged risk on the fair value of the underlying fixedrate debt obligations. As of September and the carrying amounts of million and million respectively of fixedrate debt obligations are designated in fair value hedges including million and million cumulative fair value hedge adjustments. Unamortized fair value hedge adjustments of million and million as of September and respectively relate to no longer applied hedge accounting. The amounts are amortized over the remaining term of the underlying debt maturing until . Carrying amount adjustments to debt of million and million respectively in fiscal and are included in Other financial income expenses net the related swap agreements resulted in gains losses of million and million respectively in fiscal and . Net cash receipts and payments relating to such interest rate swap agreements are recorded as interest expenses.The Company had interest rate swap contracts to pay variable rates of interest of an average of . and . as of September and respectively and received fixed rates of interest average rate of . and . as of September and respectively. The notional amount of indebtedness hedged as of September and was million and million respectively. This changed and of the Companys underlying notes and bonds from fixed interest rates into variable interest rates as of September and respectively. The notional amounts of these contracts mature at varying dates based on the maturity of the underlying hedged items. The net fair value of interest rate swap contracts excluding accrued interest used to hedge indebtedness as of September and was million and million respectively.
+
+Score 0.455
+Sep in millions of Trade receivables from the sale of goods and services Receivables from finance leases 
+
+Score 0.455
+financial statements for fiscal .The Supervisory Board members take part on their own responsibility in the educational and training measures 
+
+Score 0.454
+Investments in finance leases primarily relate to industrial machinery medical equipment transportation systems equipment for information technology and office machines.In fiscal and finance income on the net investment in the lease is million and million.
+
+Score 0.454
+Entitlements resulting from plans based on asset returns from underlying assets are generally measured at the fair value of the underlying assets at the balance sheet date. If the performance of the underlying assets is lower than a guaranteed return the pension provision is measured by projecting forward the contributions at the guaranteed fixed return and discounting to a present value.According to the Act on the Improvement of Company Pensions Gesetz zur Verbesserung der betrieblichen Altersversorgung Siemens AG is secondarily liable for pension benefits provided under an indirect pension funding vehicle mittelbarer Durchführungsweg. Siemens AG recognizes the underfunding in the item Provisions for pensions and similar commitments as far as the respective assets of the pension fund or of the pension and support fund Pensions und Unterstützungskasse do not cover the settlement amount of the respective pension obligations.Other provisions are recognized in an appropriate and sufficient amount to cover individual obligations for all identifiable risks relating to liabilities of uncertain timing and amount and for anticipated losses on onerous contracts taking account of price and cost increases expected to arise in the future. Provisions for agreed personnel restructuring measures were recognized for legal and constructive obligations. Significant provisions with a remaining term of more than one year are discounted using a discount rate which corresponds to the average market interest rate appropriate for the remaining term of the obligations as calculated and published by Deutsche Bundesbank.Foreign currency translation Receivables other current assets securities cash and cash equivalents provisions and liabilities excluding advance payments received on orders as well as commitments and contingencies denominated in foreign currency are generally measured applying the mean spot exchange rate on the balance sheet date. Balance Sheet line items denominated in foreign currency which are part of a valuation unit used to hedge foreign currency risk are measured using the mean spot exchange rate on the transaction date. Noncurrent assets and inventories acquired in foreign currency are generally measured applying the mean spot exchange rate on the transaction date.Guarantees and other commitments Siemens AG issues parent company guarantees i.e. guarantees to ensure performance obligations incurred from the delivery of goods or provision of services by affiliated and longterm investee companies or their parent companies. For measurement purposes the contract amount of the secured delivery or service agreement is reduced using the straightline method over the planned term of the delivery or service agreement unless there are reasons for a different risk assessment and an increased liability amount riskadequate liability amount. Credit lines included in the guarantee obligations in the context of financing affiliated companies are recognized at their nominal amount.Derivative financial instruments are used by Siemens AG almost exclusively for hedging purposes and if the relevant conditions are met are aggregated with the underlying hedged item into valuation units. When a valuation unit is created changes in values or cash flows from the hedged item and hedging contract are compared. A provision is recognized only for a negative surplus from the ineffective part of the market value changes. The unrealized gains and losses from the effective part offset each other completely and are not recognized in the Balance Sheet or the Income Statement.Classification of items in the annual financial statements Siemens AG aggregates individual line items of the Income Statement and Balance Sheet if the individual line item is not material for providing a true and fair view of the Companys financial position and if such an aggregation improves the clarity of the presentation. Siemens AG discloses these items separately in the notes.
+
+Score 0.454
+B.. Active Managing Board members in fiscal 
+
+Score 0.453
+In fiscal and the longterm portion of receivables from finance leases is reported in Other financial assets amounting to million and million respectively. Future minimum lease payments to be received are as follows 
+
+Score 0.453
+Fiscal yearin millions of Total interest income on financial assets Total interest expenses on financial liabilities 
+
+Score 0.453
+in central bank policies could therefore negatively impact our financial results. Market prices show higher volatility than in the past due to increased macroeconomic uncertainties resulting from inflation geopolitical tensions and other factors noted above.Liquidity and financing risks Our treasury and financing activities could face adverse deposit andor financing conditions from negative developments related to financial markets such as limited availability of funds and hedging instruments an updated evaluation of our solvency particularly from rating agencies negative interest rates and impacts arising from more restrictive regulation of the financial sector central bank policy or the usage of financial instruments. Widening credit spreads due to uncertainty and risk aversion in the financial markets might lead to adverse changes in the market values of our financial assets in particular our derivative financial instruments.Credit risks We provide our customers with various forms of direct and indirect financing of orders and projects including guarantees. Siemens Financial Services in particular bears credit risks due to such financing activities if for example customers do not meet obligations arising from these financing arrangements meet them only partially or meet them late. The credit environment has become more dynamic due to a more uncertain macroeconomic outlook e.g. inflation and geopolitical tensions.For further information on postemployment benefits derivative financial instruments hedging activities financial risk management and related measures see Notes and in Notes to Consolidated Financial Statements for fiscal .
+
+Score 0.452
+folios. The Managing Board members responsible for the 
+
+Score 0.452
+transactions. Furthermore the Chairmans Committee 
+
+Score 0.452
+A special focus of our activities in fiscal was the further implementation of the Companys growth strategy. At our meetings and in additional informational sessions 
+
+Score 0.452
+items that concerned either the Managing Board itself or internal Supervisory Board matters.
+
+Score 0.452
+Changes in liabilities arising from financing activities 
+
+Score 0.452
+AssetsSep Sep in millions of Siemens Energy Investment Assets Siemens Real Estate Assets Innovation Governance and Pensions Assetbased adjustmentsIntragroup financing receivables Taxrelated assets Liabilitybased adjustments Financing eliminations and other items Reconciliation to Consolidated Financial Statements NOTE 
+
+Score 0.452
+activities are systematically identified and assessed. The Company strategy gives due consideration to longterm targets as well as to environmental and social objectives. 
+
+Score 0.451
+ Additional disclosures on financial instruments
+
+Score 0.45
+Accounting policies for Segment information are generally the same as those used for the Consolidated Financial Statements. Segment information is disclosed for continuing operations. For internal and segment reporting purposes intercompany lease transactions however are classified as operating leases by the lessor and are accounted for offbalance sheet by the lessee except for intercompany leases with Siemens Healthineers as lessees. Intersegment transactions are based on market prices.RevenueRevenue includes revenue from contracts with customers and revenue from leasing activities. In fiscal and lease revenue is million and million respectively. In fiscal and Digital industries recognized million and million revenue respectively from its software business Smart Infrastructure recognized million and million in its service business. Revenues of Mobility are mainly derived from constructiontype business. ProfitSiemens Managing Board is responsible for assessing the performance of the segments chief operating decision maker. The Companys profitability measure of the segments except for SFS is earnings before interest certain pension costs income taxes and amortization expenses of intangible assets acquired in business combinations as determined by the chief operating decision maker Profit. The major categories of items excluded from Profit are described below.Interest income expenses are excluded from Profit. Decisionmaking regarding financing is typically made at the corporate level.Decisions on essential pension items are made centrally. Accordingly Profit primarily includes amounts related to service cost of pension plans only while all other regularly recurring pension related costs are included in reconciliations in line item Centrally carried pension expense.Amortization expenses of intangible assets acquired in business combinations are not part of Profit. Furthermore income taxes are excluded from Profit since income tax is subject to legal structures which typically do not correspond to the structure of the segments. The effect of certain litigation and compliance issues is excluded from Profit if such items are not indicative of performance. This may also be the case for items that refer to more than one reportable segment SRE and or POC or have a corporate or central character. Costs for support functions are primarily allocated to the segments. 
+
+Score 0.45
+ Other current liabilities
+
+Score 0.45
+portfolios and the rules for cooperation both within the Managing Board and between the Managing Board and 
+
+Score 0.449
+Management is responsible for the preparation of the consolidated financial statements that comply in all material respects with IFRSs as adopted by the EU and the additional requirements of German commercial law pursuant to Sec. e HGB as well as with full IFRSs as issued by the IASB and that the consolidated financial statements in compliance with these requirements give a true and fair view of the assets liabilities financial position and financial performance of the Group. In addition management is responsible for such internal control as management has determined necessary to enable the preparation of consolidated financial statements that are free from material misstatement whether due to fraud i.e. fraudulent financial reporting and misappropriation of assets or error.In preparing the consolidated financial statements management is responsible for assessing the Groups ability to continue as a going concern. It also has the responsibility for disclosing as applicable matters related to going concern. In addition management is responsible for financial reporting based on the going concern basis of accounting unless there is an intention to liquidate the Group or to cease operations or there is no realistic alternative but to do so.Furthermore management is responsible for the preparation of the group management report that as a whole provides an appropriate view of the Groups position and is in all material respects consistent with the consolidated financial statements complies with German legal requirements and appropriately presents the opportunities and risks of future development. In addition management is responsible for such arrangements and measures systems as management has considered necessary to enable the preparation of a group management report that is in accordance with the applicable German legal requirements and to be able to provide sufficient appropriate evidence for the assertions in the group management report.The Supervisory Board is responsible for overseeing the Groups financial reporting process for the preparation of the consolidated financial statements and of the group management report. 
+
+Score 0.449
+ Financial assets Financial liabilities measured at amortized cost
+
+Score 0.448
+The DBO effect of a reduction in mortality rates for all beneficiaries would be an increase of million and million respectively as of September and .As in prior years sensitivity determinations apply the same methodology as those applied in determining postemployment benefit obligations. Sensitivities reflect changes in the DBO solely for the assumption changed.Asset Liability Matching StrategiesAs a significant risk the Company considers a decline in the plans funded status due to adverse developments of plan assets andor defined benefit obligations resulting from changing parameters. Accordingly Siemens implemented a risk management concept aligned with the defined benefit obligations Asset Liability Matching. Risk management is based on a worldwide defined risk threshold Value at Risk. The concept the Value at Risk and the asset development including the investment strategy are monitored and adjusted on an ongoing basis under consultation of senior external experts. Independent asset managers are selected based on quantitative and qualitative analyses which include their performance and risk evaluation. Derivatives are used to reduce risks as part of risk management.
+
+Score 0.448
+activities and remain on course for success. They contain 
+
+Score 0.448
+Responsibilities of management and the Supervisory Board for the consolidated financial statements and the group management report
+
+Score 0.447
+ Provisions for pensions and similar commitments
+
+Score 0.447
+Sep Sep in millions of NoteAssetsCash and cash equivalentsTrade and other receivablesOther current financial assetsContract assetsInventoriesCurrent income tax assetsOther current assetsAssets classified as held for disposalTotal current assetsGoodwill Other intangible assets Property plant and equipmentInvestments accounted for using the equity methodOther financial assets Deferred tax assetsOther assetsTotal noncurrent assetsTotal assetsLiabilities and equityShortterm debt and current maturities of longterm debtTrade payablesOther current financial liabilitiesContract liabilitiesCurrent provisionsCurrent income tax liabilitiesOther current liabilitiesLiabilities associated with assets classified as held for disposalTotal current liabilitiesLongterm debtProvisions for pensions and similar obligationsDeferred tax liabilitiesProvisionsOther financial liabilitiesOther liabilitiesTotal noncurrent liabilitiesTotal liabilitiesEquity Issued capitalCapital reserveRetained earningsOther components of equityTreasury shares at cost Total equity attributable to shareholders of Siemens AGNoncontrolling interestsTotal equityTotal liabilities and equity
+
+Score 0.447
+. Notes to Consolidated Financial Statements
+
+Score 0.447
+Financial assets measured at fair value through other comprehensive income FVOCI are equity instruments for which Siemens irrevocably elects to present subsequent fair value changes in OCI at initial recognition of the instrument. Unrealized gains and losses net of deferred income tax expenses as well as gains and losses on the subsequent sale of the instruments are recognized in line item Other comprehensive income net of income taxes.Financial assets measured at amortized cost Loans receivables and other debt instruments held in a holdtocollect business model with contractual cash flows that represent solely payments of principal and interest are measured at amortized cost using the effective interest method less valuation allowances for expected credit losses. Valuation allowances are set up for expected credit losses representing a forwardlooking estimate of future credit losses involving significant judgment. Expected credit loss is the gross carrying amount less collateral multiplied by the probability of default and a factor reflecting the loss in the event of default. Valuation allowances are not recognized as far as the gross carrying amount is sufficiently collateralized. Probabilities of default are mainly derived from internal rating grades. A simplified approach is used to assess expected credit losses from trade receivables lease receivables and contract assets by applying their lifetime expected credit losses. The valuation allowance for loans and other longterm debt instruments primarily held at Financial Services SFS is measured according to a threestage impairment approach Stage At inception twelvemonth expected credit losses are recognized based on a twelve months probability of default.Stage If the credit risk of a financial asset increases significantly without being creditimpaired lifetime expected credit losses are recognized based on a lifetime probability of default. A significant increase in credit risk is determined for each individual financial instrument using internal credit ratings. A rating deterioration does not trigger a transfer into Stage if the credit rating remains within the investment grade range. More than days past due payments will not be transferred into Stage if the delay is not creditriskrelated. Stage If the financial asset is creditimpaired valuation allowances equal lifetime expected credit losses. A financial asset is considered creditimpaired when there is observable information about significant financial difficulties and a high vulnerability to default however the definition of default is not yet met. Impairment triggers include liquidity problems a request for debt restructuring or a breach of contract. A creditrisk driven contractual modification always results in a creditimpaired financial asset.Financial assets are written off as uncollectible if recovery appears unlikely. Generally if the limitation period expired when a debtors sworn statement of affairs is received or when the receivable is not pursued due to its minor value. Receivables are written off when bankruptcy proceedings close.A financial asset is derecognized when the rights to cash flows expire or the financial asset is transferred to another party. Significant modifications of contractual terms of a financial asset measured at amortized cost result in derecognition and recognition of a new financial asset for insignificant modifications the carrying amount of the financial asset is adjusted without derecognition. Cash and cash equivalents The Company considers all highly liquid investments with less than three months maturity from the date of acquisition to be cash equivalents. Cash and cash equivalents are measured at cost.Loan Commitments Expected credit losses for irrevocable loan commitments are determined using the threestage impairment approach for financial assets measured at amortized cost and recognized as a liability.Financial liabilities except for derivative financial instruments Siemens measures financial liabilities at amortized cost using the effective interest method. Derivative financial instruments Derivative financial instruments such as foreign currency exchange contracts and interest rate swap contracts are measured at fair value unless they are designated as hedging instruments for which hedge accounting is applied. Changes in the fair value of derivative financial instruments are recognized either in net income or in the case of a cash flow hedge in line item Other comprehensive income net of income taxes applicable deferred income tax. Certain derivative instruments embedded in host contracts are also accounted for separately as derivatives.Fair value hedges The carrying amount of the hedged item is adjusted by the gain or loss attributable to the hedged risk. Where an unrecognized firm commitment is designated as hedged item the subsequent cumulative change in its fair value is recognized as a separate financial asset or liability with corresponding gain or loss recognized in net income. For hedged items carried at amortized cost the adjustment is amortized until maturity of the hedged item. For hedged firm commitments the initial carrying amount of the assets or liabilities that result from meeting the firm commitments are adjusted to include the cumulative changes in the fair value that were previously recognized as separate financial assets or liabilities. Cash flow hedges The effective portion of changes in the fair value of derivative instruments designated as cash flow hedges are recognized in line item Other comprehensive income net of income taxes and any ineffective portion is recognized immediately in net income. Amounts accumulated in equity are reclassified into net income in the same periods in which the hedged item affects net income.Sharebased payment Sharebased payment awards at Siemens are predominately designed as equitysettled. Fair value is measured at grant date and is expensed over the vesting period. Fair value is determined as the price of the underlying shares considering dividends during the vesting period the grantees are not entitled to as well as market conditions and nonvesting conditions if applicable. Plans granting the rights to receive subsidiary shares constitute own shares and accordingly are accounted as equitysettled.Insurance contracts In June the IASB issued IFRS Insurance contracts IFRS effective for reporting periods beginning on or after January . Siemens will adopt the standard commencing with fiscal . IFRS introduces and applies uniform accounting policies for insurance contracts and supersedes IFRS Insurance contracts. The adoption of IFRS is not expected to have a significant impact on Siemens Consolidated Financial Statements.Prioryear information The presentation of certain prioryear information has been reclassified to conform to the current year presentation. 
+
+Score 0.446
+tions relating to the Companys financial situation and 
+
+Score 0.445
+Sep in millions of Deferred taxes due to temporary differences Intangible assets Pensions and similar obligations Current assets and liabilities Noncurrent assets and liabilitiesTax loss carryforwards and tax creditsTotal deferred taxes net
+
+Score 0.445
+Siemens Healthineers AGregistered in Munich Germanyin millions of Sep Sep Ownership interests held by noncontrolling interestsAccumulated noncontrolling interests Current assetsNoncurrent assets Current liabilitiesNoncurrent liabilitiesFiscal yearNet income attributable to noncontrolling interestsDividends paid to noncontrolling interestsRevenueIncome loss from continuing operations net of income taxesOther comprehensive income net of income taxesTotal comprehensive income net of income taxesTotal cash flowsNOTE 
+
+Score 0.444
+Amounts include foreign currency gains losses from recognizing and measuring financial assets and liabilities. Net gains losses on financial assets and liabilities measured at FVTPL resulted from those mandatorily measured at FVTPL and comprise fair value changes of derivative financial instruments for which hedge accounting is not applied including interest income expense as well as dividends from and fair value changes of equity instruments measured at FVTPL. Interest income expense includes interest from financial assets and financial liabilities not at fair value through profit or loss 

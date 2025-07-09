@@ -1,5 +1,7 @@
 from typing import List
 import re
+import pandas as pd
+import pymupdf
 from langchain.document_loaders import PyPDFLoader 
 from langchain.text_splitter import CharacterTextSplitter
 
@@ -14,6 +16,7 @@ def preprocess_text(text: str) -> str:
     text = text.replace(" -", "")
     text = text.replace("\n", "")
     text = re.sub(r"[^a-zA-ZäöüÄÖÜß.\s]", "", text)
+    text = re.sub(r' +', ' ', text)
 
     return text
     
@@ -26,6 +29,33 @@ def get_sliding_window(text: str, window_len: int = 3) -> List[str]:
     return sentences
 
 def get_paragraphs(pdf_path: str) -> str: 
+
+    doc = pymupdf.open(pdf_path)
+    uniform_blocks = []
+    temp_text = ""
+    temp_font_size = 0
+
+    for page in doc:
+        blocks = page.get_text("dict")["blocks"]
+        for block in blocks:
+            if "lines" in block.keys(): 
+                for line in block["lines"]: 
+                    for span in line["spans"]:
+                        if span["text"].strip():
+                            if span["size"] == temp_font_size:
+                                temp_text += span["text"]
+                            else:
+                                if temp_text.strip() and any(char.isalpha() for char in temp_text):
+                                    temp_dict = {"text": temp_text, "page": page.number, "font_size": temp_font_size}
+                                    uniform_blocks.append(temp_dict)
+                                temp_text = span["text"]
+                                temp_font_size = span["size"]
+    df = pd.DataFrame(uniform_blocks)
+
+    return df["text"].to_list()
+        
+
+def get_pages(pdf_path: str) -> str: 
 
     loader = PyPDFLoader(pdf_path)
     

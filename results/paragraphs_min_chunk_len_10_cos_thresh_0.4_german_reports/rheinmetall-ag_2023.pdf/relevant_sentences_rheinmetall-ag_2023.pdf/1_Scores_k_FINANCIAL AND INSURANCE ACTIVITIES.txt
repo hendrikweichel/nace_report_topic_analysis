@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.595
+ Provisions for pensions and similar obligations Other noncurrent provisions Noncurrent financial debts Other noncurrent liabilities Deferred taxes Noncurrent liabilities Other current provisions Current financial debts Contract liabilities Trade liabilities Other current liabilities Income tax liabilities Liabilities directly associated with assets held for sale Current liabilities Total equity and liabilities
+
+Score 0.557
+ Audit services . Other attestation services . Tax services . Other services . . 
+
+Score 0.556
+ Allocation of CTA assets to secure pension and partial retirement obligations Proceeds from reimbursements of pension payments made from CTA assets Other changes in pension provisions Incomeexpenses from disposals of noncurrent assets Changes in other provisions Changes in working capital Changes in receivables liabilities without financial debt and prepaid deferred items Pro rata incomeloss from investments accounted for using the equity method
+
+Score 0.532
+ Of which current Of which noncurrent Of which current Of which noncurrent Derivatives Receivables from contracts with customers Receivables from finance leases Bonds Other Financial assets Other taxes Contract acquisition costs Contract costs Subsidiesgrants receivable Prepaid expenses Pension reimbursement claims Net definded benefit from plan assets Reimbursement claims from insurances Other Nonfinancial assets Other assets 
+
+Score 0.531
+Financial assets include shares in affiliated companies in the amount of million previous year million and the investment in iG Nyrt. acquired in the previous year. From the increase of million a total of million relates to the acquisition of Expal Systems S.A.U. The share of financial assets in total assets subsequently increased from to . Receivables and other assets of million previous year million mainly comprise receivables from affiliated companies. These originate almost exclusively from intraGroup financing and central liquidity management. The share of these receivables in total assets amounted to previous year . The securities portfolio in the previous year related to the shares in a special fund acquired at the end of as a strategic liquidity reserve. These were disposed of in full in . Cash and cash equivalents rose from million in the previous year to million. 
+
+Score 0.527
+Additional information on financial instruments 
+
+Score 0.52
+The pension plans of continuing operations relate to the following beneficiaries 
+
+Score 0.518
+ Inventories and receivables Pension provisions Other provisions Liabilities
+
+Score 0.514
+ Other noncurrent assets Noncurrent assets Inventories Trade receivables Other current assets Current assets Provisions Other noncurrent liabilities Noncurrent liabilities Provisions Trade liabilities Other current liabilities Current liabilities 
+
+Score 0.513
+Nonfinancial aspects of business activities 
+
+Score 0.511
+ Net financial debts Securities held for trade strategic liquidity reserve Assets from pension valuation Pension provisions Equity Capital employed Average capital employed EBIT ROCE in . . 
+
+Score 0.51
+Cash and cash equivalents Amortized cost Other financial assets Hold business model SPPI
+
+Score 0.509
+Notes to the statement of financial position 
+
+Score 0.5
+The following cash outflows for the payment of pensions from the pension plans of continuing operations are expected for the following periods 
+
+Score 0.499
+Convertible bond Promissory notes Bank liabilities Leasing Commercial Papers Other Total year year year year As of Cash changes Borrowing of financial debts Repayment of financial debts Noncash changes Currency differences Adjustment in scope of consolidation Addition of rightofuse assets Book transfers As of and Cash changes Borrowing of financial debts Repayment of financial debts Noncash changes Currency differences Adjustment in scope of consolidation Interest Addition of rightofuse assets Book transfers As of 
+
+Score 0.499
+Business activities and markets 
+
+Score 0.495
+Notes Assets Goodwill Other intangible assets Rightofuse assets Property plant and equipment Investment property Investments accounted for using the equity method
+
+Score 0.494
+ Inventories Contract assets Trade receivables Other current assets Income tax receivables Securities held for trade Cash and cash equivalents Assets held for sale
+
+Score 0.494
+The fair values of shares fund units fixedinterest securities and other investments are determined based on market prices in an active market. The fair values of property are not based on market prices in an active market. For the following year the estimated cash outflows of continuing operations for contributions to plan assets are shown below. 
+
+Score 0.493
+Investment property is carried at cost less cumulative depreciation and impairment. Depreciation is recognized on a straightline basis over a useful life of to years. Financial instruments The firsttime recognition of financial instruments is at fair value. In the case of a financial asset that is not measured at fair value through profit or loss incidental costs are included on firsttime recognition. Standard market purchases and sales of financial assets are recognized for the first time on the settlement date. This is the date when the financial instrument is delivered or the payment is made. Notwithstanding this derivatives are recognized for the first time as of the date when the contract is concluded or the trading date. There are three measurement categories for the subsequent measurement of financial instruments measurement at amortized cost measurement at fair value through other comprehensive income FVOCI and measurement at fair value through profit or loss FVTPL. The relevant measurement category for a financial instrument depends on the contractual cash flow characteristics of the financial asset and the entitys business model for managing financial assets. If the contractual cash flows comprise solely payments of principal and interest SPPI and the business model is hold financial instruments are measured at amortized cost. Financial instruments with SPPI cash flows but the hold and sell business model are measured at fair value through other comprehensive income. If the SPPI criterion is not met the financial instruments are likewise measured at fair value but the changes in value are recognized through profit or loss. In the case of debt instruments changes in value can be recognized through profit or loss despite fulfillment of the SPPI criterion by exercising the fair value option. Currently there are no situations in which the fair value option is used for debt instruments. In the case of equity instruments the fair value OCI option provides the opportunity to recognize any changes in value that arise through other comprehensive income. Trade receivables and liquid financial assets are generally measured at amortized cost. Trade receivables classified by Group companies as available for sale must be measured at fair value through other comprehensive income. Other financial assets measured at amortized cost are discounted by applying rates that match their maturity on firsttime recognition and written down using the effective interest method. As of the end of the reporting period the default risk of financial assets is checked and if necessary an impairment recognized on the basis of expected losses. For trade receivables the simplified method is used applying the customer credit rating and specific country risks. The loss allowance for expected default risks is recognized in the income statement. Cash and cash equivalents are measured at amortized cost. Cash and cash equivalents comprise any liquid assets with a remaining term of less than three months at the date of their purchase. Changes in the fair value of derivative financial instruments are recognized in the income statement. If the conditions under IFRS are met they are accounted for as cash flow hedges. The effective portion of the changes in the fair value of the designated derivative is recognized in equity in the hedge reserve. The cumulative changes in fair value are reclassified from equity to the income statement if the hedged item is recognized in the income statement. Changes in the fair value attributable to the ineffective portion of the hedge are always recognized in the income statement. Financial liabilities are measured at amortized cost using the effective interest method. Compound financial instruments Rheinmetall has issued a compound financial instrument in the form of a convertible bond. Provided certain criteria are met the convertible bond grants the holder the right to convert it into a certain number of shares. On initial recognition the liability component of the compound financial instrument is recognized at the fair value of a similar bond without a conversion right. The equity component is recognized in the amount of the difference between the fair value of the total compound financial instrument and the fair value of the liability component. Directly attributable transaction costs are allocated to the debt and equity components in the ratio of their carrying amounts on initial recognition. 
+
+Score 0.489
+Securities held for trade 
+
+Score 0.486
+ Remeasurement of net defined benefit liability from pensions Other comprehensive income from investments accounted for using the equity method Amounts not reclassified to the income statement Change in value of derivative financial instruments cash flow hedge Currency translation difference Other comprehensive income from investments accounted for using the equity method
+
+Score 0.484
+met Fair value through other comprehensive income Derivatives Fair value through profit or loss All other financial assets Fair value through profit or loss Equity and liabilities Provisions for pensions and similar obligation Present value of DBO Other provisions Discounted settlement amount Financial liabilities Amortized cost Trade liabilities Amortized cost Other liabilities Derivatives Fair value Miscellaneous Amortized cost 
+
+Score 0.481
+ Intangible assets Property plant and equipment Financial assets Fixed assets Inventories Receivables and other current assets Bonds Cash and cash equivalents Current assets Deferred income Active difference from asset offsetting Total assets 
+
+Score 0.48
+Carrying amount Fair value Carrying amount Fair value Convertible Bond Level Promissory notes Level Other financial debts Level 
+
+Score 0.48
+Property land Property buildings Passenger cars Other rightof use assets Total As of Current period Disposals Book transfers Currency differences As of and Current period Disposals Book transfers Adjustments in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.473
+Net assets and financial position 
+
+Score 0.472
+Cash flows from operating activities of continuing operations increased by a considerable million from million in the previous year to million in fiscal year . Despite the substantial increase in business volume the increase in working capital was markedly contained. In fiscal year only an additional million was tied up in working capital compared with million in the same period of the previous year. In addition following a figure of million in the previous year million was paid into an external fund CTA in the year under review to cover provisions for pensions and partial retirement obligations. Furthermore pension payments amounting to million were reimbursed by the CTA. Payments for capital expenditure continuing operations increased from million in the previous year to million. This is due in particular to the higher level of investment. Operating free cash flow from continuing operations defined as cash flow from operating activities less capital expenditure on intangible assets property plant and equipment and investment property accordingly improved from million to million. 
+
+Score 0.47
+Equity as at December amounted to million compared with million at the end of the previous year. This change reflected the fact that the dividend payment for of million was offset by the net income of million generated in . In addition equity increased by million due to the convertible bond issue. Due to the increase in total assets the equity ratio fell to previous year . Provisions include pension provisions of million previous year million. Measured pension obligations of million previous year million are covered by plan assets of million previous year million. Other liabilities include liabilities to affiliated companies of million previous year million. These originate almost exclusively from intraGroup financing and central liquidity management. The share of these liabilities in total assets declined from to . 
+
+Score 0.47
+Aims of financial management 
+
+Score 0.469
+Amortized cost Fair valueOCI Fair valuePL No category Total Trade receivables Cash and cash equivalents Securities held for trade Derivatives without hedge accounting Derivatives with cash flow hedge Other financial assets Financial assets Promissory notes Commercial Paper Other financial debts Trade liabilities Derivatives without hedge accounting Derivatives with cash flow hedge Other financial liabilities Financial liabilities 
+
+Score 0.469
+ Cash and cash equivalents Financial liabilities Net financial debt Net liquidity Securities held for trade Strategic liquidity reserve Equity
+
+Score 0.469
+Bank liabilities 
+
+Score 0.467
+ Present value of DBO Plan assets at fair value Net liability for defined benefit obligations Present value of DBO Plan assets at fair value Net liability for defined benefit obligations As of Current service cost Past service cost Interest cost Interest income Settlement Entry benefitsleaving benefits Amounts recognized in the income statement Expense income from plan assets excluding interest income Actuarial gains and losses Change in financial assumptions Change in demographic assumptions Empirical adjustments Other comprehensive income from remeasurement of net defined benefit Employer contributions Employee contributions Pension payments Adjustment in scope of consolidation Reclassification IFRS Currency differencesOther As of 
+
+Score 0.467
+Amortized cost Fair valueOCI Fair valuePL No category Total Trade receivables Cash and cash equivalents Securities held for trade Derivatives without hedge accounting Derivatives with cash flow hedge Other financial assets Financial assets Convertible bond Promissory notes Commercial Paper Other financial debts Trade liabilities Derivatives without hedge accounting Derivatives with cash flow hedge Other financial liabilities Financial liabilities 
+
+Score 0.465
+Goodwill Development costs Sundry other intangible assets Total As of Current period Disposals Adjustment in scope of consolidation Currency differences As of and Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.464
+Standard Name Effective date Amendments to IAS Disclosure of Accounting Policies Amendments to IAS Definition of Accounting Estimates Amendments to IAS Deferred Tax related to Assets and Liabilities arising from a Single Transaction Amendments to IAS International Tax Reform Pillar Two Model Rules IFRS including Amendments to IFRS Insurance Contracts 
+
+Score 0.462
+Financing activities in fiscal year 
+
+Score 0.462
+Classification of the plan assets 
+
+Score 0.461
+ Earnings from continuing operations after taxes Amortization depreciation and impairments Payment into external Fund CTA Changes in working capital and others Cash flows from operating activities Investments in property plant and equipment intangible assets and investment property Operating free cash flow continuing operations 
+
+Score 0.461
+ DE CH UK Other Total DE CH UK Other Total Defined benefit obligation Plan assets Net liability for defined benefit obligations Changes in the effect of the asset ceiling Balance sheet amount thereof provision thereof net asset value 
+
+Score 0.461
+Other liabilities 
+
+Score 0.46
+ from from Promissory notes Promissory notes Commercial Paper Other bank liabilities Other financial debts Derivatives with positive fair value Cash outflow Cash inflow Derivatives with negative fair value Cash outflow Cash inflow 
+
+Score 0.46
+Land land rights and buildings Production plant and machinery Other plant factory and office equipment Prepayments made and construction in progress Total As of Additions Disposals Book transfers Adjustments in scope of consolidation Currency differences As of and Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of 
+
+Score 0.459
+In the following investments in the company have been reported to date in accordance with section WpHG 
+
+Score 0.459
+Provisions for pensions and similar obligations 
+
+Score 0.457
+ External Sales Vehicle Systems External Sales Weapon and Ammunition External Sales Electronic Solutions External Sales Sensors and Actuators External Sales Materials and Trade OthersConsolidation Group sales in of worldwide Group sales Noncurrent assets 
+
+Score 0.456
+Goodwill Development costs Sundry other intangible assets Total As of Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of and Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of 
+
+Score 0.454
+Notes to the consolidated financial statements Segment report 
+
+Score 0.453
+Transactions involving related third parties are listed in the notes to the consolidated financial statements under Other information on related parties. 
+
+Score 0.451
+The items relate to financial instruments measured at amortized cost. Financial risks The operations and financing transactions of the Rheinmetall Group as an international group are exposed to financial market risks mainly from liquidity counterparty default electricity gas and commodity prices exchange rate volatility and interest rate changes. In accordance with the Groupwide risk management system of Rheinmetall AG such risks are not only identified analyzed and measured but also managed by taking actions to avoid contain or limit such risks. Inherent financial risks are actively managed to ensure that no significant risks arise from financial instruments as of the end of the reporting period. Derivative financial instruments Derivative financial instruments are used to reduce currency and commodity price risks. If the value changes of the hedged item and the hedging instrument are not recognized in profit and loss at the same time and the necessary conditions are met changes in the fair value of hedging transactions are recognized in the hedge reserve in the context of cash flow hedge accounting. The effectiveness of these transactions is subject to ongoing monitoring using the critical terms match method prospectively. Ineffective portions to be recognized are determined using the dollar offset testing method. The table below shows the fair value of all hedges accounted for as financial assets or financial liabilities as of the end of the reporting period. 
+
+Score 0.45
+Personnel provisions essentially relate to variable remuneration of million previous year million and obligations from vacation overtime and flexitime accounts of million previous year million. Provisions for restructuring mainly relate to termination settlements and expenses for partial retirement obligations. The provisions for contractrelated costs comprise offset obligations of million previous year million contractual penalties of million previous year million price review risks of million previous year million contractrelated commissions of million previous year million and other contract costs of million previous year million. Miscellaneous provisions relate to environmental risks at million previous year million rebates and bonuses at million previous year million as well as other individual provisions. 
+
+Score 0.45
+Asset and capital structure
+
+Score 0.45
+Asset and capital structure 
+
+Score 0.449
+ In addition to the assets presented in this table the assets held for sale presented in the Rheinmetall Groups statement of financial position include a further asset held for sale which is assigned to continuing operations. See the explanations under note Investment Property. 
+
+Score 0.449
+ Reversal of provisions Government grants Sundry rental agreements and leases Residualscrap disposal Reversal of assets excl. financial assets Disposal of fixed assetsdivestments Refunds Miscellaneous operating income 
+
+Score 0.449
+Payments from plan assets Payments from companies 
+
+Score 0.448
+Property land Property buildings Passenger cars Other rightof use assets Total As of Additions Disposals Book transfers Currency differences As of and Additions Disposals Book transfers Adjustments in scope of consolidation Currency differences As of 
+
+Score 0.446
+ Noncontrolling interests included in equity Dec. Assets Dec. Of which noncurrent Of which inventories Liabilities Dec. Of which noncurrent Sales Earnings after taxes Of which from minority interests Total comprehensive income Of which from minority interests Cash flows from operating activities 
+
+Score 0.444
+With trade receivables measured at amortized cost the carrying amount approximates the fair value. The market value of financial assets and liabilities measured at fair value is determined on the basis of input factors observed directly or indirectly on the market level . The foreign exchange rates applicable at the end of the reporting period and the yield curves are key inputs in calculating the fair value of derivatives for currency hedges. The discounted cash flow method is used for currency swaps and currency forwards. The fair value of the commodity futures is derived from the market price as of the measurement date. Fund units held for trading were measured at the market value for each asset class until the reversal of the investment. The other financial assets measured at fair value through profit or loss include the shares in Shriram Pistons Rings Ltd. As these are traded on the Indian stock exchange the input factors can be directly observed on the market Level . Please refer to the information under note Other Assets. The net result from financial assets and liabilities allocated to the category at fair value through profit or loss amounted to income of million previous year loss of million. For financial assets and liabilities not allocated to a measurement category in accordance with IFRS this resulted in income of million previous year income of million. The carrying amounts and fair values of financial instruments that are measured at amortized cost and whose carrying amounts do not approximate fair value are shown below. 
+
+Score 0.444
+Classification of other liabilities 
+
+Score 0.444
+In relation to total assets adjusted for cash and cash equivalents the equity ratio was compared with in the previous year. Financial liabilities increased by million or . compared with the beginning of the year to million. As of the end of the reporting period cash and cash equivalents totaled million after million at the end of the previous year. Despite the positive operating free cash flow net financial debt of million was still reported at the end of previous year million. This was due in particular to the financing of the acquisition of Expal Systems S.A.U. The fund units held for trading strategic liquidity reserve not included in these figures were sold in full in previous year million. 
+
+Score 0.443
+Amendments to IAS and IFRS Supplier Finance Arrangements Amendments to IAS Lack of Exchangeability Amendments to IFRS and IAS Sale or Contribution of Assets between an Investor and its Associate or Joint Venture Date of initial application postponed indefinitely 
+
+Score 0.443
+Contract assets exist for contracts with customers under which sales are recognized over time and the performance rendered has not yet been billed. Contract assets increased by million as against the previous year to million previous year million. Contract liabilities result from the excess of advance payments received and other customer payments over the performance already rendered. Approximately two thirds of contract liabilities included in the items at the beginning of the fiscal year were recognized as income in fiscal . Contract liabilities increased by million to million previous year million. In addition there are assets in connection with the acquisition of contracts with customers which are as follows 
+
+Score 0.442
+Expenses Operating expenses are recognized when caused or when the underlying service is used. Interests and dividends Interest income and expense are recognized on an accrual basis. Dividends are recognized in income when the legal claim to payment is established. 
+
+Score 0.441
+The present value of the DBO from discontinued operations was million as of December previous year million. The change essentially results from the reclassification of pension provisions from discontinued operations to continuing operations for the first time as of September . In conjunction with negotiations with potential buyers of the smallbore pistons business at this time it became apparent that contrary to the original goal the disposal of smallbore pistons business would only be possible if the pension obligations due to retirees were excluded. This was confirmed with the signing of the contract for the sale of the smallbore pistons business see the information under note Discontinued operations. The pension obligations due to these pensioners amount to million as of December . The changes in financial assumptions and the experience adjustments in the actuarial losses arose across all companies. The actuarial losses from the change in financial assumptions in fiscal essentially result from lower discount rates. At the Swiss companies the value of the plan assets exceeds the present value of the DBO. As of December excess cover of the present value of the DBO due to an asset ceiling results in a partial asset ceiling previous year full asset ceiling. As a result a net defined benefit from plan assets is reported under other noncurrent nonfinancial receivables as of December see note Other Assets previous year no net asset recognized. This development is due to the lower yield curve compared to the previous year and the associated expectation of being able to reduce contributory payments in the future. In the United Kingdom the asset ceiling again resulted in a full asset ceiling as it did in the previous year. As Rheinmetall has no claim to reimbursements from the excess cover of the pension plans in the United Kingdom and the future contributions to the plans must not be reduced as a result of the excess cover the asset value must be limited. The service cost and the balance of entryleaving benefits are reported under personnel expenses. The interest expense and interest income from pensions are netted in net interest income. Employers and employees made total payments of million to plan assets previous year million. million previous year million of this relates to the allocation to CTA assets for pension obligations in Germany. Key pension plans The statements below refer to the pension plans of Group companies based in Germany Switzerland and the UK. 
+
+Score 0.438
+In Rheinmetall AG invested cash and cash equivalents in a Rheinmetall special fund strategic liquidity reserve. The investment was liquidated in . The cash received as a result was recognized as part of cash and cash equivalents. 
+
+Score 0.437
+ Deferred tax assets Deferred tax liabilities Deferred tax assets Deferred tax liabilities Loss carryforwards and tax credits Fixed assets
+
+Score 0.436
+ Operating free cash flow continuing operations Operating free cash flow discontinued operations Cash receipts from the disposal of property plant and equipment intangible assets and investment property Net cash outflow from financial investments indivestments of consolidated subsidiaries and other financial assets Cash inoutflows fromfor strategic liquidity reserve Free Cash Flow 
+
+Score 0.435
+Land land rights and buildings Production plant and machinery Other plant factory and office equipment Prepayments made and construction in progress Total As of Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of and Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.434
+There are also obligations in connection with service agreements and other purchase commitments of million previous year million. The purchase commitment from firm capital expenditure contracts totals million previous year million. The increase in the above obligations relates to the Groups growth and the positive order trend. 
+
+Score 0.433
+This nonfinancial statement of the Group which includes all continuing and discontinued business activities was prepared in line with the requirements of Sections b c in conjunction with Sections c to e HGB. Pursuant to section b sentence HGB reference is made to the nonfinancial disclosures included in another part of the Group management report for more detailed information on individual aspects. We use the standards of the Global Reporting Initiative GRI as a reporting basis when preparing the nonfinancial statement. In this way we want to ensure transparency and comparability. The fiscal year is the reporting period for the nonfinancial statement of the Group and there is an annual reporting cycle. 
+
+Score 0.433
+The liability component is subsequently measured at amortized cost using the effective interest method. By contrast the equity component remains unchanged during the term of the compound financial instrument. When exercising the conversion right at the end of the term the liability component is transferred to equity without any effect on profit or loss. The interest incurred in connection with the compound financial instrument is recognized through profit or loss. Inventories Inventories are carried at cost usually using the weighted average. Inherent risks due to reduced utility or to obsolescence are adequately allowed for. If the net realizable value of inventories is lower than their carrying amount as of the end of the reporting period they are written down to net realizable value. The writedown is recognized either as cost of materials raw materials and supplies or a change in inventories of finished products and work in progress. If the net realizable value of inventories previously written down increases the ensuing reversal is routinely offset against cost of materials raw materials and supplies or recognized as a change in inventories of finished products and work in progress. Assets held for sale and associated liabilities in discontinued operations A discontinued operation is a separate major line of business or geographical area of operations that either is held for sale or has already been sold and is clearly distinct from the entitys other operations both from a business perspective and for the purposes of financial reporting. A discontinued operation classified as held for sale in accordance with the criteria of IFRS is recognized in the consolidated financial statements under discontinued operations. At the reclassification date the discontinued operation is stated at the lower of carrying amount and fair value less costs to sell. Depreciation and amortization are suspended from the reclassification date. Assets and liabilities that are not within the scope of the measurement requirements of IFRS are measured in accordance with the standards applicable to them. The elimination entries for transactions between continuing and discontinued operations are assigned in full to discontinued operations. In reporting the activities of the discontinued operation are not assigned to a reportable segment. Assets and liabilities of discontinued operations are reclassified to the assets held for sale and liabilities directly associated with assets held for sale items in the statement of financial position. The previous years statement of financial position items are not reclassified. In the income statement the earnings after taxes of the discontinued operations are combined in a separate item as Earnings from discontinued operations. The previous years figures in the income statement are restated accordingly. The statement of cash flows continues to comprise the cash flows of the entire Group and is supplemented by an of which item for the net cash flows of discontinued operations. Contract assets and contract liabilities Contract assets are recognized in connection with contracts with customers if in the case of contract manufacturing the cumulative sales recognized over time exceed the sum of the advance payments received and progress billings. As of the end of the reporting period this asset item is tested for impairment and if necessary an impairment is recognized on the basis of expected losses. If the recognized sales are lower than the sum of the advance payments received and progress billings a contract liability is recognized. A contract liability is also recognized if advance payments are received and consideration has not yet been provided. Deferred taxes Deferred taxes are recognized for temporary measurement differences between items shown in the statement of financial position under IFRS and according to the local tax laws of the individual companies. Deferred tax assets also include the tax assets receivable from the expected future utilization of tax loss carryforwards if their realization is reasonably certain. Deferred taxes are calculated on the basis of the tax rates applicable or announced in each country as of the end of the reporting period. Income tax liabilities are recognized on the basis of appropriate estimates for obligations to the respective national tax authorities that are uncertain in terms of amount and probability of occurrence. The tax rate specific to the company effective at the end of the reporting period is used. Other factors are also taken into account such as experience from previous external audits and different legal interpretations between taxpayers and the tax authorities with regard to the issue at hand. Uncertain income tax items are recognized at the most likely amount. 
+
+Score 0.432
+Financial instruments according to the measurement categories of IFRS 
+
+Score 0.431
+Notes to the statement of cash flows 
+
+Score 0.431
+By making defined benefit pension commitments the Rheinmetall Group is exposed to various risks. As well as general actuarial risks arising from the measurement of pension obligations the plan assets harbor investment risks. The investment strategy and composition of assets managed by pension funds are geared towards yield targets risk tolerance and shortterm and mediumterm liquidity requirements. 
+
+Score 0.431
+We provide information on relevant risks in the Risks and opportunities section. 
+
+Score 0.43
+ Share capital Treasury stock notional value relating to the share capital Capital reserves Retained earnings Net earnings Equity Provisions Convertible bonds Liabilities due to banks Other liabilities Liabilities Deferred income Total Equity and liabilities 
+
+Score 0.43
+ Other noncurrent assets Deferred taxes Noncurrent assets
+
+Score 0.429
+Other operating expenses 
+
+Score 0.428
+Letter to shareholders Combined management report Consolidated financial statement Further information Nonfinancial aspects of business activities Governance 
+
+Score 0.427
+ Bank balances in credit institutions checks cash in hand Short term investments up to months to maturity 
+
+Score 0.426
+Financial information on the major investments accounted for using the equity method basis 
+
+Score 0.426
+Notes Sales Changes in inventories and work performed by the enterprise and capitalized Total operating performance Other operating income Cost of materials Personnel costs Amortization depreciation and impairment Other operating expenses Result from investments accounted for using the equity method
+
+Score 0.425
+ Net proceeds from the issue of a convertible bond Dividends paid by Rheinmetall AG Cash effective changes of other financial liabilities Cash inoutflows fromfor strategic liquidity reserve Cash Flow from financing activities 
+
+Score 0.425
+ Wages and salaries Social security and related employee benefits Pension expenses Expenses for redundancy plans termination indemnities partial retirement 
+
+Score 0.425
+The asset situation of Rheinmetall AG is largely defined by its holding function i.e. by the management of investments and the financing of Group activities. This is reflected above all in the amount of the investments held and in the receivables due from and liabilities owed to Group companies. 
+
+Score 0.425
+This report contains the key financial and nonfinancial information to provide our stakeholders with a comprehensive overview of our performance in fiscal . 
+
+Score 0.424
+The current securities are shares in Shriram Pistons Rings Ltd India measured at fair value and still held by the Rheinmetall Group as of December . Please refer to the information under note Investments accounted for using the equity method. The unrealized financial income amounted to million as of December previous year million. The increase in the net defined benefit from plan assets is explained under note Provisions for pensions and similar obligations. The contract acquisition costs are explained in note Sales . The subsidiesgrants receivable essentially relate to grants paid by public administrative bodies to subsidize the inhouse development of new technologies. Prepaid expenses particularly include advance payments for insurance and other services. 
+
+Score 0.424
+In fiscal a total of nine companies were added to the group of consolidated subsidiaries through being founded and three through being acquired. The disposals of fully consolidated subsidiaries from the scope of consolidation are attributable to three sales. In fiscal the scope of consolidation was expanded by three additions to joint operations in the form of newly founded entities. With regard to the investments accounted for using the equity method one joint venture and one associate were founded. Two associates left the scope of consolidation by way of the sale of shares. Further information can be found under note Discontinued operations. The companies included in the consolidated financial statements and all shareholdings in accordance with section HGB are listed in the list of shareholdings under note of the notes to the consolidated financial statements. 
+
+Score 0.422
+The table below discloses the remuneration granted and owed in accordance with section AktG both in the fiscal year under review and in the previous year. In addition the expenses in accordance with IAS for the company pension plan in the respective fiscal year are shown pension expenses. In accordance with the vestingbased interpretation the payment amounts of the STI allocation for fiscal year are shown in the remuneration report as the underlying activity for the remuneration has already been fully completed at the end of fiscal year . The relevant results for determining the target achievement levels can already be determined as of the end of fiscal year although the actual payment will not take place until the following year i.e. in fiscal year . No remuneration granted and owed is yet reported for the tranches of the LTI first allocated and redesigned in fiscal year as target achievement and the potential payout amount can only be made after the end of the respective fouryear performance period and will then also be reported according to the vestingbased interpretation. 
+
+Score 0.422
+Operating result Corporate transactions Restruc turing Others Special items PPA effects EBIT Rheinmetall Group Vehicle Systems Weapon and Ammunition Electronic Solutions Sensors and Actuators Materials and Trade Othersconsolidation 
+
+Score 0.422
+ Summarized financial statement of financial position Dec. Cash and cash equivalents Other current assets Total current assets Noncurrent assets Financial liabilities Other current liabilities Total current liabilities Financial liabilities Other noncurrent liabilities Total noncurrent liabilities Income statement information Sales Amortization and depreciation EBIT Net interest Income taxes Earnings after taxes 
+
+Score 0.421
+ Key information on discontinued operations statement of financial position 
+
+Score 0.42
+Cash and cash equivalents 
+
+Score 0.42
+Net result from financial instruments 
+
+Score 0.419
+Nonfinancial undertakings must disclose material information on investment planning for each of their specified economic activities. There is currently no clear interpretation of what the investment plan includes meaning that different interpretations exist with regard to the market. As part of its investment planning Rheinmetall considers all investments that are planned for current and future taxonomyaligned activities. Investments that serve to convert current taxonomyeligible business into future taxonomyaligned business are also considered. In addition to capital expenditure noncapitalized development costs for taxonomyaligned business activities are 
+
+Score 0.419
+Financial information of the immaterial investments accounted for using the equity method 
+
+Score 0.418
+Rheinmetalls business situation financial position and performance are exposed to financial risks from operating activities. The main financial risks are liquidity risks counterparty risks and market price risks arising from changes in interest rates exchange rates or raw material prices. Liquidity risk is the risk that existing or future payment obligations cannot be met cannot be met on time or can be met only with excessive costs. To manage this risk all cash transactions are recorded assessed and centrally aggregated within the scope of corporate planning and rolling monthly twelvemonth liquidity plans. The values calculated are compared with the available financial scope to identify any potential financing gaps early on. Scenarios such as catastropherelated sales slumps and payment defaults unexpected working capital requirements or reductions in credit facilities are simulated taking into account worstcase scenarios. When determining the necessary financial scope Rheinmetall takes great care to ensure that adequate reserves are held at all times. Counterparty risks arise in connection with deposits financing commitments or financial receivables such as positive fair values from hedging transactions as a result of the relevant counterpartys inability to pay or insolvency. Rheinmetall manages these risks through limitbased creditworthinesslinked and widely diversified lending from commercial banks. Financial transactions are conducted exclusively with banking or insurance partners that have an investment grade rating from recognized rating agencies or comparable credit ratings. Moreover in the allocation of business emphasis is placed on ensuring that in addition to sufficient diversification of the counterparties themselves diversification is pursued at country level as well. Default risks from the operating business can generally be assessed as low on account of the customer structure. In the case of largevolume or longterm business relations potential counterparty risks are individually analyzed and managed by means of prepayments milestone payments guarantees letters of credit or credit default swaps and special individual contractual frameworks. There are no customer or country dependencies that could jeopardize the continued existence of the Rheinmetall Group if they were to take a negative turn. 
+
+Score 0.418
+The fair values of derivatives as of the end of the reporting period should be seen in the context of the associated underlyings whose values develops in the opposite direction to that of derivatives regardless of whether these have already been recognized or are pending. The derivatives would produce a cash outflow at the amount shown above only if they were terminated early. The Rheinmetall Groups financial resources comprise cash cash equivalents financial current assets available for sale and the cash provided by operating activities. By contrast the capital requirements cover the redemption of financial liabilities principal and interest capital expenditure and the funds for the ongoing financing of operating activities. 

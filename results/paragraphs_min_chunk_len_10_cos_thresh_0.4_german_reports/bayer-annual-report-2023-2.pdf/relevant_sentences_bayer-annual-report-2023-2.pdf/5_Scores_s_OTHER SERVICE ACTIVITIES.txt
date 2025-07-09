@@ -1,0 +1,299 @@
+Scores_s_OTHER SERVICE ACTIVITIESScore 0.539
+ Special items of segments Special items of Enabling Functions and Consolidation Special items
+
+Score 0.533
+More information on the divisions products and activities is contained in the following table 
+
+Score 0.531
+Products and Activities of the Divisions 
+
+Score 0.526
+Activities of the Segments 
+
+Score 0.521
+Changes in the various provision categories in were as follows 
+
+Score 0.496
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned Turnover of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Manufacture of medicinal products Turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. Turnover of taxonomyeligible activities A.A. B. Taxonomynoneligible activities Turnover of taxonomynoneligible activities Total 
+
+Score 0.477
+Miscellaneous receivables contained other advanced payments for services amounting to million million. Other receivables are stated net of impairment losses of million million. 
+
+Score 0.468
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned OpEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Manufacture of medicinal products OpEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. OpEx of taxonomyeligible activities A.A. B. Taxonomynoneligible activities OpEx of taxonomynoneligible activities Total 
+
+Score 0.465
+Traderelated provisions are recorded mainly for obligations related to services performed but not yet invoiced and to sales commissions not recognized under trade accounts payable. 
+
+Score 0.465
+Sales of goods and servicesPurchase of goodsand servicesReceivablesLiabilities
+
+Score 0.462
+ Where not already included in the other special items categories 
+
+Score 0.461
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned CapEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Construction extension and operation of waste water collection and treatment .Renewal of waste water collection and treatment .Transport by motorbikes passenger cars and light commercial vehicles .Renovation of existing buildings .Installation maintenance and repair of energy efficiency equipment .Installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .Acquisition and ownership of buildings .Manufacture of medicinal products CapEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. .CapEx of taxonomyeligible activities A.A. B. Taxonomynoneligible activities CapEx of taxonomynoneligible activities Total 
+
+Score 0.455
+Land andbuildingsPlant installationsand machineryFurniture fixtures and other equipmentConstruction in progress and advance paymentsTotalCost of acquisition or construction December Acquisitions Capital expenditures Retirements Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Accumulated depreciation and impairment December Retirements Depreciation and impairment losses Depreciation Impairment losses Impairment loss reversals Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Carrying amounts December Carrying amounts December 
+
+Score 0.455
+TotalOf whichcurrentTotalOf whichcurrentOther tax receivables Deferred charges Net defined benefit asset Assets related to other longterm employee benefits Companyowned life insurance COLI Receivables from employees Reimbursement claims Miscellaneous receivables Total 
+
+Score 0.453
+ After special items and depreciationamortizationimpairments 
+
+Score 0.452
+Fringe benefits include costs assumed by the company for health screening and various workrelated insurance policies. Each member of the Board of Management has access to a company car including a driver for business and a reasonable amount of private use or receives a corresponding budget. In addition the company pays the cost of security installations at each members private residence. Workrelated moving expenses are either individually reimbursed or compensated in the form of a flatrate allowance. Any indemnity payments to new members of the Board of Management for variable compensation forfeited on termination of previous employment also constitute fringe benefits. 
+
+Score 0.452
+ thousand thousandBase compensation . .Fringe benefits . .Pension installment . Shortterm variable cash compensation STI STI . .Longterm stockbased cash compensation Aspire . Jan. Dec. Aspire . Jan. Dec. . .Service costbenefit expense IFRS .Total compensation . .
+
+Score 0.452
+ thousand thousandBase compensation . .Fringe benefits . .Pension installment .Shortterm variable cash compensation STI STI . .Longterm stockbased cash compensation Aspire . Jan. Dec. Aspire . Jan. Dec. . .Service costbenefit expense IFRS . Total compensation . .
+
+Score 0.445
+Other receivables were comprised as follows 
+
+Score 0.443
+DeferredtaxassetsDeferredtaxliabilitiesDeferredtaxassetsDeferredtaxliabilitiesIntangible assets Property plant and equipment Financial assets Inventories Receivables Other assets Provisions for pensions and other postemployment benefits Other provisions Liabilities Tax loss and interest carryforwards Tax credits Setoff Total 
+
+Score 0.441
+Base compensation Fringe benefits Pension installment Total shortterm nonperformancerelated compensation Shortterm performancerelated cash compensation Total shortterm compensation Stockbased compensation Aspire earned in the respective year Change in value of existing entitlements to stockbased compensation Aspire Total stockbased compensation longterm incentive Service cost for pension entitlements earned in the respective year Total longterm compensation Severance payments in connection with the termination of service contracts Total compensation IFRS 
+
+Score 0.438
+ such as Group Finance Human Resources and Information Technology serve as Groupwide competence centers and bundle business support processes and services for the divisions. Our Leaps by Bayer unit which invests in disruptive innovations also forms part of the enabling functions. 
+
+Score 0.435
+ Y Yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective N No activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective EL eligible activity is taxonomyeligible for the respective environmental objective NEL not eligible activity is not taxonomyeligible for the respective environmental objective. 
+
+Score 0.429
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned CapEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities EL NELEL NEL EL NELEL NELEL NELEL NELConstruction extension and operation of waste water collection and treatment CCM .ELNEL NELNELNELNELRenewal of waste water collection and treatment CCM ..ELNEL NELNELNELNELTransport by motorbikes passenger cars and light commercial vehicles CCM ..ELNEL NELNELNELNELRenovation of existing buildings CCM ..ELNEL NELNELNELNELInstallation maintenance and repair of energy efficiency equipment CCM ..ELNEL NELNELNELNELInstallation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings CCM .ELNEL NELNELNELNELAcquisition and ownership of buildings CCM ..ELNEL NELNELNELNELManufacture of medicinal products PPC ..NELNEL NELELNELNELCapEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. .. .CapEx of taxonomyeligible activities A.A. .. .B. Taxonomynoneligible activities CapEx of taxonomynoneligible activities .Total 
+
+Score 0.429
+Dec. Dec. Raw materials and supplies Work in process finished goods and goods purchased for resale Rights of return Advance payments Total 
+
+Score 0.428
+. Other receivables 
+
+Score 0.426
+Other receivables
+
+Score 0.426
+Other Receivables 
+
+Score 0.425
+ .Other financial liabilities .Receivables from derivatives
+
+Score 0.424
+. Discontinued operations assets and liabilities held for sale and divestments 
+
+Score 0.422
+The total operating expenditure identified as being taxonomyeligible and taxonomyaligned is shown in the following table 
+
+Score 0.421
+CarryingamountInterest and repaymentFinancial liabilities Bonds Liabilities to banks Remaining liabilities Trade accounts payable Other liabilities Accrued interest on liabilities Remaining liabilities Liabilities from derivatives With gross settlement Cash outflows Cash inflows With net settlement Cash inflowsoutflows Loan commitments Financial guarantees Total 
+
+Score 0.419
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned OpEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities EL NELEL NEL EL NELEL NELEL NELEL NELManufacture of medicinal products PPC ..NELNEL NELELNELNELOpEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. . .OpEx of taxonomyeligible activities A.A. . .B. Taxonomynoneligible activities OpEx of taxonomynoneligible activities .Total 
+
+Score 0.418
+Excluding fringe benefits and pension installmentservice cost. For definition and components of the compensation paid out see Chapter ..
+
+Score 0.418
+Dec. Dec. Land and buildings Investment property Plant installations and machinery Furniture fixtures and other equipment Construction in progress and advance payments Total 
+
+Score 0.417
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned Turnover of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities EL NELEL NEL EL NELEL NELEL NELEL NELManufacture of medicinal products PPC ..NELNEL NELELNELNELTurnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. . .Turnover of taxonomyeligible activities A.A. . .B. Taxonomynoneligible activities Turnover of taxonomynoneligible activities .Total 
+
+Score 0.413
+Miscellaneous 
+
+Score 0.413
+ Selected items forming part of the line item in the statement of financial position items that were predominantly noninterestbearing or nonoperating in nature were eliminated from capital employed. 
+
+Score 0.412
+Gains on retirements of noncurrent assets Income from reversal of impairment losses on receivables Income from reversal of unutilized provisions Gains from derivatives Sales revenues from products acquired through barter transactions Miscellaneous operating income Total 
+
+Score 0.408
+ in the divisions and enabling functions. 
+
+Score 0.407
+. Provisions for pensions and other postemployment benefits 
+
+Score 0.406
+. Product Stewardship 
+
+Score 0.404
+ Including shortterm receivables with maturities between and months outstanding from banks and other companies as well as financial investments in debt and equity instruments that were recorded as current on firsttime recognition 
+
+Score 0.402
+ Inventories Trade accounts receivable Other receivables
+
+Score 0.363
+Pension obligationsOther postemployment obligationsGermanyOther countriesOther countries
+
+Score 0.256
+The following weighted parameters were used to measure the obligations for pensions and other postemployment benefits as of December of the respective year 
+
+Score 0.059
+GermanyOther countriesTotal 
+
+Score 0.302
+Parameters for Benefit Obligations 
+
+Score 0.025
+Fair Value of Plan Assets as of December 
+
+Score 0.148
+The Heubeck RT G mortality tables were used in Germany the MP Mortality Tables in the United States and of SNMA and of SNFA in the United Kingdom. The projected future benefit increase in Germany was adjusted to . and would have been . based on the previous estimate method which had combined longterm expectations and cumulative inflation in a uniform benefit increase rate .. The estimate method was refined compared with the previous years to directly account for cumulative inflation up to the next benefit increase when measuring the individual obligations in question. The refined process thus takes into account cumulative inflation and longterm inflation forecasts demographic specifics as well as the adjustment mechanism at Bayer. The refinement increased the defined benefit obligation by million at the expense of other comprehensive income. 
+
+Score 0.285
+Plan assets based on quoted prices in active markets Real estate and special real estate funds Equities and equity funds Callable debt instruments Noncallable debt instruments Bond funds Derivatives Cash and cash equivalents Other Plan assets for which quoted prices in active markets are not available Real estate and special real estate funds Equities and equity funds Callable debt instruments Noncallable debt instruments Bond funds Derivatives Cash and cash equivalents Other Total plan assets 
+
+Score 0.274
+ Pension obligations Discount rate ..... .of which USA ... .of which UK ... .Projected future salary increases ..... .Projected future benefit increases ..... .Other postemployment benefit obligations Discount rate ... .
+
+Score 0.253
+Sensitivity of Benefit Obligations 
+
+Score 0.015
+Measurement parameters and their sensitivities 
+
+Score 0.195
+A decline in capital market interest rates especially for highquality corporate bonds would increase the defined benefit obligation. This effect would be at least partially offset by the ensuing increase in the market values of the corresponding debt instruments held. 
+
+Score 0.226
+Plan assets included assets with a carrying amount of million million whose fair values are not determined based on quoted prices in active markets. The plan assets in Germany included real estate leased by Group companies recognized at a fair value of million million and Bayer AG shares and bonds held through investment funds recognized at their fair values of million million and million million respectively. The other plan assets comprised mortgage loans granted other receivables and qualified insurance policies. 
+
+Score 0.146
+The risks from defined benefit plans arise partly from the defined benefit obligations and partly from the investment in plan assets. These risks include the possibility that additional contributions will have to be made to plan assets in order to meet current and future pension obligations and negative effects on provisions and equity. 
+
+Score 0.052
+Demographicbiometric risks 
+
+Score 0.199
+Since a large proportion of the defined benefit obligations comprises lifelong pensions or surviving dependents pensions longer claim periods or earlier claims may result in higher benefit obligations higher benefit expense andor higher pension payments than previously anticipated. 
+
+Score 0.012
+Interestrate risk 
+
+Score 0.065
+Investment risks 
+
+Score 0.146
+If the actual return on plan assets were below the return anticipated on the basis of the discount rate the funded status of defined benefit plans would decrease assuming there were no changes in other parameters. This could happen as a result of a drop in share prices increases in market rates of interest for certain bonds default of individual debtors or the purchase of lowrisk but lowinterest bonds for example. 
+
+Score 0.245
+The parameter sensitivities were computed by expert actuaries based on a detailed evaluation similar to that performed to obtain the data presented in Table B . Altering individual parameters by . percentage points or mortality by per beneficiary while leaving the other parameters unchanged would have impacted pension and other postemployment benefit obligations as of yearend as follows 
+
+Score 0.167
+A Zusammengefasster LageberichtFehler Kein Text mit angegebener Formatvorlage im Dokument.BayerGeschäftsbericht 
+
+Score 0.059
+GermanyOther countriesTotal
+
+Score 0.205
+Bayer had previously been committed to making deficit contributions for its UK pension plans of approximately GBP million annually although this fixed commitment ceased to apply from . For its US pension plans Bayer did not make any deficit contributions in or in and expects to make zero or only very low regular payments in as most of these plans are closed and frozen. Pensions and other postemployment benefits payable in the future from funded and unfunded plans are estimated as follows 
+
+Score 0.247
+Provisions for environmental protection are mainly established for the expected costs of ensuring compliance with environmental regulations remediation work on contaminated land recultivation of landfills and redevelopment and water protection measures. 
+
+Score 0.287
+Environmental protection 
+
+Score 0.301
+The provisions were partly offset by reimbursement claims in the amount of million million which were recognized as receivables. These reimbursement claims primarily related to product liability. 
+
+Score 0.226
+Other taxesEnvironmentalprotectionRestructuringTraderelatedcommitmentsLitigationsPersonnelcommitmentsMiscellaneousTotalJanuary Additions Utilization Reversal Interest cost Exchange differences December of which current 
+
+Score 0.316
+Changes in Other Provisions 
+
+Score 0.369
+. Other provisions 
+
+Score 0.059
+The weighted average term of the pension obligations is . years . years in Germany and . years . years in other countries. The weighted average term of the obligations for other postemployment benefits in other countries is . years . years. 
+
+Score 0.104
+GermanyOther countries Other countriesTotalGermanyOther countriesOther countriesTotal 
+
+Score 0.375
+Payments out of plan assetsPayments by the company PensionsOther postemploymentbenefitsPensionsOther postemploymentbenefits
+
+Score 0.206
+Future Benefit Payments 
+
+Score 0.229
+expected expectedPension obligations Other postemployment benefit obligations Total 
+
+Score 0.278
+IncreaseDecreaseIncreaseDecreaseIncreaseDecreasePension obligations .pt. change in discount rate .pt. change in projected future salary increases .pt. change in projected future benefit increases change in mortality Other postemployment benefit obligations .pt. change in discount rate change in mortality 
+
+Score 0.048
+GermanyOther countries
+
+Score 0.138
+Employer Contributions Paid or Expected 
+
+Score 0.37
+The following payments or asset contributions correspond to the employer contributions made or expected to be made to funded benefit plans 
+
+Score 0.112
+Payments made and expected future payments 
+
+Score 0.26
+Impact on other postemployment benefit obligations Impact on benefit expense 
+
+Score 0.012
+Increase of pt.Decrease of pt. 
+
+Score 0.066
+Sensitivity to Healthcare Cost Increases 
+
+Score 0.257
+The following table shows the impact on other postemployment benefit obligations and total benefit expense of a onepercentagepoint change in the assumed cost increase rates 
+
+Score 0.276
+Provisions are also established for the obligations mainly of US subsidiaries to provide postemployment benefits in the form of healthcare cost payments for retirees. The valuation of healthcare costs was based on the assumption that they will increase at a rate of . .. It was assumed that this rate of increase will gradually decline to . . by by . 
+
+Score 0.169
+Sensitivity of Benefit Obligations Previous Year 
+
+Score 0.256
+The fair value of the plan assets to cover pension and other postemployment benefit obligations was as follows 
+
+Score 0.282
+Pension plansOther postemployment benefit plans Germany Other countriesTotalOther countries 
+
+Score 0.156
+on a proposal from the responsible actuary. It takes into account the differences between the actuarial estimates and the actual values for the factors used to determine liabilities and contributions. Bayer may also adjust the company contribution in agreement with the plans executive committee and its supervisory board acting on a proposal from the responsible actuary. The plans liability is governed by Section Paragraph Sentence of the German Law on the Improvement of Occupational Pensions BetrAVG. This means that if the pension plan exercises its right under the articles of association to reduce benefits each participating employer has to make up the resulting difference. Bayer is not liable for the obligations of participating employers outside the Bayer Group even if they cease to participate in the plan. Pension entitlements for people who joined Bayer in Germany in or later are granted via Rheinische Pensionskasse VVaG Germany. Future pension payments from this definedbenefit multiemployer plan are based on contributions and the return on plan assets a guaranteed interest rate applies. All of the German Insurance Supervision Act regulations and BetrAVG provisions described in the section above on BayerPensionskasse apply analogously to Rheinische Pensionskasse. Another important financing vehicle is Bayer Pension Trust e. V. BPT Germany. This covers further retirement provision arrangements of the Bayer Group such as deferred compensation pension obligations previously administered by Schering Altersversorgung Treuhand e. V. Germany and components of other direct commitments. The defined benefit pension plans in the United States are frozen and no significant new entitlements can be earned under these plans. The assets of all the US pension plans are held by a master trust for reasons of efficiency. The applicable regulatory framework is based on the Employee Retirement Income Security Act ERISA which includes a statutory minimum funding requirement to avoid benefit restrictions. The actuarial risks such as investment risk interestrate risk and longevity risk remain with the company. The defined benefit pension plans in the United Kingdom have been closed to new members for some years. Plan assets in the UK are administered by independent trustees who are legally obligated to act solely in the interests of the beneficiaries. A technical assessment is performed every three years in line with UK regulations. This serves as the basis for developing a plan to cover any potential financing requirements. Here too the actuarial risks remain with the company. The other postemployment benefit obligations outside Germany mainly comprised healthcare benefit payments for retirees in the United States. 
+
+Score 0.253
+Trade Accounts Receivable Loss Allowances 
+
+Score 0.147
+Fully Issued Shares 
+
+Score 0.15
+The capital stock of Bayer AG on December amounted to million million divided into registered nopar shares and was fully paid in. Each nopar share confers one voting right. 
+
+Score 0.179
+Capital stock and capital reserves 
+
+Score 0.171
+The foremost objectives of our financial management are to maintain business operations long term help bring about a sustained increase in Bayers value for the benefit of all stakeholders and to ensure the Groups creditworthiness and liquidity. The pursuit of these goals means reducing our cost of capital optimizing our capital structure improving our financing cash flow and effectively managing risk. The Groups capital management is based on the debt indicators used by the rating agencies. These indicators which vary in their design represent the ratio of period earnings to debt. We have the ambition to reduce our financial debt considerably to increase profit and cash flow and to improve our current investment grade ratings toward the A category. The contracted rating agencies assess Bayer as follows SP Global assigns a longterm rating of BBB and a shortterm rating of A with a positive outlook Moodys a BaaP with a negative outlook and Fitch Ratings a BBBF with a negative outlook. These investment grade ratings from all three agencies reflect the companys high solvency and ensure access to a broad investor base for financing purposes. In addition to utilizing cash inflows from our operational business to reduce net financial debt we are implementing our financial strategy by way of vehicles such as subordinated hybrid bonds and a potential share buyback program. Net financial debt comprises bonds liabilities to banks lease liabilities liabilities from derivative financial instruments and other financial liabilities less receivables from derivative financial instruments cash and cash equivalents as well as current financial assets. Bayer is not subject to any minimum capital requirements from major financing measures at the Group level. 
+
+Score 0.232
+Capital management 
+
+Score 0.205
+The individual equity components and the changes therein during and are shown in the Bayer Group Consolidated Statements of Changes in Equity. 
+
+Score 0.257
+An excessofloss policy exists for the Pharmaceuticals and Consumer Health segments as part of a global credit insurance program. More than of the receivables of these segments are insured up to a maximum total annual compensation payment of million million. A global excessofloss policy is in place for the Crop Science segment. In this global credit insurance program more than of this segments receivables are insured up to a maximum total annual compensation payment of million million. A further million million of receivables was secured by advance payments letters of credit or guarantees or by liens on land buildings or harvest yields. 
+
+Score 0.131
+Trade Accounts Receivables Expected Loss Rates Previous Year 

@@ -1,0 +1,299 @@
+Scores_e_WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIESScore 0.577
+To make a substantial contribution to the environmental objective climate change mitigation the technical screening criteria for business activities in this category require that at least by weight of the separately collected and processed nonhazardous waste is converted into secondary raw materials. Moreover the resulting recycled materials must be able to substitute virgin materials in production processes. The slag treatment performed in the course of this activity achieves recycling rates that exceed the minimum requirements. In addition the secondary raw materials obtained can substitute both virgin construction materials and fertilizers. Evidence of this is provided by an analysis of the production and use of slag from iron and steel works by a research institute specializing in construction materials. Fulfillment of the DNSH criteria in the performance of this economic activity was reviewed in accordance with the procedures and verification documents outlined in the specific sections. 
+
+Score 0.548
+Waste management that prioritizes recycling over disposal in the manufacturing process 
+
+Score 0.541
+A.. Environmentally sustainable activities Taxonomyaligned Manufacture of renewable energy technologies CCM . Y NEL NEL NEL NEL NEL Y Y Y Y Y Y Y E Manufacture of equipment for the production and use of hydrogen CCM . Y NEL YEL NEL NEL NEL Y Y Y Y Y Y Y E Material recovery from nonhazardous waste CCM . Y NEL NEL NEL NEL NEL Y Y Y Y Y Y Y OpEx of environmentally sustainable activities Taxonomyaligned A. Thereof enabling activities Thereof transitional activities A. TaxonomyEligible but not environmentally sustainable activities not Taxonomyaligned Manufacture of renewable energy technologies 
+
+Score 0.525
+Information on and traceability of substances of concern in products In the case of business activities that are considered in the screening procedure for taxonomy alignment in a reporting year suitable evidence is obtained for the sites of relevance to the performance of these activities on the basis of which it can be established that an assessment of the availability of processes in support of the circular economy has been performed or that such practices are already used in the context of this business activity. Such evidence includes for example operating permits compliance audits relating to waste disposal law environmental audits or productspecific documents that provide information about the composition of materials or other properties of the products manufactured in the course this business activity that are relevant to this matter. 
+
+Score 0.525
+Thereof enabling activities 
+
+Score 0.516
+The DNSH criteria relating to Sustainable use and protection of water and marine resources require an assessment of the risks relating to water quality and the avoidance of water shortages as well as the elimination of such risks if these have not already been identified and eliminated in the environmental impact assessments pursuant to Directive EU. For operations in third countries risks analyses of this type must be performed in accordance with the applicable national laws or international standards with the proviso that the aspirational level for good quality water resources is comparable to that of the European regulations. In the case of business activities that are considered in the screening procedure for taxonomy alignment in a reporting year suitable evidence is obtained for the sites of relevance to the performance of these activities on the basis of which it can be established that such risk analyses have been performed and any necessary mitigation measures have been implemented. Such evidence includes for example operating permits preliminary reviews in respect of environmental impact assessments or the environmental impact assessments themselves environmental audits or specific risk analyses in respect of the requirements described in this section. 
+
+Score 0.506
+Disposal groups and discontinued operations 
+
+Score 0.499
+Disposal group 
+
+Score 0.496
+Material recovery from nonhazardous waste 
+
+Score 0.489
+Thereof transitional activities 
+
+Score 0.486
+CCM . Material recovery from nonhazardous waste 
+
+Score 0.482
+Disposal groups 
+
+Score 0.479
+Environmental management at our sites 
+
+Score 0.473
+A single noncurrent asset is classified as held for sale if its carrying amount will be recovered principally through a sale transaction rather than through continuing use. The group reports assets and liabilities as a disposal group that will be disposed of by sale or otherwise in a single transaction which collectively meet the held for sale criteria as specified in IFRS Noncurrent Assets Held for Sale and Discontinued Operations. The group reports the assets and liabilities of a disposal group separately in the balance sheet line item assets held for saledisposal and liabilities associated with assets held for saledisposal respectively. Unless a disposal group qualifies for discontinued operations reporting the revenues and expenses of the disposal group remain within continuing operations until the date of disposal. The group reports the results of a disposal group that also qualifies as a separate component of the group as discontinued operations if it represents a separate major line of business or geographical area of operations. The group reports the results of discontinued operations in the period in which they occur separately within the consolidated statement of income as discontinued operations net of tax. All prior period consolidated statements of income are adjusted to report the results of the component within discontinued operations. In the consolidated statement of cash flows the cash flows resulting from discontinued operations are presented separately from cash flows resulting from continuing operations prior year presentation has been adjusted accordingly. On initial classification as held for sale noncurrent assets and disposal groups are recognized at the lower of the carrying amount and fair value less costs of disposal and depreciation and amortization ceases. Immediately before this a noncurrent asset or disposal group is initially measured in line with the respective IFRS standards to determine the carrying amount which is then compared to the fair value less costs of disposal of the group in order to recognize the group at the lower of both amounts. Impairment losses on initial classification as held for sale are included in profit or loss as are gains and losses on subsequent remeasurement but not in excess of the cumulative impairment loss.
+
+Score 0.471
+Fixtures and equipment are stated at cost less accumulated depreciation and impairment losses. Capitalized production costs for selfconstructed assets include costs of material direct labor and allocable material and manufacturing overhead. Borrowing costs directly attributable to the production of assets that necessarily take a substantial period of time to get ready for their intended use are added to the cost of those assets until such time as the assets are substantially ready for their intended use. Administrative costs are capitalized only if such costs are directly related to production. Maintenance and repair costs daytoday servicing are expensed as incurred. The group recognizes in the carrying amount of an item of property plant and equipment the cost of replacing parts and major inspection of such an item if it is probable that the future economic benefits embodied within the item will flow to the group and the cost of the item can be measured reliably. Where fixtures and equipment comprise of significant parts having different useful lives those parts are depreciated separately. Fixtures and equipment are depreciated over the customary useful life using the straightline method. The following useful lives are used as a basis for calculating depreciation 
+
+Score 0.466
+In order to determine thyssenkrupps taxonomyeligible business activities the delegated acts issued in respect of the environmental objectives of the EU Taxonomy were analyzed at group level by a team of experts. Those group business activities that are consistent with the description of an economic activity are assigned to the economic activities listed in the delegated acts. The resulting list of potential taxonomyeligible business activities is then assessed and finalized by experts from the segments and operating entities that perform the respective activity. This process also validates the conditions for the taxonomy eligibility of business activities that were already reported as taxonomyeligible in previous reporting periods. In fiscal year the following business activities of thyssenkrupp were reported as taxonomyeligible 
+
+Score 0.463
+As well as the manufacturing of aircraft the description of the activity includes the manufacturing of parts and equipment for aircraft the provision of related services as well as Maintenance Repair and Overhaul MRO to the extent that these can be linked to an eligible aircraft type and improves or maintains the level of efficiency of the aircraft. The efficiency of the aircraft is an ambiguous legal term because it is not explained in more detail in the delegated act. For this reason the term is interpreted as all costbenefit relationships that can be associated with an aircraft. That is why we define the recyclability at the end of the life cycle of the aircraft components manufactured in the context of this economic activity as a criterion for efficiency. 
+
+Score 0.461
+DNSH criteria Sustainable use and protection of water and marine resources 
+
+Score 0.457
+A. TaxonomyEligible but not environmentally sustainable activities not Taxonomyaligned Manufacture of renewable energy technologies 
+
+Score 0.455
+ Unfavorable constellations and developments at our sites could expose us to a risk of business interruptions and property damage. In addition to the cost of repairing damage there is above all the risk that a business interruption might result in production losses and thus jeopardize the fulfillment of our contractual obligations towards our customers. We work to counter these risks through regular preventive maintenance measures and through modernization and investment in our machinery and production facilities. In addition we take out appropriate insurance and therefore transfer risks to external service providers. The remaining financial risks in this category are still classified as medium. Accident risks and the related risk of harming people cannot be completely ruled out in the production installation maintenance and use of our products. A safetyoriented corporate culture and the extensive occupational health and safety measures implemented by our occupational safety organization are intended to help minimize the accident risks faced by our employees and subcontractors. In our production plants and during transportation there are processrelated environmental risks relating to air and water pollution. Furthermore some of the groups real estate no longer used for operations is subject to risks from past pollution and mining subsidence. To minimize risks thyssenkrupp invests continuously and sustainably in environmental protection and scheduled remediation and maintains a close dialog with authorities local communities and political representatives. We recognize adequate provisions for dealing with past pollution. Further details on production risks in our businesses can be found in the section Operational risks of the businesses. 
+
+Score 0.453
+The CapEx plan of thyssenkrupp includes capital expenditures intended to allow the taxonomyeligible steel production activities of the thyssenkrupp group to become taxonomyaligned with respect to the environmental objective Climate change mitigation. The purpose of the capital expenditure is the construction and operational capability of a hydrogencapable direct reduction DR plant allowing lowcarbon manufacture of iron and steel by thyssenkrupp. The Executive Board of thyssenkrupp approved the planned capital expenditure on February and the DR plant is scheduled to come into operation by the end of . The taxonomy alignment of the activity associated with operating the plant is likely to be achieved in fiscal year . The capital expenditure disclosed both for the reporting period and for the entire period of the CapEx plan has been reduced by the government grants thyssenkrupp received and receives for this project see Group financial statements Note Property plant and equipment and Note Other nonfinancial assets. Overall a negative CapEx figure resulted for fiscal year because the government grants the figure contains exceeded the acquisition costs incurred in the reporting year. 
+
+Score 0.451
+A group of assets that are intended for disposal by sale or otherwise in a single transaction along with the liabilities directly related to these assets 
+
+Score 0.45
+ENVIRONMENTAL OBJECTIVES ACCORDING TO ARTICLE OF THE EU TAXONOMY
+
+Score 0.449
+SocietyEconomyEnvironmentProductsProcessesSupply chain
+
+Score 0.447
+In accordance with Article of the EU Taxonomy as part of its NonFinancial Statement which is integrated into this Management Report thyssenkrupp provides information on how and to what extent its business activities qualify as environmentally sustainable based on this classification system. As in the prior year this reporting relates to the environmental objectives climate change mitigation and climate change adaptation and provides information on taxonomyeligible taxonomynoneligible and taxonomyaligned turnover capital expenditure CapEx and operating expenditure OpEx. In the case of business activities assigned to an economic activity as defined in Delegated Regulation EU or EU reporting is restricted to taxonomyeligible and taxonomynoneligible turnover CapEx and OpEx. At thyssenkrupp this concerns disclosures in connection with the manufacture of automotive and mobility components and aircraft as well as all business activities that can be assigned to nonclimaterelated environmental objectives. 
+
+Score 0.446
+Our environmental climate and energy management systems are based on the groups global environmental and energy policy and a corresponding group regulation. This regulation requires all companies with environmentally relevant activities for example because they operate plants that are subject to environmental permits to implement and maintain an environmental management system in accordance with ISO . With the aid of certified environmental management systems we are continuously improving the environmental performance of our sites in order to fulfill our ambitious environmental targets. Throughout the life cycle of our products and processes we raise efficiency in the use of resources and minimize harmful emissions. We are aware of our ecological and social responsibility. Our binding obligations include both compliance with legal and regulatory requirements and respecting environmentally relevant due diligence obligations. Activities regarded as environmentally relevant are defined in our group regulation. Since fiscal year many environmentally relevant thyssenkrupp group companies within the meaning of this regulation have had an environmental management system certified in accordance with ISO . In the reporting period around of thyssenkrupp sites in terms of the total workforce had an environmental management system that was implemented and certified in accordance with ISO . 
+
+Score 0.444
+To determine the taxonomyaligned business activities profiles of the requirements are created for each economic activity on the basis of the delegated acts adopted for the environmental objectives of the EU Taxonomy. The qualitative and quantitative screening criteria are extracted from the delegated acts and translated into documentation requirements for the segments and entities that perform the activities. The profiles also include the documentation requirements resulting from the minimum safeguards pursuant to Article of the EU Taxonomy. The evidence for the business activities that must be considered in the screening procedure for taxonomy alignment in a reporting year is compiled in accordance with these profiles of requirements. This process is managed centrally by a team of experts and representatives of the corporate functions. It is then implemented in cooperation with the thyssenkrupp segments and operating entities that perform the activities. Below is a list of the profiles of requirements for the business activities that were screened for their taxonomy alignment in the reporting period with a positive outcome. It explains the specific screening criteria for each economic activity i.e. the criteria for making a substantial contribution to at least one environmental objective of the EU Taxonomy and special DNSH criteria. By contrast the review of general DNSH criteria in accordance with the annexes of the delegated acts for the environmental objectives and the assessment of the availability and application of certain processes to promote the circular economy are explained in the respective DNSHspecific sections. 
+
+Score 0.44
+Provisions for other contractual costs represent impending losses from uncompleted contracts. The reversals particularly relate to the Automotive Technology segment. The provision for restructurings consists of provisions for employee termination benefits and exit costs which have been established by operating divisions for costs incurred in connection with activities which do not generate any future economic benefits for the group. Restructurings are being carried out in all segments. The additions to restructuring provisions in the fiscal year in the amount of million in total consists of million at Automotive Technology million at Decarbon Technologies million at Materials Services million at Steel Europe and million at Service Units. The provision for decommissioning obligations mainly consists of obligations associated with mining activities and recultivating landfills. Obligations associated with mining activities and recultivating landfills are generally handled over long periods of time in some cases more than years. The technical parameters are very complex. As a result uncertainty exists with regard to the timing and concrete amount of the expenses. Obligations to secure incurred mining claims with a term of more than years amount to million as of September prior year million. The calculation was based on a discount rate of . prior year . appropriate to the term. The change in the obligation is in particular the result of the reduced interest rate. Other provisions include provisions for litigation risks environmental obligations and other risks from individual items not allocable to other positions. 
+
+Score 0.44
+The DNSH criteria relating to Pollution prevention and control require that economic activities do not lead to the manufacture placing on the market or use of substances or groups of substances whether on their own in mixtures or in articles that are subject to European regulation. These include 
+
+Score 0.437
+Property plant and equipment 
+
+Score 0.437
+Balance as of Sept. Additions Disposals Balance as of Sept. Additions Disposals Balance as of Sept. 
+
+Score 0.436
+In connection with the divestment process initiated a review of the measurement of the assets in accordance with IAS was conducted immediately before the firsttime classification as a disposal group in the st quarter of . This did not result in any need for impairment. Following the firsttime classification as a disposal group the measurement of the disposal group at fair value less the costs of disposal resulted in impairment losses of million in respect of intangible assets. The impairment losses were reported in other expenses in the st quarter of . In the nd quarter of the subsequent measurement of the disposal group at fair value less the costs of disposal resulted in further impairment losses of million which related to intangible assets and were reported in other expenses. In both quarters the nonrecurring measurement at fair value less the costs of disposal was based on the negotiated purchase price. The deconsolidation resulted in a loss of million which was disclosed in other gains and losses in the rd quarter of . 
+
+Score 0.43
+Business activities are taxonomyaligned if they meet the technical screening criteria specified in the delegated acts and therefore make a substantial contribution to achieving one or more of the environmental objectives of the EU Taxonomy do no significant harm to one or more environmental objectives pursuant to Article of the EU Taxonomy DNSH criteria and also meet the minimum social safeguards pursuant to Article . 
+
+Score 0.428
+As well as continuing to drive forward the green transformation of our own processes we deliver numerous innovative solutions that offer our customers support in implementing their own climate and resourcesaving processes and introducing more sustainable products. The most prominent example of our green transformation is our target of climateneutral steel production by at the latest. The key element in achieving this target is the construction of our first direct reduction plant and two smelters at the Duisburg site. The two electricitypowered smelting units enable the direct reduction plant to be integrated smoothly into the existing production network. This has the big advantage that all established tried and tested processes at the oxygen steelworks in Duisburg can be retained. This is where the liquid product is processed into the wellknown steel grades. You can find further information in the section Segment review subsection Steel Europe. In a project partnership with a customer and an industrial partner Uhde is developing sustainable solutions for the chemical industry from laboratory scale to industrial maturity. The manufacture of phosphoric acid for use in phosphate fertilizers generates large amounts of phosphogypsum as a byproduct. Uhde is developing a process to purify and process the phosphogypsum for use in the construction industry for example. This avoids the need for landbased storage or dumping at sea. In addition the phosphogypsum can be reacted with CO
+
+Score 0.428
+A.. Environmentally sustainable activities Taxonomyaligned Manufacture of renewable energy technologies 
+
+Score 0.428
+CCM . Manufacture of renewable energy technologies Thereof additions related to taxonomyaligned business activities Thereof additions as part of a CapEx plan Thereof additions due to business combinations CCM . Manufacture of equipment for the production and use of hydrogen Thereof additions related to taxonomyaligned business activities Thereof additions as part of a CapEx plan Thereof additions due to business combinations CCM . Manufacture of iron and steel Thereof additions related to taxonomyaligned business activities Thereof additions as part of a CapEx plan Thereof additions due to business combinations CCM . Material recovery from nonhazardous waste Thereof additions related to taxonomyaligned business activities Thereof additions as part of a CapEx plan Thereof additions due to business combinations 
+
+Score 0.427
+A. TAXONOMYELIGIBLE ACTIVITIES 
+
+Score 0.425
+CapEx of environmentally sustainable activities Taxonomyaligned A. 
+
+Score 0.424
+Repayments of bonds Proceeds from liabilities to financial institutions Repayments of liabilities to financial institutions Lease liabilities Proceeds fromrepayments on loan notes and other loans Payment of thyssenkrupp AG dividend Proceeds from capital increase Profit attributable to noncontrolling interest Expenditures for acquisitions of shares of already consolidated companies Proceeds from disposals of shares of already consolidated companies Other financial activities Cash flows from financing activities Net increasedecrease in cash and cash equivalents Effect of exchange rate changes on cash and cash equivalents Cash and cash equivalents at beginning of reporting period Cash and cash equivalents at end of reporting period thereof cash and cash equivalents within the disposal groups Additional information regarding cash flows from interest dividends and income taxes which are included in operating cash flows Interest received Interest paid Dividends received Income taxes paidreceived 
+
+Score 0.424
+Difference between cash and cash equivalents shown in the statement of financial position plus current debt instruments and current and noncurrent financial debt. The corresponding assets and liabilities of the disposal groups where applicable are also taken into account. Net financial assets are shown as a positive figure in the tables. 
+
+Score 0.421
+Revenue from the sale of goods and commodities is recognized at the point in time at which control is transferred to the customer. The time of transfer of control is determined partly on the basis of the delivery clauses agreed with the customer. In the case of goods and commodities supplied under consignment arrangements sales revenue is generally recognized when the corresponding goods are removed from consignment by the customer. Sales revenue from contracts with customers in the plant construction business is recognized over time based on the stage of completion. The stage of completion is as a rule determined by the ratio of contract costs incurred up to the reporting date to the total estimated contract costs as of the reporting date costtocostmethod. Contract losses are recognized as expense immediately and reported in the statement of financial position under other provisions. The recognition of revenue over time for the performance of services is generally carried out through linear allocation of the transaction price over the service performance period. Incremental costs of obtaining a contract with a customer are capitalized under noncurrent nonfinancial assets only if they relate to contracts with an original expected duration of more than months. They are amortized by the straightline method over the term of the contract. If the performance obligations fulfilled for the customer exceed the payments received or due from the customer contract assets are recognized in the statement of financial position on a net basis insofar as the right to receive payment from the customer is still conditional. Unconditional rights to receive payment are recognized under trade accounts receivable and from this point payment automatically becomes due with the passage of time. If the payments received or due from the customer exceed the performance obligations fulfilled contract liabilities are recognized in the statement of financial position on a net basis. 
+
+Score 0.42
+ technology Biopolymere Clean ammonia fertiliser Gas scrubbing technology polysius
+
+Score 0.42
+ will be captured each year when the plant comes in operation in . After treatment the CO
+
+Score 0.419
+CCM Climate change mitigation CCA Climate change adaption WTR Sustainable use and protection of water and marine resources CE Transition to a circular economy PPC Pollution prevention and control BIO Protection and restoration of biodiversity and ecosystems 
+
+Score 0.418
+Sales of environmentally sustainable activities Taxonomyaligned A. 
+
+Score 0.417
+In the case of business activities that are considered in the screening procedure for taxonomy alignment in a reporting year suitable evidence is obtained for the sites of relevance to the performance of these activities on the basis of which it can be established that none of the aforementioned substances on their own in mixtures or in articles are manufactured placed on the market or used or that this is done only in accordance with the exemptions described above. Such evidence includes for example lists of substances with a CLP classification in accordance with Regulation EC No. declarations of conformity safety data sheets and declarations of RoHS compliance from the sites that perform the activities. 
+
+Score 0.416
+OpEx of Taxonomyeligible but not environmentally sustainable activities not Taxonomyaligned A. 
+
+Score 0.416
+Materials expense comprises the groups total spend on products and services. In the reporting year compared with it decreased by to billion due to price and volumeinduced declines. Materials expense as a percentage of sales therefore came to prior year . Depending on the business model the percentages of the individual businesses ranged between Marine Systems and Materials Services. The following table shows the materials expense of each individual business in absolute figures 
+
+Score 0.415
+CCM Climate change mitigation CCA Climate change adaptation WTR Sustainable use and protection of water and marine resources CE Transition to a circular economy PPC Pollution prevention and control BIO Protection and restoration of biodiversity and ecosystems 
+
+Score 0.415
+Further activities in the reporting year relating to each of the three elements of the compliance program can be summarized as follows 
+
+Score 0.412
+Turnover is the main parameter used as the basis for technical screening criteria for assessing the taxonomy alignment of business activities. This applies analogously to capital and operating expenditures associated with these business activities irrespective of their intended purpose. For example on the basis of their intended purpose capital expenditures for a business activity could potentially be allocated to a different economic activity listed in the delegated acts which in turn could involve different screening criteria. This is ruled out by applying the principle that turnover has the priority. In the case of business activities allocated to a research and developmentrelated economic activity on the basis of turnover the technical screening criteria are derived from capital and operating expenditure. 
+
+Score 0.411
+In fiscal year the turnover generated by taxonomyeligible economic activities amounted to million which was of the groups total turnover. This increase by percentage points resulted mainly from the firsttime classification of the economic activities Manufacture of automotive and mobility components and Manufacturing of aircraft as taxonomyeligible in the reporting year it was offset primarily by declines in turnover in the steel business. Taxonomyeligible CapEx of million in the reporting year accounted for of total capital expenditure which was percentage points higher than in the prior year. Taxonomyeligible OpEx in the reporting year amounted to million which was of total operating expenditure and percentage points higher than in the prior year. The increases in taxonomyeligible CapEx and OpEx resulted mainly from the firsttime classification of the economic activity Manufacture of automotive and mobility components as taxonomyeligible in the reporting year. 
+
+Score 0.41
+ The undertaking carries out funds or has exposures to research development demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle. NO The undertaking carries out funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production as well as their safety upgrades using best available technologies. NO The undertaking carries out funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy as well as their safety upgrades. NO 
+
+Score 0.409
+Gainloss on disposal of property plant and equipment net without investment property Gainloss on disposal of subsidiaries net Miscellaneous Total thyssenkrupp annual report Group financial statements thyssenkrupp group Notes to the financial statements
+
+Score 0.408
+Cash Cash equivalents Cash and cash equivalents according to the balance sheet Cash and cash equivalents of disposal groups Liquid funds according to statement of cash flows 
+
+Score 0.405
+of a sustainable production for the industry.
+
+Score 0.405
+The primary task of the Supervisory Boards six committees is to prepare decisions and topics for discussion at the full meetings. The Supervisory Board has delegated individual decisionmaking powers to its committees where this is legally permissible. The powers of the committees and the requirements on committee members are set out in the rules of procedure for the respective committees. The chairs of the committees provided the Supervisory Board with regular detailed reports on the work of the committees in the reporting year. The chairs of the committees were also in close contact with the other members of their committees outside the regular meetings to exchange views on particularly important topics. The compositions of the six committees as of September are shown in the section Supervisory Board. The 
+
+Score 0.404
+Use of secondary raw materials and reused components in manufactured products 
+
+Score 0.402
+CapEx of Taxonomyeligible but not environmentally sustainable activities not Taxonomyaligned A. 
+
+Score 0.402
+In fiscal year a divestment process was initiated for the activities of thyssenkrupp Industries India which was part of the Decarbon Technologies segment. This transaction was completed on May and thyssenkrupp Industries India was therefore deconsolidated. Also in fiscal year a divestment process was initiated for the activities of thyssenkrupp Electrical Steel India which is part of the Steel Europe segment. These activities met the criteria set forth in IFRS for recognition as a disposal group for the first time in the th quarter of . Therefore the assets and liabilities relating to these activities have to be presented separately in the statement of financial position as of September . The business performance is presented by segment. The GCGC contains recommendations for disclosures on the internal control and risk management system that go beyond the statutory requirements for the management report and are therefore outside the scope of the audit of the content of the management report performed by the auditor. In this report they are assigned to the content of the corporate governance statement moreover they are contained in separate paragraphs to set them apart from the disclosures to be audited and flagged accordingly. The links are not part of the management report or the audit. 
+
+Score 0.401
+In fiscal year for market strategy reasons the Steel Europe segment initiated the divestment process for Indian company Electrical Steel India Private Ltd. which manufactures grainoriented electrical steel. These activities met the criteria set forth in IFRS for recognition as a disposal group for the first time in the th quarter of . As a result the assets and liabilities of the disposal group were reported separately in the line items Assets held for sale and Liabilities associated with assets held for sale in the statement of financial position as of September . The contract for the sale of the Indian electrical steel business to JSW Steel Limited and JFE Steel Corporation an IndoJapanese consortium was signed on October see also Note . The aim is to close the transaction within the coming months. In connection with the divestment process initiated a review of the valuation of the assets in accordance with IAS was conducted immediately before the firsttime classification as a disposal group. This resulted in a reversal of impairments totaling million because the fair value less the costs of disposal is higher than the carrying amount. Of this amount million relate to land and buildings million to technical machinery and equipment and million to factory and office equipment. It is reported in the cost of sales in the th quarter of at the same time deferred taxes of million were recognized. The assets and liabilities that comprised the disposal group as of September are shown in the following table. The cumulative other comprehensive income in the equity allocated to the disposal group amounted to million as of September . 
+
+Score 0.17
+Trade accounts payable in the amount of million prior year million have a remaining term of more than one year. 
+
+Score -0.035
+ Inclusive of cross currency swaps 
+
+Score 0.266
+ Interest rate derivatives qualifying as fair value hedges Hedging of commodity risk Commodity derivatives qualifying as cash flow hedges Commodity derivatives qualifying as fair value hedges 
+
+Score 0.072
+ Interest rate derivatives qualifying as cash flow hedges
+
+Score 0.257
+Other financial liabilities 
+
+Score 0.109
+Hedging of foreign currency risk Foreign currency derivatives qualifying as cash flow hedges Hedging of interest risk
+
+Score 0.256
+Carrying amount on balance sheet Sept. million Derivative assetsDerivative liabilities Designated part of hedging instrumentsFair value change of hedged item
+
+Score 0.21
+INFORMATION ON HEDGING INSTRUMENTS IN THE CONTEXT OF CASH FLOW HEDGES AND FAIR VALUE HEDGES 
+
+Score 0.289
+The following table shows the carrying amounts of derivatives qualifying for hedge accounting the designated portion of the hedging instruments and changes in the fair values of hedged items by hedged risk type and type of hedge. Derivative assets and liabilities are part of other financial assets and liabilities. 
+
+Score 0.245
+Cash flow hedges are mainly used to hedge future cash flows against foreign currency and commodity price risks arising from future sales and purchase transactions as well as interest rate and foreign currency risks from noncurrent liabilities. In the case of cash flow hedges too the earnings effect of the hedging instruments is generally also shown in the same profit and loss item as the hedged underlying transaction. 
+
+Score 0.257
+OTHER FINANCIAL LIABILITIES 
+
+Score 0.071
+Financial liabilities measured at amortized cost Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Total 
+
+Score 0.32
+Cash flows from future transactions are currently hedged for a maximum of months. During the current fiscal year million prior year million of cumulative other comprehensive income was reclassified to sales in profit or loss as a result of the underlying transactions being realized during the year. In addition million from the reserve for cash flow hedges was reclassified to decrease cost of inventories prior year million to decrease cost of inventories as the hedged commodities were recognized. For million the expense effect was already recognized at the time the provision was created in the fiscal year . For the current fiscal year there was a reduction in expenses of million prior year million. Furthermore million of income will impact earnings in . 
+
+Score 0.12
+Cash flow hedges 
+
+Score 0.281
+The current financial liabilities measured at amortized cost include among others the tender right from the sale of of thyssenkrupps steel business to the energy company EP Corporate Group. Other financial liabilities amounting to million prior year million have a remaining term of more than one year. 
+
+Score 0.24
+Fair value hedges are mainly used to hedge the exposure to changes in fair value of a firm commitment and exposure to inventory price risks as well as to hedge interest rate risks. The incomeexpense from these hedges and the hedged underlying transactions are generally shown in the same profit and loss item. 
+
+Score 0.128
+Derivatives that qualify for hedge accounting Fair value hedges 
+
+Score 0.243
+Assets Foreign currency derivatives that do not qualify for hedge accounting Foreign currency derivatives qualifying as cash flow hedges Embedded derivatives Interest rate derivatives that do not qualify for hedge accounting Commodity derivatives that do not qualify for hedge accounting Commodity derivatives qualifying as cash flow hedges Total Equity and liabilities Foreign currency derivatives that do not qualify for hedge accounting Foreign currency derivatives qualifying as cash flow hedges Embedded derivatives Interest rate derivatives that do not qualify for hedge accounting Commodity derivatives that do not qualify for hedge accounting Commodity derivatives qualifying as cash flow hedges Total 
+
+Score 0.214
+million Notional amount as of Sept. Carrying amount as of Sept. Notional amount as of Sept. Carrying amount as of Sept. 
+
+Score 0.225
+DERIVATIVE FINANCIAL INSTRUMENTS 
+
+Score 0.218
+The following table shows the notional amounts and fair values of derivatives used within the group 
+
+Score 0.244
+The group uses various derivative financial instruments including foreign currency forward contracts foreign currency options interest rate swaps cross currency swaps and commodity forward contracts. Derivative financial instruments are generally used to hedge existing or anticipated underlying transactions so as to reduce foreign currency interest rate and commodity price risks. In some cases the derivatives are designated as hedging instruments for hedge accounting purposes. 
+
+Score 0.242
+Other nonfinancial liabilities 
+
+Score 0.218
+The maximum credit risk exposure of the financial assets subject to the impairment models corresponds to the gross carrying amounts less the recognized impairment losses. The gross carrying amounts were secured by letters of credit credit insurances sureties and guarantees amounting to million prior year million.
+
+Score 0.115
+Trade accounts payable 
+
+Score 0.213
+The following table shows the development of other comprehensive income from cash flow hedges by risk type 
+
+Score 0.2
+Furthermore lease liabilities of million prior year million exist. 
+
+Score 0.051
+ Figures have been adjusted see Note . 
+
+Score 0.198
+FUTURE UNDISCOUNTED CASH OUTFLOWS AS OF SEPT. 
+
+Score 0.186
+Liquidity risk is the risk that the group is unable to meet its existing or future obligations due to insufficient availability of cash or cash equivalents. The following table shows future undiscounted cash outflows from financial liabilities based on contractual agreements 
+
+Score 0.167
+Maturity analysis 
+
+Score 0.283
+Credit risk default risk is the risk of thyssenkrupp incurring financial losses due to the nonfulfillment or partial fulfillment of existing debt obligations. Credit risk management is governed by corporate guidelines. Segments and group companies are required to implement credit risk management in accordance with these guidelines. In order to minimize default risks credit risks from the use of financial instruments such transactions are only concluded with counterparties that meet our internal minimum requirements. Credit risk management defines minimum requirements for the selection of counterparties so that financial instruments in the financing area are only concluded with counterparties who have a good credit rating or are members of a deposit protection fund. Creditworthiness is monitored on the basis of assessments by recognized rating agencies and also taking into account shortterm early warning indicators. Continuous and standardized monitoring of ratings and early warning indicators enables us to minimize risks at an early stage. Derivative financial instruments are generally entered into on the basis of standard contracts in which it is possible to net open transactions with the respective business partners. Default risks are generally hedged with suitable instruments. These include in particular private and state credit insurance as well as letters of credit and guarantees from banks insurance companies and management companies. In the case of longterm contracts additional security is provided in the form of advance payments received. In order to further minimize default risks from operating activities the corporate guidelines provide for the assessment of default risk based on the risk profile of the business partner using suitable internal and where available external information such as ratings and credit reports. Credit limits are set for each business partner using this credit rating. The assessment of the risk profile is subject to appropriate ongoing monitoring which enables thyssenkrupp to minimize risk at an early stage. Taking into account the individual characteristics of their customer structures and business models the respective business areas lay down clear process rules for determining which measures are to be taken in the event of deteriorating creditworthiness or payment default in order to mitigate the maximum default risk as far as possible. Transactions whose value exceeds specified materiality thresholds especially in the area of major projects also require prior approval at thyssenkrupp AG level. Among other things the amount and hedging of default risks is assessed. 
+
+Score 0.026
+Credit risk 
+
+Score 0.251
+As a global group thyssenkrupp is exposed to financial risks in the form of credit risks default risk liquidity risks and market risks foreign currency interest rate and commodity price risks during the course of ordinary activities. The aim of risk management is to limit the risks arising from operating activities and associated financing requirements by applying selected derivative and nonderivative hedging instruments. Within the framework of risk management financial risks and credit risks must be avoided as far as possible compensated by a risk portfolio passed on to third parties or limited principle of risk aversion. Details are provided in the opportunity and risk report contained in the management report. 
+
+Score 0.259
+If a hedging relationship does not meet the requirements for hedge accounting in accordance with the conditions under IFRS or hedge accounting is economically not reasonable the derivative financial instrument is recognized as a derivative that does not qualify for hedge accounting. The resulting impact on profit or loss is shown in the table on net gains and losses from financial instruments by measurement categories. This item also includes embedded derivatives. They exist in the thyssenkrupp group in the way that regular supply and service transactions with suppliers and customers abroad are not concluded in the functional currency local currency of either of the two contracting parties. 
+
+Score 0.177
+Derivates that do not qualify for hedge accounting 
+
+Score 0.109
+BONDS AND LOAN NOTES 
+
+Score 0.095
+Hedging of foreign currency risk thereof Foreign currency contracts USD USD.Foreign currency contracts GBP GBP.Foreign currency contracts PLN PLN.Hedging of foreign currency risk thereof Tin forward contracts ton
+
+Score 0.266
+Carrying amount in million as of Sept. Carrying amount in million as ofSept. Notional amount as of Sept. Interest rate in Fair value in million as ofSept. Maturity

@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.613
+Functions that monitor risks and actively contribute to risk management Governance Controlling Accounting Risk Legal Compliance Other functions
+
+Score 0.581
+OTHER FINANCIAL ASSETS 
+
+Score 0.581
+Other financial assets 
+
+Score 0.565
+Financial assets 
+
+Score 0.563
+ As far as liabilitiesassets from financing activities are concerned. 
+
+Score 0.563
+Miscellaneous other financial assets mainly include receivables in connection with agent activities claims from bonuses and discounts and receivables from price adjustments. Other financial assets in the amount of million prior year million have a remaining term of more than one year. As of September cumulative impairments amount to million prior year million regarding current other financial assets and million prior year million regarding noncurrent other financial assets. 
+
+Score 0.561
+Other financial liabilities 
+
+Score 0.561
+OTHER FINANCIAL LIABILITIES 
+
+Score 0.559
+ Provisions for pensions and similar obligations Other provisions Trade accounts payable contract liabilities
+
+Score 0.557
+Financial liabilities 
+
+Score 0.548
+Financial instruments 
+
+Score 0.54
+Pension obligations Partial retirement Other pensionrelated obligations Reclassification due to the presentation as liabilities associated with assets held for sale Total 
+
+Score 0.536
+Risks from operating activities We deal in detail with these categories and provide a risk assessment in the following sections. In fiscal year we reported and assessed investment risks separately for the first time. Compared with the prior year the risk assessments revealed changes for valuation risks and order risks. 
+
+Score 0.533
+Property plant and equipment inclusive of investment property Inventories Trade accounts receivable Other current financial assets Other current nonfinancial assets Current income tax assets Cash and cash equivalents Assets held for sale Provisions for pensions and similar obligations Other current provisions Current income tax liabilities Trade accounts payable Other current nonfinancial liabilities Liabilities associated with assets held for sale 
+
+Score 0.527
+Total equity Subscribed capital Capital reserves Other revenue reserves Unappropriated profit Provisions Provisions for pensions and similar obligations Other provisions Liabilities Bonds Liabilities to financial institutions Liabilities to affiliated companies Other liabilities Deferred income Total equity and liabilities 
+
+Score 0.527
+Net financial assets are calculated as the difference between cash cash equivalents and time deposits shown in the statement of financial position plus current debt instruments subsequently referred to as liquid funds and noncurrent and current financial debt. As of September the group had liquid funds of . billion which after deducting gross financial debt of . billion results in net financial assets of . billion. Mainly as the result of positive effects from free cash flow . billion net financial assets were above the prioryear level September . billion. A . billion bond was repaid on maturity in February . The groups available liquidity was . billion as of September . It comprised liquid funds of . billion and undrawn committed credit lines of . billion. Consequently there is enough scope to cover debt maturities. The gross financial debt repayable in fiscal year amounts to . billion. The financing and liquidity of the group were secured at all times in the reporting year. 
+
+Score 0.526
+Finance lease receivables Other financial assets Miscellaneous other financial assets Equity instruments Debt instruments Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Cash and cash equivalents Total of financial assets
+
+Score 0.522
+Selling and buying market related liabilities Liabilities to the employees Other liabilities social security Deferred income Other tax liabilities wo income taxes Miscellaneous Total 
+
+Score 0.522
+Thereof enabling activities 
+
+Score 0.518
+ Other nonfinancial liabilities Liabilities associated with assets held for sale Total current liabilities Total liabilities Total equity and liabilities 
+
+Score 0.518
+Bonds Loan notes other loans Liabilities to financial institutions Lease liabilities Other financial liabilities Subtotal financial debt Assetsliabilities from other financing activities Total 
+
+Score 0.509
+Notes to the statement of financial position 
+
+Score 0.505
+Difference between cash and cash equivalents shown in the statement of financial position plus current debt instruments and current and noncurrent financial debt. The corresponding assets and liabilities of the disposal groups where applicable are also taken into account. Net financial assets are shown as a positive figure in the tables. 
+
+Score 0.504
+In particular financial assets include trade accounts receivable cash and cash equivalents derivative financial assets as well as equity and debt instruments. Trade accounts receivable are initially measured at the transaction price other financial assets are initially recognized at fair value. This includes any transaction costs directly attributable to the acquisition of financial assets which are not carried at fair value through profit or loss in future periods. The fair values recognized on the balance sheet usually reflect the market prices of the financial assets. The classification and measurement of financial assets is based on the financial assets cash flow characteristics and on thyssenkrupps business model for managing the financial assets. Different business models may apply for separate portfolios of identical debt instruments e.g. where factoring programs exist for certain trade accounts receivable. If a debt instrument is held with the objective of collecting contractual cash flows and if the cash flows are solely payments of principal and interest the instrument is recognized at amortized cost. At thyssenkrupp this mainly concerns trade accounts receivable and cash and cash equivalents without money market funds as well as the interestfree loans resulting from the Elevator investment see Note . Money market funds are measured at fair value through profit or loss. If the cash flow conditions are met but the debt instrument is held both to collect contractual cash flows and to sell the instrument is measured at fair value in equity with recycling. At thyssenkrupp this mainly concerns trade accounts receivable which may be sold and securities. For equity instruments not held for trading with the exemption of the preference shares of the Elevator investment thyssenkrupp has consistently exercised the option to recognize future changes in fair value in profit or loss. However changes in fair value of the preference shares are directly recognized in equity without recycling. Derivatives that do not qualify for hedge accounting are also recognized at fair value in profit or loss. 
+
+Score 0.502
+Trade accounts receivable excluding finance lease Contract assets Finance lease receivables Other financial assets Miscellaneous other financial assets Equity instruments Debt instruments Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Cash and cash equivalents Total of financial assets Financial debt excluding lease liabilities Lease liabilities Trade accounts payable Other financial liabilities Miscellaneous other financial liabilities Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Total of financial liabilities 
+
+Score 0.498
+Income from companies accounted for using the equity method Interest income from financial receivables Income from investments Other finance income Finance income Interest expense from financial debt Net interest cost of pensions and similar obligations Other finance expenses Finance expense Total 
+
+Score 0.496
+Noncash financing activities 
+
+Score 0.494
+ Other financial assets Other nonfinancial assets Current income tax assets Cash and cash equivalents Assets held for sale Total current assets Total assets 
+
+Score 0.49
+In the group the majority of reported plan assets associated with the funded pension plans are located in the USA Great Britain Liechtenstein and to a lesser extent in Germany and some other European countries. The group invests in diversified portfolios consisting of an array of asset classes that attempt to maximize returns while minimizing volatility. The asset classes mainly include national and international stocks fixed income government and nongovernment securities real estate and shares in highly diversified funds. Plan assets do not include any direct investments in thyssenkrupp debt securities treasury shares or real estate used on its own. The group uses professional investment managers to invest plan assets based on specific investment guidelines. The Investment Committees of the respective plan consist of senior financial management especially from treasury and other appropriate executives. The Investment Committees meet regularly to review the risks and performance of the major assets and approve the selection and retention of external managers. For the groups main pension assets regular asset liability studies are also carried out in which actuaries conduct a detailed analysis of the structure of the pension obligations among other things in terms of age structure duration possible interest rateinflation risks. On this basis the investment strategy and target portfolio of the pension assets are then defined and updated. For risk management purposes liabilitydriven investment strategies may be used through which assets are geared towards the pension liabilities. The processes established for managing and monitoring the plan assets as described above are used to counter the usual risks associated with capital market investment counterparty liquiditymarket and other risks. 
+
+Score 0.482
+Thereof transitional activities 
+
+Score 0.481
+The groups net obligation for defined benefit and other postretirement benefit plans have been calculated for each plan using the projected unit credit method as of the balance sheet date. A quarterly valuation of pensions is performed on the basis of updated interest rates and fair values of plan assets. As far as the fair value of plan assets related to pensions or similar obligations exceeds the corresponding obligation the recognition of an asset in respect to such surplus is limited. As far as in connection with plan assets minimum funding requirements related to past service exist an additional liability may need to be recognized in case the economic benefit of a surplus already taking into account the contributions to be made in respect of the minimum funding requirements is limited. The limit is determined by the present value of any future refunds from the plan or reductions in future contributions to the plan asset asset ceiling. With the exception of net interest all income and expenses related to defined benefit plans are recognized in incomeloss from operations. Net interest included in net periodic pension cost is recognized in net financial incomeexpense in the groups statement of income. The groups obligations for contributions to defined contribution plans are recognized as expense in incomeloss from operations as incurred. The effects of remeasurements of pensions and similar obligations are recognized in other comprehensive income and reported in retained earnings. They consist of actuarial gains and losses the return on plan assets and changes in the effects of asset ceiling excluding amounts already included in net interest. Deferred taxes relating to remeasurements are also recognized in other comprehensive income. The group also maintains multiemployer plans. In principle these multiemployer plans contain defined benefit plans as well as defined contribution plans. With respect to defined benefit multiemployer plans these are accounted for in the same way as any other defined benefit plan in case the required information is available. Otherwise these plans are accounted for as defined contribution plans. In particular in the Netherlands there exist multiemployer defined benefit plans that are accounted for as defined contribution plans due to the fact that the pension obligations and the plan assets cannot be assigned to the participating employers. 
+
+Score 0.479
+A financial instrument is any contract that at the same time gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity. Financial instruments are recognized as soon as thyssenkrupp becomes a contracting party to the financial instrument. In cases where trade date and settlement date do not coincide for nonderivative financial instruments the settlement date is used for initial recognition or derecognition while for derivatives the trade date is used. Financial instruments stated as financial assets or financial liabilities are generally not offset they are only offset when a legal right to setoff exists at that time and settlement on a net basis is intended.
+
+Score 0.477
+Financial assets at amortized cost Financial assets liabilities at fair value recognized in equity with recycling Financial assets liabilities at fair value recognized in profit or loss Financial liabilities at amortized cost 
+
+Score 0.477
+Our offbalancesheet financing instruments also include the nonrecourse factoring of receivables from ordinary business activities which the group sold in the amount of . billion as of the reporting date prior year . billion. Continuing involvement exists for a portion of these receivables with a carrying amount of . billion prior year . billion. For details see Note Trade accounts receivable. Should financing instruments of this kind no longer be available in the future we have adequate liquid funds and available credit lines of . billion. 
+
+Score 0.477
+Noncash investing activities 
+
+Score 0.476
+ To secure the solvency and financial flexibility of the group at all times we maintain committed credit facilities and cash funds on the basis of multiyear financial planning and rolling monthly liquidity planning. We use the cash pooling system to allocate resources to group companies internally according to requirements. 
+
+Score 0.476
+DERIVATIVE FINANCIAL INSTRUMENTS 
+
+Score 0.476
+Derivative financial instruments 
+
+Score 0.475
+Advance payments on intangible assets Advance payments Property plant equiment PPE Advance payments Right of Use Assets Advance payments to suppliers of inventories and to other current nonfinancial assets Prepayments Miscellaneous Total thyssenkrupp annual report Group financial statements thyssenkrupp group Notes to the financial statements
+
+Score 0.473
+Principles and aims of financial management 
+
+Score 0.472
+Financial liabilities are liabilities that must be settled in cash or other financial assets. Financial liabilities are initially carried at fair value. This includes any transaction costs directly attributable to the acquisition of financial liabilities which are not carried at fair value through profit or loss in future periods. 
+
+Score 0.472
+For the investments accounted for using the equity method see also Note . The line items interest income from financial receivables and other finance income include interest income from financial assets that are not measured at fair value through profit or loss of million prior year million. The line items interest expense from financial debt and other finance expenses include interest expense from financial liabilities that are not measured at fair value through profit or loss of million prior year million. Other finance income and other finance expenses respectively include income or expenses from currency derivatives from financial transactions and exchange rate gains or losses from financial transactions in foreign currencies. Borrowing costs of million prior year million were capitalized in the reporting year this resulted in a corresponding improvement in other finance incomeexpense. To the extent that financing can be specifically allocated to a specific investment the actual borrowing costs are capitalized. If not directly attributable the groups average borrowing rate for the reporting year is taken into account. 
+
+Score 0.471
+Net gains under Financial assets at amortized cost mainly comprise interest income on financial receivables allowances for trade accounts receivable as well as gains and losses on foreign currency receivables. The category Financial assetsliabilities at fair value recognized in equity with recycling mainly includes impairment losses on trade accounts receivable as well as results from the sale of receivables. 
+
+Score 0.471
+Impairments of financial assets 
+
+Score 0.471
+As described above the major pension obligations exist in Germany the USA Great Britain and Liechtenstein. The plan assets in these countries amount to of the total plan assets as of September prior year . As of the balance sheet date the portfolio of these major plan assets comprises the following asset categories 
+
+Score 0.47
+Repayments of bonds Proceeds from liabilities to financial institutions Repayments of liabilities to financial institutions Lease liabilities Proceeds fromrepayments on loan notes and other loans Payment of thyssenkrupp AG dividend Proceeds from capital increase Profit attributable to noncontrolling interest Expenditures for acquisitions of shares of already consolidated companies Proceeds from disposals of shares of already consolidated companies Other financial activities Cash flows from financing activities Net increasedecrease in cash and cash equivalents Effect of exchange rate changes on cash and cash equivalents Cash and cash equivalents at beginning of reporting period Cash and cash equivalents at end of reporting period thereof cash and cash equivalents within the disposal groups Additional information regarding cash flows from interest dividends and income taxes which are included in operating cash flows Interest received Interest paid Dividends received Income taxes paidreceived 
+
+Score 0.47
+Intangible assets Property plant and equipment inclusive of investment property Investments accounted for using the equity method Finance lease receivables Other financial assets Other nonfinancial assets Deferred tax assets Total noncurrent assets Inventories Trade accounts receivable Contract assets
+
+Score 0.47
+The aim of our central financing system is to strengthen our negotiating position visvis banks and other market players and to raise or invest capital on the best possible terms and conditions. No changes were made to our financial management in the reporting year. 
+
+Score 0.469
+Bonds Loan notes Liabilities to financial institutions Lease liabilities Other loans Noncurrent financial debt Bonds Loan notes Liabilities to financial institutions Lease liabilities Other loans Current financial debt Financial debt 
+
+Score 0.469
+Cash Cash equivalents Cash and cash equivalents according to the balance sheet Cash and cash equivalents of disposal groups Liquid funds according to statement of cash flows 
+
+Score 0.469
+The following table shows the carrying amounts measurement categories under IFRS and fair values of financial assets and liabilities by classes. Finance lease receivables and lease liabilities contract assets and derivatives that qualify for hedge accounting are also included although they are not part of any IFRS measurement category. 
+
+Score 0.469
+Financial position 
+
+Score 0.469
+FINANCIAL INSTRUMENTS AS OF SEPT. 
+
+Score 0.469
+Financial assets at fair value Fair value recognized in profit or loss Derivatives not qualifying for hedge accounting Equity instruments Fair value recognized in equity Trade accounts receivable Equity instruments Debt instruments measured at fair value Derivatives qualifying for hedge accounting Total Financial liabilities at fair value Fair value recognized in profit or loss Derivatives not qualifying for hedge accounting Cash equivalents Fair value recognized in equity Derivatives qualifying for hedge accounting Total 
+
+Score 0.468
+SHARE OWNERSHIP GUIDELINES INVESTMENTS AND FULFILLMENT OF THE SHARE HOLDING REQUIREMENTS IN FY 
+
+Score 0.465
+In the table on financial instruments as of September in deviation from September the option to not disclose the fair value is used if it is identical to the carrying amount. The carrying amounts of trade accounts receivable measured at amortized cost other current receivables as well as cash and cash equivalents equal their fair values due to the short remaining terms. For money market funds and trade accounts receivable measured at fair value the carrying amount equals the fair value. For the preference shares in connection with the Elevator investment which are classified as equity instruments the option was exercised to recognize them at fair value in equity without recycling due to their significance. Miscellaneous other financial assets include the loans from the elevator transaction which are measured at amortized cost see also Note . The other equity and debt instruments are in general measured at fair value incomeeffective which is based to the extent available on market prices as of the balance sheet date. When no quoted market prices in an active market are available equity and debt instruments are measured by discounting future cash flows based on current market interest rates over the remaining term of the financial instruments. 
+
+Score 0.465
+Total noncurrent assets Total current assets thereof cash and cash equivalents Langfristige Verbindlichkeiten Total current liabilities Sales Incomeloss from continuing operations net of tax Incomeloss from discontinued operations net of tax Net incomeloss Other comprehensive income Total comprehensive income 
+
+Score 0.465
+Noncurrent assets intangible assets property plant and equipment inclusive of investment property and other nonfinancial assets location of assets Sept. Sept. 
+
+Score 0.464
+Net defined benefit liability at beginning of fiscal year Service cost plus net interest incomeexpense Remeasurements Currency differences Past service cost inclusive of curtailments Settlements Employer contributions Participant contributions Benefit payments Acquisitionsdivestitures of businesses Administration cost Net defined benefit liability at end of fiscal year thereof accrued pension liability thereof other nonfinancial assets 
+
+Score 0.461
+ Other liabilities
+
+Score 0.46
+Shares Bonds Derivatives Cash and cash equivalents OthersReal estate Total 
+
+Score 0.459
+Financial risks 
+
+Score 0.459
+Provisions for pensions and similar obligations 
+
+Score 0.459
+PROVISIONS FOR PENSIONS AND SIMILAR OBLIGATIONS 
+
+Score 0.457
+Changes of liabilitiesassets from financing activities 
+
+Score 0.457
+Other nonfinancial liabilities 
+
+Score 0.457
+OTHER NONFINANCIAL LIABILITIES 
+
+Score 0.455
+Summarized financial information of the immaterial investments accounted for using the equity method at the respective balance sheet date is presented in the table below. The information given represents the groups interest. 
+
+Score 0.455
+The following tables show the changes of liabilitiesassets from financing activities including the changes of cash flows and noncash items 
+
+Score 0.454
+Taxonomyeligible business activities 
+
+Score 0.453
+Service cost Net interest cost Administration cost Past service cost inclusive of curtailments Settlement lossgain Net periodic pension cost 
+
+Score 0.453
+Gains and losses arising from changes in fair value of foreign currency interest rate and commodity derivatives that do not comply with the hedge accounting requirements under IFRS are included in the category Financial assetsliabilities at fair value through profit and loss. Current income and expenses from equity instruments are also presented in this category. The category Financial liabilities at amortized cost mainly comprises interest expenses on financial liabilities as well as gains and losses on foreign currency liabilities. Included in net result prior year net gains and losses are exchange differences of million prior year million. 
+
+Score 0.452
+ For the success of our strategic realignment it is important to have an organization in which the businesses can develop optimally. Therefore portfolio measures and restructuring of existing business activities are possible these are generally associated with execution risks. In addition our strategic businesses are regularly tested for impairment. The risks identified in this category which do not affect the key performance indicators adjusted EBIT and free cash flow before MA and only become visible in net income are currently considered to be high and provisions are recognized in the balance sheet as needed. 
+
+Score 0.452
+Bonds Liabilities to financial institutions Lease liabilities Other financial debt Trade accounts payable Derivative financial liabilities not qualifying for hedge accounting Derivative financial liabilities qualifying for hedge accounting Other financial liabilities 
+
+Score 0.451
+One special aspect in determining taxonomyaligned business activities relates to capital expenditures contained in a CapEx plan see also CapEx plan to expand taxonomy alignment because all the evidence of these in respect of compliance with the technical screening criteria will only be available in the future. 
+
+Score 0.451
+See accompanying notes to financial statements. 
+
+Score 0.45
+At each balance sheet date and during the fiscal year in case of any indications the group reviews the carrying amounts of its intangible assets property plant and equipment and investment property to determine whether there is any indication that those assets have suffered an impairment loss. If any such indication exists the recoverable amount of the asset is estimated in order to determine the extent of the impairment loss if any. Where it is not possible to estimate the recoverable amount of an individual asset the group estimates the recoverable amount of the Cash Generating Unit to which the asset belongs. 
+
+Score 0.449
+Results of operations and financial position 
+
+Score 0.449
+A single noncurrent asset is classified as held for sale if its carrying amount will be recovered principally through a sale transaction rather than through continuing use. The group reports assets and liabilities as a disposal group that will be disposed of by sale or otherwise in a single transaction which collectively meet the held for sale criteria as specified in IFRS Noncurrent Assets Held for Sale and Discontinued Operations. The group reports the assets and liabilities of a disposal group separately in the balance sheet line item assets held for saledisposal and liabilities associated with assets held for saledisposal respectively. Unless a disposal group qualifies for discontinued operations reporting the revenues and expenses of the disposal group remain within continuing operations until the date of disposal. The group reports the results of a disposal group that also qualifies as a separate component of the group as discontinued operations if it represents a separate major line of business or geographical area of operations. The group reports the results of discontinued operations in the period in which they occur separately within the consolidated statement of income as discontinued operations net of tax. All prior period consolidated statements of income are adjusted to report the results of the component within discontinued operations. In the consolidated statement of cash flows the cash flows resulting from discontinued operations are presented separately from cash flows resulting from continuing operations prior year presentation has been adjusted accordingly. On initial classification as held for sale noncurrent assets and disposal groups are recognized at the lower of the carrying amount and fair value less costs of disposal and depreciation and amortization ceases. Immediately before this a noncurrent asset or disposal group is initially measured in line with the respective IFRS standards to determine the carrying amount which is then compared to the fair value less costs of disposal of the group in order to recognize the group at the lower of both amounts. Impairment losses on initial classification as held for sale are included in profit or loss as are gains and losses on subsequent remeasurement but not in excess of the cumulative impairment loss.
+
+Score 0.448
+ forward contracts. The main special items for Marine Systems were the reversal of an impairment loss on the carrying amount of an investment in a joint venture and the partial reversal of provisions for restructuring. In Corporate Headquarters the special items primarily comprised expenses in connection with MA transactions. 
+
+Score 0.448
+Capital stock Additional paidin capital Retained earnings Cumulative other comprehensive income thereof relating to disposal groups Equity attributable to thyssenkrupp AGs stockholders Noncontrolling interest Total equity Provisions for pensions and similar obligations Provisions for other noncurrent employee benefits Other provisions Deferred tax liabilities Financial debt Other financial liabilities Other nonfinancial liabilities Total noncurrent liabilities Provisions for current employee benefits Other provisions Current income tax liabilities Financial debt Trade accounts payable Other financial liabilities Contract liabilities
+
+Score 0.447
+Cash flows from financing activities 
+
+Score 0.446
+As of September million prior year million of the total of provisions for employee benefits and other provisions are current while million prior year million are noncurrent. Provisions of million prior year million have a remaining term of more than one year. Provisions for employee compensation and benefit costs primarily represent employment anniversary bonuses and obligations for the management incentive plans while social plan and related costs pertaining to personnel related structural measures are reflected in the provision for restructuring activities. Pension related obligations for partial retirement agreements and early retirement programs partly resulting from restructurings are part of the provision for pensions and similar obligations. Product warranties and product defects represent the groups responsibility for the proper functioning of the goods sold product warranty as well as the obligation that arise from the use of the products sold product defect. 
+
+Score 0.446
+Management is responsible for the preparation of consolidated financial statements that comply in all material respects with IFRSs as adopted by the EU and the additional requirements of German commercial law pursuant to Section e HGB and that the consolidated financial statements in compliance with these requirements give a true and fair view of the assets liabilities financial position and financial performance of the Group. In addition management is responsible for such internal control as they have determined necessary to enable the preparation of consolidated financial statements that are free from material misstatement whether due to fraud i.e. fraudulent financial reporting and misappropriation of assets or error.In preparing the consolidated financial statements management is responsible for assessing the Groups ability to continue as a going concern. They also have the responsibility for disclosing as applicable matters related to going concern. In addition they are responsible for financial reporting based on the going concern basis of accounting unless there is an intention to liquidate the Group or to cease operations or there is no realistic alternative but to do so. 
+
+Score 0.446
+ Other assetsliabilities not related to investing or financing activities Operating cash flows Purchase of investments accounted for using the equity method and noncurrent financial assets Expenditures for acquisitions of consolidated companies net of cash acquired Capital expenditures for property plant and equipment inclusive of advance payments and investment property Capital expenditures for intangible assets inclusive of advance payments Proceeds from government grants Proceeds from disposals of investments accounted for using the equity method and noncurrent financial assets Proceeds from disposals of previously consolidated companies net of cash disposed Proceeds from disposals of property plant and equipment and investment property Cash flows from investing activities thyssenkrupp annual report Combined management report Report on the economic position
+
+Score 0.445
+Turnover is the main parameter used as the basis for technical screening criteria for assessing the taxonomy alignment of business activities. This applies analogously to capital and operating expenditures associated with these business activities irrespective of their intended purpose. For example on the basis of their intended purpose capital expenditures for a business activity could potentially be allocated to a different economic activity listed in the delegated acts which in turn could involve different screening criteria. This is ruled out by applying the principle that turnover has the priority. In the case of business activities allocated to a research and developmentrelated economic activity on the basis of turnover the technical screening criteria are derived from capital and operating expenditure. 
+
+Score 0.445
+Opening balance Deferred tax benefit expense Income noneffective tax effect on other comprehensive income Remeasurement of pensions and others Fair value measurement of equity instruments Fair value measurement of debt instruments Impairment of financial instruments Cash flow hedges Currency differences Acquisitionsdivestitures of businesses Other changes Income tax effects chargedcredited to equity Closing balance 
+
+Score 0.444
+Amendments to IFRS Consolidated Financial Statements and IAS Investments in Associates and Joint Ventures Sale or Contribution of Assets between an Investor and its Associate or Joint Venture issued in September not yet endorsed initial application deferred indefinitely 
+
+Score 0.444
+Strategy Finance and Investment Committee 
+
+Score 0.444
+The current financial liabilities measured at amortized cost include among others the tender right from the sale of of thyssenkrupps steel business to the energy company EP Corporate Group. Other financial liabilities amounting to million prior year million have a remaining term of more than one year. 
+
+Score 0.442
+Netting of financial assets and financial liabilities 
+
+Score 0.442
+ Other assetsliabilities not related to investing or financing activities Operating cash flows Purchase of investments accounted for using the equity method and noncurrent financial assets Expenditures for acquisitions of consolidated companies net of cash acquired Capital expenditures for property plant and equipment inclusive of advance payments and investment property Capital expenditures for intangible assets inclusive of advance payments Proceeds from government grants Proceeds from disposals of investments accounted for using the equity method and noncurrent financial assets Proceeds from disposals of previously consolidated companies net of cash disposed Proceeds from disposals of property plant and equipment and investment property Cash flows from investing activities thyssenkrupp annual report Group financial statements thyssenkrupp group statement of cash flows
+
+Score 0.441
+thyssenkrupp includes prior year structured entities in the consolidated financial statements. One of the structured entities is a special purpose leasing company established to realize the second construction phase of the thyssenkrupp Quarter. The lease object and the corresponding liabilities are included in the consolidated financial statements. There are no obligations to provide financial support. The two other structured entities do not have a material influence on the groups net assets financial position and results of operations. thyssenkrupp also has contractual relationships with prior year noncontrolled structured entities. Under assetbacked securities programs contractual relationships exist with a structured entity in which the group holds no interests. thyssenkrupp sells trade accounts receivable to the structured entity. It refinances the purchase price by issuing securities for details refer to Note . The other noncontrolled structured entity in which the group also does not hold any shares has a service contract with a group company. Potential losses arising from obligations entered into under this contract are already included in the purchasing commitments stated under commitments see Note . 
+
+Score 0.44
+Miscellaneous other income includes income from hedging operational foreign exchange risks of million prior year million and a multitude of minor single items resulting from the prior year consolidated companies. The increase in miscellaneous other income mainly resulted from higher income in connection with compensation for electricity prices in the Steel Europe segment income from the entry into effect of a supply agreement classified as an embedded lease in the Materials Services segment and income from charging on costs to subsuppliers for remedying quality deficits in customer contracts in the Automotive Technology segment. 
+
+Score 0.44
+A group of assets that are intended for disposal by sale or otherwise in a single transaction along with the liabilities directly related to these assets 
+
+Score 0.439
+The goal of our financial management is to ensure our solvency at all times. The financing of the group is handled centrally by thyssenkrupp AG enabling a uniform presence on the capital markets and is based on a multiyear financial planning system and a monthly rolling liquidity planning system covering a planning period of up to one year. Our cash management systems allow subsidiaries to use surplus funds of other units to cover their liquidity requirements. This reduces the volume of external financing and thus interest expense. External financing requirements are covered using money and capital market instruments such as bonds loan notes or commercial paper. Moreover where required derivative financial instruments are used for hedging purposes. We can also make use of committed credit facilities in various currencies and with various terms as well as selected offbalancesheet financing instruments such as factoring programs. Information on the available credit facilities is provided in Note . 
+
+Score 0.439
+Carrying amount on balance sheet Sept. million Derivative assetsDerivative liabilities Designated part of hedging instrumentsFair value change of hedged item
+
+Score 0.438
+Operating cash flow plus cash flows from investing activities excluding cash inflows or outflows from material MA transactions and adjustments resulting from IFRS 
+
+Score 0.438
+OTHER NONFINANCIAL ASSETS 
+
+Score 0.438
+Other nonfinancial assets 

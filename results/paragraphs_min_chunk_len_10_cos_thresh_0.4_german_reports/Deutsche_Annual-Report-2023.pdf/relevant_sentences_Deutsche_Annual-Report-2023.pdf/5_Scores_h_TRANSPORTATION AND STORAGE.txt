@@ -1,0 +1,299 @@
+Scores_h_TRANSPORTATION AND STORAGEScore 0.53
+Agriculture forestry and fishing Mining and quarrying Manufacturing Electricity gas steam and air conditioning supply Water supply sewerage waste management and remediation activities Construction Wholesale and retail trade repair of motor vehicles and motorcycles Transport and storage Accommodation and food service activities Information and communication Financial and insurance activities Real estate activities Professional scientific and technical activities Administrative and support service activities Public administration and defense compulsory social security Education Human health services and social work activities Arts entertainment and recreation Other service activities Activities of households as employers undifferentiated goods and services producing activities of households for own use Activities of extraterritorial organizations and bodies Total 
+
+Score 0.527
+Agriculture forestry and fishing Mining and quarrying Manufacturing Electricity gas steam and air conditioning supply Water supply sewerage waste management and remediation activities Construction Wholesale and retail trade repair of motor vehicles and motorcycles Transport and storage Accommodation and food service activities Information and communication Financial and insurance activities Real estate activities Professional scientific and technical activities Administrative and support service activities Public administration and defense compulsory social security Education Human health services and social work activities Arts entertainment and recreation Other service activities Activities of households as employers undifferentiated goods and servicesproducing activities of households for own use Activities of extraterritorial organizations and bodies Total 
+
+Score 0.491
+The Infrastructure functions perform control and service activities for the businesses including tasks relating to Groupwide crossdivisional resourceplanning steering and control as well as tasks relating to risk liquidity and capital management. The Infrastructure functions are organized into the following areas of responsibility linked to a dedicated member of the Management Board Chief Executive Office Chief Financial Office Chief Risk Office Chief Administration Office Technology Data and Innovation Chief Operating Office CB IB Operations and Controls Infrastructure also includes Communications Corporate Social Responsibility Chief Sustainability Office Regional Management Group Audit Legal Business Selection and Conflicts Office Compliance Anti Financial Crime Global Procurement Global Real Estate and Human Resources. For and costs relating to Infrastructure functions were allocated using an actual to plan approach. From the first quarter of the bank introduced a DriverBased Cost Management methodology for the allocation of costs originated in applicable Infrastructure functions. The new approach aims to provide transparency over the drivers of Infrastructure costs and links costs closely to service consumption by segments. Whilst in the allocations to the corporate divisions continued to be based on planned allocations except for technology development costs which are charged to divisions based on actual expenditures from Infrastructure costs will all be charged to divisions based on actual costs and service consumption in support of the banks continued focus on cost discipline. 
+
+Score 0.483
+Carrying amount of the original assets transferred Trading securities Nontrading financial assets mandatory at fair value through profit or loss Carrying amount of the assets continued to be recognized Trading securities Nontrading financial assets mandatory at fair value through profit or loss Carrying amount of associated liabilities 
+
+Score 0.478
+Carrying amount of transferred assets Trading securities not derecognized due to the following transactions Repurchase agreements Securities lending agreements Total return swaps Other Total trading securities Other trading assets Nontrading financial assets mandatory at fair value through profit or loss Financial assets at fair value through other comprehensive income Loans at amortized cost
+
+Score 0.473
+Property and equipment 
+
+Score 0.473
+ Property and Equipment 
+
+Score 0.462
+As disclosed in the Annual Report the Group implemented the DriverBased Cost Management allocations from the first quarter of . The new methodology aims to provide greater transparency over the drivers of infrastructure costs and links costs more closely to service consumption by segments. This change did not affect the Groups costincome ratio and return on tangible equity metrics but does impact these per business segment. Therefore priorperiod information is presented in the current structure resulting in an increase in noninterest expenses corresponding decrease in profit before tax for Corporate Bank of million for Investment Bank of million for Private Bank of million for Asset Management of million with a corresponding decrease in noninterest expenses corresponding reduction in loss before tax for Corporate Other of million for the full year . 
+
+Score 0.46
+Agriculture forestry and fishing Mining and quarrying Manufacturing Electricity gas steam and air conditioning supply Water supply sewerage waste management and remediation activities Construction Wholesale and retail trade repair of motor vehicles and motorcycles Transport and storage Accommodation and food service activities Information and communication Financial and insurance activities Real estate activities Professional scientific and technical activities Administrative and support service activities Public administration and defense compulsory social security Education Human health services and social work activities Arts entertainment and recreation Other service activities Activities of households as employers undifferentiated goods and servicesproducing activities of households for own use Activities of extraterritorial organizations and bodies Gross loans Deferred expenseunearned income Loans less deferred expenseunearned income Less Allowance for loan losses Total loans 
+
+Score 0.446
+Depreciation expenses impairment losses and reversal of impairment losses on property and equipment are recorded within general and administrative expenses for the income statement. The carrying value of items of property and equipment on which there is a restriction on sale was million and million as of December and December respectively. Commitments for the acquisition of property and equipment were million at yearend and million at yearend . The Group leases many assets including land and buildings vehicles and IT equipment for which it records rightofuse assets. During additions to rightofuse assets amounted to million and largely reflected new real estate leases. Depreciation charges of million recognized in mainly resulted from planned consumption of rightofuse assets for property leases over their contractual terms. The carrying amount of rightofuse assets of . billion included in Total Property and equipment as of December predominantly represented leased properties of . billion and vehicle leases of million. For more information on the Groups leased properties and related disclosures required under IFRS please refer to Note Leases. 
+
+Score 0.443
+ Total interest income Interest expenses NM Net interest income Commission income Commission expenses Net commission income Net trading result thereof release of tradingrelated special reserve according to Section e HGB NM Total revenues Wages and salaries Compulsory social security contributions
+
+Score 0.443
+Collateral received Debt securities Equity instruments Other collateral received 
+
+Score 0.432
+ AsiaPacific thereof residential thereof hospitality thereof retail Weighted average LTV in Investment Bank Corporate Bank Other Business Provision for Credit Losses
+
+Score 0.43
+Brokerage and securities related receivables Cashmargin receivables Receivables from prime brokerage Pending securities transactions past settlement date Receivables from unsettled regular way trades Total brokerage and securities related receivables Debt Securities held to collect Accrued interest receivable Assets held for sale Assets related to insurance business Other Total other assets 
+
+Score 0.429
+Movements by Class of Provisions 
+
+Score 0.426
+Revenue is recognized when performance obligations are satisfied. Performance obligation is satisfied by fund performance exceeding a hurdle rate an agreed minimum annual return provided to investors. As of December there were performance obligations to be satisfied of million with a time band of three years from to as of December million with a time band of three years from to from Alternative funds. The decrease of performance obligations to be satisfied was mainly driven by decline in the real estate valuations due to market conditions. As of December and December the Groups balance of receivables from commission and fee income was million and million respectively. As of December and December the Groups balance of contract liabilities associated to commission and fee income was million and million respectively. Contract liabilities arise from the Groups obligation to provide future services to a customer for which it has received consideration from the customer prior to completion of the services. The balances of receivables and contract liabilities do not vary significantly from period to period reflecting the fact that they predominately relate to recurring service contracts with service periods of less than one year such as monthly current account services and quarterly asset management services. As a result prior period balances of contract liabilities are generally recognized in revenue in the subsequent period. Customer payment in exchange for services provided are generally subject to performance by the Group over the specific service period such that the Groups right to payment arises at the end of the service period when its performance obligations are fully completed. Therefore no material balance of contract asset is reported. 
+
+Score 0.426
+Includes assets pledged as collateral from transactions that do not result in liabilities or contingent liabilities 
+
+Score 0.426
+Purchase obligations for goods and services include future payments for among other things information technology services and facility management. Some figures above for purchase obligations represent minimum contractual payments and actual future payments may be higher. Longterm deposits exclude contracts with a remaining maturity of less than one year. Under certain conditions future payments for some longterm financial liabilities designated at fair value through profit or loss may occur earlier. See the following notes to the consolidated financial statements for further information Note Net Interest Income and Net Gains Losses on Financial AssetsLiabilities at Fair Value through Profit or Loss Note Leases Note Deposits and Note LongTerm Debt and Trust Preferred Securities. 
+
+Score 0.425
+AssetsReceivables from banks and customers incl. balances with central banks and debt instruments of publicsector entities Participating interests and investments in affiliated companies Bonds and other securities and equity shares Trading Assets Remaining other assets Total assets Liabilities and Shareholders EquityLiabilities to banks and customers Liabilities in certificate form Trading liabilities Provisions Capital and reserves Subordinated liabilities Participation rights capital Instruments for Additional Tier Regulatory Capital and Fund for general banking risks Remaining other liabilities Total liabilities and shareholders equity 
+
+Score 0.425
+Classes of Provisions 
+
+Score 0.424
+ Professional services Banking Services and outsourced operations Market Data and Research Services Travel expenses Marketing expenses Other expenses
+
+Score 0.418
+in m. Owner occupied properties Furniture and equipment Leasehold improvements Constructioninprogress Property and equipment owned IAS Rightofuse for leased assets IFRS Total 
+
+Score 0.417
+Carrying amount of all associates that are individually immaterial to the Group Aggregated amount of the Groups share of profit loss from continuing operations Aggregated amount of the Groups share of posttax profit loss from discontinued operations Aggregated amount of the Groups share of other comprehensive income Aggregated amount of the Groups share of total comprehensive income 
+
+Score 0.417
+Major type of services Commissions for administration Commissions for assets under management Commissions for other securities Underwriting and advisory fees Brokerage fees Commissions for local payments Commissions for foreign commercial business Commissions for foreign currencyexchange business Commissions for loan processing and guarantees Intermediary fees Fees for sundry other customer services Total fee and commissions income Gross expense Net fees and commissions 
+
+Score 0.416
+Staff expenses and operating costs 
+
+Score 0.416
+Trading assets Positive market values from derivative financial instruments Nontrading financial assets mandatory at fair value through profit or loss Of which Securities purchased under resale agreement Securities borrowed Loans Financial assets designated at fair value through profit or loss Total financial assets at fair value through profit or loss Financial assets at fair value through OCI Of which Securities purchased under resale agreement Securities borrowed Loans Total financial assets at fair value through OCI Financial guarantees and other credit related contingent liabilities Revocable and irrevocable lending commitments and other credit related commitments Total offbalance sheet Maximum exposure to credit risk 
+
+Score 0.416
+Dec Carrying value Unencumbered assets in bn. unless stated otherwise Assets Encumbered assets Readily available Other 
+
+Score 0.413
+in m. Commission and fee income and expense Commission and fee income Commission and fee expense Net commissions and fee income 
+
+Score 0.413
+Financial assets classified as held for trading Trading assets Trading securities Other trading assets
+
+Score 0.407
+ Total trading assets Positive market values from derivative financial instruments Total financial assets classified as held for trading Nontrading financial assets mandatory at fair value through profit or loss Securities purchased under resale agreements Securities borrowed Loans Other financial assets mandatory at fair value through profit or loss Total Nontrading financial assets mandatory at fair value through profit or loss Financial assets designated at fair value through profit or loss Loans Other financial assets designated at fair value through profit or loss Total financial assets designated at fair value through profit or loss Total financial assets at fair value through profit or loss 
+
+Score 0.406
+ Trading assets and liabilities positive and negative market values from derivative financial instruments net Other net Net cash provided by used in operating activities Cash flows from investing activities Proceeds from Sale of financial assets at fair value through other comprehensive income Maturities of financial assets at fair value through other comprehensive income Sale of debt securities held to collect at amortized cost Maturities of debt securities held to collect at amortized cost Sale of equity method investments Sale of property and equipment Purchase of Financial assets at fair value through other comprehensive income Debt Securities held to collect at amortized cost Equity method investments Property and equipment Net cash received in paid for business combinationsdivestitures Other net Net cash provided by used in investing activities Cash flows from financing activities Issuances of subordinated longterm debt 
+
+Score 0.405
+Assets Cash and central bank balances Interbank balances wo central banks Central bank funds sold and securities purchased under resale agreements Securities borrowed Financial assets at fair value through profit or loss Trading assets Positive market values from derivative financial instruments Nontrading financial assets mandatory at fair value through profit and loss Financial assets designated at fair value through profit or loss Total financial assets at fair value through profit or loss Financial assets at fair value through other comprehensive income Equity method investments Loans at amortized cost Property and equipment Goodwill and other intangible assets Other assets 
+
+Score 0.404
+Securities Debt securities Commercial mortgagebacked securities Mortgage and other assetbacked securities Corporate sovereign and other debt securities Equity securities Derivatives Credit Equity Interest related Foreign Exchange Other Loans Loans Other Total 
+
+Score 0.404
+Individual noncurrent assets and disposal groups are classified as held for sale if they are available for immediate sale in their present condition subject only to the customary sales terms of such assets and disposal groups and their sale is considered highly probable. For a sale to be highly probable management must be committed to a sales plan and be actively looking for a buyer and has no substantive regulatory approvals outstanding. Furthermore the assets and disposal groups must be actively marketed at a reasonable sales price in relation to their current fair value and the sale should be expected to be completed within one year. Noncurrent nonfinancial assets and disposal groups which meet the criteria for held for sale classification are measured at the lower of their carrying amount and fair value less costs of disposal and are presented within Other assets and Other liabilities in the balance sheet. Financial assets and liabilities meeting the criteria continue to be measured in accordance with IFRS . The comparatives are not represented when noncurrent assets and disposal groups are classified as held for sale. 
+
+Score 0.404
+Total assets Deduct Derivatives incl. hedging derivatives credit line netting Deduct Derivatives cash collateral received paid Deduct Securities Financing Transactions credit line netting Deduct Pending settlements netting Net assets adjusted 
+
+Score 0.402
+Other service contract provisions
+
+Score 0.402
+ Administrative expenses Balance of other operating incomeexpenses NM Risk provisioning Operating profit NM Balance of other ordinary incomeexpenses NM Extraordinary result NM Releases fromAdditions to the fund for general banking risks NM Income before taxes Taxes Net income loss Profit carried forward from the previous year Withdrawal from capital reserves NM Allocations to revenue reserves to other revenue reserves Distributable profit 
+
+Score 0.236
+DWS Equity Plan . . . . . . DWS SAR Plan na . . na . . 
+
+Score 0.223
+ Weighted average fair value per award granted in year Weighted average share price at release exercise in year Weighted average remaining contractual life in years Weighted average fair value per award granted in the year Weighted average share price at release exercise in year Weighted average remaining contractual life in years 
+
+Score 0.284
+Individual specification Select employees to attract and retain the best talent Severance Individual specification Regulatory requirement for certain employees to defer severance payments Annual Awards months
+
+Score 0.226
+The fair value of outstanding sharebased awards was approximately million and million as of December and respectively. Of the awards approximately millionand million has been recognized in the income statement up to the period ending and respectively of which million and million as of December and relate to fully vested awards. Total unrecognized expense related to sharebased plans was approximately million and millionas of December and respectively dependent on future share price development. The fair value of the DWS Stock Appreciation Rights Plan awards have been measured using the generalized BlackScholes model. The liabilities incurred are remeasured at the end of each reporting period until settlement. The principal inputs being the market value on reporting date discounted for any dividends foregone over the holding periods of the award and adjustment for expected and actual levels of vesting which includes estimating the number of eligible employees leaving the Group and number of employees eligible for early retirement. The inputs used in the measurement of the fair values at grant date and measurement date were as follows. 
+
+Score 0.035
+Measurement date Dec Measurement date Dec 
+
+Score 0.173
+Units in thousands Fair value . . Share price . . Exercise price . . Expected volatility weightedaverage Expected life weightedaverage in years . . Expected dividends of income 
+
+Score 0.049
+Given there is no liquid market for implied volatility of DWS shares the calculation of DWS share price volatility is based on year historical data for DWS and a comparable peer group. 
+
+Score 0.138
+Postemployment Benefit Plans 
+
+Score 0.171
+Nature of Plans 
+
+Score 0.288
+Outstanding at beginning of year . . Granted Issued or Exercised . . Forfeited . . Expired . . Other Movements . . Outstanding at end of year . . Of which exercisable . . 
+
+Score 0.102
+Annual Awards Senior Management months
+
+Score 0.254
+DWS Equity Plan DWS SAR Plan Share units in thousands Number of Awards Number of Awards Number of Awards Weightedaverage exercise price Number of Awards Weightedaverage exercise price 
+
+Score 0.225
+The following table sets out the movements in share award units. 
+
+Score 0.255
+OffCycle awards to nonInstVV regulated employees only 
+
+Score 0.067
+Select employees as annual performancebased months
+
+Score 0.158
+For outstanding awards a year exercise period applies following vestingretention period 
+
+Score 0.191
+Unless the employee received Performance Share Unit Award 
+
+Score 0.147
+Depending on their individual regulatory status a six month retention period AIFMDUCITS MRTs or a twelve month retention period InstVV or IFD MRTs starting from applies after vesting 
+
+Score 0.069
+Dec in m. Germany UK U.S. Other Total 
+
+Score 0.183
+For MRTs March 
+
+Score 0.14
+all DWS employees
+
+Score 0.159
+SAR Award oneoff IPO related award For nonMRTs June 
+
+Score 0.081
+Select Senior Managers oneoff IPO related award March 
+
+Score 0.168
+ Performance Share Unit Award March 
+
+Score 0.123
+Members of the Executive Board oneoff IPO related award granted in March 
+
+Score 0.304
+Individual specification Select employees to attract and retain the best talent Severance Individual specification Regulatory requirement for certain employees to defer severance payments Performance Share Unit Award March 
+
+Score 0.246
+The Group sponsors a number of postemployment benefit plans on behalf of its employees both defined contribution plans and defined benefit plans. The Groups plans are accounted for based on the nature and substance of the plan. Generally for defined benefit plans the value of a participants accrued benefit is based on each employees remuneration and length of service contributions to defined contribution plans are typically based on a percentage of each employees remuneration. The rest of this note focuses predominantly on the Groups defined benefit plans. The Groups defined benefit plans are primarily described on a geographical basis reflecting differences in the nature and risks of benefits as well as in the respective regulatory environments. In particular the requirements set by local regulators can vary significantly and determine the design and financing of the benefit plans to a certain extent. Key information is also shown based on participant status which provides a broad indication of the maturity of the Groups obligations. 
+
+Score 0.177
+ Annual Report 
+
+Score 0.289
+Defined benefit obligation related to Active plan participants Participants in deferred status Participants in payment status Total defined benefit obligation Fair value of plan assets Funding ratio in 
+
+Score 0.209
+US Total defined benefit obligation is inclusive of the unfunded US Medicare Plan million in addition to defined benefit pension plans. The US defined benefit pension funding ratio excluding Medicare is 
+
+Score 0.135
+ Employee Benefits in m. Germany UK U.S. Other Total 
+
+Score 0.255
+Change in the present value of the defined benefit obligation Balance beginning of year Defined benefit cost recognized in Profit Loss Current service cost Interest cost Past service cost and gain or loss arising from settlements Defined benefit cost recognized in Other Comprehensive Income Actuarial gain or loss arising from changes in financial assumptions Actuarial gain or loss arising from changes in demographic assumptions Actuarial gain or loss arising from experience Cash flow and other changes Contributions by plan participants Benefits paid
+
+Score 0.328
+ Payments in respect to settlements AcquisitionsDivestitures Exchange rate changes Other Balance end of year thereof Unfunded Funded Change in fair value of plan assets Balance beginning of year Defined benefit cost recognized in Profit Loss Interest income Defined benefit cost recognized in Other Comprehensive Income Return from plan assets less interest income Cash flow and other changes Contributions by plan participants Contributions by the employer
+
+Score 0.161
+Net Amount includes reimbursement of benefit payments and a forgiven benefit payment from 
+
+Score 0.327
+Thereof million recognized in Other assets and million in Other liabilities 
+
+Score 0.296
+The Group has a reimbursement right of around million domiciled in France on December . This relates to the surplus of the previous CRPB Fund which was identified in that can be used to fund the retirement indemnity payments for the DB AG Branch Paris. There are no other reimbursement rights for the Group. 
+
+Score 0.087
+Investment Strategy 
+
+Score 0.209
+The Groups investment objective is to protect the Group from adverse impacts of its defined benefit pension plans on key financial metrics. The primary focus is to protect the plans IFRS funded status in the case of adverse market scenarios. Since there has been a shift in the investment strategy in selected markets to balance competing key financial metrics. Investment managers manage pension assets in line with investment mandates or guidelines as agreed with the pension plans trustees and investment committees. For key defined benefit plans for which the Group aims to protect the IFRS funded status the Group applies a liability driven investment approach. Risks from mismatches between fluctuations in the present value of the defined benefit obligations and plan assets due to capital market movements are minimized subject to balancing relevant tradeoffs. This is achieved by allocating plan assets closely to the market risk factor exposures of the pension liability to interest rates credit spreads and inflation. Thereby plan assets broadly reflect the underlying risk profile and currency of the pension obligations. Where the desired hedging level for market risks cannot be achieved with physical instruments i.e. corporate and government bonds derivatives are employed. Derivative overlays mainly include interest rate inflation swaps and credit default swaps. Other instruments are also used such as interest rate futures and options. In practice a completely hedged approach is impractical for instance because of insufficient market depth for ultralongterm corporate bonds as well as liquidity and cost considerations. Therefore plan assets contain further returnseeking asset categories such as equity real estate high yield bonds or emerging markets bonds to create longterm value and achieve diversification benefits. Furthermore this shift in the investment strategy allows for actively taken market risk exposures from interest rates and credit spreads within defined limits governed by the Pensions Committee. As a result the market risk from plan assets has been reduced. In the Group entered into a buyin transaction with a third party insurer to derisk million of exposure to the UK defined benefit pension schemes funded from existing assets with no additional employer contribution required. The recognition of the insurance policy as a qualifying plan asset negatively impacted Other Comprehensive Income in the Groups financial statement by approximately million. A similar buyin transaction to derisk million of exposure occurred in which negatively impacted Other Comprehensive Income in the Groups financial statement by approximately million. In total the Group has entered into four buyin transactions in the UK with thirdparty insurers protecting the Group from movements in defined benefit obligations of around . billion as at December . 
+
+Score 0.169
+Plan asset allocation to key asset classes 
+
+Score 0.291
+The following table shows the asset allocation of the Groups funded defined benefit plans to key asset classes i.e. exposures include physical securities in discretely managed portfolios and underlying asset allocations of any commingled funds used to invest plan assets. Asset amounts in the following table include both quoted i.e. Level assets in accordance with IFRS amounts invested in markets where the fair value can be determined directly from prices which are quoted in active liquid markets and other i.e. Level and assets in accordance with IFRS assets. 
+
+Score 0.118
+ Employee Benefits Dec Dec in m. Germany UK U.S. Other Total Germany UK U.S. Other Total 
+
+Score 0.302
+Cash and cash equivalents Equity instruments
+
+Score 0.065
+ Investmentgrade bonds
+
+Score 0.261
+Government Nongovernment bonds Noninvestmentgrade bonds Government Nongovernment bonds Securitized and other Debt Investments Insurance Alternatives Real estate Commodities Private equity Other
+
+Score 0.255
+ Derivatives Market Value Interest rate Credit Inflation Foreign exchange Other Total fair value of plan assets 
+
+Score 0.205
+Allocation of equity exposure is broadly in line with the typical index in the respective market e.g. the equity portfolios benchmark of the UK retirement benefit plans is the MSCI All Countries World Index 
+
+Score 0.14
+Investmentgrade means BBB and above. Average credit rating exposure for the Groups main plans is around A 
+
+Score 0.267
+This position contains commingled funds which could not be segregated into the other asset categories 
+
+Score 0.28
+The following table sets out the Groups funded defined benefit plan assets only invested in quoted assets i.e. Level assets in accordance with IFRS . 
+
+Score 0.075
+Dec Dec in m. Germany UK U.S. Other Total Germany UK U.S. Other Total 
+
+Score 0.313
+Government Nongovernment bonds Noninvestmentgrade bonds Government Nongovernment bonds Securitized and other Debt Investments Insurance Alternatives Real estate Commodities Private equity Other Derivatives Market Value Interest rate Credit Inflation Foreign exchange Other Total fair value of quoted plan assets 
+
+Score 0.253
+The following tables show the asset allocation of the quoted and other defined benefit plan assets by key geography in which they are invested. 
+
+Score 0.119
+Dec in m. Germany United Kingdom United States Other Eurozone Other developed countries Emerging markets Total 
+
+Score 0.327
+ Thereof million recognized in Other assets and million in Other liabilities 
+
+Score 0.172
+For funded plans only 
+
+Score 0.195
+Net Amount includes reimbursement of benefit payments
+
+Score 0.138
+Actuarial Methodology and Assumptions 
+
+Score 0.095
+ Employee Benefits Dec in m. Germany UK U.S. Other Total 
+
+Score 0.22
+The majority of the Groups defined benefit plan obligations relate to Germany the United Kingdom and the United States. Within the other countries the largest obligation relates to Switzerland. In Germany and some continental European countries postemployment benefits are usually agreed on a collective basis with respective employee workers councils unions or their equivalent. The Groups main pension plans are governed by boards of trustees fiduciaries or their equivalent. Postemployment benefits can form an important part of an employees total remuneration. The Groups approach is that their design shall be attractive to employees in the respective market but sustainable for the Group to provide over the longer term. At the same time the Group tries to limit its risks related to provision of such benefits. Consequently the Group has moved to offer defined contribution plans in many locations over recent years. In the past the Group typically offered pension plans based on final pay prior to retirement. These types of benefits still form a significant part of the pension obligations for participants in deferred and payment status. Currently in Germany and the United States the main defined benefit pension plans for active staff are cash account type plans where the Group credits an annual amount to individual accounts based on an employees current compensation. Dependent on the plan rules the accounts increase either at a fixed interest rate or participate in market movements of certain underlying investments to limit the investment risk for the Group. Sometimes in particular in Germany there is a guaranteed benefit amount within the plan rules e.g. payment of at least the amounts contributed. Upon retirement beneficiaries may usually opt for a lump sum a fixed number of annual instalments or for conversion of the accumulated account balance into a life annuity. This conversion is often based on market conditions and mortality assumptions at retirement. The Group also sponsors retirement and termination indemnity plans in several countries as well as some postemployment medical plans for a number of current and retired employees mainly in the United States. The postemployment medical plans typically pay fixed percentages of medical expenses of eligible retirees after a set deductible has been met. In the United States once a retiree is eligible for Medicare the Group contributes to a Health Reimbursement Account and the retiree is no longer eligible for the Groups medical program. The Groups total defined benefit obligation for postemployment medical plans was million and million on December and December respectively. In combination with the benefit structure these plans represent limited risk for the Group given the nature and size of the postretirement medical plan liabilities versus the size of the Groups balance sheet at year end . The following amounts of expected benefit payments from the Groups defined benefit plans include benefits attributable to employees past and estimated future service and include both amounts paid from the Groups external pension trusts and paid directly by the Group in respect of unfunded plans. 
+
+Score 0.124
+in m. Germany UK U.S. Other Total 
+
+Score 0.134
+Regulated employees RetentionNew HireOffCycle
+
+Score 0.147
+Multiemployer Plans 
+
+Score 0.225
+In Germany the Group is a member of the BVV Versicherungsverein des Bankgewerbes a.G. BVV together with other financial institutions. The BVV offers retirement benefits to eligible employees in Germany as a complement to postemployment benefit promises of the Group. Both employers and employees contribute on a regular basis to the BVV. The BVV provides annuities of a fixed amount to individuals on retirement and increases these fixed amounts if surplus assets arise within the plan. According to legislation in Germany the employer is ultimately liable for providing the benefits to its employees. An increase in benefits may also arise due to additional obligations to retirees for the effects of inflation. BVV is a multiemployer defined benefit plan. However in line with industry practice the Group accounts for it as a defined contribution plan since insufficient information is available to identify assets and liabilities relating to the Groups current and former employees primarily because the BVV does not fully allocate plan assets to beneficiaries nor to member companies. 

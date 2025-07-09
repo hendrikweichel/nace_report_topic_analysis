@@ -1,0 +1,299 @@
+Scores_e_WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIESScore 0.647
+Waste and recycling 
+
+Score 0.618
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned CapEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities EL NELEL NEL EL NELEL NELEL NELEL NELConstruction extension and operation of waste water collection and treatment CCM .ELNEL NELNELNELNELRenewal of waste water collection and treatment CCM ..ELNEL NELNELNELNELTransport by motorbikes passenger cars and light commercial vehicles CCM ..ELNEL NELNELNELNELRenovation of existing buildings CCM ..ELNEL NELNELNELNELInstallation maintenance and repair of energy efficiency equipment CCM ..ELNEL NELNELNELNELInstallation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings CCM .ELNEL NELNELNELNELAcquisition and ownership of buildings CCM ..ELNEL NELNELNELNELManufacture of medicinal products PPC ..NELNEL NELELNELNELCapEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. .. .CapEx of taxonomyeligible activities A.A. .. .B. Taxonomynoneligible activities CapEx of taxonomynoneligible activities .Total 
+
+Score 0.603
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned CapEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Construction extension and operation of waste water collection and treatment .Renewal of waste water collection and treatment .Transport by motorbikes passenger cars and light commercial vehicles .Renovation of existing buildings .Installation maintenance and repair of energy efficiency equipment .Installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .Acquisition and ownership of buildings .Manufacture of medicinal products CapEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. .CapEx of taxonomyeligible activities A.A. B. Taxonomynoneligible activities CapEx of taxonomynoneligible activities Total 
+
+Score 0.59
+We use water resources as sparingly as possible and are endeavoring to further reduce emissions into water. All relevant sites in areas identified as being threatened by water scarcity through have a water management system in place. Total water use in remained level year on year at million cubic meters million cubic meters. . of all water used by Bayer is cooling water that is only heated in the process and does not come into contact with products. It can be returned to the water cycle in line with the relevant official permits. At our production facilities we endeavor to use water several times and to recycle it. All wastewater is subject to thorough checks before it is discharged into the various disposal channels. All our industrial and mixed wastewater is purified in wastewater treatment plants Bayer or thirdparty facilities where necessary categorized as environmentally safe according to official provisions and returned to the natural water cycle. The total quantity of industrial and mixed wastewater came in at million cubic meters in and was thus . higher than the previous year million cubic meters. 
+
+Score 0.555
+..Water use million cubic meters ..Total waste generated thousand metric tons 
+
+Score 0.532
+Provisions for environmental protection are mainly established for the expected costs of ensuring compliance with environmental regulations remediation work on contaminated land recultivation of landfills and redevelopment and water protection measures. 
+
+Score 0.526
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned Turnover of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Manufacture of medicinal products Turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. Turnover of taxonomyeligible activities A.A. B. Taxonomynoneligible activities Turnover of taxonomynoneligible activities Total 
+
+Score 0.521
+More information on the divisions products and activities is contained in the following table 
+
+Score 0.513
+Products and Activities of the Divisions 
+
+Score 0.51
+We aim to minimize material consumption and disposal volumes through systematic waste management. In accordance with Bayers corporate policies all production sites are required to prevent reduce and recycle waste and to dispose of it safely and in line with good environmental practices. The total quantity of waste generated rose to metric tons in metric tons mainly due to increased production at the Dormagen site in Germany and the completion of construction work at the Leverkusen site in Germany. The volume of hazardous waste rose by . to metric tons metric tons due to the increase in production at the Dormagen site. The volume of hazardous waste from production in this figure including hazardous waste from wastewater treatment plants also increased against the prior year rising from metric tons to metric tons. 
+
+Score 0.493
+Costs arising from obligations to decommission or dismantle property plant and equipment are included as a component of the acquisition or construction costs for property plant or equipment if they can be reliably estimated and are covered by provisions. If changes in the estimates require the provisions to be adjusted the carrying amounts of the respective assets are reduced or increased accordingly. Estimating the future costs for environmental protection and similar measures involves in particular uncertainties with regard to the applicable laws and regulations and the actual local conditions. Significant factors in estimating the costs include previous experiences in similar cases expert opinions current costs and new developments affecting costs managements interpretation of current environmental regulations the financial position of third parties that may become obligated to participate in any remediation costs on the basis of joint liability and the remediation methods likely to be deployed. Changes in these assumptions could impact future reported results of the Group. Taking into consideration the experience gained to date and the knowledge and circumstances as of the closing date provisions are believed to be adequate. However material additional costs could be incurred beyond the amounts accrued that result in additional expenses in subsequent periods. Provisions for employee termination benefits are established where the amounts of severance payments additional pension plan modules to be granted or other benefits can be reliably estimated. However material additional costs could be incurred beyond the amounts accrued that result in additional expenses in subsequent periods. Obligations arising from stockbased programs that involve cash settlement pursuant to IFRS Sharebased Payment are covered by provisions in the amount of the fair value of the obligations existing as of the closing date. All resulting changes in value are recognized in profit or loss. Provisions for litigations are established under certain conditions in the case of legal risks. Litigations and other judicial proceedings often raise complex issues and are subject to many uncertainties and complexities including but not limited to the facts and circumstances of each particular case the jurisdiction in which each suit is brought and differences in applicable law. The outcome of any current or future proceedings cannot normally be predicted. It is particularly difficult to assess the likely outcomes of class actions for damages or mass compensation claims in the United States which may give rise to significant financial risks for the Bayer Group. As a result of a final judgment in court proceedings regulatory decisions or the conclusion of a settlement the Bayer Group may incur charges for which no accounting measures have yet been taken for lack of reasonable estimability or which exceed presently established provisions and the insurance coverage. The Bayer Group considers the need for accounting measures in respect of pending or future litigations and the extent of any such measures on the basis of the information available to its legal department and in close consultation with legal counsel acting for the Bayer Group. Where it is more likely than not that such a litigation will result in an outflow of resources that is already reasonably estimable a provision for litigation is recorded in the amount of the present value of the expected cash outflows. Such provisions cover the estimated payments to the plaintiffs court and procedural costs attorney costs and the cost of potential settlements. It is sometimes impossible to reliably determine the existence of a present obligation or reasonably estimate the probability that a potential outflow of resources will result from a pending or future litigation. The status of the material legal risks is described in Note . Due to the special nature of these litigations provisions generally are not established until initial settlements allow an estimate of potential amounts or judgments have been issued. Provisions for legal defense costs are established if it is probable that material costs will have to be incurred for external legal counsel to defend the companys legal position. 
+
+Score 0.481
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned Turnover of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities EL NELEL NEL EL NELEL NELEL NELEL NELManufacture of medicinal products PPC ..NELNEL NELELNELNELTurnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. . .Turnover of taxonomyeligible activities A.A. . .B. Taxonomynoneligible activities Turnover of taxonomynoneligible activities .Total 
+
+Score 0.472
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned OpEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Manufacture of medicinal products OpEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. OpEx of taxonomyeligible activities A.A. B. Taxonomynoneligible activities OpEx of taxonomynoneligible activities Total 
+
+Score 0.471
+. Sustainability Management 
+
+Score 0.471
+Our operating expenditure with respect to research and development shortterm leasing and maintenance and repair amounted to million in million. Taxonomyeligible operating expenditure amounted to million million and taxonomynoneligible operating expenditure amounted to million million. The proportion of taxonomyeligible operating expenditure therefore came to . . Due to the simplified reporting requirements for with respect to the four environmental objectives to be applied for the first time there is no taxonomyaligned operating expenditure to disclose. 
+
+Score 0.471
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned OpEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities EL NELEL NEL EL NELEL NELEL NELEL NELManufacture of medicinal products PPC ..NELNEL NELELNELNELOpEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. . .OpEx of taxonomyeligible activities A.A. . .B. Taxonomynoneligible activities OpEx of taxonomynoneligible activities .Total 
+
+Score 0.464
+. Environmental Protection and Safety 
+
+Score 0.462
+Process and plant safety 
+
+Score 0.462
+Women Men Personnel expenses million Pension obligations million Shortterm incentive program million Procurement spend billion ..Safety Recordable Incident Rate RIR ..Lost Time Recordable Incident Rate LTRIR ..Process Safety Incident Rate PSIR ..Environmental protection Total energy consumption terajoules Scope and greenhouse gas emissions million metric tons of CO
+
+Score 0.454
+ Proportion of turnovertotal turnoverAligned per objectiveEligible per objectiveClimate change mitigation CCM Climate change adaptation CCA Water and marine resources WTR Circular economy CE Pollution prevention and control PPC .Biodiversity and ecosystems BIO 
+
+Score 0.452
+Property plant and equipment is initially recognized at the cost of acquisition or construction plus the estimated amounts of any redevelopment or decommissioning costs. Thereafter it is depreciated by the straightline method over its expected useful life except where userelated depreciation is more appropriate. 
+
+Score 0.45
+Useful Life of Property Plant and Equipment 
+
+Score 0.45
+Environmental Protection and Safety
+
+Score 0.449
+We are working on ways to further reduce the environmental impact of our business activities and develop solutions that relieve the burden on the environment. Responsibility for this lies with the Sustainability Safety Health Environment SSHE enabling function which defines framework conditions in the form of corporate policies and other measures. We use management systems to control operational implementation in the divisions. 
+
+Score 0.446
+Activities of the Segments 
+
+Score 0.44
+Economic activities CodeTurnoverProportionof turnoverClimate change mitigationClimate change adaptation WaterPollutionCircular economyBiodiversity millionY N NELY N NEL Y N NELY N NELY N NELY N NEL
+
+Score 0.438
+. Property plant and equipment 
+
+Score 0.437
+Environmental protection 
+
+Score 0.437
+Property plant and equipment
+
+Score 0.437
+Property plant and equipment 
+
+Score 0.435
+These responsibilities of the executive directors of the Company include the selection and application of appropriate methods regarding the additional nonfinancial information and the use of assumptions and estimates for individual nonfinancial information which are reasonable under the given circumstances. In addition the executive directors are responsible for such internal control as they have determined necessary to enable the preparation of a nonfinancial reporting that is free from material misstatement whether due to fraud i.e. fraudulent nonfinancial reporting or error. The EU Taxonomy Regulation and the Delegated Acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which clarifications have not yet been published in every case. Therefore the executive directors have laid down their own interpretation of the EU Taxonomy Regulation and of the Delegated Acts adopted thereon in section . of the combined management report. They are responsible for the justifiability of this interpretation. The legal conformity of the interpretation is subject to uncertainties due to the immanent risk that undefined legal terms may be interpreted differently. The preciseness and completeness of environmental data of the additional nonfinancial information is subject to inherent restrictions resulting from the way the data was collected and calculated and from assumptions made. 
+
+Score 0.431
+ Emissions from eight Scope categories are of material importance to Bayer and together represent our total Scope emissions purchased goods and services capital goods fuel and energyrelated activities upstream transportation and distribution waste generated in operations business travel employee commuting and endoflife treatment of sold products. 
+
+Score 0.427
+Sustainability Management
+
+Score 0.424
+Health safety and environment Medium Group 
+
+Score 0.422
+DNSH criteria Does Not Significantly HarmEconomic activities Climate change mitigationClimate change adaptationWaterPollutionCircular economyBiodiversity Minimum safeguardsProportionoftaxonomyalignedA. oreligibleA.turnoverCategory enabling activityCategory transitional activityYNYNYNYNYNYN YNET
+
+Score 0.421
+ Following the partial sale of Environmental Science the remaining parts of that business Industrial Turf Ornamental ITO and Lawn Garden are being reported under Other from onwards. 
+
+Score 0.418
+A review is conducted as of each closing date to ascertain whether there are any indications of impairment. When assets are sold closed down or scrapped the difference between the net proceeds and the net carrying amount of the assets is recognized as a gain or loss in other operating income or expenses respectively. Grants and subsidies from third parties that serve to promote investment are reflected in the statement of financial position under other liabilities and amortized to income over the useful lives of the respective investments in property plant or equipment or in line with the terms of the grant or subsidy. Investment property comprises land and buildings not being used for operational or administrative purposes. It is measured using the cost model. The fair value of this property reported in the Notes is primarily determined on the basis of internal valuations using the income approach while that of undeveloped sites is mainly calculated using the market comparison approach. 
+
+Score 0.412
+ For our reduction target for Scope emissions in line with the SBTi we consider the following materially important Scope categories which accounted for of Scope emissions in the baseline year purchased goods and services capital goods fuel and energyrelated activities upstream transportation and distribution and business travel. 
+
+Score 0.411
+Economic activities CodeOpExProportionof OpExClimate change mitigationClimate change adaptation WaterPollutionCircular economyBiodiversity millionY N NELY N NEL Y N NELY N NELY N NELY N NEL
+
+Score 0.408
+Economic activities CodeCapExProportionof CapExClimate change mitigationClimate change adaptation WaterPollutionCircular economyBiodiversity millionY N NELY N NEL Y N NELY N NELY N NELY N NEL
+
+Score 0.407
+Appendix to the Auditors Report Parts of the Combined Management Report whose content is unaudited We have not audited the content of the following parts of the combined management report The statements contained in the About this Report section to which reference is made in the combined management report Table A .. Nonfinancial Group Targets Through including the statements made in the footnotes as well as the following explanatory passages on the Groups nonfinancial targets contained in section .. of the combined management report Tables A. Taxonomy Turnover Reporting A. Proportion of turnover per environmental objective A. Taxonomy CapEx Reporting A. Proportion of CapEx per environmental objective A. Taxonomy OpEx Reporting and A. Proportion of OpEx per environmental objective contained in section . of the combined management report including the statements made in the footnotes as well as the statements made in the EU taxonomy subsection the statements made on the subject of Scope emissions in Table A . Greenhouse Gas Emissions contained in section . of the combined management report as well as the related statements the statements made on the appropriateness and operating effectiveness of internal control IC and the risk management system RMS in accordance with Recommendation A. of the GCGC contained in section .. of the combined management report under Assessment of the risk management and internal control system pursuant to Section Paragraph of the German Stock Corporation Act the corporate governance statement pursuant to Section f and Section d HGB included in section . of the combined management report and all crossreferences to web pages of the Company and the information to which these crossreferences refer. 
+
+Score 0.406
+Sales of goods and servicesPurchase of goodsand servicesReceivablesLiabilities
+
+Score 0.405
+The total operating expenditure identified as being taxonomyeligible and taxonomyaligned is shown in the following table 
+
+Score 0.404
+Land andbuildingsPlant installationsand machineryFurniture fixtures and other equipmentConstruction in progress and advance paymentsTotalCost of acquisition or construction December Acquisitions Capital expenditures Retirements Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Accumulated depreciation and impairment December Retirements Depreciation and impairment losses Depreciation Impairment losses Impairment loss reversals Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Carrying amounts December Carrying amounts December 
+
+Score 0.403
+DNSH criteria Does Not Significantly HarmEconomic activities Climate change mitigationClimate change adaptationWaterPollutionCircular economyBiodiversity Minimum safeguardsProportionoftaxonomyalignedA. oreligibleA.CapExCategory enabling activityCategory transitional activityYNYNYNYNYNYN YNET
+
+Score 0.403
+The depreciation of rightofuse assets in pertained to the following asset groups 
+
+Score 0.402
+ Special items of segments Special items of Enabling Functions and Consolidation Special items
+
+Score 0.401
+Our sustainability targets Chapter .. help us to realize our mission of Health for all Hunger for none. In addition we also report on other nonfinancial aspects. For we are required to disclose the proportion of turnover sales capital expenditure CapEx and operating expenditure OpEx in the reporting period that is EU taxonomyeligible and taxonomyaligned with regard to the environmental objectives climate change mitigation and climate change adaptation. For the four additional environmental objectives sustainable use and protection of water and marine resources the transition to a circular economy pollution prevention and control and the protection and restoration of biodiversity and ecosystems by contrast we are only required to disclose taxonomyeligible turnover capital expenditure and operating expenditure. Company activities are assessed for taxonomy eligibility based on the economic activities described in Annexes I and II to the Delegated Act of June and Annexes I through IV to the Delegated Act of June . To avoid doublecounting results are documented for example at product master data level. Taxonomy alignment is evaluated based on the technical screening criteria for each economic activity which are also defined in the aforementioned Annexes. We use our own interpretation when applying the EU taxonomy as definitions are not yet available and the wording used is unclear. The FAQ documents published by the European Commission as of December were duly taken into account. 
+
+Score 0.4
+DNSH criteria Does Not Significantly HarmEconomic activities Climate change mitigationClimate change adaptationWaterPollutionCircular economyBiodiversity Minimum safeguardsProportionoftaxonomyalignedA. oreligibleA. OpExCategory enabling activityCategory transitional activityYNYNYNYNYNYN YNET
+
+Score 0.224
+Provisions are also established for the obligations mainly of US subsidiaries to provide postemployment benefits in the form of healthcare cost payments for retirees. The valuation of healthcare costs was based on the assumption that they will increase at a rate of . .. It was assumed that this rate of increase will gradually decline to . . by by . 
+
+Score 0.135
+A decline in capital market interest rates especially for highquality corporate bonds would increase the defined benefit obligation. This effect would be at least partially offset by the ensuing increase in the market values of the corresponding debt instruments held. 
+
+Score 0.201
+The following table shows the impact on other postemployment benefit obligations and total benefit expense of a onepercentagepoint change in the assumed cost increase rates 
+
+Score 0.126
+Increase of pt.Decrease of pt. 
+
+Score 0.12
+Since a large proportion of the defined benefit obligations comprises lifelong pensions or surviving dependents pensions longer claim periods or earlier claims may result in higher benefit obligations higher benefit expense andor higher pension payments than previously anticipated. 
+
+Score 0.133
+Impact on other postemployment benefit obligations Impact on benefit expense 
+
+Score 0.004
+Sensitivity to Healthcare Cost Increases 
+
+Score 0.216
+ Pension obligations Discount rate ..... .of which USA ... .of which UK ... .Projected future salary increases ..... .Projected future benefit increases ..... .Other postemployment benefit obligations Discount rate ... .
+
+Score 0.06
+Sensitivity of Benefit Obligations Previous Year 
+
+Score 0.232
+IncreaseDecreaseIncreaseDecreaseIncreaseDecreasePension obligations .pt. change in discount rate .pt. change in projected future salary increases .pt. change in projected future benefit increases change in mortality Other postemployment benefit obligations .pt. change in discount rate change in mortality 
+
+Score 0.069
+GermanyOther countriesTotal
+
+Score 0.123
+Sensitivity of Benefit Obligations 
+
+Score 0.155
+The parameter sensitivities were computed by expert actuaries based on a detailed evaluation similar to that performed to obtain the data presented in Table B . Altering individual parameters by . percentage points or mortality by per beneficiary while leaving the other parameters unchanged would have impacted pension and other postemployment benefit obligations as of yearend as follows 
+
+Score 0.067
+Investment risks 
+
+Score 0.132
+The Heubeck RT G mortality tables were used in Germany the MP Mortality Tables in the United States and of SNMA and of SNFA in the United Kingdom. The projected future benefit increase in Germany was adjusted to . and would have been . based on the previous estimate method which had combined longterm expectations and cumulative inflation in a uniform benefit increase rate .. The estimate method was refined compared with the previous years to directly account for cumulative inflation up to the next benefit increase when measuring the individual obligations in question. The refined process thus takes into account cumulative inflation and longterm inflation forecasts demographic specifics as well as the adjustment mechanism at Bayer. The refinement increased the defined benefit obligation by million at the expense of other comprehensive income. 
+
+Score 0.104
+Payments made and expected future payments 
+
+Score 0.069
+GermanyOther countriesTotal 
+
+Score 0.134
+If the actual return on plan assets were below the return anticipated on the basis of the discount rate the funded status of defined benefit plans would decrease assuming there were no changes in other parameters. This could happen as a result of a drop in share prices increases in market rates of interest for certain bonds default of individual debtors or the purchase of lowrisk but lowinterest bonds for example. 
+
+Score 0.233
+Parameters for Benefit Obligations 
+
+Score 0.241
+The following weighted parameters were used to measure the obligations for pensions and other postemployment benefits as of December of the respective year 
+
+Score -0.017
+Interestrate risk 
+
+Score 0.099
+Measurement parameters and their sensitivities 
+
+Score 0.245
+A Zusammengefasster LageberichtFehler Kein Text mit angegebener Formatvorlage im Dokument.BayerGeschäftsbericht 
+
+Score 0.219
+Other taxesEnvironmentalprotectionRestructuringTraderelatedcommitmentsLitigationsPersonnelcommitmentsMiscellaneousTotalJanuary Additions Utilization Reversal Interest cost Exchange differences December of which current 
+
+Score 0.292
+The following payments or asset contributions correspond to the employer contributions made or expected to be made to funded benefit plans 
+
+Score 0.036
+Employer Contributions Paid or Expected 
+
+Score 0.177
+The value of the Aspire . tranche that was fully earned at the end of resulting in payments at the beginning of was million million. The net gain for all stockbased compensation programs was million expense of million and included expenses of million million for the BayShare stock participation program. The decline in provisions was primarily due to the development of the underlying parameters to determine the fair value of liabilities such as Bayers share price and ROCE. For information on the hedging of stockbased compensation for our employees and the resulting additional effects on the income statement see Note .. 
+
+Score 0.122
+AspireJanuary Additions Utilization Reversal Exchange differences December 
+
+Score 0.142
+Changes in Provisions 
+
+Score 0.146
+The following table shows the changes in the provisions established for Aspire . and Aspire . 
+
+Score 0.237
+Bayer offers the stockbased compensation programs Aspire . Aspire . and BayShare collectively to different groups of employees. The Aspire . and Aspire . programs are accounted for in accordance with the requirements of IFRS concerning cashsettled sharebased payment transactions. By contrast the BayShare stockbased compensation program is accounted for in line with the requirements of IFRS concerning equitysettled sharebased payment transactions. Provisions are established for all awards to be made under the Aspire . and Aspire . programs. The provisions are recognized in the amount of the fair value of the obligations existing as of the date of the financial statements. All resulting changes in value are recognized in profit or loss. 
+
+Score 0.143
+Stockbased compensation programs 
+
+Score 0.266
+Personnelrelated provisions include those for variable performancerelated onetime payments to employees stockbased payments and payments related to longservice anniversaries early retirement programs and preretirement parttime working arrangements. Provisions for severance payments resulting from restructuring are reflected in provisions for restructuring. 
+
+Score 0.189
+Personnel commitments 
+
+Score 0.282
+The legal risks currently considered to be material and their development are described in Note . 
+
+Score 0.202
+Litigations 
+
+Score 0.255
+Traderelated provisions are recorded mainly for obligations related to services performed but not yet invoiced and to sales commissions not recognized under trade accounts payable. 
+
+Score 0.091
+Traderelated commitments 
+
+Score 0.201
+At Pharmaceuticals the decline in restructuringrelated provisions was primarily due to the implementation of the restructuring plans involving headcount reductions that had been specifically communicated in and the respective severance payments particularly in Japan France and Germany. This global program was aimed at driving a fundamental organizational transformation in step with the longterm strategy and Bayers aspiration as a leading science company to deliver groundbreaking innovation. The ongoing utilization of the existing provisions in conjunction with the current transformation initiative also led to a decrease in the restructuringrelated provisions for Consumer Health. The decline for Enabling FunctionsAll Other Segments was largely due to the further utilization of the existing provisions for the headcount reduction measures defined in previous years. 
+
+Score 0.283
+Provisions for restructuring only cover expenses that arise directly from restructuring measures are necessary for restructuring and are not related to future business operations. Such expenses include severance payments to employees and compensation payments in respect of rented property that is no longer used. Restructuring measures may include the sale or termination of business units site closures relocations of business activities or fundamental reorganizations of business units. Provisions for restructuring included million million for severance payments and million million for other restructuring expenses. The breakdown of provisions by segment was as follows million million at Crop Science million million at Pharmaceuticals million million at Consumer Health and million million in Enabling FunctionsAll Other Segments. In Bayer announced the introduction of a new operating model for the entire Group. The aim of the new system which is called Dynamic Shared Ownership DSO is to ensure we adopt an even stronger orientation toward customer needs and deploy resources more efficiently. In late the company began to undertake its first specific communication measures to inform affected employees and employee representatives which meant that corresponding provisions had to be established under IAS . Future provisions will need to be established depending on the development of detailed formal plans for the planned measures and the communication thereof to the affected employees. The decline in provisions for restructuring at Crop Science was particularly attributable to the ongoing severance payments resulting from reorganization measures due to the Monsanto integration. 
+
+Score 0.228
+Restructuring 
+
+Score 0.142
+The provisions were partly offset by reimbursement claims in the amount of million million which were recognized as receivables. These reimbursement claims primarily related to product liability. 
+
+Score 0.186
+The risks from defined benefit plans arise partly from the defined benefit obligations and partly from the investment in plan assets. These risks include the possibility that additional contributions will have to be made to plan assets in order to meet current and future pension obligations and negative effects on provisions and equity. 
+
+Score 0.15
+Changes in Other Provisions 
+
+Score 0.282
+Changes in the various provision categories in were as follows 
+
+Score 0.206
+. Other provisions 
+
+Score 0.107
+The weighted average term of the pension obligations is . years . years in Germany and . years . years in other countries. The weighted average term of the obligations for other postemployment benefits in other countries is . years . years. 
+
+Score 0.123
+GermanyOther countries Other countriesTotalGermanyOther countriesOther countriesTotal 
+
+Score 0.286
+Payments out of plan assetsPayments by the company PensionsOther postemploymentbenefitsPensionsOther postemploymentbenefits
+
+Score 0.094
+Future Benefit Payments 
+
+Score 0.134
+Bayer had previously been committed to making deficit contributions for its UK pension plans of approximately GBP million annually although this fixed commitment ceased to apply from . For its US pension plans Bayer did not make any deficit contributions in or in and expects to make zero or only very low regular payments in as most of these plans are closed and frozen. Pensions and other postemployment benefits payable in the future from funded and unfunded plans are estimated as follows 

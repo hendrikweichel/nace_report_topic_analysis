@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.591
+Other current financial assets consist of the following 
+
+Score 0.581
+Other financial assets 
+
+Score 0.572
+Other current financial liabilities consist of the following 
+
+Score 0.57
+Other noncurrent financial assets consist of the following 
+
+Score 0.567
+Investments in other equity instruments held for trading FAHfT Investments in other equity instruments FVTPL Investments in other equity instruments FVOCI Promissory notes FVTPL Earnout components assets 
+
+Score 0.563
+Investments in other equity instruments held for trading FAHfT Investments in other equity instruments FVTPL Investments in other equity instruments FVOCI Earnout components assets 
+
+Score 0.554
+Financial assets are classified and measured according to IFRS. All purchases and sales of financial assets with the exception of trade receivables are recognized on the trade date and initially measured at fair value. At initial recognition trade receivables that do not have a significant financing component are measured at their transaction price. Subsequently a financial asset is measured at amortized cost fair value through other comprehensive income debt instrument fair value through other comprehensive income equity instrument or fair value through profit or loss. A financial asset is measured at amortized cost if it meets both of the following conditions and is not designated at fair value through profit or loss the financial asset is held within a business model whose objective is to hold assets to collect contractual cash flows business model Hold to collect and the financial assets contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. A financial asset is measured at fair value through other comprehensive income if it meets both of the following conditions and is not designated at fair value through profit or loss the financial asset is held within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets business model Hold to collect and sell and its contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding. 
+
+Score 0.548
+Financial instruments 
+
+Score 0.542
+ Other current financial assets 
+
+Score 0.54
+Other noncurrent financial liabilities consist of the following 
+
+Score 0.533
+Other current financial liabilities 
+
+Score 0.531
+Other current assets consist of the following 
+
+Score 0.529
+These are parts of the nonfinancial statement that are covered by a separate limited assurance engagement. Term underlined in blue There is a detailed definition of this term in the glossary. 
+
+Score 0.521
+Other noncurrent assets consist of the following 
+
+Score 0.52
+Dec. Dec. Cash and cash equivalents Equity instruments Bonds Real estate Pension plan reinsurance Investment funds Other assets Fair value of plan assets 
+
+Score 0.516
+Other noncurrent financial assets 
+
+Score 0.512
+ Includes actuarial gains or losses relating to defined benefit obligations return on plan assets excluding interest income and the asset ceiling effect. The accompanying Notes are an integral part of these consolidated financial statements. TO OUR SHAREHOLDERS GROUP MANAGEMENT REPORT OUR COMPANY GROUP MANAGEMENT REPORT FINANCIAL REVIEW CONSOLIDATED FINANCIAL STATEMENTS ADDITIONAL INFORMATION 
+
+Score 0.508
+ Assets Gross amounts of recognized financial assets Financial instruments which qualify for setoff in the statement of financial position Net amounts of financial assets presented in the statement of financial position Setoff possible due to master agreements Total net amount of financial assets Liabilities Gross amounts of recognized financial liabilities Financial instruments which qualify for setoff in the statement of financial position Net amounts of financial liabilities presented in the statement of financial position Setoff possible due to master agreements Total net amount of financial liabilities 
+
+Score 0.508
+Other financial assets are classified and measured under IFRS based on the companys business model for managing these assets and the contractual cash flow characteristics. Those other financial assets that give rise to cash flows consisting only of payments of principal and interest and that are assigned to the business model Hold to collect are measured at amortized cost. adidas mainly has security deposits and receivables from credit card companies and electronic marketplaces that fall under this category. Other financial assets that give rise to cash flows consisting only of payments of principal and interest and that are assigned to the business model Hold to collect and sell are measured at fair value through OCI. This category mainly includes other investments and securities to hedge longterm variable compensation components. Other financial assets which are neither within the business model Hold to collect nor within Hold to collect and sell are measured at fair value through profit or loss. This category mainly includes secured promissory notes and earnout components. 
+
+Score 0.508
+Other current liabilities consist of the following 
+
+Score 0.494
+rightofuseassets goodwill other provisions pensions derivatives and income taxes as well as other financial commitments and contingencies. 
+
+Score 0.491
+Evaluation of the process to identify taxonomyeligible and taxonomyaligned economic activities and the corresponding disclosures in the Combined Nonfinancial Statement 
+
+Score 0.488
+Additional information to financial instruments 
+
+Score 0.487
+On a subsidiary level where applicable and economically reasonable local managing directors and finance directors are responsible for managing treasury matters in their respective subsidiaries. Controlling functions on a corporate level ensure that the transactions of the individual business units are in compliance with our Treasury Policy. 
+
+Score 0.486
+Dec. . Dec. . Forward exchange contracts Security deposits Earnout components Sundry Other noncurrent financial assets 
+
+Score 0.486
+performed a limited assurance engagement on the sections denoted with 
+
+Score 0.485
+Longterm financial assets 
+
+Score 0.484
+ Liabilities and equity in millions Shortterm borrowings . . Accounts payable . . Longterm borrowings . . Other liabilities . . Current and noncurrent lease liabilities IFRS 
+
+Score 0.484
+Notes to the Consolidated Statement of Financial Position Cash and cash equivalents 
+
+Score 0.483
+ Included in net cash used in financing activities. TO OUR SHAREHOLDERS GROUP MANAGEMENT REPORT OUR COMPANY GROUP MANAGEMENT REPORT FINANCIAL REVIEW CONSOLIDATED FINANCIAL STATEMENTS ADDITIONAL INFORMATION 
+
+Score 0.482
+Audit services Other confirmation services Tax consultancy services Other services Sum 
+
+Score 0.482
+Other noncurrent financial liabilities 
+
+Score 0.482
+ Other noncurrent financial liabilities 
+
+Score 0.481
+Subsequent measurement principle Assets Cash and cash equivalents Amortized cost Cash and cash equivalents investments in certain money market funds Fair value through profit or loss Accounts receivable Amortized cost Inventories Lower of cost and net realizable value Property plant and equipment Amortized cost Rightofuse assets Amortized cost Goodwill Impairmentonly approach Intangible assets except goodwill With definite useful life Amortized cost With indefinite useful life Impairmentonly approach Financial assets See separate table Liabilities Borrowings Amortized cost Accounts payable Amortized cost Liabilitiesprovisions for cashsettled sharebased payment arrangements Fair value through profit or loss Derivatives not used in hedge accounting Fair value through profit or loss Derivatives used in hedge accounting Fair value through other comprehensive income Other financial liabilities Amortized cost Provisions Pensions Projected unit credit method Other provisions Expected settlement amount Accrued liabilities Amortized cost Lease liabilities Amortized cost 
+
+Score 0.481
+Cash and cash equivalents represent cash at banks cash on hand and shortterm deposits with maturities of three months or less from the date of acquisition such as commercial papers and investments in money market funds. Cash equivalents are shortterm highly liquid investments that are readily convertible to known amounts of cash and which are subject to an insignificant risk of changes in value. Cash equivalents can partly include investments in money market funds. Classification and measurement under IFRS are performed based on the companys business model for managing these financial assets and the contractual cash flow characteristics. Investments in money market funds contain cash flows other than those of principal and interest on principal. As a result those investments are measured at fair value through profit or loss. 
+
+Score 0.48
+The carrying amounts of recognized derivative financial instruments which are subject to the agreements mentioned here are also presented in the following table 
+
+Score 0.479
+ Embedded derivatives Sundry Other current financial liabilities 
+
+Score 0.479
+Other noncurrent liabilities consist of the following 
+
+Score 0.478
+Financial assets at fair value through profit or loss FVTPL Financial assets at fair value through other comprehensive income FVOCI Thereof equity investments without recycling to profit and loss Financial assets at amortized cost AC Financial liabilities at fair value through profit or loss FVTPL Financial liabilities at amortized cost AC 
+
+Score 0.477
+Interest income from financial instruments measured at amortized cost mainly consists of interest income from bank deposits and loans calculated using the effective interest method. Interest incomeexpense from financial instruments at fair value through profit or loss mainly includes interest payments from investment funds as well as net interest payments from interest derivatives not being part of a hedging relationship. Unrealized gainslosses from fair value measurement of such financial assets are shown in other financial income or expenses. Interest expense on financial instruments measured at amortized cost mainly includes interest on lease liabilities as well as interest on borrowings calculated using the effective interest method. Interest expense on other provisions and nonfinancial liabilities in particular include effects from the measurement of other provisions at present value and interest on nonfinancial liabilities such as tax payables. Information regarding investments borrowings and financial instruments is also included in these Notes.
+
+Score 0.476
+ Assets in millions Cash and cash equivalents . . Accounts receivable . . Inventories . . Fixed assets
+
+Score 0.476
+Derivative financial instruments 
+
+Score 0.475
+Gains and losses on the net monetary position are included in the financial result. Nonmonetary assets that have been restated following the guidance in IAS are still subject to impairment assessment in accordance with the guidance in the relevant IFRS. 
+
+Score 0.474
+Financial incomeFinancial expenses 
+
+Score 0.474
+In principle all investments in equity instruments are measured at fair value through profit or loss. At initial recognition an entity may make an irrevocable election to present in other comprehensive income subsequent changes in the fair value of an investment in an equity instrument that is neither held for trading nor a contingent consideration acquired by a purchaser in a business combination. This election is made on an investmentbyinvestment basis. All financial assets which are not classified as measured at amortized cost or at fair value through other comprehensive income as described above are measured at fair value through profit or loss. Financial assets are only reclassified when the business model for managing financial assets is changed in which case all affected financial assets are reclassified. The subsequent measurement of financial assets is as follows 
+
+Score 0.471
+ Shortterm borrowings Longterm borrowings Current and noncurrent lease liabilities Pensions and similar obligations Factoring Subtotal Cash and cash equivalents Shortterm financial assets Less trapped cash Less accessible cash and cash equivalents Adjusted net borrowings 
+
+Score 0.468
+Foreign exchange contracts sales Other financial assets liabilities Net Sales Net Sales Foreign exchange contracts inventory purchases Other financial assets liabilities Cost of sales Cost of sales Foreign exchange contracts net foreign invest ments Other financial assets liabilities Financial result Financial result Total return swap LongTerm Incentive Plans Other financial assets liabilities Financial result Other operating expenses 
+
+Score 0.467
+Longterm financial assets primarily include an . investment in FC Bayern München AG . of million million. This investment is classified as fair value through profit or loss and is recorded at fair value. This equity security does not have a quoted market price in an active market. Therefore existing contractual arrangements are used in order to calculate the fair value as at December and . Other equity investments include minority shareholdings. There is currently no intention to sell these shares. Other minority shareholdings include a decrease of the fair value in an amount of million in million increase. The line item Other investments comprises investments that are mainly invested in insurance products which are measured at fair value and securities for longterm variable compensation components. Other investments include a decrease of the fair value in an amount of million in million increase. 
+
+Score 0.467
+These are parts of the nonfinancial statement that are covered by a separate reasonable assurance engagement. 
+
+Score 0.466
+Other intangible assets consist of the following 
+
+Score 0.462
+ Cash and cash equivalents Bank borrowings Eurobonds Equityneutral convertible bond Gross total borrowings Net borrowingscash 
+
+Score 0.462
+performed a reasonable assurance engagement on the sections denoted with 
+
+Score 0.462
+ During the period Carrying amount Nomi nal amo unt Assets Lia bili ties Line item in statement of financial position where the hedging instrument is included Changes in the value of the hedging instru ment recog nized in hedging reserve Changes in the value of the hedging instru ment recog nized in cost of hedging reserve Hedge ineffec tiveness recog nized in profit or loss Line item in income statement which includes hedge ineffec tiveness Amount from hedging reserve trans ferred to inven tory Amount from cost of hedging reserve trans ferred to inven tory Amount reclass ified from hedging reserve to profit or loss Amount reclass ified from cost of hedging reserve to profit or loss Line item in income statement affected by the reclass ification 
+
+Score 0.461
+Notes to the Consolidated Income Statement Other operating income 
+
+Score 0.461
+Year ending Dec. Year ending Dec. Current service cost Net interest expense Thereof interest cost Thereof interest income Past service credit Loss on plan settlements Expenses for defined benefit pension plans recognized in the consolidated income statement Actuarial lossesgains on liability Thereof due to changes in financial assumptions Thereof due to changes in demographic assumptions Thereof due to experience adjustments Returnloss on plan assets not included in net interest income Change in asset ceiling excluding interest cost Remeasurements for defined benefit pension plans recognized as decreaseincrease in other reserves in the consolidated statement of comprehensive income Total 
+
+Score 0.46
+The majority of plan assets are attributable to Germany and the UK . Part of the plan assets in Germany is held by a trustee under a Contractual Trust Arrangement CTA for the purpose of funding the pension obligations of adidasAG and insolvency insurance with regard to part of the pension obligations of adidasAG. The trustee is the registered association adidas Pension Trust e.V. The investment committee of the adidas Pension Trust determines the investment strategy with the goal to match the pension liabilities as far as possible and to generate a sustainable return. In no additional employer funding contribution was transferred to the trustee. The plan assets in the registered association are mainly invested in fixed income funds equity funds and real estate. Another substantial part of the plan assets in Germany is invested in insurance contracts via a pension fund and a provident fund. For this portion an insurance entity is responsible for the determination and the implementation of the investment strategy. In the UK the plan assets are held in an external trust. In principle the investment strategy is aligned with the structure of the pension obligations in these countries. In the rest of the world the plan assets consist predominantly of insurance contracts. The expected total employer contributions for the financial year amount to million. Thereof million relates to benefits directly paid to pensioners by the subsidiaries and million to employer contributions paid into the plan assets. In the actual return on plan assets including interest income was million loss of million. 
+
+Score 0.459
+Total assets Inventories Receivables and other current assets Operating working capital Shareholders equity Capital expenditure Net cash generated fromused in operating activities
+
+Score 0.456
+Our risk and opportunity management process comprises the following steps 
+
+Score 0.454
+The line item Sundry mainly relates to payables due to customs authorities. Further information about forward exchange contracts is contained in these Notes.
+
+Score 0.454
+Other noncurrent assets 
+
+Score 0.454
+represents a separate major line of business or geographic area of operations 
+
+Score 0.453
+Other reserves comprises the remeasurements of defined benefit plans consisting of the cumulative net change of actuarial gains or losses relating to the defined benefit obligations the return on plan assets excluding interest income and the asset ceiling effect the remeasurement of the fair value of the equity investments measured at fair value through other comprehensive income expenses recognized for share option plans and effects from the acquisition of noncontrolling interests as well as reserves required by law. 
+
+Score 0.452
+ During the period Carrying amount Nomi nal amo unt As sets Lia bili ties Line item in statement of financial position where the hedging instrument is included Changes in the value of the hedging instru ment recog nized in hedging reserve Changes in the value of the hedging instru ment recog nized in cost of hedging reserve Hedge ineffec tiveness recog nized in profit or loss Line item in income statement which includes hedge ineffec tiveness Amount from hedging reserve trans ferred to inven tory Amount from cost of hedging reserve trans ferred to inven tory Amount reclass ified from hedging reserve to profit or loss Amount reclass ified from cost of hedging reserve to profit or loss Line item in income statement affected by the reclass ification 
+
+Score 0.452
+Our Treasury Policy governs all treasuryrelated issues including banking policy and approval of bank relationships financing arrangements and liquidityasset management currency interest equity and commodity risk management and the management of intercompany cash flows. Responsibilities are arranged in a threetiered approach 
+
+Score 0.452
+Note Share capital Capital reserve Cumulative cur rency translation differences Hedging reserve Cost of hedging reserve options Cost of hedging reserve forward contracts Other reserves Retained earnings Shareholders equity Noncontrolling interests Total equity 
+
+Score 0.451
+Year ending Dec. Year ending Dec. Interest income from financial instruments measured at amortized cost Interest income from nonfinancial assets Other Financial income 
+
+Score 0.451
+Cash and cash equivalents Cash and cash equivalents Amortized cost Cash equivalents Fair value through profit or loss Shortterm financial assets Fair value through profit or loss Accounts receivable Amortized cost Other current financial assets Derivatives used in hedge accounting n.a. Derivatives not used in hedge accounting Fair value through profit or loss Other investments n.a. Other financial assets Amortized cost Longterm financial assets Other equity investments Fair value through profit or loss Other equity investments Fair value through other comprehensive income Other investments Fair value through profit or loss Other investments n.a. Loans Amortized cost Other noncurrent financial assets Derivatives used in hedge accounting n.a. Derivatives not used in hedge accounting Fair value through profit or loss Earnout components Fair value through profit or loss Other financial assets Amortized cost Financial assets per level Financial liabilities Shortterm borrowings Bank borrowings Amortized cost Eurobond Amortized cost Convertible bond Amortized cost Accounts payable Amortized cost Current accrued liabilities Amortized cost Current accrued liabilities for customer discounts Amortized cost Other current financial liabilities Derivatives used in hedge accounting n.a. 
+
+Score 0.451
+ in the Companys Combined Nonfinancial Statement for the period from January to December other than the external sources of documentation or expert opinions mentioned in the Combined Nonfinancial Statement are not prepared in all material respects in accordance with c in conjunction with c to e HGB and the EU Taxonomy Regulation and the Delegated Acts issued thereunder as well as the interpretation by the executive directors disclosed in section EU Taxonomy of the Combined Nonfinancial Statement. The procedures performed for the limited assurance engagement part are less extensive than those performed for the reasonable assurance engagement part and accordingly a substantially lower level of assurance is obtained. The selection of the assurance procedures is subject to the professional judgement of the assurance practitioner. In the course of our assurance engagement we have amongst other things performed the following assurance procedures and other activities
+
+Score 0.45
+Other current liabilities 
+
+Score 0.449
+Year ending Dec. Year ending Dec. Income from transitional service agreements Income from release of accrued liabilities and other provisions Gains from disposal of fixed assets Sundry income Other operating income 
+
+Score 0.448
+TenYear Overview EU Taxonomy Tables Glossary Declaration of Support Financial Calendar 
+
+Score 0.447
+Category December December Carrying amount Fair value Level Level Level Carrying amount Fair value Level Level Level Financial assets 
+
+Score 0.446
+Provisions and expenses for pensions and similar obligations relate to the companys obligations for defined benefit and defined contribution plans. The obligations under defined benefit plans are determined separately for each plan by valuing the employee benefits accrued in return for their service during the current and prior periods. These benefit accruals are discounted to calculate their present value and the 
+
+Score 0.445
+The amounts relating to items designated as hedging instruments and hedged ineffectiveness were as follows 
+
+Score 0.445
+Further information on expenses by function is provided in these Notes.
+
+Score 0.442
+Serviceindependent and nonmarket performance conditions are not taken into account when determining the fair value of awards at the grant date but the likelihood of the conditions being met is assessed as part of the companys best estimate of the number of equity instruments that will ultimately vest. If the estimate is changed even a credit in the consolidated income statement for the period can be possible as it reflects the movement in cumulative expenses from the beginning to the end of that period. No expense is recognized for awards that do not ultimately vest if nonmarket performance andor service conditions have not been met. Equitysettled sharebased payment transactions with parties other than employees are generally measured at the fair value of the goods or services received except where the fair value cannot be estimated reliably in which case they are measured at the fair value of the equity instruments granted measured at the date the entity obtains the goods or the counterparty renders the service. For cashsettled sharebased payment transactions the goods or services acquired and the liability incurred are measured at the fair value of the liability. Until the liability is settled the fair value of the liability is remeasured at the end of each reporting period and at the date of settlement with all changes in fair value recognized in profit or loss for the period. 
+
+Score 0.442
+Responsibilities of the Executive Directors and the Supervisory Board for the Consolidated Financial Statements and the Group Management Report 
+
+Score 0.442
+Actively managing our liquidity cash flow and operating working capital remains a key focus for us and continues to be monitored closely by Management. Generally due to a comparatively low level of fixed assets required in our business the efficiency of the balance sheet depends to a large degree on our operating working capital management. Operating working capital comprises accounts receivable plus inventories minus accounts payable. 
+
+Score 0.442
+reduce and mitigate the risk of financial losses or damage caused by noncompliant conduct 
+
+Score 0.44
+The following table presents a reconciliation of the carrying amount of rightofuse assets 
+
+Score 0.439
+In the following changes in financial liabilities impacted the net cash used in financing activities 
+
+Score 0.439
+They may be used for purposes of meeting the subscription or conversion rights or obligations or the companys right to delivery of shares arising from bonds with warrants andor convertible bonds issued by the company or its subordinated Group companies. 
+
+Score 0.438
+Consolidated Statement of Financial Position Consolidated Income Statement Consolidated Statement of Comprehensive Income Consolidated Statement of Changes in Equity Consolidated Statement of Cash Flows Notes Shareholdings Responsibility Statement Copy of the Auditors Report 
+
+Score 0.438
+Land and buildings Technical equipment and machinery Other equipment furniture and fixtures Rightofuse assetsJanuary Additions Disposals Depreciation Impairment losses Reversal of impairment losses Currency translation differences Other December 
+
+Score 0.437
+Total assets Inventories Receivables and other current assets Working capital Adjusted net borrowings net cash
+
+Score 0.435
+Net gainslosses on financial instruments recognized in the consolidated income statement in millions 
+
+Score 0.432
+In the line item Sundry mainly relates to marketing expenses. 
+
+Score 0.431
+At the start of the financial year the Groups internal reporting structure was adjusted for management purposes. Since January the EMEA market has been divided into two separate markets Europe and Emerging Markets. Russia is allocated to the other businesses as it is no longer monitored separately by the chief operating decisionmakers due to the discontinuation of business activities. In addition the AsiaPacific market has been split into two separate markets Japan and South Korea and Southeast Asia and Pacific have been merged with the new Emerging Markets market. The North America Latin America and China markets remain unchanged. In line with this reporting structure of the company for management purposes by market and in accordance with the definition of IFRS Operating Segments seven operating segments have thus been identified as of January Europe Emerging Markets North America China Latin America Japan and South Korea. Due to the small size of the two operating segments Japan and South Korea they are combined for external segment reporting as JapanSouth Korea. Due to the change in the operating segments and the associated groups of cashgenerating units both a reallocation of goodwill and an impairment test of goodwill were carried out as at January . There was no need for impairment in this context. No other companyspecific subsequent events are known that might have a material influence on the assets liabilities financial position and profit or loss of the company. 
+
+Score 0.431
+Tasks of the Supervisory Board 
+
+Score 0.429
+Other operating expenses
+
+Score 0.429
+ Other operating expenses
+
+Score 0.429
+Other operating expenses 
+
+Score 0.429
+Inquiries of the executive directors and relevant employees involved in the preparation of the Combined Nonfinancial Statement about the preparation process about the internal control system relating to this process and about disclosures in the Combined Nonfinancial Statement 
+
+Score 0.429
+Expenses are presented by function according to the cost of sales method in the income statement with the exception of impairment losses net on accounts receivable and contract assets which are disclosed in a separate line item as required by IFRS Financial Instruments. Other operating expenses presented by functions include marketing and pointofsale expenses distribution and selling expenses and general and administration expenses as well as sundry expenses less any income from government grants if applicable. Marketing and pointofsale expenses consist of promotion and communication spending such as promotion contracts advertising events and other communication activities. However they do not include marketing overhead expenses which are presented in distribution and selling expenses. The distribution and selling expenses consist of sales force and sales administration costs direct and indirect supply chain costs and marketing overhead expenses as well as expenses for research and development which amounted to million in million. General and administration expenses include the functions IT Finance Legal Human Resources and FacilitiesServices as well as General Management. Sundry expenses consist mainly of costs for onetime effects as well as losses from disposal of fixed assets. 
+
+Score 0.429
+Borrowings and other liabilities 
+
+Score 0.428
+Other financial commitments and contingencies 
+
+Score 0.428
+Other operating income consists of the following 
+
+Score 0.428
+Generally all investments in equity instruments are measured at fair value through profit or loss unless these investments represent investments that the company intends to hold for longterm strategic purposes which are then designated as equity securities at fair value through other comprehensive income equity. The designation of certain equity instruments at fair value through other comprehensive income equity is based on a strategic management decision. 
+
+Score 0.425
+Other current assets 
+
+Score 0.425
+ Since the financial year interest payments and interest expenses have been reported separately in the reconciliation of financial liabilities in Net paymentsreceipts in the period and Other. The reconciliation for has been adjusted accordingly. 

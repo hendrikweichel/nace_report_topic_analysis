@@ -1,0 +1,299 @@
+Scores_n_ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIESScore 0.546
+company activities are assessed for taxonomy eligibility based on the economic activities described in annexes i and ii to the delegated act of june and annexes i through iv to the delegated act of june .  to avoid doublecounting results ar e documented for example at product master data level.  taxonomy alignment is evaluated based on the technical screening criteria for each economic activity which are also defined in the aforementioned annexes.  we use our own interpretation when applying the eu taxonomy as definitions are not yet available and the wording used is unclear
+
+Score 0.527
+.  .  turnover of taxonomyeligible activities a. a
+
+Score 0.523
+.  turnover of taxonomyeligible activities a. a.
+
+Score 0.515
+changeproduction . marketing distribution . rd . general administration
+
+Score 0.512
+opex of taxonomyeligible activities a. a.  .
+
+Score 0.51
+.  .  opex of taxonomyeligible activities a. a
+
+Score 0.506
+b.  taxonomynoneligible activities opex of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective.  bayer annual report a combined management report
+
+Score 0.506
+b.  taxonomynoneligible activities capex of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective.  bayer annual report a combined management report
+
+Score 0.506
+turnover of taxonomyeligible activities a. a.  .
+
+Score 0.505
+nonfinancial group targets through including the statements made in the footnotes as well as the following explanatory passages on the groups nonfinancial targets contained in section . .  of the combined management report tables a.  taxonomy turnover reporting a
+
+Score 0.505
+.  opex of taxonomyeligible activities a. a.
+
+Score 0.503
+b.  taxonomynoneligible activities turnover of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective.  bayer annual report a combined management report
+
+Score 0.501
+.  b.  taxonomynoneligible activities turnover of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective
+
+Score 0.5
+.  b.  taxonomynoneligible activities capex of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective
+
+Score 0.492
+general administration.  production.  rd.  marketing distribution
+
+Score 0.489
+the decline for enabling functionsall other segments was largely due to the further utilization of the existing provisions for the headcount reduction measures defined in previous years.  traderelated commitments traderelated provisions are recorded mainly for obligations related to services performed but not yet invoiced and to sales commissions not re cognized under trade accounts payable.  litigations the legal risks currently considered to be material and their development are described in note .  personnel commitments personnelrelated provisions include those for variable performancerelated onetime payments to employees stockbased payments an d payments related to longservice anniversaries early retirement programs and preretirement parttime working arrang ements
+
+Score 0.488
+.  b.  taxonomynoneligible activities opex of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective
+
+Score 0.488
+turnovercategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned turnover of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a
+
+Score 0.485
+taxonomynoneligible activities turnover of taxonomynoneligible activities total a .  proportion of turnover per environmental objective proportion of turnovertotal turnover aligned per objectiveeligible per objectiveclimate change mitigation ccm climate change adaptation cca water and marine resources wtr circular economy ce pollution prevention and control ppc . biodiversity and ecosystems bio reporting on capital expenditure capital expenditure in comprised investments in tangible and intang ible assets before depreciation amortization impairments and remeasurements.  also incl uded were investments in tangible and intangible assets due to business combinations
+
+Score 0.48
+this mainly comprises the groups strategic alignment resource allocation and the manage ment of financial affairs and managerial staff along with the management of the groupwide operationa l business of the crop sc ience pharmaceuticals and consumer health divisions.  the enabling functions support the operational business.  a .
+
+Score 0.478
+.  .  b.  taxonomynoneligible activities capex of taxonomynoneligible activities
+
+Score 0.477
+continued taxonomy opex reporting dnsh criteria does not significantly harm economic activities climate change mitigationclimate change adaptation water pollutioncircular economybiodiversity minimum safeguardsproportionoftaxonomyaligneda.  oreligiblea.  opexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a
+
+Score 0.476
+capexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned capex of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a
+
+Score 0.475
+.  nonfinancial group targets through including the statements made in the footnotes as well as the following explanatory passages on the groups nonfinancial targets contained in section . .  of the combined management report tables a
+
+Score 0.473
+.  .  b.  taxonomynoneligible activities opex of taxonomynoneligible activities
+
+Score 0.469
+of the combined management report tables a.  taxonomy turnover reporting a.  proportion of turnover per environmental objective a.  taxonomy capex reporting a
+
+Score 0.469
+oreligiblea. turnovercategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned turnover of environmentally sustainable activities taxonomyaligned a
+
+Score 0.469
+we also describe opportunities and risks of a divisionspecific nature where relevant.  the division s mentioned are those that have identified material risks.  other divisions may also be affected to a lesser extent.  material risks reported by enabling functions are cat egorized under group although they may also affect the divisions
+
+Score 0.469
+of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal p r o d u c t s turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  turnover of taxonomyeligible activities a. a
+
+Score 0.468
+their activities are as follows b activities of the segments segment activities crop science development production and marketing of a br oad portfolio of products in seeds and plant traits crop protection digital solutions and customer se rvices to promote sustainable agriculture pharmaceuticals development production an d marketing of prescription products especially for cardiology and womens health specialty therapeutics in the areas of onco logy hematology ophthalmology and in the medium term cell and gene therapy diagnostic imaging equipment and the necessary contrast agents consumer health development production and marketing of ma inly nonprescription otc o verthecounter products in the dermatology nutritional suppl ements digestive health allergy cough and cold and pain and cardiovascular risk prevention categories information on other business activities and segments that are not reportable is provided under all other segments.  these include bayer leverkusen fussball gmbh and bayer gastronomie gmbh.  the information provided under enabling functions and consolidation mainly relates to groupwide competence centers and business supp ort services as well as leaps by bayer which focuses on the development of crucial crossspecies innovations.  all other segments and enabling functions and consolidation in the management report are combined under the reco nciliation
+
+Score 0.468
+installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .  acquisition and ownership of buildings .  manufacture of medicinal products capex of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.
+
+Score 0.468
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned turnover of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal p r o d u c t s turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a
+
+Score 0.467
+business combinations and other acquisitions .  discontinued operations assets and liabilities held for sale and divestments notes to the income statements .  net sales .  other operating income
+
+Score 0.467
+continued taxonomy capex reporting dnsh criteria does not significantly harm economic activities climate change mitigationclimate change adaptation water pollutioncircular economybiodiversity minimum safeguardsproportionoftaxonomyaligneda.  oreligiblea. capexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a
+
+Score 0.467
+for the four additional environmental objectives sustainable use and protection of water and marine resources the transition to a circular economy pollution prevention and control and the protection and restoration of biodiversity and ecosystems by contrast we are only required to disclose taxonomyeligible turnover capital expenditure and operating expenditure.  company activities are assessed for taxonomy eligibility based on the economic activities described in annexes i and ii to the delegated act of june and annexes i through iv to the delegated act of june .  to avoid doublecounting results ar e documented for example at product master data level.  taxonomy alignment is evaluated based on the technical screening criteria for each economic activity which are also defined in the aforementioned annexes
+
+Score 0.466
+in addition we also report on other nonfinancial aspects.  for we are required to disclose the proportion of turnover sales capital expenditur e capex and operating expenditure opex in the reporting period that is eu taxonomyeligible and taxonomyaligned with regard to the environmental objectives climate change mitigation and climate chan ge adaptation.  for the four additional environmental objectives sustainable use and protection of water and marine resources the transition to a circular economy pollution prevention and control and the protection and restoration of biodiversity and ecosystems by contrast we are only required to disclose taxonomyeligible turnover capital expenditure and operating expenditure.  company activities are assessed for taxonomy eligibility based on the economic activities described in annexes i and ii to the delegated act of june and annexes i through iv to the delegated act of june
+
+Score 0.465
+acquisition and ownership of buildings .  manufacture of medicinal products capex of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  . capex of taxon omyeligible activities a
+
+Score 0.465
+opexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned opex of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a
+
+Score 0.461
+for we are required to disclose the proportion of turnover sales capital expenditur e capex and operating expenditure opex in the reporting period that is eu taxonomyeligible and taxonomyaligned with regard to the environmental objectives climate change mitigation and climate chan ge adaptation.  for the four additional environmental objectives sustainable use and protection of water and marine resources the transition to a circular economy pollution prevention and control and the protection and restoration of biodiversity and ecosystems by contrast we are only required to disclose taxonomyeligible turnover capital expenditure and operating expenditure.  company activities are assessed for taxonomy eligibility based on the economic activities described in annexes i and ii to the delegated act of june and annexes i through iv to the delegated act of june .  to avoid doublecounting results ar e documented for example at product master data level
+
+Score 0.459
+.  .  b.  taxonomynoneligible activities turnover of taxonomynoneligible activities
+
+Score 0.458
+oreligiblea. capexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned capex of environmentally sustainable activities taxonomyaligned a
+
+Score 0.458
+taxonomynoneligible activities opex of taxonomynoneligible activities total a .  proportion of opex per environmental objective proportion of opextotal opex aligned per objectiveeligible per objectiveclimate change mitigation ccm climate change adaptation cca water and marine resources wtr circular economy ce pollution prevention and control ppc .  biodiversity and ecosystems bio bayer annual report a combined management report.  overview of business performance
+
+Score 0.454
+environmental protection and safety the total sales identified as being taxonomye ligible and taxonomyaligned are shown in the following table a .  taxonomy turnover reporting fiscal year substantial contribution criteria economic activities code turnoverproportionof turnoverclimate change mitigationclimate change adaptation water pollutioncircular economy biodiversity million y n nel y n nel y n nel y n nel y n nel y n nela.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned turnover of environmentally sustainable activities taxonomyaligned a
+
+Score 0.454
+assets and liabilities are classified by maturity.  they are regarded as current if they mature within one year or within the normal business cycle which us ually does not exceed one y ear or are held for sale.  the normal business cycle is defined for this purpose as beginning with the procurement of the resources necessary for the production process and ending with the receipt of cash or cash equivalents as consideration for the sale of the goods or services produced in that proce ss.  inventories and trade accounts receivable and payable are always presented as current items
+
+Score 0.453
+taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities construction extension and operation of waste water c o l l e c t i o n a n d t r e a t m e n t .  renewal of waste water collection and treatment .  transport by motorbikes passenger cars and light c o m m e r c i a l v e h i c l e s .  renovation of existing buildings
+
+Score 0.452
+environmental protection and safety a .  continued taxonomy capex reporting dnsh criteria does not significantly harm economic activities climate change mitigationclimate change adaptation water pollutioncircular economybiodiversity minimum safeguardsproportionoftaxonomyaligneda.  oreligiblea. capexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta
+
+Score 0.452
+continued taxonomy turnover reporting dnsh criteria does not significantly harm economic activities climate change mitigationclimate change adaptation water pollutioncircular economybiodiversity minimum safeguardsproportionoftaxonomyaligneda.  oreligiblea. turnovercategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a
+
+Score 0.452
+.  at an extraordinary meeting in october which wa s attended by all committee members as well as most of the other supervisory board members as guests the committee discussed the assessment of possible measures to change the grou ps structure.  in preparation two separate teams were formed to assess possible measures from different perspectiv es with consultants brought in for each team.
+
+Score 0.45
+at an extraordinary meeting in october which wa s attended by all committee members as well as most of the other supervisory board members as guests the committee discussed the assessment of possible measures to change the grou ps structure.  in preparation two separate teams were formed to assess possible measures from different perspectiv es with consultants brought in for each team.  .  at its november meeting the au dit committee extensively discussed the quarterly statement for the third quarter
+
+Score 0.449
+environmental protection and safety a .  continued taxonomy turnover reporting dnsh criteria does not significantly harm economic activities climate change mitigationclimate change adaptation water pollutioncircular economybiodiversity minimum safeguardsproportionoftaxonomyaligneda.  oreligiblea. turnovercategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta
+
+Score 0.448
+.  intersegment sales net sales total ebit ebitda before special items ebitda margin before special items .  .
+
+Score 0.446
+a.  b.  taxonomynoneligible activities turnover of taxonomynoneligible activities total a .  proportion of turnover per environmental objective proportion of turnovertotal turnover aligned per objectiveeligible per objectiveclimate change mitigation ccm climate change adaptation cca water and marine resources wtr circular economy ce pollution prevention and control ppc
+
+Score 0.446
+general administration expenses .  . other operating incomeexpenses .
+
+Score 0.445
+other operating income .  other operating expenses .  personnel expenses and employee numbers .  financial result
+
+Score 0.445
+b financial reporting standards amendments with no material impact amendments to standards mandatory application ifrs insurance contracts including amendm ents to ifrs and amendments to ifrs insurance contracts initial application of ifrs and ifrs comparative information jan.  ias amendments to ias presentation of financial statements and ifrs practice statement disclosure of accounting policies jan.  ias amendments to ias accounting policie s changes in accounting estimates and errors definition of accounting estimates jan.  ias amendments to ias income taxes deferred tax related to assets and liabilities arising from a single transaction jan
+
+Score 0.445
+oreligiblea.  opexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned opex of environmentally sustainable activities taxonomyaligned a
+
+Score 0.444
+changes in the scope of consolidation .  business combinations and other acquisitions .  discontinued operations assets and liabilities held for sale and divestments notes to the income statements .  net sales
+
+Score 0.444
+environmental protection and safety a .  continued taxonomy opex reporting dnsh criteria does not significantly harm economic activities climate change mitigationclimate change adaptation water pollutioncircular economybiodiversity minimum safeguardsproportionoftaxonomyaligneda.  oreligiblea.  opexcategory enabling activitycategory transitional activity yn yn yn yn yn yn yn e ta
+
+Score 0.444
+intersegment sales net sales total ebit ebitda before special items ebitda margin before special items .  .  .
+
+Score 0.442
+taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal p r o d u c t s turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  turnover of taxonomyeligible activities a. a.  b
+
+Score 0.44
+intersegment sales net sales total ebit ebitda before special items ebitda margin before special items .  . roce .
+
+Score 0.44
+taxonomynoneligible activities opex of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective.  bayer annual report a combined management report.  environmental protection and safety a
+
+Score 0.439
+numerous other members have many years of international business experience.  the members of th e supervisory board have also completed a whole range of vocational training and study courses.  for the purposes of the qualificat ion matrices below the supervis ory board primarily considers its members to possess expertise and experience in the corresponding areas if they have completed professional training in that field or have amassed ma ny years of professional experience including several years as a member of the supervisory board or one of its respective committees.  in the opinion of the supervisory board the stoc kholder representatives ha ve the following special expertise and experience as well as the following independence status a
+
+Score 0.439
+.  . intersegment sales net sales total ebit ebitda before special items ebitda margin before special items .
+
+Score 0.439
+.  .  intersegment sales net sales total ebit ebitda before special items ebitda margin before special items .
+
+Score 0.438
+.  business development by division . .  valuebased performance
+
+Score 0.438
+of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal products opex of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  opex of taxonomyeligible activities a. a
+
+Score 0.438
+the enabling functions such as group finance human resources and information te chnology serve as groupwide competence centers and bundle business su pport processes and servic es for the divisions.  our leaps by bayer unit which invests in disruptive innovations also forms part of the enabling functions.  bayer annual report a combined management report.  corporate profile and structure more information on the divisions products and activities is contained in the following table a
+
+Score 0.437
+taxonomynoneligible activities capex of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective.  bayer annual report a combined management report.  environmental protection and safety a
+
+Score 0.437
+environmentally sustainable activities taxonomyaligned turnover of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal p r o d u c t s turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  turnover of taxonomyeligible activities a
+
+Score 0.437
+taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal products opex of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  opex of taxonomyeligible activities a. a.  b
+
+Score 0.435
+discontinued operations assets and liabilities held for sale and divestments notes to the income statements .  net sales .  other operating income .  other operating expenses
+
+Score 0.435
+statements made on the subject of scope emission s in table a .  as well as the related statements in section .  of the combined management report hereafter together referred to as additional nonfinancial information.  our assurance engagement does not cover external documentation sources mentioned in the additional nonfinancial information
+
+Score 0.434
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned opex of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of medicinal products opex of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a
+
+Score 0.434
+turnover of taxonomyeligible activities a. a.  b.  taxonomynoneligible activities turnover of taxonomynoneligible activities total a
+
+Score 0.433
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned capex of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities construction extension and operation of waste water c o l l e c t i o n a n d t r e a t m e n t
+
+Score 0.433
+other operating incomeexpenses .  . ebit .
+
+Score 0.433
+in addition the executive directors are responsible for such internal control as they have determined necessary to enable the preparation of a nonfinancial reporting that is free from material misstatement whether due to fraud i. e.  fraudulent nonfinancial reporting or error.  the eu taxonomy regulation and the delegated acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertain ties and for which clarifi cations have not yet been published in every case
+
+Score 0.431
+taxonomynoneligible activities turnover of taxonomynoneligible activities .  total y yes activity is taxonomyeligible and taxonomyaligned with the relevant environmental objective n no activity is taxonomyeligible but not taxonomyaligned with the relevant environmental objective el eligible activity is taxonomyeligible for the respective environmental objective nel not eligible activity is not taxonomyeligible for the respective environmental objective.  bayer annual report a combined management report.  environmental protection and safety a
+
+Score 0.431
+selected items forming part of the line item in the statement of financial position items that were predominantly noninteres tbearing or nonoperating in nature were eliminated from capital employed.  . .  asset and financial po sition of the bayer group financial management of the bayer group the financial management of the bayer group is co nducted centrally
+
+Score 0.431
+financial result before special items income taxes special items in income taxes tax effects on adjustments core ebit financial result special items in financial result potential estimation risks regarding special charges in connection with litigations are referenced in a .  opportunity and risk report.  .  opportunity and risk report
+
+Score 0.431
+they are regarded as current if they mature within one year or within the normal business cycle which us ually does not exceed one y ear or are held for sale.  the normal business cycle is defined for this purpose as beginning with the procurement of the resources necessary for the production process and ending with the receipt of cash or cash equivalents as consideration for the sale of the goods or services produced in that proce ss.  inventories and trade accounts receivable and payable are always presented as current items.  deferred tax assets and liabilities and pension provisions are always presented as noncurrent items
+
+Score 0.43
+b .  development of financial assets and liabilities level previous year million assets fvtplfvtocinorecyclingderivativesnetliabilities fvtplnonderivativetotalcarrying amount january gainslosses recognized in profit or loss of which relating to assetsliabilities held at the end of the reporting period gainslosses recognized outside profit or loss additions of assetsliabi lities settlements of assetsliab ilities changes in scope of consolidation exchange differences carrying amount december see table b .  for definitions of measurement categories.  the changes recognized in profit or loss were included in other operating incomeexpenses as well as in the financial result in interest income exchange gain s or losses and other financial income and expenses
+
+Score 0.43
+the division s mentioned are those that have identified material risks.  other divisions may also be affected to a lesser extent.  material risks reported by enabling functions are cat egorized under group although they may also affect the divisions.  social and macroeconomic trends high group medium crop science pharmaceuticals we continue to see the risk of geopolitical shifts and tensions that may im pact our global business
+
+Score 0.43
+trade accounts receivable .  other receivables .  equity .  provisions for pensions and other postemployment benefits
+
+Score 0.43
+related exchange differences are recognized as exchange gains or losses un der other financial income or expenses.  sales refund liabilities rightofreturn assets and contract liabilities all revenues derived from the selling of products render ing of services or from licensing agreements are recognized as sales.  revenues are based on cu stomer contracts and the performance obligations contained therein which are individually identified and may be presented separa tely for the purpose of revenue recognition.  revenues are recognized in profit or loss when or as soon as the entity transfers control of goods or services to a customer either over time or at a point in time
+
+Score 0.43
+environmental protection and safety the total operating expenditure identi fied as being taxonomyeligible an d taxonomyaligned is shown in the following table a .  taxonomy opex reporting fiscal year substantial contribution criteria economic activities code opexproportionof opexclimate change mitigationclimate change adaptation water pollutioncircular economy biodiversity million y n nel y n nel y n nel y n nel y n nel y n nela.  taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned opex of environmentally sustainable activities taxonomyaligned a
+
+Score 0.429
+we disc ussed at length the business trends described in the reports from th e board of management and the prospects.  work of the supervisory board the supervisory board convened eight times in .  the attendance rate of the individual supervisory board members at the meetings of the supervisory board an d its committees is disclosed at the end of this report.  the members of the board of management generally attended the meetings of the supervisory board
+
+Score 0.429
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyaligned turnover of environmentally sustainable activities taxonomyaligned a.  of which enabling of which transitional a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities el nel el nel el nel el nel el nel el nelmanufacture of medicinal products ppc
+
+Score 0.429
+miscellaneous miscellaneous provisions include those for interest payments on income taxes and other taxes for other liabilities except where these are allocable to other provision categor ies and for decommissioning and similar obligations.  a sensitivity analysis undertaken for certain provisions that examined th e impact of a fivepercentagepoint change in the probabilities of occu rrence in each case did not produce an y material deviations from the amount of provisions established.  .  financial liabilities financial liabilities were comprised as follows b financial liabilities dec
+
+Score 0.429
+technical goods and services research and development rd resources and marketing and it services are important compon ents of our indirect procurement portfolio.  procurement operates according to advanced procur ement and supplier management processes.  longterm contracts and dedicated supplier management for strategically important goods and services are key elements here.  they serve to minimize procurementsp ecific risks such as supply disruptions or significant price fluctuations while also helping to safeguard our companys competitiven ess and ensure smooth production processes
+
+Score 0.428
+fraudulent nonfinancial reporting or error.  the eu taxonomy regulation and the delegated acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertain ties and for which clarifi cations have not yet been published in every case.  therefore the executive direct ors have laid down their own interpretation of the eu taxonomy regulation and of the delegated acts adopted thereon in section .  of the combined management report
+
+Score 0.428
+. intersegment sales net sales total ebit ebitda before special items ebitda margin before special items .  . roce
+
+Score 0.427
+nel nel nel el nel nelturnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities a.  .  .  turnover of taxonomyeligible activities a
+
+Score 0.426
+. special items ebit before special items .  . net cash provided by operating activities
+
+Score 0.426
+included here in addition are income and expenses resulting from certain co ntingent liabilities unrelated to the current business al ong with those pertaining to the comparab le central functions of the acquired mons anto group.  chief among the latter are the matters relating to lawsuits concerning polychlo rinated biphenyls pcbs refer red to in note legal risks.  the segment data is calculated as follows the intersegment sales reflect intr agroup transactions effected at tr ansfer prices fixed on an armslength basis.  the net cash provided by operating activities is th e cash flow from operating activities as defined in ias statement of cash flows
+
+Score 0.426
+.  .  .  intersegment sales net sales total ebit ebitda before special items ebitda margin before special items
+
+Score 0.426
+.  .  . intersegment sales net sales total ebit ebitda before special items ebitda margin before special items
+
+Score 0.426
+purchased goods and services .  capital goods .  fuel and energyrelated activities .  upstream transportation and distribution and
+
+Score 0.425
+business development by division . .  valuebased performance .

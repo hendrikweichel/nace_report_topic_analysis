@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.557
+investments accounted for using the equity method .  other financial assets .  inventories .  trade accounts receivable
+
+Score 0.556
+they consist of actuarial gains and losses the return on plan assets and change s in the effects of the asset ceiling less the amounts included in net interest and related deferred taxes.  other provisions other provisions are recogniz ed for present legal and constructive obligations arising from past events that will probably give rise to a future outf low of resources provided that a re liable estimate can be made of the amount of the obligations.  they are established at the present value of the expected future cash outflows and recognized in the respective operating expense item s.  the interest cost is reflected in the financial result under other financial income and expenses
+
+Score 0.548
+contingent liabilities and other financial commitments .  legal risks notes to the statements of cash flows .  net cash provided by used in operating investing and financing activities other information .  audit fees
+
+Score 0.548
+liabilities to banks . lease liabilities . liabilities from derivatives . other financial liabilities
+
+Score 0.542
+other financial assets .  inventories .  trade accounts receivable .  other receivables
+
+Score 0.542
+other liabilities .  financial instruments .  financial instruments by category .  maturity analysis
+
+Score 0.54
+other financial liabilities . receivables from derivatives . financial debt . cash and cash equivalents
+
+Score 0.532
+it also contains more detaile d information on individual marketprice risks.  .  financial instruments by category the following tables show the carrying amounts and fai r values of the individual financial assets and liabilities by category of financial instrument under ifrs and a reco nciliation to the corresponding line items in the statements of financial position.  si nce the line items trade accounts receivable other receivables financial liabilities and other liabilitie s contain both financial instruments and nonfinancial assets or liabilities such as other tax receivables the reconciliation is shown in the column headed nonfinancial assetsliabilities
+
+Score 0.531
+a financial asset is initially rec ognized on the settlement date at fair value plus transactio n costs in most cases.  the classification and measurement of financial asse ts is based in each case on the business model and the characteristics of the cash flo ws.  trade accounts receivable and othe r debt instruments are measured at amortized cost using the effectiveinterest method at fair value through profit or loss such as money market funds and effective initial funds or at fair valu e through other comprehensiv e income such as trade accounts receivable that can potentially be transferred as part of factoring agreemen ts.  equity instruments are generally held for medium to longterm strategic purposes and are therefore measured at fair value through other comprehensive income
+
+Score 0.524
+.  . equity attributable to noncontrolling interest dividends paid to noncontrolling interest noncurrent assets current assets noncurrent liabilities current liabilities sales income after income taxes of which attributable to noncontrolling interest total comprehensive income of which attributable to noncontrolling interest net cash provided by used in operating activities net cash provided by used in investing activities net cash provided by used in financing activities .  provisions for pensions and other postemployment benefits provisions were established for defined benefit obligations pertaining to pensions and other postemployment benefits
+
+Score 0.518
+current and past service cost and effects of plan se ttlements are recognized in operating income.  the net interest on the net liability is reflected in the financial result under other financial income and expenses.  the effects of remeasurements of the net defi ned benefit liability are reflected in the statement of comprehensive income as other comprehensive income.  they consist of actuarial gains and losses the return on plan assets and change s in the effects of the asset ceiling less the amounts included in net interest and related deferred taxes
+
+Score 0.518
+for definitions of measurement categories.  the interest income and expense from assets and liab ilities within the ac categor y also included income and expenses from interestrate derivatives that qu alified for hedge accounting.  income and expenses from lease receivables and lease liabilities respectively are also included here.  the changes in the fair value of asse ts within the fvtpl category mainly included changes in the fair value of the interests in century and pyxis as well as ch anges in the fair value of in vestments in money market funds and mixed funds
+
+Score 0.517
+selected items forming part of the line item in the statement of financial position items that were predominantly noninteres tbearing or nonoperating in nature were eliminated from capital employed.  . .  asset and financial po sition of the bayer group financial management of the bayer group the financial management of the bayer group is co nducted centrally
+
+Score 0.517
+carrying amounts and fair values of financial instruments dec.  carried at fair value fair value for information measurement category ifrs carried atamortizedcostbased on quoted prices in active markets level based on observable market datalevel based on unobservable inputs level nonfinancial assetsliabilities million carryingamountcarrying amount carrying amountcarrying amount carrying amount total trade accounts receivable ac fvtpl mandatory fvtoci recycling nonfinancial assets other financial assets ac fvtpl mandatory fvtoci no recycling designated fvtpl derivatives no hedge accounting derivatives hedge accounting lease receivables other receivables ac fvtpl mandatory nonfinancial assets cash and cash equivalents ac total financial assets of which ac of which fvtpl financial liabilities ac fvtpl derivatives no hedge accounting derivatives hedge accounting lease liabilities nonfinancial liabilities trade accounts payable ac other liabilities ac fvtpl nonderivative mandatory fvtpl derivatives no hedge accounting derivatives hedge accounting nonfinancial liabilities total financial liabilit ies of which ac of which fvtpl ac at amortized cost fvtoci at fair value through other comprehensive income fvtpl at fair value through profit or loss measured at fair value through profit or loss as required by ifrs measured at fair value through other comprehensive income under ifrs . .
+
+Score 0.514
+other receivables .  equity .  provisions for pensions and other postemployment benefits .  other provisions
+
+Score 0.513
+when assets are sold closed down or scrapped the difference between the net proceeds and the net carrying amount of the assets is recognized as a gain or loss in other operating income or expenses respectively.  grants and subsidies from third parties that serve to promote investment are reflected in the statement of financial position under other liabilities and amortize d to income over the usefu l lives of the respective investments in property plant or equipment or in line with the terms of the grant or subsidy.  investment property comprises land and buildings not being used for operational or administrative purposes.  it is measured using the cost model
+
+Score 0.513
+carrying amounts and fair values of financial instruments previous year dec.  carried at fair value fair value for information measurement category ifrs carried atamortizedcostbased on quoted prices in active markets level based on observable market datalevel based on unobservable inputs level nonfinancial assetsliabilities million carryingamountcarrying amount carrying amountcarrying amount carrying amount total trade accounts receivable ac fvtpl mandatory fvtoci recycling nonfinancial assets other financial assets ac fvtpl mandatory fvtoci no recycling designated fvtpl derivatives no he dge accounting derivatives hedge accounting lease receivables other receivables ac fvtpl mandatory nonfinancial assets cash and cash equivalents ac total financial assets of which ac of which fvtpl financial liabilities ac fvtpl derivatives no hedge accounting derivatives hedge accounting lease liabilities nonfinancial liabilities trade accounts payable ac other liabilities ac fvtpl nonderivative mandatory fvtpl derivatives no hedge accounting derivatives hedge accounting nonfinancial liabilities total financial liabilities of which ac of which fvtpl ac at amortized cost fvtoci at fair value through other comprehensive income fvtpl at fair value through profit or loss measured at fair value through profit or loss as required by ifrs measured at fair value through other comprehensive income under ifrs . .
+
+Score 0.513
+the interest income and expense from assets and liab ilities within the ac categor y also included income and expenses from interestrate derivatives that qu alified for hedge accounting.  income and expenses from lease receivables and lease liabilities respectively are also included here.  the changes in the fair value of asse ts within the fvtpl category mainly included changes in the fair value of the interests in century and pyxis as well as ch anges in the fair value of in vestments in money market funds and mixed funds.  dividend income is reflected in income from affiliated companies while interest income from debt instruments within the fvptl categ ory is included in interest income and primarily concerns interest income from the capital provided to baye rpensionskasse for its effe ctive initial fund and from money market funds
+
+Score 0.512
+trade accounts receivable .  other receivables .  equity .  provisions for pensions and other postemployment benefits
+
+Score 0.51
+after million carryingamount interest and repaymentfinancial liabilities bonds liabilities to banks remaining liabilities trade accounts payable other liabilities accrued interest on liabilities remaining liabilities liabilities from derivatives with gross settlement cash outflows cash inflows with net settlement cash inflowsoutflows loan commitments financial guarantees total .  information on derivatives asset and liability fair values and fu ture cash flows are exposed to curr ency interestrate and commodityprice risks.  derivatives are used to reduce this risk.  in some cases they are designated as hedging instruments in a hedge accounting relationship
+
+Score 0.509
+legal risks notes to the statements of cash flows .  net cash provided by used in operating investing and financing activities other information .  audit fees .  related parties
+
+Score 0.509
+equity .  provisions for pensions and other postemployment benefits .  other provisions .  financial liabilities
+
+Score 0.508
+b .  development of financial assets and liabilities level previous year million assets fvtplfvtocinorecyclingderivativesnetliabilities fvtplnonderivativetotalcarrying amount january gainslosses recognized in profit or loss of which relating to assetsliabilities held at the end of the reporting period gainslosses recognized outside profit or loss additions of assetsliabi lities settlements of assetsliab ilities changes in scope of consolidation exchange differences carrying amount december see table b .  for definitions of measurement categories.  the changes recognized in profit or loss were included in other operating incomeexpenses as well as in the financial result in interest income exchange gain s or losses and other financial income and expenses
+
+Score 0.508
+liabilities from derivatives . other financial liabilities . receivables from derivatives . financial debt
+
+Score 0.506
+receivables from derivatives . financial debt . cash and cash equivalents . current financial assets
+
+Score 0.505
+earnings per share notes to the statements of financial position .  goodwill and other intangible assets .  property plant and equipment .  investments accounted for using the equity method
+
+Score 0.502
+property plant and equipment .  investments accounted for using the equity method .  other financial assets .  inventories
+
+Score 0.502
+financial result .  income loss from investments in affiliated companies .  net interest expense .  other financial income and expenses
+
+Score 0.5
+b .  income expense gains and losses on financial instruments previous year million assets acassets fvtplfvtoci no recyclingderivatives no hedge accounting fvtplliabilities acliabilities fvtpl nonderivativetotalinterest income interest expense incomeexpenses from affiliated companies changes in fair value impairment losses impairment loss reversals exchange gainslosses gainslosses from retirements other financial incomeexpenses net result see table b .  for definitions of measurement categories.  the interest income and expense from assets and liab ilities within the ac categor y also included income and expenses from interestrate derivatives that qu alified for hedge accounting
+
+Score 0.5
+other financial assets the other financial assets were comprised as follows b other financial assets dec.  dec.  million totalof which current totalof which currentac fvtpl of which debt instruments of which equity instruments fvtoci of which equity instruments no recycling receivables from derivatives receivables under lease agreements total measurement categories in accordance with ifrs ac at amortized cost fvtoci at fair value through other comprehensive income fvtpl at fair value through profit or loss the ac category included millio n million in bank depo sits as well as interestbearing securities of million million.  no material impairment losses were recognized for expected credit losses in or
+
+Score 0.499
+the net interest on the net liability is reflected in the financial result under other financial income and expenses.  the effects of remeasurements of the net defi ned benefit liability are reflected in the statement of comprehensive income as other comprehensive income.  they consist of actuarial gains and losses the return on plan assets and change s in the effects of the asset ceiling less the amounts included in net interest and related deferred taxes.  other provisions other provisions are recogniz ed for present legal and constructive obligations arising from past events that will probably give rise to a future outf low of resources provided that a re liable estimate can be made of the amount of the obligations
+
+Score 0.499
+maturity analysis of financial instruments previous year dec.  after million carryingamount interest and repaymentfinancial liabilities bonds liabilities to banks remaining liabilities trade accounts payable other liabilities accrued interest on liabilities remaining liabilities liabilities from derivatives with gross settlement cash outflows cash inflows with net settlement cash inflowsoutflows loan commitments financial guarantees total .  information on derivatives asset and liability fair values and fu ture cash flows are exposed to curr ency interestrate and commodityprice risks.  derivatives are used to reduce this risk
+
+Score 0.498
+cred it risks from financial transactions are managed centrally in the group fina nce enabling function.  to minimize risks financial transactions are only conducted with in predefined exposure limits and wi th banks and other partners that preferably have investmentgrade ratings.  bayer annual report a combined management report.  opportunity and risk report opportunities and risks resulting from market price changes opportunities and risks resulting fr om fluctuations in currency exch ange rates interest rates and commodity prices are managed by the group finance enabling function
+
+Score 0.497
+equity attributable to noncontrolling interest dividends paid to noncontrolling interest noncurrent assets current assets noncurrent liabilities current liabilities sales income after income taxes of which attributable to noncontrolling interest total comprehensive income of which attributable to noncontrolling interest net cash provided by used in operating activities net cash provided by used in investing activities net cash provided by used in financing activities .  provisions for pensions and other postemployment benefits provisions were established for defined benefit obligations pertaining to pensions and other postemployment benefits.  the net liab ility was accounted for as follows b net defined benefit liability reflected in the statement of financial position pensionsother postemployment benefits total million dec.  dec
+
+Score 0.497
+financial instruments by category the following tables show the carrying amounts and fai r values of the individual financial assets and liabilities by category of financial instrument under ifrs and a reco nciliation to the corresponding line items in the statements of financial position.  si nce the line items trade accounts receivable other receivables financial liabilities and other liabilitie s contain both financial instruments and nonfinancial assets or liabilities such as other tax receivables the reconciliation is shown in the column headed nonfinancial assetsliabilities.  bayer annual report b consolidated fina ncial statementsnotes to the statements of financial position b .  carrying amounts and fair values of financial instruments dec
+
+Score 0.496
+other financial income and expenses .  taxes .  income losses attributable to noncontrolling interest .  earnings per share notes to the statements of financial position
+
+Score 0.494
+overview of business performance financing activities in may we placed new senior bonds with a tota l volume of billion.  the issuance comprised three tranches and was multiple times covered.  in september we issued hybrid bonds with a total volume of .  billion that were multiple times oversubscribed
+
+Score 0.493
+financial debt . cash and cash equivalents . current financial assets . net financial debt
+
+Score 0.492
+this mainly comprises the groups strategic alignment resource allocation and the manage ment of financial affairs and managerial staff along with the management of the groupwide operationa l business of the crop sc ience pharmaceuticals and consumer health divisions.  the enabling functions support the operational business.  a .
+
+Score 0.491
+for definitions of measurement categories.  b .  development of financial assets and liabilities level previous year million assets fvtplfvtocinorecyclingderivativesnetliabilities fvtplnonderivativetotalcarrying amount january gainslosses recognized in profit or loss of which relating to assetsliabilities held at the end of the reporting period gainslosses recognized outside profit or loss additions of assetsliabi lities settlements of assetsliab ilities changes in scope of consolidation exchange differences carrying amount december see table b .  for definitions of measurement categories
+
+Score 0.489
+development of financial assets and liabilities level million assets fvtplfvtocinorecyclingderivativesnetliabilities fvtplnonderivativetotalcarrying amount january gainslosses recognized in prof it or loss of which relating to assetsliabilities held at the end of the reporting period gainslosses recognized outside profit or loss additions of assetsliabilities settlements of assetsli abilities changes in scope of consolidation exchange differences carrying amount december see table b .  for definitions of measurement categories.  b .  development of financial assets and liabilities level previous year million assets fvtplfvtocinorecyclingderivativesnetliabilities fvtplnonderivativetotalcarrying amount january gainslosses recognized in profit or loss of which relating to assetsliabilities held at the end of the reporting period gainslosses recognized outside profit or loss additions of assetsliabi lities settlements of assetsliab ilities changes in scope of consolidation exchange differences carrying amount december see table b
+
+Score 0.489
+current assets . total assets .  equity . noncurrent liabilities
+
+Score 0.486
+of which hybrid bonds . liabilities to banks . lease liabilities . liabilities from derivatives
+
+Score 0.486
+the net cash outflow fo r current financial assets came to million million and largely pertai ned to investments in money market funds due to increased liquidity as a result of newly placed bonds.  there was a net cash outflow of million for financ ing activities million.  this figure included net borrowings of million net loan repaymen ts of million.  net interest payments increased to millio n million
+
+Score 0.486
+other operating expenses .  personnel expenses and employee numbers .  financial result .  income loss from investments in affiliated companies
+
+Score 0.486
+these include all financial and nonfinancial risks that have been classified as high or medium and are at least significant in terms of potential impact after taking into account the risk control measures in place net risk.  they encompass risks falling within the black outline in th e rating matrix a . .
+
+Score 0.485
+the effects of remeasurements of the net defi ned benefit liability are reflected in the statement of comprehensive income as other comprehensive income.  they consist of actuarial gains and losses the return on plan assets and change s in the effects of the asset ceiling less the amounts included in net interest and related deferred taxes.  other provisions other provisions are recogniz ed for present legal and constructive obligations arising from past events that will probably give rise to a future outf low of resources provided that a re liable estimate can be made of the amount of the obligations.  they are established at the present value of the expected future cash outflows and recognized in the respective operating expense item s
+
+Score 0.484
+cash and cash equivalents . current financial assets . net financial debt .  for more information see a
+
+Score 0.483
+. equity attributable to noncontrolling interest dividends paid to noncontrolling interest noncurrent assets current assets noncurrent liabilities current liabilities sales income after income taxes of which attributable to noncontrolling interest total comprehensive income of which attributable to noncontrolling interest net cash provided by used in operating activities net cash provided by used in investing activities net cash provided by used in financing activities .  provisions for pensions and other postemployment benefits provisions were established for defined benefit obligations pertaining to pensions and other postemployment benefits.  the net liab ility was accounted for as follows b net defined benefit liability reflected in the statement of financial position pensionsother postemployment benefits total million dec
+
+Score 0.482
+income expense gains and losses on financial instruments previous year million assets acassets fvtplfvtoci no recyclingderivatives no hedge accounting fvtplliabilities acliabilities fvtpl nonderivativetotalinterest income interest expense incomeexpenses from affiliated companies changes in fair value impairment losses impairment loss reversals exchange gainslosses gainslosses from retirements other financial incomeexpenses net result see table b .  for definitions of measurement categories.  the interest income and expense from assets and liab ilities within the ac categor y also included income and expenses from interestrate derivatives that qu alified for hedge accounting.  income and expenses from lease receivables and lease liabilities respectively are also included here
+
+Score 0.48
+total assets .  equity . noncurrent liabilities . current liabilities
+
+Score 0.48
+the net defined benefit asset is recognized in other receivables.  current and past service cost and effects of plan se ttlements are recognized in operating income.  the net interest on the net liability is reflected in the financial result under other financial income and expenses.  the effects of remeasurements of the net defi ned benefit liability are reflected in the statement of comprehensive income as other comprehensive income
+
+Score 0.48
+leases .  contingent liabilities and other financial commitments .  legal risks notes to the statements of cash flows .  net cash provided by used in operating investing and financing activities other information
+
+Score 0.479
+the classification and measurement of financial asse ts is based in each case on the business model and the characteristics of the cash flo ws.  trade accounts receivable and othe r debt instruments are measured at amortized cost using the effectiveinterest method at fair value through profit or loss such as money market funds and effective initial funds or at fair valu e through other comprehensiv e income such as trade accounts receivable that can potentially be transferred as part of factoring agreemen ts.  equity instruments are generally held for medium to longterm strategic purposes and are therefore measured at fair value through other comprehensive income.  otherwise they are measured at fair value through profit or loss like for example the shares in century therapeutics in c
+
+Score 0.479
+net interest expense million interest and similar expenses of which interest expense relating to nonfinancial liabilities interest and similar income of which interest income relati ng to nonfinancial assets total .  other financial income and expenses other financial income and expens es were comprised as follows b .  other financial income and expenses million expenses interest portion of discounted provisions exchange gain loss miscellaneous financial expenses income miscellaneous financial income total also including effects from the remeasurement of corresponding overfunding the interest portion of discounted provisions comprised million million in net interest expense for pension and other postemployment ben efit provisions and minus million minus million in effects from the unwinding of the di scount and interestrate fluctuations for other personnelrelated provisions effects from the remeasurement of corresp onding overfunding and effects from the unwinding of the discount for other provisio ns.  the interest expense for pension and other postemployment benefit provisions incl uded million million for the unwin ding of the discount on the present value of the defined benefit obligatio n and million million in interest income from plan assets
+
+Score 0.478
+net interest expense .  other financial income and expenses .  taxes .  income losses attributable to noncontrolling interest
+
+Score 0.477
+the obligations and plan assets are measured at regular in tervals.  where no quoted pri ces for plan assets exist in active markets their fair values are determined by applying the usual measur ement methods and on the basis of freely accessible data such as interest rate curves and credit spreads.  the net defined benefit asset is recognized in other receivables.  current and past service cost and effects of plan se ttlements are recognized in operating income
+
+Score 0.477
+miscellaneous miscellaneous provisions include those for interest payments on income taxes and other taxes for other liabilities except where these are allocable to other provision categor ies and for decommissioning and similar obligations.  a sensitivity analysis undertaken for certain provisions that examined th e impact of a fivepercentagepoint change in the probabilities of occu rrence in each case did not produce an y material deviations from the amount of provisions established.  .  financial liabilities financial liabilities were comprised as follows b financial liabilities dec
+
+Score 0.476
+.  financial instruments by category the following tables show the carrying amounts and fai r values of the individual financial assets and liabilities by category of financial instrument under ifrs and a reco nciliation to the corresponding line items in the statements of financial position.  si nce the line items trade accounts receivable other receivables financial liabilities and other liabilitie s contain both financial instruments and nonfinancial assets or liabilities such as other tax receivables the reconciliation is shown in the column headed nonfinancial assetsliabilities.  bayer annual report b consolidated fina ncial statementsnotes to the statements of financial position b
+
+Score 0.475
+noncurrent liabilities . current liabilities . liabilities . total equity and liabilities
+
+Score 0.473
+the decline for enabling functionsall other segments was largely due to the further utilization of the existing provisions for the headcount reduction measures defined in previous years.  traderelated commitments traderelated provisions are recorded mainly for obligations related to services performed but not yet invoiced and to sales commissions not re cognized under trade accounts payable.  litigations the legal risks currently considered to be material and their development are described in note .  personnel commitments personnelrelated provisions include those for variable performancerelated onetime payments to employees stockbased payments an d payments related to longservice anniversaries early retirement programs and preretirement parttime working arrang ements
+
+Score 0.473
+assets and liabilities are classified by maturity.  they are regarded as current if they mature within one year or within the normal business cycle which us ually does not exceed one y ear or are held for sale.  the normal business cycle is defined for this purpose as beginning with the procurement of the resources necessary for the production process and ending with the receipt of cash or cash equivalents as consideration for the sale of the goods or services produced in that proce ss.  inventories and trade accounts receivable and payable are always presented as current items
+
+Score 0.472
+other provisions other provisions are recogniz ed for present legal and constructive obligations arising from past events that will probably give rise to a future outf low of resources provided that a re liable estimate can be made of the amount of the obligations.  they are established at the present value of the expected future cash outflows and recognized in the respective operating expense item s.  the interest cost is reflected in the financial result under other financial income and expenses.  if the projected oblig ation declines as a result of a change in the estimate the provision is reversed by the corresponding amount and the resulting income recognized in the operating ex pense items in which the orig inal charge was recognized
+
+Score 0.471
+other financial income and expenses million expenses interest portion of discounted provisions exchange gain loss miscellaneous financial expenses income miscellaneous financial income total also including effects from the remeasurement of corresponding overfunding the interest portion of discounted provisions comprised million million in net interest expense for pension and other postemployment ben efit provisions and minus million minus million in effects from the unwinding of the di scount and interestrate fluctuations for other personnelrelated provisions effects from the remeasurement of corresp onding overfunding and effects from the unwinding of the discount for other provisio ns.  the interest expense for pension and other postemployment benefit provisions incl uded million million for the unwin ding of the discount on the present value of the defined benefit obligatio n and million million in interest income from plan assets.  the miscellaneous financial expenses included m illion m illion in negative changes in the fair value of financial investments in debt instruments such as money market fund s in foreign currency and mixed funds as well as million million in expenses from the payment of intragroup invoices between argentina and th e united states or germany.  the miscellaneous financial income included gains of million million arising from positive changes in the fair value of financial investments in debt instruments and a gain of million from the early repayment of two hybrid bonds as well as gain s of million million arising from positive changes in the fair value of obligations for cont ingent consideration and liabilities to purchase noncontrolling interests
+
+Score 0.469
+information on derivatives .  leases .  contingent liabilities and other financial commitments .  legal risks notes to the statements of cash flows
+
+Score 0.469
+and blackford analysis ltd.  united kingdom.  the net cash outflow fo r current financial assets came to million million and largely pertai ned to investments in money market funds due to increased liquidity as a result of newly placed bonds.  there was a net cash outflow of million for financ ing activities million
+
+Score 0.468
+goodwill and other intangible assets .  property plant and equipment .  investments accounted for using the equity method .  other financial assets
+
+Score 0.467
+.  financial instruments the system used by the bayer group to manage credit risks liquidity risks and the different types of marketprice risk interestrate cu rrency and commodityprice risks toget her with its objectives methods and procedures is outlined in the opportunity an d risk report which forms part of the combined management report.  it also contains more detaile d information on individual marketprice risks.
+
+Score 0.467
+.  .  . equity attributable to noncontrolling interest dividends paid to noncontrolling interest noncurrent assets current assets noncurrent liabilities current liabilities sales income after income taxes of which attributable to noncontrolling interest total comprehensive income of which attributable to noncontrolling interest net cash provided by used in operating activities net cash provided by used in investing activities net cash provided by used in financing activities
+
+Score 0.466
+changenoncurrent assets . assets held for sale . other current assets . current assets
+
+Score 0.466
+for funded obligations the net liability is determined by deducting the fair value of plan assets.  the obligations and plan assets are measured at regular in tervals.  where no quoted pri ces for plan assets exist in active markets their fair values are determined by applying the usual measur ement methods and on the basis of freely accessible data such as interest rate curves and credit spreads.  the net defined benefit asset is recognized in other receivables
+
+Score 0.466
+equity . noncurrent liabilities . current liabilities . liabilities
+
+Score 0.465
+personnel expenses and employee numbers .  financial result .  income loss from investments in affiliated companies .  net interest expense
+
+Score 0.464
+lease liabilities . liabilities from derivatives . other financial liabilities . receivables from derivatives
+
+Score 0.462
+where no quoted pri ces for plan assets exist in active markets their fair values are determined by applying the usual measur ement methods and on the basis of freely accessible data such as interest rate curves and credit spreads.  the net defined benefit asset is recognized in other receivables.  current and past service cost and effects of plan se ttlements are recognized in operating income.  the net interest on the net liability is reflected in the financial result under other financial income and expenses
+
+Score 0.461
+carried at fair value fair value for information measurement category ifrs carried atamortizedcostbased on quoted prices in active markets level based on observable market datalevel based on unobservable inputs level nonfinancial assetsliabilities million carryingamountcarrying amount carrying amountcarrying amount carrying amount total trade accounts receivable ac fvtpl mandatory fvtoci recycling nonfinancial assets other financial assets ac fvtpl mandatory fvtoci no recycling designated fvtpl derivatives no hedge accounting derivatives hedge accounting lease receivables other receivables ac fvtpl mandatory nonfinancial assets cash and cash equivalents ac total financial assets of which ac of which fvtpl financial liabilities ac fvtpl derivatives no hedge accounting derivatives hedge accounting lease liabilities nonfinancial liabilities trade accounts payable ac other liabilities ac fvtpl nonderivative mandatory fvtpl derivatives no hedge accounting derivatives hedge accounting nonfinancial liabilities total financial liabilit ies of which ac of which fvtpl ac at amortized cost fvtoci at fair value through other comprehensive income fvtpl at fair value through profit or loss measured at fair value through profit or loss as required by ifrs measured at fair value through other comprehensive income under ifrs . . .  fair value of the financial instruments at amortized cost under ifrs
+
+Score 0.461
+financial instruments by category .  maturity analysis .  information on derivatives .  leases
+
+Score 0.459
+financial instruments the system used by the bayer group to manage credit risks liquidity risks and the different types of marketprice risk interestrate cu rrency and commodityprice risks toget her with its objectives methods and procedures is outlined in the opportunity an d risk report which forms part of the combined management report.  it also contains more detaile d information on individual marketprice risks.  .  financial instruments by category the following tables show the carrying amounts and fai r values of the individual financial assets and liabilities by category of financial instrument under ifrs and a reco nciliation to the corresponding line items in the statements of financial position
+
+Score 0.458
+b defined benefit obligatio n and funded status pension obligationother postemploymentbenefit obligation total million defined benefit ob ligation of which unfunded of which funded funded status of funded obligations overfunding underfunding pension and other postemplo yment benefit obligations group companies provide retirement benefits for most of their employees either directly or by contributing to privately or publicly administered funds.  the benefi ts vary depending on the legal fiscal and economic conditions of each country.  a substantial part of the pension entitlements consists of defined contribution obligations where the minimum benefit amount is based directly on the contribution level.  the obligations relate both to existing retirees pensions an d to pension entitlements of future retirees
+
+Score 0.458
+carried at fair value fair value for information measurement category ifrs carried atamortizedcostbased on quoted prices in active markets level based on observable market datalevel based on unobservable inputs level nonfinancial assetsliabilities million carryingamountcarrying amount carrying amountcarrying amount carrying amount total trade accounts receivable ac fvtpl mandatory fvtoci recycling nonfinancial assets other financial assets ac fvtpl mandatory fvtoci no recycling designated fvtpl derivatives no he dge accounting derivatives hedge accounting lease receivables other receivables ac fvtpl mandatory nonfinancial assets cash and cash equivalents ac total financial assets of which ac of which fvtpl financial liabilities ac fvtpl derivatives no hedge accounting derivatives hedge accounting lease liabilities nonfinancial liabilities trade accounts payable ac other liabilities ac fvtpl nonderivative mandatory fvtpl derivatives no hedge accounting derivatives hedge accounting nonfinancial liabilities total financial liabilities of which ac of which fvtpl ac at amortized cost fvtoci at fair value through other comprehensive income fvtpl at fair value through profit or loss measured at fair value through profit or loss as required by ifrs measured at fair value through other comprehensive income under ifrs . . .  fair value of the financial instruments at amortized cost under ifrs
+
+Score 0.457
+.  these include all financial and nonfinancial risks that have been classified as high or medium and are at least significant in terms of potential impact after taking into account the risk control measures in place net risk.  they encompass risks falling within the black outline in th e rating matrix a .
+
+Score 0.457
+other current assets . current assets . total assets .  equity
+
+Score 0.456
+the actual gains on the assets of defined benefit plans for pensions and fo r other postemployment benefits amounted to million lo ss of million and million loss of million respectively.  the following table shows the defined benefit obligati ons for pensions and other postemployment benefits along with the funded status of the funded obligations.  b defined benefit obligatio n and funded status pension obligationother postemploymentbenefit obligation total million defined benefit ob ligation of which unfunded of which funded funded status of funded obligations overfunding underfunding pension and other postemplo yment benefit obligations group companies provide retirement benefits for most of their employees either directly or by contributing to privately or publicly administered funds.  the benefi ts vary depending on the legal fiscal and economic conditions of each country
+
+Score 0.456
+data collection and reporting thresholds in accordance with ifrs noncurrent assets held for sale and discontinued operations financial indicators are given for continuing operations unless oth erwise explicitly indicated.  the same logic applies principally to hr procurement and hse health safet y and environment inform ation and to our social data.  reporting of the groups hse data includes all fully consolidated companies in which we hold at least a interest.  data on occupational injuries is collect ed at all sites worldwide
+
+Score 0.456
+financial instruments .  financial instruments by category .  maturity analysis .  information on derivatives
+
+Score 0.456
+the carrying amount was million million.  the outstanding receivables comprised of different tranches are each subject to a fiveyear interestrate adjustment mechanism.  interest income of million was recognized in million along with gains of million million due to fair value changes.  an amount of millio n million was reimbursed by pension vehicles in part for pens ion payments made by group companies in
+
+Score 0.455
+million totalof which current totalof which currentac fvtpl of which debt instruments of which equity instruments fvtoci of which equity instruments no recycling receivables from derivatives receivables under lease agreements total measurement categories in accordance with ifrs ac at amortized cost fvtoci at fair value through other comprehensive income fvtpl at fair value through profit or loss the ac category included millio n million in bank depo sits as well as interestbearing securities of million million.  no material impairment losses were recognized for expected credit losses in or .  the debt instruments in the fvtpl category includ ed investments in mone y market funds totaling million million as well as capital of million million provided to bayerpensionskasse vvag bayerpensionskasse for it s effective initial fund and jouissance right capital genussrechtskapital of million millio n also provided to bayerpensionskasse.  it also included capital of million million provided to rhei nische pensionskasse vvag for its effective initial fund
+
+Score 0.455
+other operating income .  other operating expenses .  personnel expenses and employee numbers .  financial result
+
+Score 0.453
+business combinations and other acquisitions .  discontinued operations assets and liabilities held for sale and divestments notes to the income statements .  net sales .  other operating income
+
+Score 0.453
+other financial income and expenses other financial income and expens es were comprised as follows b .  other financial income and expenses million expenses interest portion of discounted provisions exchange gain loss miscellaneous financial expenses income miscellaneous financial income total also including effects from the remeasurement of corresponding overfunding the interest portion of discounted provisions comprised million million in net interest expense for pension and other postemployment ben efit provisions and minus million minus million in effects from the unwinding of the di scount and interestrate fluctuations for other personnelrelated provisions effects from the remeasurement of corresp onding overfunding and effects from the unwinding of the discount for other provisio ns.  the interest expense for pension and other postemployment benefit provisions incl uded million million for the unwin ding of the discount on the present value of the defined benefit obligatio n and million million in interest income from plan assets.  the miscellaneous financial expenses included m illion m illion in negative changes in the fair value of financial investments in debt instruments such as money market fund s in foreign currency and mixed funds as well as million million in expenses from the payment of intragroup invoices between argentina and th e united states or germany
+
+Score 0.451
+this may lead to increased costs for pension plans or diminish equity due to actuarial losses being recognized in other comprehensive income in the statement of comprehensive income.  a large proportion of our pension and other postemployment benefit obligations is covered by plan a ssets including fixedincome securities shares real estate and other investments.  declining or even negative returns on these investments may adversely affect the future fair value of plan a ssets.  both of these effects may nega tively impact the development of equity andor earnings andor may necessitate additi onal payments by our comp any
+
+Score 0.45
+we draw attention to th e fact that the assurance engagement was conducted for the companys purposes and that the report is intended solely to inform the company about the result of the assurance engagement.  consequently it may not be suitab le for any other purpose than the aforementioned.  hence this report should not be used by third parties as a basis for any asset decision.  we are solely responsible to the company
+
+Score 0.45
+income and expenses from lease receivables and lease liabilities respectively are also included here.  the changes in the fair value of asse ts within the fvtpl category mainly included changes in the fair value of the interests in century and pyxis as well as ch anges in the fair value of in vestments in money market funds and mixed funds.  dividend income is reflected in income from affiliated companies while interest income from debt instruments within the fvptl categ ory is included in interest income and primarily concerns interest income from the capital provided to baye rpensionskasse for its effe ctive initial fund and from money market funds.  the changes in the fair va lue of derivatives that do not qualify for hedge accounting related mainly to forward commod ity contracts and embedded derivatives
+
+Score 0.45
+financial assets are derecognized when contractual ri ghts to receive cash flows fr om the financial assets expire or the financial assets were transferred together with all material risks and benefits.  receivables are also derecognized if they have been finally assesse d as irrecoverable and we have ceased efforts to collect them following the completion of insolvency proceedings for example.  receivables are not derecognized while they remain subject to enforcement.  inventories inventories are recognized at their cost of acquisition or production productionrelated full costs calculated by the weightedaverage method or at their net realizable value whichever is lower
+
+Score 0.449
+credit limits are set for all customers.  in addition all credit limits for debtors where total exposure is million or more are evaluated both locally and centrally.  cred it risks from financial transactions are managed centrally in the group fina nce enabling function.  to minimize risks financial transactions are only conducted with in predefined exposure limits and wi th banks and other partners that preferably have investmentgrade ratings
+
+Score 0.448
+the bond portfolios consist of bond s with weighted residual maturities approximately equal to the duration of the expected disbursements from the pension plans.  the pension service cost and the net interest on the net liability are determined on the basis of the assumptions as of the previous closing date.  for funded obligations the net liability is determined by deducting the fair value of plan assets.  the obligations and plan assets are measured at regular in tervals
+
+Score 0.448
+total compensation awarded and due .  .  service costbenefit expense ifrs total compensation c .  compensation awarded and due part ii serving board of management members as of dec
+
+Score 0.448
+discontinued operations assets and liabilities held for sale and divestments notes to the income statements .  net sales .  other operating income .  other operating expenses
+
+Score 0.447
+the audit which is conducted to obtain reasonable a ssurance also includes the disclosures pertaining to the nonfinancial statement in the management report .  exempted from this are table a . .  and the subsequent passages pertaining to the nonfinancial group targets in chapter
+
+Score 0.445
+.  other receivables other receivables were comprised as follows b other receivables dec.  dec.  million totalof whichcurrent totalof whichcurrentother tax receivables deferred charges net defined benefit asset assets related to other longterm employee benefits companyowned life insurance coli receivables from employees reimbursement claims miscellaneous receivables total miscellaneous receivables contained other advanced payments for services amounting to million million

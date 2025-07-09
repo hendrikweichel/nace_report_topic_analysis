@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.607
+financial instrumentscarrying amounts of financial assetsliabilities and their fair values amount recognised in the statement of financial position pursuant to ifrs in m eurcategory pursuant to ifrs carrying amount as of dec amortised costfair value not through profit and lossfair value through profit and lossfair valueas of dec assetscash and cash equivalents . thereof cash in bank on hand shortterm bank deposits ac .  .  .  thereof money market funds fvtpl
+
+Score 0.607
+.  .  .  . payments for financial liabilities and derivative financial instruments carrying amountcash flows cash flowscash flows and ff
+
+Score 0.601
+thereof other financial instruments .  .  . other current nonfinancial assets .
+
+Score 0.6
+.  .  . payments for financial liabilities and derivative financial instruments carrying amountcash flows cash flowscash flows and ff.  in m eur dec interestrepayments interestrepayments interestrepaymentsborrowings
+
+Score 0.598
+this will mainly include items that are currently presented in our financial result e. g.  interest expenses on convertible bonds and lease liabilities.  items that do not fulfil these criteria shall be classified under other categories.  for example income and expenses from hedging relationships shall be moved to the operating category
+
+Score 0.593
+thereof money market funds fvtpl .  . trade and other receivables ac .  .  other financial assets
+
+Score 0.59
+.  . payments for financial liabilities and derivative financial instruments carrying amountcash flows cash flowscash flows and ff.  in m eur dec interestrepayments interestrepayments interestrepaymentsborrowings .
+
+Score 0.59
+. thereof other financial instruments .  .  . other current nonfinancial assets
+
+Score 0.589
+no financial assets were classified in this category in the financial year or in the prior year. all other financial assets are measured at fair value through profit or loss.  hence they are held within a business model whose objective is not to hold the financial asset to collect contractual cash flows or where cash flows are not solely payments of principal and interest on the principal amount outstanding.  derivative financial instruments that are not effective hedging instruments as well as corporate investments are allocated to this category.  changes in the fair value of these financial assets are recognised through profit or loss
+
+Score 0.584
+.  other financial assets . thereof money market funds fvtpl .  .
+
+Score 0.581
+. other financial liabilities .  . other nonfinancial liabilities .
+
+Score 0.577
+other financial assets .  .  . other nonfinancial assets .
+
+Score 0.576
+trade and other receivables ac .  .  other financial assets . thereof money market funds fvtpl .
+
+Score 0.576
+. payments for financial liabilities and derivative financial instruments carrying amountcash flows cash flowscash flows and ff.  in m eur dec interestrepayments interestrepayments interestrepaymentsborrowings .  .
+
+Score 0.575
+. trade and other receivables ac .  .  other financial assets . thereof money market funds fvtpl
+
+Score 0.572
+other financial assets . thereof derivative financialinstruments designatedas hedging instruments na .  .  .
+
+Score 0.57
+other financial liabilities .  .  . other nonfinancial liabilities .
+
+Score 0.569
+.  .  financial assets .  .
+
+Score 0.567
+.  .  . other financial liabilities .
+
+Score 0.567
+. other financial liabilities .  .  . other nonfinancial liabilities
+
+Score 0.566
+.  .  .  . other financial liabilities
+
+Score 0.566
+payments for financial liabilities and derivative financial instruments carrying amountcash flows cash flowscash flows and ff.  in m eur dec interestrepayments interestrepayments interestrepaymentsborrowings .  .  .
+
+Score 0.566
+.  . other financial liabilities .  . other nonfinancial liabilities
+
+Score 0.565
+financial assets .  .  . nonfinancial assets .
+
+Score 0.564
+. other financial assets .  .  . other nonfinancial assets
+
+Score 0.564
+other financial liabilities .  .  .  .
+
+Score 0.562
+. thereof from term deposits .  . thereof from other financial instruments .
+
+Score 0.561
+thereof from other financial instruments .  . interest and similar expenses. . thereof from financial liabilities at amortised cost
+
+Score 0.561
+.  sharebased payments as well as . .  .  financial instruments
+
+Score 0.561
+other financial liabilities .  . other nonfinancial liabilities .  . deferred tax liabilities
+
+Score 0.561
+.  . other financial liabilities .  .
+
+Score 0.561
+.  financial instrumentscarrying amounts of financial assetsliabilities and their fair values amount recognised in the statement of financial position pursuant to ifrs in m eurcategory pursuant to ifrs carrying amount as of dec amortised costfair value not through profit and lossfair value through profit and lossfair valueas of dec assetscash and cash equivalents . thereof cash in bank on hand shortterm bank deposits ac .  .
+
+Score 0.56
+other financial assets . thereof money market funds fvtpl .  .  . thereof derivative financial instruments designatedas hedging instruments na
+
+Score 0.559
+. . thereof other financial instruments .  .
+
+Score 0.559
+. thereof term depositsmoney market funds .  .  . thereof derivative financial instruments
+
+Score 0.558
+.  financial assets .  .  . nonfinancial assets
+
+Score 0.557
+thereof fulfilment services .  .  . thereof other .
+
+Score 0.556
+.  other current financial assets and other current nonfinancial assetsas of the reporting date other current financial an d nonfinancial assets comprised the following componentsother current financial and nonfinancial assetsin m eur dec dec changeother current financial assets .  .  . thereof term depositsmoney market funds
+
+Score 0.556
+.  . trade and other receivables ac .  .  other financial assets
+
+Score 0.555
+.  other financial assets . thereof derivative financialinstruments designatedas hedging instruments na .  .
+
+Score 0.553
+. trade and other receivables .  .  . other financial assets
+
+Score 0.552
+other current financial assets and other current nonfinancial assetsas of the reporting date other current financial an d nonfinancial assets comprised the following componentsother current financial and nonfinancial assetsin m eur dec dec changeother current financial assets .  .  . thereof term depositsmoney market funds .
+
+Score 0.552
+. other financial liabilities .  .  .
+
+Score 0.551
+thereof from term deposits .  . thereof from other financial instruments .  . interest and similar expenses
+
+Score 0.55
+all instruments in the portfolio as of december and december for which payments had already been contractually agreed were included.  planned figures for new future liabilities were not included.  the floatingrate interest payments from the financial instruments were determined based on the interest rates most recently fixed before december and december respectively.  all oncall financial liabilities are always allocated to the earliest possible date. payments for financial liabilities and derivative financial instruments carrying amountcash flows cash flowscash flows and ff
+
+Score 0.55
+.  . other financial assets .  .
+
+Score 0.549
+current assetsinventories .  .  . trade and other receivables .
+
+Score 0.547
+. thereof from other financial instruments .  . interest and similar expenses.
+
+Score 0.546
+. thereof fulfilment services .  .  . thereof other
+
+Score 0.542
+thereof term depositsmoney market funds .  .  . thereof derivative financial instruments .
+
+Score 0.541
+trade and other receivables .  .  . other financial assets .
+
+Score 0.541
+. current assetsinventories .  .  . trade and other receivables
+
+Score 0.541
+m eur associated with investments in subsidiaries.  a deferred tax liability has not been recognised because the group controls the reversal of the difference and does not expect a reversal in the foreseeable future.  .  financial instrumentscarrying amounts of financial assetsliabilities and their fair values amount recognised in the statement of financial position pursuant to ifrs in m eurcategory pursuant to ifrs carrying amount as of dec amortised costfair value not through profit and lossfair value through profit and lossfair valueas of dec assetscash and cash equivalents . thereof cash in bank on hand shortterm bank deposits ac
+
+Score 0.535
+.  rightofuse assets and lease liabilities and . .  accounting policies .  the determination of the fair value of obligations from financial liabilities and sharebased payments see comments in sections
+
+Score 0.533
+for all categories except financial assets at fair value through profit or loss the transaction costs incurred are included in the initial recognition. the allocation to the aforementioned categories determines the subsequent measurement of financial assets.  there are differing measurement rules for each category. financial assets measured at amortised cost are those which are held in a business model whose objective is to hold the financial asset in order to collect contractual cash flows and for which the contractual terms give rise on specific dates to cash flows that are solely payments of principal and interest on the principal amount outstanding sppi criterion.  this measurement category is used for trade and other receivables other financial assets cash and cash equivalents and shortterm deposits
+
+Score 0.532
+.  thereof money market funds fvtpl .  . trade and other receivables ac .
+
+Score 0.532
+those items are currently presented within our financial result and will be moved to the investing category.  income and expenses that arise from transactions that involve only the raising of finance or items that arise from transactions that do not involve only the raising of finance but are identified by other ifrs will be classified in the financing category.  this will mainly include items that are currently presented in our financial result e. g.  interest expenses on convertible bonds and lease liabilities
+
+Score 0.531
+. other nonfinancial liabilities .  . deferred tax liabilities .
+
+Score 0.531
+thereof others .  .  . other current nonfinancial liabilities .
+
+Score 0.53
+other financial liabilities . thereof derivative financialinstruments designatedas hedging instruments na .  .  .
+
+Score 0.529
+thereof from financial liabilities at amortised cost. . thereof from hedging derivatives. . thereof other interest and similar expenses
+
+Score 0.528
+. . . other financial and nonfinancialliabilities .
+
+Score 0.528
+these other operating expenses relate to disposals of assets refer to sections . .  .  property plant and equipment .
+
+Score 0.527
+impairment and foreign exchange gains or losses are nevertheless recognised in profit or loss.  no financial assets were classified in this category in the financial year or in the prior year. all other financial assets are measured at fair value through profit or loss.  hence they are held within a business model whose objective is not to hold the financial asset to collect contractual cash flows or where cash flows are not solely payments of principal and interest on the principal amount outstanding.  derivative financial instruments that are not effective hedging instruments as well as corporate investments are allocated to this category
+
+Score 0.527
+thereof money market funds fvtpl .  .  . trade and other receivables ac .
+
+Score 0.527
+all other financial assets are measured at fair value through profit or loss.  hence they are held within a business model whose objective is not to hold the financial asset to collect contractual cash flows or where cash flows are not solely payments of principal and interest on the principal amount outstanding.  derivative financial instruments that are not effective hedging instruments as well as corporate investments are allocated to this category.  changes in the fair value of these financial assets are recognised through profit or loss. impairment of financial assetszalando recogni ses a loss allowance for expected credit losses for all financial assets other than those measured at fair value through profit or loss
+
+Score 0.527
+. thereof corporate investments fvtpl .  .  . thereof others ac
+
+Score 0.526
+income and expenses that arise from transactions that involve only the raising of finance or items that arise from transactions that do not involve only the raising of finance but are identified by other ifrs will be classified in the financing category.  this will mainly include items that are currently presented in our financial result e. g.  interest expenses on convertible bonds and lease liabilities.  items that do not fulfil these criteria shall be classified under other categories
+
+Score 0.526
+the investing category will mainly include income and expenses from investments accounted for using the equity method as well as from cash and cash equivalents.  those items are currently presented within our financial result and will be moved to the investing category.  income and expenses that arise from transactions that involve only the raising of finance or items that arise from transactions that do not involve only the raising of finance but are identified by other ifrs will be classified in the financing category.  this will mainly include items that are currently presented in our financial result e. g
+
+Score 0.525
+. interest and similar expenses. . thereof from financial liabilities at amortised cost.
+
+Score 0.524
+. . . . other financial and nonfinancialliabilities
+
+Score 0.523
+interest and similar expenses. . thereof from financial liabilities at amortised cost. . thereof from hedging derivatives
+
+Score 0.523
+other financial liabilities . thereof derivative financialinstruments designatedas hedging instruments na .  .  . thereof other derivative financial instruments fvtpl thereof others flac
+
+Score 0.523
+. nonfinancial assets .  .  . investments accounted for using the equity method
+
+Score 0.523
+the majority of items currently included in our ebit will be allocated to this operating category.  the investing category will mainly include income and expenses from investments accounted for using the equity method as well as from cash and cash equivalents.  those items are currently presented within our financial result and will be moved to the investing category.  income and expenses that arise from transactions that involve only the raising of finance or items that arise from transactions that do not involve only the raising of finance but are identified by other ifrs will be classified in the financing category.  this will mainly include items that are currently presented in our financial result e
+
+Score 0.521
+thereof other derivative financial instruments fvtpl .  .  . thereof corporate investments fvtpl .
+
+Score 0.521
+.  .  . current financing liabilities .
+
+Score 0.521
+. .  . current financing liabilities .
+
+Score 0.52
+.  accounting policies and . .  .  intangible assets
+
+Score 0.52
+.  thereof money market funds fvtpl .  .  . trade and other receivables ac
+
+Score 0.519
+. trade and other receivables ac .  .  other financial assets . thereof derivative financialinstruments designatedas hedging instruments na
+
+Score 0.519
+the standard first defines the operating category that will include all items of income or expense that are not classified in one of the other four categories.  the majority of items currently included in our ebit will be allocated to this operating category.  the investing category will mainly include income and expenses from investments accounted for using the equity method as well as from cash and cash equivalents.  those items are currently presented within our financial result and will be moved to the investing category.  income and expenses that arise from transactions that involve only the raising of finance or items that arise from transactions that do not involve only the raising of finance but are identified by other ifrs will be classified in the financing category
+
+Score 0.519
+. thereof other derivative financial instruments fvtpl .  .  . thereof corporate investments fvtpl
+
+Score 0.517
+thereof corporate investments fvtpl .  .  . thereof others ac .
+
+Score 0.516
+thereof cash in bank on hand shortterm bank deposits ac .  .  thereof money market funds fvtpl .  . trade and other receivables ac
+
+Score 0.513
+g.  interest expenses on convertible bonds and lease liabilities.  items that do not fulfil these criteria shall be classified under other categories.  for example income and expenses from hedging relationships shall be moved to the operating category.  foreign exchange differences currently presented in financial result that relate to income and expenses for items that will be classified in the financing category will be presented in this category accordingly
+
+Score 0.513
+financial assets measured at amortised cost are those which are held in a business model whose objective is to hold the financial asset in order to collect contractual cash flows and for which the contractual terms give rise on specific dates to cash flows that are solely payments of principal and interest on the principal amount outstanding sppi criterion.  this measurement category is used for trade and other receivables other financial assets cash and cash equivalents and shortterm deposits. companycombined managementreport consolidated financialstatements other informationand service zalando se annual report the category of financial assets at fair value through other comprehensive income relates to financial assets that are held within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets.  on specified dates the contractual terms give rise to cash flows that are solely payments of principal and interest on the principal amount outstanding.  the fluctuations in value recognised in other comprehensive income are transferred to profit or loss at the time the asset is derecognised
+
+Score 0.512
+financial resultfinancial resultin m eur interest and similar income .  . thereof from hedging derivatives .  . thereof from trade and other receivables
+
+Score 0.512
+. thereof derivative financial instruments .  .  . thereof creditors with debit balance
+
+Score 0.512
+.  .  property plant and equipment and . .  acco unting policies
+
+Score 0.51
+.  . thereof derivative financial instruments .  .
+
+Score 0.51
+thereof other interest and similar expenses. . result of investments accounted for using theequity method. . other financial result
+
+Score 0.51
+the fluctuations in value recognised in other comprehensive income are transferred to profit or loss at the time the asset is derecognised.  impairment and foreign exchange gains or losses are nevertheless recognised in profit or loss.  no financial assets were classified in this category in the financial year or in the prior year. all other financial assets are measured at fair value through profit or loss.  hence they are held within a business model whose objective is not to hold the financial asset to collect contractual cash flows or where cash flows are not solely payments of principal and interest on the principal amount outstanding
+
+Score 0.51
+other current financial liabilities and other current nonfinancial liabilitiesas of the reporting date other current financial and nonfinancial liabilities comprise the following componentsother current financial and nonfinancial liabilitiesin m eur dec dec changeother current financial liabilities .  . . thereof obligations to reimburse customers for returns .
+
+Score 0.51
+.  rightofuse assets .  .  .  financial assets
+
+Score 0.509
+nonfinancial assets .  .  . investments accounted for using the equity method .
+
+Score 0.508
+.  . thereof others ac .  .  liabilitiestrade payables and similar liabilities flac
+
+Score 0.507
+. thereof from financial liabilities at amortised cost. . thereof from hedging derivatives.
+
+Score 0.505
+thereof other nonfinancial assets .  . . the development in other current financial assets was largely driven by an increase in market values of derivative financial instruments amounting to . m eur as of december prior year
+
+Score 0.504
+. thereof others ac .  .  liabilitiestrade payables and similar liabilities flac .

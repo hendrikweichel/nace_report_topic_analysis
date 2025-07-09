@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.58
+AssetsDerivative financial instruments designated as hedging instrumentsLevel Other derivative financial instrumentsLevel Corporate investmentsLevel Money market fundsLevel LiabilitiesBorrowingsLevel Convertible bondsLevel 
+
+Score 0.553
+in m EURInterest and similar income..thereof from hedging derivatives..thereof from trade and other receivables..thereof from money market funds..thereof from term deposits..thereof from other financial instruments..Interest and similar expenses..thereof from financial liabilities at amortised cost..thereof from hedging derivatives..thereof other interest and similar expenses..Result of investments accounted for using theequity method..Other financial result..thereof from hedging transactions..thereof from currency effects..other valuation effects on financial instruments..Financial result..
+
+Score 0.548
+Financial instruments
+
+Score 0.54
+.Other current financial liabilities and other current nonfinancial liabilitiesAs of the reporting date other current financial and nonfinancial liabilities comprise the following components
+
+Score 0.536
+Amount recognised in the statement of financial position pursuant to IFRS in m EURCategory pursuant to IFRS Carrying amount as of Dec Amortised costFair value not through profit and lossFair value through profit and lossFair valueas of Dec AssetsCash and cash equivalents.thereof cash in bank on hand shortterm bank depositsAC..thereof money market fundsFVtPL...Trade and other receivablesAC..Other financial assets.thereof money market fundsFVtPL...thereof derivative financial instruments designatedas hedging instrumentsna....thereof other derivative financial instrumentsFVtPL...thereof corporate investmentsFVtPL...thereof othersAC..LiabilitiesTrade payables and similar liabilitiesFLAC..Convertible bondsFLAC...Lease liabilities.Other financial liabilities.thereof derivative financialinstruments designatedas hedging instrumentsna...thereof other derivative financial instrumentsFVtPLthereof othersFLAC..
+
+Score 0.524
+The tables below show the contractually agreed undiscounted interest and principal payments for primary financial liabilities and for derivative financial instruments with their negative fair value. All instruments in the portfolio as of December and December for which payments had already been contractually agreed were included. Planned figures for new future liabilities were not included. The floatingrate interest payments from the financial instruments were determined based on the interest rates most recently fixed before December and December respectively. All oncall financial liabilities are always allocated to the earliest possible date.
+
+Score 0.524
+Carrying amountCash flows Cash flowsCash flows and ff. in m EUR Dec InterestRepaymentsInterestRepaymentsInterestRepaymentsBorrowings.......Convertible bonds.......Trade payables and similar liabilities .......Other financial liabilities.......thereof from derivatives.......Total.......
+
+Score 0.523
+Amount recognised in the statement of financial position pursuant to IFRS in m EURCategory pursuant to IFRS Carrying amount as of Dec Amortised costFair value not through profit and lossFair value through profit and lossFair valueas of Dec AssetsCash and cash equivalents.thereof cash in bank on hand shortterm bank depositsAC..thereof money market fundsFVtPL..Trade and other receivablesAC..Other financial assets.thereof derivative financialinstruments designatedas hedging instrumentsna....thereof other derivative financial instrumentsFVtPL...thereof corporate investmentsFVtPL...thereof othersAC..LiabilitiesTrade payables and similar liabilitiesFLAC..Convertible bondsFLAC...Lease liabilities.Other financial liabilities.thereof derivative financialinstruments designatedas hedging instrumentsna....thereof other derivative financial instrumentsFVtPL...thereof othersFLAC..
+
+Score 0.523
+Other current financial and nonfinancial liabilities
+
+Score 0.522
+Other current financial and nonfinancial assets
+
+Score 0.518
+Nature of operating activities
+
+Score 0.518
+Payments for financial liabilities and derivative financial instruments 
+
+Score 0.505
+Noncurrent financial and nonfinancial assets
+
+Score 0.503
+The group classifies its assets and liabilities in the statement of financial position as current and noncurrent assets and liabilities.An asset is classified as current when
+
+Score 0.499
+..Accounting policiesIntangible assets
+
+Score 0.498
+General informationA financial instrument is a contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity. Financial assets and financial liabilities are disclosed in the consolidated statement of financial position when Zalando becomes a contractual party to a financial instrument. Contracts are recognised irrespective of their classification as of the settlement date i.e. the date on which an asset is delivered to or by the entity. In contrast derivative financial instruments are recognised on the trade date. The trade date is the date that the company commits to purchasing or selling an asset. 
+
+Score 0.493
+in m EURNotes .. Dec Dec Noncurrent assetsIntangible assets... Property plant and equipment... Rightofuse assets... Financial assets...Nonfinancial assets...Investments accounted for using the equity method...Deferred tax assets.....Current assetsInventories...Trade and other receivables...Other financial assets...Other nonfinancial assets...Cash and cash equivalents.....Total assets..
+
+Score 0.488
+Interest expenses on lease liabilities totalled .m EUR for the financial year prior year .m EUR these are recognised in cash flow from operating activities. Cash payments for the principal portion of the lease liabilities totalled .m EUR prior year .m EUR these are recognised in cash flow from financing activities see . Consolidated statement of cash flows and .. . Notes to the statement of cash flows.The total cash outflow for leases in for the group including payments for shortterm and lowvalue leases amounted to .m EUR prior year .m EUR.. Noncurrent financial assets and noncurrent nonfinancial assetsAs of the reporting date noncurrent financial and nonfinancial assets comprise the following components
+
+Score 0.482
+The increase in other noncurrent financial assets by .m EUR to .m EUR prior year .m EUR was mainly impacted by our acquisition of ABOUT YOU shares which we recognised with .m EUR as of December . For further information see section .. . Subsequent events. The lease receivable totalled .m EUR as of December prior year .m EUR. For further information see section .. . Rightofuse assets and lease liabilities. .Investments accounted for using the equity methodAs of the reporting date investments accounted for using the equity method comprise the following entity
+
+Score 0.475
+The nonpersonnel costs included predominately ITrelated costs office expenses depreciation and impairments for rightofuse assets as well as legal and advisory expenses.. Other operating incomeOther operating income amounted to .m EUR in prior year .m EUR. Indemnification for damages income from a sublease as well as income relating to other periods that cannot be classified by function were the main contributors to other operating income.. Other operating expensesOther operating expenses amounted to .m EUR prior year .m EUR. These other operating expenses relate to disposals of assets refer to sections .. . Property plant and equipment .. . Intangible assets and .. . Rightofuse assets and lease liabilities damages expenses relating to other periods that cannot be classified by function as well as donations. In the prior year other operating expenses mainly comprised severance and garden leave expenses relating to our reshaping programme of .m EUR.
+
+Score 0.473
+Net assets and financial position
+
+Score 0.472
+adjusted for loss allowance for financial assets.The amortised cost of current receivables and liabilities generally corresponds to the nominal value or settlement amount.Financial assetsFinancial assets are classified as one of the following categories for the purpose of subsequent measurement
+
+Score 0.469
+Financial position
+
+Score 0.468
+The development in other current financial assets was largely driven by an increase in market values of derivative financial instruments amounting to .m EUR as of December prior year .m EUR and resulting from changes in foreign exchange rates see also section .. . Financial instruments. This movement was partly offset by decreased creditors having a debit balance. Other current nonfinancial assets were almost unchanged in total. However in the balance sheet position we recorded an increase in VAT receivables to .m EUR as of December prior year .m EUR related mainly to open VAT refunds which were higher at the end of compared to . This movement is offset by decreased income tax receivables amounting to .m EUR as of December prior year .m EUR due to tax refunds for previous years.
+
+Score 0.466
+Consolidatedfinancialstatements
+
+Score 0.463
+Other informationand service
+
+Score 0.463
+in m EUR Dec Dec ChangeOther current financial assets...thereof term depositsmoney market funds...thereof derivative financial instruments...thereof creditors with debit balance...thereof other financial instruments...Other current nonfinancial assets...thereof VAT receivables...thereof right to repossess goods...thereof deferred items...thereof income tax receivables...thereof other nonfinancial assets...
+
+Score 0.462
+.Responsibility statement by the management board.Independent auditors report.Glossary.Financial calendar .Imprint
+
+Score 0.46
+For payments related to lease liabilities see .. . Rightofuse assets and lease liabilities. Capital managementThe objectives of capital management in the group are shortterm solvency and an adequate capital base to finance projected growth while sustainably increasing business value. This ensures that all group entities can operate on a going concern basis.Capital management and its objectives and definition are based on key performance indicators derived from the consolidated financial statements in accordance with IFRS. We therefore 
+
+Score 0.456
+The determination of the fair value of obligations from financial liabilities and sharebased payments see comments in sections .. . Sharebased payments as well as .. . Financial instruments.
+
+Score 0.456
+Other information and services
+
+Score 0.455
+The determination of the useful life of items of property plant and equipment and of intangible assets as well as the determination of development costs of internally generated intangible assets see sections .. . Intangible assets .. . Property plant and equipment and .. Accounting policies.
+
+Score 0.454
+Management is responsible for the preparation of the consolidated financial statements that comply in all material respects with IFRSs as adopted by the EU and the additional requirements of German commercial law pursuant to Section e HGB and that the consolidated financial statements in compliance with these requirements give a true and fair view of the assets liabilities financial position and financial performance of the Group. In addition management is responsible for such internal control as they have determined necessary to enable the preparation of consolidated financial statements that are free from material misstatement whether due to fraud i.e. fraudulent financial reporting and misappropriation of assets or error. In preparing the consolidated financial statements management is responsible for assessing the Groups ability to continue as a going concern. They also have the responsibility for disclosing as applicable matters related to going concern. In addition they are responsible for financial reporting based on the going concern basis of accounting unless there is an intention to liquidate the Group or to cease operations or there is no realistic alternative but to do so.Furthermore management is responsible for the preparation of the group management report that as a whole provides an appropriate view of the Groups position and is in all material respects consistent with the consolidated financial statements complies with German legal requirements and appropriately presents the opportunities and risks of future development. In addition management is responsible for such arrangements and measures systems as they have considered necessary to enable the preparation of a group management report that is in accordance with the applicable German legal requirements and to be able to provide sufficient appropriate evidence for the assertions in the group management report. 
+
+Score 0.454
+The category of financial assets at fair value through other comprehensive income relates to financial assets that are held within a business model whose objective is achieved by both collecting contractual cash flows and selling financial assets. On specified dates the contractual terms give rise to cash flows that are solely payments of principal and interest on the principal amount outstanding. The fluctuations in value recognised in other comprehensive income are transferred to profit or loss at the time the asset is derecognised. Impairment and foreign exchange gains or losses are nevertheless recognised in profit or loss. No financial assets were classified in this category in the financial year or in the prior year.All other financial assets are measured at fair value through profit or loss. Hence they are held within a business model whose objective is not to hold the financial asset to collect contractual cash flows or where cash flows are not solely payments of principal and interest on the principal amount outstanding. Derivative financial instruments that are not effective hedging instruments as well as corporate investments are allocated to this category. Changes in the fair value of these financial assets are recognised through profit or loss.Impairment of financial assetsZalando recognises a loss allowance for expected credit losses for all financial assets other than those measured at fair value through profit or loss. At each reporting date the loss allowance is measured at an amount equal to a month expected credit loss general approach. If the credit risk has increased significantly the loss allowance is measured at an amount equal to the lifetime expected credit loss.For trade receivables Zalando applies the simplified approach of IFRS to measure the loss allowance at an amount equal to the lifetime expected credit loss. Zalando uses a scenariobased approach for this purpose and takes into account saleschannel and countryspecific allowance rates based on expected risks of default and how long the trade receivables are past due. Trade receivables typically resulting from the use of deferred payment methods e.g. pay by invoice have due dates of a maximum of to days depending on the country in which the order is placed. For other receivables resulting from the purchase of receivables due from customers of our partners for sales concluded on the Zalando platform Zalando applies the general approach of IFRS . Because these receivables also have maximum due dates of to days the month expected credit loss is the same as the lifetime expected credit loss. Therefore as for trade receivables Zalando applies a scenariobased approach to determine expected credit losses for other receivables.Receivables together with the allowance recognised are derecognised when the contractual rights to the cash flows have expired. This is the case if there is no realistic prospect of future recovery and all collateral has been realised.
+
+Score 0.451
+Net gains and losses from financial instruments 
+
+Score 0.451
+..Business activity
+
+Score 0.45
+Financial liabilitiesFinancial liabilities are recognised initially at fair value net of directly attributable transaction costs in the case of loans and borrowings. Zalando allocates financial liabilities to one of the following categories upon initial recognition
+
+Score 0.45
+The ICS enables us to provide reasonable assurance with regard to achieving the companys strategic operational financial and compliance objectives. This is realised through the identification of risks in our key business processes and the implementation of mitigating controls. The ICS envelops multiple business processes including both financial and nonfinancial reporting. The nonfinancial reporting includes the sustainability statement and performance management aspects.
+
+Score 0.449
+IFRS StandardTitleImpending changeAmendments to IAS Lack of ExchangeabilityDefines when a currency is exchangeable into another currency and clarifies how to estimate the spot exchange rate when a currency is not exchangeable.Amendments to IFRS andIFRS Classification and Measurement of Financial InstrumentsClarifies that a financial liability can be deemed to be discharged before settlement date when a payment instruction has been initiated using an electronic payment system. It also clarifies the assessment of contractual cash flows for example to assess whether instruments with ESGlinked features meet the SPPI criteria. Furthermore the amendments enhance disclosures related to contractually linked instruments as well as investments in equity instruments designated at fair value through other comprehensive income.Amendments to IFRS IFRS IFRS IFRS and IAS IFRS Accounting Standards Annual Improvements Volume Includes minor changes related to the application of hedge accounting for IFRS firsttime adopters disclosure of gain or loss on derecognition of financial assets with continuing involvement recognition of any difference from derecognition of lease liabilities in profit or loss and clarifies the definition of a de facto agent. IFRS Presentation and Disclosure in Financial StatementsSets out requirements for the presentation and disclosure of information in financial statements. This includes requirements regarding the statement of financial performance the statement of financial position and the statement of cash flows. The new standard also sets out requirements regarding the notes to the financial statements. The standard supersedes IAS .IFRS Subsidiaries without Public Accountability DisclosuresSpecifies the disclosure requirements an entity is permitted to apply instead of the disclosure requirements in other IFRS Accounting Standards. This significantly reduces disclosure requirements for subsidiaries that do not have public accountability and whose ultimate or intermediate parent produces consolidated financial statements available for public use that comply with IFRS Accounting Standards.Amendments to IFRS andIFRS Contracts Referencing Naturedependent ElectricityClarifies that the ownuseexception is applicable to contracts referencing naturedependent electricity if the entity has been and expects to be a net purchaser of electricity for the contract period. The amendments also permit the designation of a variable nominal amount of forecast electricity transactions as hedged item if that amount is aligned with the variable amount of nature dependent electricity expected to be delivered by the generation facility as referenced in the hedging instrument because such forecast transactions are presumed to be highly probable by IFRS . Contracts referencing naturedependent electricity shall be disclosed in a single note in the financial statements according to IFRS .
+
+Score 0.448
+in m EURNotes .. Dec Dec EquityIssued capital..Capital reserves..Other reserves..Retained earnings.....Noncurrent liabilitiesProvisions...Lease liabilities...Convertible bonds...Other financial liabilities..Other nonfinancial liabilities..Deferred tax liabilities .....Current liabilitiesProvisions...Lease liabilities...Convertible bonds...Trade payables and similar liabilities...Prepayments received...Income tax liabilities..Other financial liabilities...Other nonfinancial liabilities.....Total equity and liabilities..
+
+Score 0.448
+Responsibilities of management and the supervisory board for the consolidated financial statements and the group management report
+
+Score 0.446
+Amount inm EUR Number ofnopar valuesharesPurposeAuthorised capital .Capital increase for contributions in cash or in kind until June Conditional capital .Servicing of subscription rights from SOP Conditional capital .Servicing of subscription rights from EIP Conditional capital .Servicing of subscription rights from LTI Conditional capital .Servicing of convertible bonds andor bonds with warrants or a combination of these instruments issued until June 
+
+Score 0.445
+in m EURCarryingamount as of Jan Cash flowsNoncashflow changesCarryingamount as of Dec Noncurrent financing liabilities....Current financing liabilities....
+
+Score 0.445
+Procedures also known as control activities establish the defined practices or steps that are performed to meet or implement standards and satisfy control objectives.
+
+Score 0.438
+Reconciliation of liabilities arising from financing activities 
+
+Score 0.438
+Net gains and losses from financial assets and financial liabilitiesThe net gainslosses from financial assets and financial liabilities include effects from the fair value measurement of derivatives that are not designated as a hedge and changes in the fair value of other financial instruments as well as interest payments. In addition the net gainslosses include effects from the impairment losses reversals of impairment losses derecognition and exchange rate fluctuations of loans and receivables as well as liabilities measured at amortised cost. Allowances according to IFRS were only recorded for trade and other receivables since the expected credit loss for other financial assets was not material.
+
+Score 0.438
+The average number of salaried employees excluding apprentices interns and working students in the group was in financial year prior year . Contributions to the statutory pension insurance scheme amounted to .m EUR prior year .m EUR.Personnel expenses are reduced by the capitalised development costs. For further information see .. . Intangibles assets.
+
+Score 0.433
+.. Governance informationESRS G Business conduct
+
+Score 0.433
+Financial instruments classified as financial assets and financial liabilities are generally not netted they are only netted if the group has a legally enforceable right to set off and intends to settle the amounts on a net basis. Financial assets are derecognised when the contractual rights to the cash flows from the financial asset expire or the financial asset and all the risks and rewards of ownership of the financial asset have been substantially transferred. Financial liabilities are derecognised when the contractual commitments have been discharged cancelled or have expired.The fair value of a financial instrument is the price that would have been received when selling an asset or paid when transferring a liability in an orderly transaction between market participants at the measurement date. If there are listed prices on an active market e.g. share prices these are used as a measurement base. If there is no active market reference is made to the market most favourable to the entity for measurement purposes.The amortised cost of a financial asset or a financial liability is the amount
+
+Score 0.432
+in m EUR Dec Dec ChangeOther current financial liabilities...thereof obligations to reimburse customers for returns...thereof derivative financial instruments...thereof debtors with credit balances...thereof others...Other current nonfinancial liabilities...thereof VAT liabilities...thereof liabilities from gift vouchers...thereof liabilities from wages and salaries...thereof others...
+
+Score 0.431
+Statement of movement of intangible assets 
+
+Score 0.429
+The measurement of rightofuseassets in particular the identification of impairment losses as well as the determination of lease terms and corresponding discount rates see sections .. . Rightofuse assets and lease liabilities and .. Accounting policies.
+
+Score 0.429
+Consolidated financialstatements
+
+Score 0.429
+in m EUR Dec Dec ChangeOther noncurrent financial assets...thereof lease receivable...thereof participations...thereof others...Other noncurrent nonfinancial assets...thereof deferred items...
+
+Score 0.428
+The number of subsidiaries included in the basis of consolidation is in financial year prior year see sections .. . Shareholdings and .. . Disclosure exemptions for details.
+
+Score 0.427
+in m EURCash flow from operating activities..Cash received from sales of property plant and equipment intangibles and other longterm assets..Cash paid for investments in property plant and equipment..Cash paid for investments in intangible assets..Cash paid for acquisition of shares in associated companies subsidiaries less cash acquired and other equity investments..Free cash flow..
+
+Score 0.426
+General informationProvisions are recognised in accordance with IAS when the group has a present obligation legal or constructive as a result of a past event it is probable that an outflow of resources embodying economic benefits will be required to settle the obligation and a reliable estimate of the amount of the obligation can be made.A best estimate is made of the amount of the provisions taking into consideration all the expected risks arising from the obligation. This refers to the amount that is most likely needed to settle the liability. Provisions with a residual term of more than one year are discounted on the reporting date.Dismantling obligationsThe group recognises provisions for dismantling obligations for leasehold improvements in the leased fulfilment centres office buildings and outlets. The provision is recognised at an amount equivalent to the present value of the estimated future dismantling obligations. The dismantling obligations are recognised as part of the cost of leasehold improvements for the corresponding amount. The estimated cash flows are discounted using a discount rate that adequately reflects the maturity and the risk profile. Unwinding of the obligation is recognised as an interest expense in the income statement.
+
+Score 0.425
+The total assets of Zalando SE increased by .. The assets of Zalando SE mainly consist of financial and current assets specifically securities and cash shares in affiliated companies as well as inventories and receivables. Equity and liabilities comprise equity and current and noncurrent liabilities and provisions.In the financial year additions to noncurrent assets mainly referred to financial assets .m EUR relating chiefly to loans to affiliated companies .m EUR shares in affiliated companies .m EUR and equity investments .m EUR as well as to intangible assets .m EUR. Investments in subsidiaries were primarily made to finance infrastructure investments and the expansion of business. Equity investments increased due to our acquisition of ABOUT YOU shares which we recognised with .m EUR as of December . Disposals mainly related to loans to affiliated companies .m EUR which showed a net decrease.The increase in current assets in the financial year was mainly driven by intercompany receivables .m EUR and inventories .m EUR. Cash and securities decreased by .m EUR. The increase in inventories results mainly from higher inbounds. Inventories chiefly comprised merchandise used in the core operational business of Zalando SE. The increase in intercompany receivables is primarily attributable to receivables from intercompany factoring. The balance increased due to later payments considering a longer returns provision period. 
+
+Score 0.424
+the sustainability statement including the combined nonfinancial statement which is included in section . of the combined management report
+
+Score 0.423
+Consolidated statement of financial position assets
+
+Score 0.422
+.Notes to the statement of cash flowsThe consolidated statement of cash flow is categorised into cash flow from operating activities cash flow from investing activities and cash flow from financing activities irrespective of the consolidated statement of financial position. Whereas operating cash flow is indirectly derived cash flows from investing and financing activities are derived directly from cash inflows and outflows. Therefore the changes in the consolidated statement of financial position items that are presented in the consolidated statement of cash flow cannot be directly derived as the effects of currency and other noncash transactions are eliminated as well as due to reclassifications not affecting net income.In we generated a positive cash flow from operating activities of .m EUR prior year .m EUR. All interest paid and received included in the cash flow are from operating activities
+
+Score 0.422
+fair value through profit or loss.When financial assets are initially recognised they are measured at fair value except for trade receivables which Zalando measures at the amount determined by applying IFRS at initial recognition. For all categories except financial assets at fair value through profit or loss the transaction costs incurred are included in the initial recognition.The allocation to the aforementioned categories determines the subsequent measurement of financial assets. There are differing measurement rules for each category.Financial assets measured at amortised cost are those which are held in a business model whose objective is to hold the financial asset in order to collect contractual cash flows and for which the contractual terms give rise on specific dates to cash flows that are solely payments of principal and interest on the principal amount outstanding SPPI criterion. This measurement category is used for trade and other receivables other financial assets cash and cash equivalents and shortterm deposits.
+
+Score 0.422
+Carrying amounts of financial assetsliabilities and their fair values 
+
+Score 0.422
+The supervisory board has set up rules of procedure for the management board that further specify the collaboration within the management board and distribute the responsibility for the different business areas between the members of the management board. Notwithstanding their joint responsibility for managing the company each member of the management board has sole responsibility for the business area allocated to them. Our two cochairpersons of the management board Robert Gentz and David Schröder jointly coordinate all responsibilities of the management board. They act to ensure that the management of all business areas is uniformly guided by the objectives set and approved as a whole by the management board. All members of our management board work collaboratively together and inform each other constantly about any significant measures and events within their areas of responsibility. The management board meets regularly typically every week. There is a constant and constructive exchange between the management board and the supervisory board members. In particular the chairperson of the supervisory board is informed regularly typically every two weeks on the progress of our business and the situation of the company and other group entities with the management board consulting with them on our strategy planning business development and risk management. Should an important event occur or should any business issue arise that could be of significance to the evaluation of the situation or the development or management of our company the management board will inform the chairperson of the supervisory board immediately. Furthermore our CFO and the chairperson of the supervisory boards audit committee conduct a regular monthly exchange with regard to audit committeerelated matters. The management board supports structures that foster a constructive and open exchange with the companys employees and their representatives to the benefit of our company and our employees.
+
+Score 0.421
+financial reporting. If mandatory information is fulfilled through a statement in other parts of the management report this is marked as Incorporation by reference. In accordance with transitional provisions in the ESRS
+
+Score 0.42
+..Notes to the consolidated statement of comprehensive income and statement of financial position
+
+Score 0.42
+Cash and cash equivalents
+
+Score 0.42
+. Notes to the consolidated financial statements
+
+Score 0.42
+..Annual general meeting and investor relations
+
+Score 0.419
+it is held primarily for the purpose of trading
+
+Score 0.418
+Current and past mandates of the supervisory board
+
+Score 0.418
+it is cash or a cash equivalent unless the asset is restricted from being exchanged or used to settle a liability for a period of at least months after the reporting period.All other assets are classified as noncurrent.A liability is classified as current if
+
+Score 0.416
+in m EURChangeTotal...thereof historical acquisition costs...thereof changes of allowances...thereof fulfilment services...thereof other...
+
+Score 0.415
+considered the process for identifying taxonomyeligible and taxonomyaligned economic activities and the corresponding disclosures in the Group Sustainability Statement.
+
+Score 0.414
+Functionsatrisk covered by training programmes
+
+Score 0.414
+Compared to December our total assets increased by . to .m EUR. The statement of financial position is dominated by property plant and equipment net working capital as well as cash and cash equivalents.Noncurrent assets comprised additions to property plant and equipment of .m EUR prior year .m EUR primarily relating to the fulfilment centres in Germany France and Poland. The effects were compensated for by depreciations. In addition financial assets increased to .m EUR prior year .m EUR mainly due to the acquisition of ABOUT YOU shares .m EUR as of December . Furthermore additions related to capitalised development costs as well as to prepayments and assets under development amounted to .m EUR prior year .m EUR. Key components of the software used by Zalando are developed internally e.g. order and fulfilment processes are supported using internally developed software. The development of current assets was essentially driven by an increase in inventories and cash and cash equivalents. In inventories rose by . to .m EUR prior year .m EUR resulting from higher inbounds. Cash and cash equivalents increased by . to .m EUR prior year .m EUR. For more detailed information on the movement of cash and cash equivalents please refer to Cash flows section in .. Economic situation.Equity increased by . with a carrying amount of .m EUR as of December prior year .m EUR. The increase stems primarily from our positive total comprehensive income for the period and was partly offset by the repurchase of treasury 
+
+Score 0.413
+The supervisory board is responsible for overseeing the process of preparing the ESEF documents as part of the financial reporting process.Our objective is to obtain reasonable assurance about whether the ESEF documents are free from material intentional or unintentional noncompliance with the requirements of Section HGB. We exercise professional judgement and maintain professional scepticism throughout the assurance work. We also
+
+Score 0.412
+The ICS aims to identify assess and manage operational risks that could have a significant impact on the appropriate content and presentation of the separate and consolidated financial statements including management reporting as well as the annual sustainability statement. The ICS ensures the accuracy of financial and nonfinancial reports by embedding directive preventive monitoring and detective control measures into the relevant processes that have a significant influence on financial and nonfinancial reports. These control measures ensure the reliable and robust preparation of these reports. The processes the risks relevant to financial and nonfinancial reporting as well as the controls mitigating these risks are analysed evaluated and documented. A crossprocess risk and control matrix contains the relevant controls including a description and the type of control the frequency with which the control is carried out the mitigated risk and the person responsible. The control mechanisms implemented affect multiple processes and thus frequently overlap. These mechanisms include determining principles and procedures defining processes and controls and introducing approval and testing plans and guidelines among other things.
+
+Score 0.412
+. Rightofuse assets and lease liabilitiesZalandos leases are related mainly to buildings e.g. fulfilment centres office buildings and outlets. These contracts include options to extend and in some cases terminate the contracts. Furthermore these contracts include variable payments depending on the development of consumer price indexes as well as payments relating to nonlease components e.g. service costs. Other leases recognised in rightofuse assets relate mainly to other equipment e.g. company cars as well as technical equipment and machinery.At the end of the reporting period rightofuse assets totalled .m EUR prior year .m EUR. Additions to rightofuse assets amounted to .m EUR prior year.m EUR and relate mainly to the commencement of the lease contracts of a fulfilment centre in France as well as an office building and new outlets in Germany. As of the reporting date the carrying amount of the lease receivable for an office sublease in Berlin that commenced in was .m EUR prior year .m EUR and the sum of the undiscounted lease payments to be received amounted to .m EUR prior year .m EUR. The difference of .m EUR prior year .m EUR represents unearned finance income. In each of the following five years undiscounted lease payments of .m EUR prior year .m EUR will be received. The remainder of the undiscounted lease payments of .m EUR prior year .m EUR is due over the course of the remaining lease term after this fiveyear period.During the financial year Zalando recognised depreciation in the amount of .m EUR prior year .m EUR. Of this an amount of .m EUR prior year .m EUR was recognised in cost of sales .m EUR prior year .m EUR in selling and distribution costs and .m EUR prior year .m EUR in administrative expenses. A total amount of .m EUR prior year .m EUR of the recognised depreciation resulted from the impairment of rightofuse assets for buildings which are not planned to be used for our own business any longer. A breakdown by class of the underlying asset is as follows
+
+Score 0.411
+in m EURCash flow from operating activities..Cash flow from investing activities..Cash flow from financing activities..Net change in cash and cash equivalents from cashrelevant transactions..Change in cash and cash equivalents due to exchange rate movements..Cash and cash equivalents at the beginningof the period..Cash and cash equivalents as of December..Free cash flow..
+
+Score 0.411
+the combined corporate governance statement included in section . of the combined management report and
+
+Score 0.411
+IASBeffective dateEndorsed by EUAnticipated effects January early application permittedYesApplication is not expected to have any material effect on the consolidated financial statements. January early application permittedNoApplication is not expected to have any material effect on the consolidated financial statements. January early application permittedNoApplication is not expected to have any material effect on the consolidated financial statements. January early application permittedNoApplication is expected to have a material effect on the consolidated financial statements.Zalando assessed possible impacts of the new IFRS as well as related amendments to other applicable IFRS on our financial statements at initial application. IFRS introduces a new fivecategory classification system that will affect our consolidated income statement. The standard first defines the operating category that will include all items of income or expense that are not classified in one of the other four categories. The majority of items currently included in our EBIT will be allocated to this operating category. The investing category will mainly include income and expenses from investments accounted for using the equity method as well as from cash and cash equivalents. Those items are currently presented within our financial result and will be moved to the investing category. Income and expenses that arise from transactions that involve only the raising of finance or items that arise from transactions that do not involve only the raising of finance but are identified by other IFRS will be classified in the financing category. This will mainly include items that are currently presented in our financial result e.g. interest expenses on convertible bonds and lease liabilities. Items that do not fulfil these criteria shall be classified under other categories. For example income and expenses from hedging relationships shall be moved to the operating category. Foreign exchange differences currently presented in financial result that relate to income and expenses for items that will be classified in the financing category will be presented in this category accordingly. However foreign exchange differences related to cash and cash equivalents will be presented in the investing category and foreign exchange differences related to trade receivables or trade payables will be classified in the operating category. The income taxes category will include only items currently presented under income taxes. Lastly items required by IFRS will be classified in the discontinued operations category which is not expected to be relevant for Zalando.Three new subtotals will be required. The operating profit or loss shall comprise all income and expenses classified in the operating category. The profit before financing and interest expenses will include all income and expenses classified in the operating or investing category. This is not equivalent to our EBIT due to the items that will be moved from the financial result into the operating or investing category. Additionally a profit or loss subtotal will be required which is equal to our net incomeloss for the period. There will be changes to the consolidated statement of cash flows due to amendments to IAS . The starting point for the cash flow from operating activities using the indirect method will be the newly required operating profit or loss and not net incomeloss for the period. In addition interests paid and received that are currently only presented in the cash flow from operating activities will be classified as cash flow from financing activities interest paid or cash flow from investing activities interests and dividends received. With this change the free cash flow which is based on the cash flow from operating activities will be affected accordingly. Furthermore there are new disclosure requirements. Most relevant for Zalando this requires information on expenses by nature if the function of expenses method is used as well as disclosures for managementdefined performance measures that are companyspecific subtotals of income and expenses like EBIT or adjusted EBIT. Zalando will apply IFRS and related amendments of other standards for the annual reporting period beginning on January . The standard will be applied retrospectively according to IAS which requires a reconciliation for each line item of the prior period presented in the annual report . We will also prepare our interim financial statements in financial year in accordance with the new standard. Expected impacts are based on reasonable information available before this annual report was authorised for issue. They may change due to new information available at a later date. January early application permittedNoApplication is not expected to have any material effect as none of our subsidiaries provide consolidated separate or individual financial statements applying IFRS Accounting Standards. January early application permittedNoApplication is not expected to have any material effect on the consolidated financial statements.
+
+Score 0.411
+Multiple methods including workshops and selfassessments are used for the identification and assessment of risks and opportunities which are carried out by both the risk and opportunity owners i during daytoday operations and ii together with the Risk Management team in the biannual risk cycles. To rapidly identify and act upon emerging risks we have implemented an adhoc reporting procedure that informs the Risk Management team and the management board about current risk events and major risk changes in level of materiality on an adhoc basis.To ensure the continuation of our future success and strong and profitable growth we aim to systematically identify and efficiently seize opportunities within our various business areas. Hence reporting on opportunities is an important element of our RMS.
+
+Score 0.41
+Deferred tax assetsDeferred tax liabilitiesNet balancein m EUR Dec Dec Dec Dec Dec Dec Intangible assets......Property plant and equipment......Leases......Inventories......Trade and other receivables......Provisions......Convertible bonds......Other financial and nonfinancialliabilities......Sharebased payments......Unused tax losses......Total......Netting......Total recognised deferred tax assets and liabilities......
+
+Score 0.409
+ as well as our valueadded partner services such as Zalando Partner Marketing Services
+
+Score 0.408
+define the net working capital key performance indicator as the sum of inventories and trade and other receivables less trade payables and similar liabilities. The net working capital was.m EUR as of the reporting date prior year.m EUR.CollateralZalando pledged financial assets of .m EUR as collateral in the reporting period prior year .m EUR. The collateral provided may be drawn by the beneficiaries should the group not be able to fulfil its payment obligations. .Information about related partiesZalando identifies the related parties of the group in accordance with IAS . Zalando had transactions with related parties in the reporting period in the ordinary course of business. The transactions were carried out in accordance with the arms length principle. All transactions with related parties were related to the key management personnel of Zalando i.e. they were carried out with members of the management board or supervisory board their close family members or with entities controlled or jointly controlled by these persons.Transactions with entities controlled or jointly controlled by our key management personnel resulting from the purchase of goods and services gave rise to trade payables and similar liabilities of .m EUR as of the reporting date prior year .m EUR of which an amount of .m EUR prior year .m EUR is due to a reverse factoring provider on account of reverse factoring agreements between Zalando and suppliers which were identified as related parties. Furthermore trade and other receivables from related parties amount to .m EUR prior year .m EUR.Merchandise of .m EUR was ordered from these related parties in the reporting period. In the prior year the order volume totalled .m EUR. In addition goods totalling .m EUR were sold to related parties prior year .m EUR. Furthermore Zalando provided services to related parties totalling .m EUR prior year .m EUR.In contrast transactions with our key management personnel only related to the exercise of options under our sharebased payment awards granted to the members and former members of the management board as part of the management board remuneration. In the reporting period a total of options under ZOP were exercised by two members of the management board. In the prioryear period one member of the management board exercised options under ZOP and one former member of the management board exercised options under LTI .Related parties controlled by Zalando SE are presented in the list of shareholdings see .. . Shareholdings.
+
+Score 0.408
+Consolidated statement of financial position equity and liabilities
+
+Score 0.408
+.Consolidated statement of comprehensive income.Consolidated statement of financial position.Consolidated statement of changes in equity.Consolidated statement of cash flows.Notes to the consolidated financial statementsCompany informationGeneral principlesNew accounting standardsPrinciples of consolidationAccounting policiesUse of estimates and assumptionsNotes to the consolidated statement of comprehensive income and statement of financial positionOther notes
+
+Score 0.407
+At each reporting date the group assesses whether there is any indication that a nonfinancial asset reported in the statement of financial position may be impaired. If any indication exists or when annual impairment testing is required the group carries out an impairment test.
+
+Score 0.406
+The nominal amounts correspond to the sum of all the nonnetted purchase and sales amounts of the derivative financial transactions. The market values reported correspond to the fair value. The fair values of the derivative financial instruments were calculated without taking into account opposite developments in the value of the hedged items.The market values of forward exchange contracts designated to a hedging relationship as well as forward exchange contracts that are not designated to a hedging relationship are reported in the statement of financial position under other current or noncurrent financial assets and liabilities. The forward exchange contracts in place as of the reporting date have a remaining term of up to months. The nominal value of forward exchange contracts with a term over twelve months is .m EUR prior year .m EUR.In the reporting period gains from the fair value measurement of financial instruments designated as cash flow hedges of .m EUR prior year losses of .m EUR were recognised in other comprehensive income. The accumulated amount of fair value hedge adjustments of .m EUR in the reporting period prior year .m EUR was recognised in inventories.
+
+Score 0.404
+Conclude on the appropriateness of managements use of the going concern basis of accounting and based on the audit evidence obtained whether a material uncertainty exists related to events or conditions that may cast significant doubt on the Groups ability to continue as a going concern. If we conclude that a material uncertainty exists we are required to draw attention in the auditors report to the related disclosures in the 
+
+Score 0.404
+Pillar Regulation EU No of the European Parliament and of the Council of June on prudential requirements for credit institutions and investment firms and amending Regulation EU No Capital Requirements Regulation CRR OJ L .. p. .
+
+Score 0.404
+.Cash and cash equivalentsCash and cash equivalents comprise the categories presented in the following table. 
+
+Score 0.404
+. Property plant and equipment
+
+Score 0.403
+Interest paid in the financial year included cash payments for the interest portion of the lease liabilities of .m EUR prior year .m EUR classified as cash flow from operating activities see also .. Accounting policies and .. . Rightofuse assets and lease liabilities. Moreover interest paid on convertible bonds amounted to .m EUR in prior year .m EUR. Further information on interest development can be found in .. . Financial result.The table below shows the calculation of free cash flow based on the cash flow from operating activities.
+
+Score 0.402
+Selling and distribution costs comprised fulfilment costs of .m EUR prior year .m EUR and marketing costs of .m EUR prior year .m EUR. The nonpersonnel costs consist of predominately logistic outbound and marketing expenses as well as the depreciation of fixed assets and rightofuse assets. Furthermore fulfilment costs also include net bad debt expenses. Improved debtor management had a positive impact of .m EUR to our net bad debt expenses.. Administrative expenses
+
+Score 0.4
+Nuclear energy related activitiesThe undertaking carries out funds or has exposures tor research development demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle.NoThe undertaking carries out funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production as well as their safety upgrades using best available technologies.NoThe undertaking carries out funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy as well as their safety upgrades.NoFossil gas related activitiesThe undertaking carries out funds or has exposures to construction or operation of electricity generation facilities that produce electricity using fossil gaseous fuels.NoThe undertaking carries out funds or has exposures to construction refurbishment and operation of combined heatcool and power generation facilities using fossil gaseous fuels.NoThe undertaking carries out funds or has exposures to construction refurbishmentand operation of heat generation facilities that produce heatcool using fossil gaseous fuels.No
+
+Score 0.266
+chain to help us carry out due diligence we have so far focused on knowledge gathering via local organisations and multistakeholder initiatives providing us with insights about groups of workers being specifically riskexposed for certain types of legal violations by actions of the industry to help us carry out due diligence. While such assessments lack the connection to individual entities andor workers they are useful in helping us identify material risks. Our ambition is to improve over time our understanding of how workers in our value chain are materially impacted by our business.Our approach to identifying material IROs for workers in our value chain is described in Impacts risks and opportunities in section .. General information. Policies related to workers in the value chainWe respect human rights and uphold responsible labour practices across our entire supply chain as aligned with the German Supply Chain Due Diligence Act and the UN Guiding Principles on Business and Human Rights. This is achieved through our policies standards and processes which address impacts potential risks and opportunities forming the basis for sustainability targets and ambitions. We aim to ensure and we expect that our business partners adhere to our policies emphasising labour rights and ethical business practices. Grievance mechanisms for employees and external members of our supply chain are in place to voice concerns and actively promote the awareness of human rights within Zalando and among our partners. In certain areas we maintain the right to conduct audits of our partners processes to review compliance with our ethical standards. When creating our policies we consider our legal obligations established industry standards and the expectations of investors customers and other stakeholders. For transparency relevant policies are publicly available on our corporate website.Code of Conduct We build strong supplier relationships by setting clear high ethical expectations fostering trust and integrity in our collaborations through our Code of Conduct which can be found on our corporate website. This Code outlines the standards to which we hold our business partners accountable and applies to all contractual partners including our suppliers service providers platform partners distributors consultants and agents. It covers human rights labour rights environmental protection fair and ethical business practices and monitoring and complaints. We require all partners to agree with and commit to these standards and have appropriate management systems and due diligence processes in place. Noncompliance will lead to measures being taken which may include termination of the business relationship.Policy statement on Zalandos human rights strategy Our policy statement is basedon international standards including the ILO Conventions and the Universal Declaration of Human Rights and sets the groundwork for managing human rights due diligence which is embedded into our operating standards and management practices. The policy applies throughout our entities and for all business activities including facilities operating on behalf of ourselves and is approved by our coCEO Robert Gentz and implemented by the Corporate Governance 
+
+Score 0.163
+Incidents complaints and severe human rights impacts
+
+Score 0.086
+Cotton production There is an elevated risk of forced labour in cotton harvesting particularly in certain regions of Central Asia.

@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.625
+Financing activities 
+
+Score 0.607
+The other financial assets were comprised as follows 
+
+Score 0.581
+CarryingamountInterest and repaymentFinancial liabilities Bonds Liabilities to banks Remaining liabilities Trade accounts payable Other liabilities Accrued interest on liabilities Remaining liabilities Liabilities from derivatives With gross settlement Cash outflows Cash inflows With net settlement Cash inflowsoutflows Loan commitments Financial guarantees Total 
+
+Score 0.581
+Other Financial Assets 
+
+Score 0.581
+Other financial assets
+
+Score 0.581
+. Other financial assets 
+
+Score 0.565
+. Financial liabilities 
+
+Score 0.565
+Financial assets 
+
+Score 0.561
+Other financial liabilities 
+
+Score 0.557
+Financial liabilities
+
+Score 0.557
+Financial liabilities 
+
+Score 0.557
+Financial Liabilities 
+
+Score 0.553
+ .Other financial liabilities .Receivables from derivatives
+
+Score 0.551
+. Financial instruments 
+
+Score 0.548
+Financial instruments
+
+Score 0.534
+Liabilities from Financing Activities 
+
+Score 0.534
+Dec. Bonds and notes Liabilities to banks Lease liabilities Receivablesliabilities from derivatives Other financial liabilities Total 
+
+Score 0.528
+Financial liabilities were comprised as follows 
+
+Score 0.526
+The following tables show the carrying amounts and fair values of the individual financial assets and liabilities by category of financial instrument under IFRS and a reconciliation to the corresponding line items in the statements of financial position. Since the line items Trade accounts receivable Other receivables Financial liabilities and Other liabilities contain both financial instruments and nonfinancial assets or liabilities such as other tax receivables the reconciliation is shown in the column headed Nonfinancial assetsliabilities. 
+
+Score 0.524
+Development of Financial Assets and Liabilities Level 
+
+Score 0.522
+ .Liabilities to banks
+
+Score 0.516
+Interest and similar expenses of which interest expense relating to nonfinancial liabilities Interest and similar income of which interest income relating to nonfinancial assets Total 
+
+Score 0.516
+ Including shortterm receivables with maturities between and months outstanding from banks and other companies as well as financial investments in debt and equity instruments that were recorded as current on firsttime recognition 
+
+Score 0.513
+The following payments or asset contributions correspond to the employer contributions made or expected to be made to funded benefit plans 
+
+Score 0.509
+TotalOf whichcurrentTotalOf whichcurrentOther tax receivables Deferred charges Net defined benefit asset Assets related to other longterm employee benefits Companyowned life insurance COLI Receivables from employees Reimbursement claims Miscellaneous receivables Total 
+
+Score 0.509
+Notes to the Statements of Financial Position 
+
+Score 0.509
+ Notes to the Statements of Financial Position
+
+Score 0.508
+ Nonfinancial assets Cash and cash equivalents AC Total financial assets of which AC of which FVTPL Financial liabilities AC FVTPL derivatives no hedge accounting Derivatives hedge accounting Lease liabilities Nonfinancial liabilities Trade accounts payable AC Other liabilities AC FVTPL nonderivative mandatory
+
+Score 0.506
+. Other financial income and expenses 
+
+Score 0.505
+.Financial debt .Cash and cash equivalents .Current financial assets
+
+Score 0.504
+Sales of goods and servicesPurchase of goodsand servicesReceivablesLiabilities
+
+Score 0.5
+TotalOf which currentTotalOf which currentBonds and notes Liabilities to banks Lease liabilities Liabilities from derivatives Other financial liabilities Total 
+
+Score 0.498
+DeferredtaxassetsDeferredtaxliabilitiesDeferredtaxassetsDeferredtaxliabilitiesIntangible assets Property plant and equipment Financial assets Inventories Receivables Other assets Provisions for pensions and other postemployment benefits Other provisions Liabilities Tax loss and interest carryforwards Tax credits Setoff Total 
+
+Score 0.498
+Other Financial Income and Expenses 
+
+Score 0.498
+Other financial income and expenses
+
+Score 0.495
+The changes in liabilities arising from financing activities in are presented in the following table 
+
+Score 0.494
+The equity instruments in the FVTOCI category comprised the following investments 
+
+Score 0.494
+. Contingent liabilities and other financial commitments 
+
+Score 0.491
+Land andbuildingsPlant installationsand machineryFurniture fixtures and other equipmentConstruction in progress and advance paymentsTotalCost of acquisition or construction December Acquisitions Capital expenditures Retirements Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Accumulated depreciation and impairment December Retirements Depreciation and impairment losses Depreciation Impairment losses Impairment loss reversals Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Carrying amounts December Carrying amounts December 
+
+Score 0.491
+ Interest held in noncontrolling interests . . . . . .Equity attributable to noncontrolling interest Dividends paid to noncontrolling interest Noncurrent assets Current assets Noncurrent liabilities Current liabilities Sales Income after income taxes of which attributable to noncontrolling interest Total comprehensive income of which attributable to noncontrolling interest Net cash provided by used in operating activities Net cash provided by used in investing activities Net cash provided by used in financing activities 
+
+Score 0.49
+The interest portion of the allocation to personnelrelated provisions mainly for pensions and other postemployment benefits is included in the financial result under other financial expenses Note .. 
+
+Score 0.49
+Financial instruments by category
+
+Score 0.489
+TotalInterest income Interest expense Incomeexpenses from affiliated companies Changes in fair value Impairment losses Impairment loss reversals Exchange gainslosses Gainslosses from retirements Other financial incomeexpenses Net result 
+
+Score 0.487
+Activities of the Segments 
+
+Score 0.487
+More information on the divisions products and activities is contained in the following table 
+
+Score 0.486
+Payments out of plan assetsPayments by the company PensionsOther postemploymentbenefitsPensionsOther postemploymentbenefits
+
+Score 0.483
+Gains on retirements of noncurrent assets Income from reversal of impairment losses on receivables Income from reversal of unutilized provisions Gains from derivatives Sales revenues from products acquired through barter transactions Miscellaneous operating income Total 
+
+Score 0.481
+Other liabilities comprised the following 
+
+Score 0.481
+Products and Activities of the Divisions 
+
+Score 0.479
+Other provisions are recognized for present legal and constructive obligations arising from past events that will probably give rise to a future outflow of resources provided that a reliable estimate can be made of the amount of the obligations. They are established at the present value of the expected future cash outflows and recognized in the respective operating expense items. The interest cost is reflected in the financial result under other financial income and expenses. If the projected obligation declines as a result of a change in the estimate the provision is reversed by the corresponding amount and the resulting income recognized in the operating expense items in which the original charge was recognized. 
+
+Score 0.476
+Plan assets based on quoted prices in active markets Real estate and special real estate funds Equities and equity funds Callable debt instruments Noncallable debt instruments Bond funds Derivatives Cash and cash equivalents Other Plan assets for which quoted prices in active markets are not available Real estate and special real estate funds Equities and equity funds Callable debt instruments Noncallable debt instruments Bond funds Derivatives Cash and cash equivalents Other Total plan assets 
+
+Score 0.476
+. Other liabilities 
+
+Score 0.475
+Other financial income and expenses were comprised as follows 
+
+Score 0.473
+ thousand thousandBase compensation . .Fringe benefits . .Pension installment .Shortterm variable cash compensation STI STI . .Longterm stockbased cash compensation Aspire . Jan. Dec. Aspire . Jan. Dec. . .Service costbenefit expense IFRS . Total compensation . .
+
+Score 0.473
+ thousand thousandBase compensation . .Fringe benefits . .Pension installment . Shortterm variable cash compensation STI STI . .Longterm stockbased cash compensation Aspire . Jan. Dec. Aspire . Jan. Dec. . .Service costbenefit expense IFRS .Total compensation . .
+
+Score 0.472
+Financial statements auditing Auditrelated services and other audit work Tax consultancy Other services Total 
+
+Score 0.471
+The changes in liabilities arising from financing activities in were as follows 
+
+Score 0.467
+. Financial instruments by category 
+
+Score 0.465
+ such as Group Finance Human Resources and Information Technology serve as Groupwide competence centers and bundle business support processes and services for the divisions. Our Leaps by Bayer unit which invests in disruptive innovations also forms part of the enabling functions. 
+
+Score 0.465
+The changes in the amount of financial assets and liabilities recognized at fair value based on unobservable inputs Level for each financial instrument category were as follows 
+
+Score 0.464
+Finance and tax Medium Group 
+
+Score 0.464
+ Special items of segments Special items of Enabling Functions and Consolidation Special items
+
+Score 0.462
+The interest income and expense from assets and liabilities within the AC category also included income and expenses from interestrate derivatives that qualified for hedge accounting. Income and expenses from lease receivables and lease liabilities respectively are also included here. The changes in the fair value of assets within the FVTPL category mainly included changes in the fair value of the interests in Century and Pyxis as well as changes in the fair value of investments in money market funds and mixed funds. Dividend income is reflected in income from affiliated companies while interest income from debt instruments within the FVPTL category is included in interest income and primarily concerns interest income from the capital provided to BayerPensionskasse for its effective initial fund and from money market funds. The changes in the fair value of derivatives that do not qualify for hedge accounting related mainly to forward commodity contracts and embedded derivatives. Changes in the fair value of nonderivative liabilities within the FVTPL category mainly included changes in the fair value of obligations for contingent consideration in connection with business acquisitions. 
+
+Score 0.462
+. Discontinued operations assets and liabilities held for sale and divestments 
+
+Score 0.461
+Other liabilities
+
+Score 0.461
+Other Liabilities 
+
+Score 0.46
+. Net cash provided by used in operating investing and financing activities 
+
+Score 0.46
+DefinedbenefitobligationFair valueof planassetsEffects of the asset ceiling NetdefinedbenefitliabilityGermany January Acquisitions Divestmentschanges in the scope of consolidation Current service cost Past service cost Net interest Net actuarial gainloss of which due to changes in financial parameters of which due to changes in demographic parameters of which experience adjustments Return on plan assets excluding amounts recognized as interest income Remeasurement of asset ceiling Employer contributions Employee contributions Payments due to plan settlements Benefits paid out of plan assets Benefits paid by the company Plan administration cost paid from plan assets December Other countries January Acquisitions Divestmentschanges in the scope of consolidation Current service cost Past service cost Gainslosses from plan settlements Net interest Net actuarial gainloss of which due to changes in financial parameters of which due to changes in demographic parameters of which due to experience adjustments Return on plan assets excluding amounts recognized as interest income Remeasurement of asset ceiling Employer contributions Employee contributions Payments due to plan settlements Benefits paid out of plan assets Benefits paid by the company Plan administration costs paid out of plan assets Exchange differences December of which other postemployment benefits Total December 
+
+Score 0.46
+Gains on retirements of noncurrent assets primarily related to the sale of dermatology product rights in the amount of million. The prioryear figure contained gains from the sale of our Environmental Science Professional business to the international private equity firm Cinven million our product rights to Nebido million and our lormetazepambased products million. Income from the reversal of unutilized provisions included an amount of million from the reversal of unutilized provisions for the dicamba litigations. Miscellaneous operating income included million in insurance compensation for Hurricane Ida from property and business interruption insurance and million in insurance compensation in connection with glyphosate litigations. Additionally in the Pharmaceuticals segment changes in the fair value of a liability for contingent consideration led to a gain of million with a further gain of million in that segment due to the sale of our inhouse developed product Nimotop. 
+
+Score 0.458
+Income expense gains and losses on financial instruments can be assigned to the following categories 
+
+Score 0.458
+Liabilities to banks 
+
+Score 0.456
+Noncontrolling interest mainly pertained to the following companies 
+
+Score 0.454
+Miscellaneous receivables contained other advanced payments for services amounting to million million. Other receivables are stated net of impairment losses of million million. 
+
+Score 0.454
+IFRS Insurance Contracts including amendments to IFRS and amendments to IFRS Insurance Contracts Initial Application of IFRS and IFRS Comparative Information Jan. IAS Amendments to IAS Presentation of Financial Statements and IFRS Practice Statement Disclosure of Accounting Policies Jan. IAS Amendments to IAS Accounting Policies Changes in Accounting Estimates and Errors Definition of Accounting Estimates Jan. IAS Amendments to IAS Income Taxes Deferred Tax related to Assets and Liabilities arising from a Single Transaction Jan. IAS Amendments to IAS Income Taxes Temporary relief from accounting for deferred taxes arising from the OECDs international tax reform Jan. 
+
+Score 0.454
+Q Q Net cash provided by used in operating activities total Net cash provided by used in investing activities total Net cash provided by used in financing activities total Change in cash and cash equivalents due to business activities Cash and cash equivalents at beginning of period Change due to exchange rate movements and to changes in scope of consolidation Cash and cash equivalents at end of period 
+
+Score 0.454
+ . .Net cash provided by operating activities . .Cash flowrelevant capital expenditures . .Research and development expenses
+
+Score 0.453
+.This iscalculated by adding the core financial result to core EBIT. Special items in the financial result include nonrecurring financial expenses or income that are not part of our normal financing activities. These primarily pertain to changes in the fair value of equity instruments that are not held for medium or long
+
+Score 0.453
+ Selected items forming part of the line item in the statement of financial position items that were predominantly noninterestbearing or nonoperating in nature were eliminated from capital employed. 
+
+Score 0.452
+A breakdown of financial liabilities by contractual maturity is given below 
+
+Score 0.452
+Base compensation Fringe benefits Pension installment Total shortterm nonperformancerelated compensation Shortterm performancerelated cash compensation Total shortterm compensation Stockbased compensation Aspire earned in the respective year Change in value of existing entitlements to stockbased compensation Aspire Total stockbased compensation longterm incentive Service cost for pension entitlements earned in the respective year Total longterm compensation Severance payments in connection with the termination of service contracts Total compensation IFRS 
+
+Score 0.452
+TotalOf which currentTotalOf which currentOther tax liabilities Liabilities from derivatives Accrued interest on liabilities Liabilities for social expenses Liabilities to employees Deferred income Miscellaneous liabilities Total 
+
+Score 0.451
+ . .Net cash provided by operating activities Capital expenditures newly capitalized Depreciation amortization and impairments of which impairment losses impairment loss reversals Clean depreciation and amortization
+
+Score 0.451
+Other financial commitments 
+
+Score 0.451
+Other Financial Commitments 
+
+Score 0.449
+Investor Focus Areas and Actions Taken in Response 
+
+Score 0.449
+Asset and liability fair values and future cash flows are exposed to currency interestrate and commodityprice risks. Derivatives are used to reduce this risk. In some cases they are designated as hedging instruments in a hedge accounting relationship. 
+
+Score 0.449
+. Other operating expenses 
+
+Score 0.448
+.. ... . Net cash provided by operating activities Capital expenditures newly capitalized Depreciation amortization and impairments of which impairment lossesimpairment loss reversals Clean depreciation and amortization
+
+Score 0.446
+The interest portion of discounted provisions comprised million million in net interest expense for pension and other postemployment benefit provisions and minus million minus million in effects from the unwinding of the discount and interestrate fluctuations for other personnelrelated provisions effects from the remeasurement of corresponding overfunding and effects from the unwinding of the discount for other provisions. The interest expense for pension and other postemployment benefit provisions included million million for the unwinding of the discount on the present value of the defined benefit obligation and million million in interest income from plan assets. The miscellaneous financial expenses included million million in negative changes in the fair value of financial investments in debt instruments such as money market funds in foreign currency and mixed funds as well as million million in expenses from the payment of intraGroup invoices between Argentina and the United States or Germany. The miscellaneous financial income included gains of million million arising from positive changes in the fair value of financial investments in debt instruments and a gain of million from the early repayment of two hybrid bonds as well as gains of million million arising from positive changes in the fair value of obligations for contingent consideration and liabilities to purchase noncontrolling interests. 
+
+Score 0.445
+Current and miscellaneous assets fell to million million. Inventories increased to million million. Accounts receivable from subsidiaries which mainly comprised loan receivables and receivables under profit and loss transfer agreements fell to million million. The increase in other assets to million million largely resulted from higher tax receivables. Holdings of marketable securities declined to million million due to the sale of euro and US dollar investments with indefinite maturities. Equity rose by million to million million. Provisions fell to million million. The provisions recognized for the excess of pension liabilities over plan assets declined to million million. This change was partly attributable to an increase in fund assets due to the favorable development of the fair value of the assets held by BPT and lower obligations from pension entitlements due to modified pension trend assumptions. Provisions for taxes fell to million million primarily due to the change in provisions for income taxes not yet finally assessed. Miscellaneous provisions fell to million million with personnelrelated provisions decreasing to million million. This was mainly attributable to a decline in provisions for variable compensation components to million million and a decrease in provisions for personnelrelated restructuring measures to million million. Other miscellaneous provisions fell to million million mainly due to a decline in provisions for the assumption of costs for restructuring measures to million million and a decrease in provisions for impending losses to million million. Liabilities and deferred income net of deductible receivables fell to million million. Five new bonds with a total volume of million were issued in . In addition two existing hybrid bonds issued in and were partially repurchased volume of million. As such the total volume of outstanding bonds increased to million million. Liabilities to banks declined from million to million million mainly due to the repayment of loans. The decline in trade accounts payable to million million mainly pertained to trade accounts payable to subsidiaries. Payables to subsidiaries fell to million million largely due to a decline in loans to million million. Miscellaneous liabilities rose to million million mainly because of additions to commercial paper. Financial obligations declined to million million. IntraGroup financial obligations decreased by million to million with shortterm loans accounting for million of this figure the increase in liabilities from call deposits for million and higher loan liabilities for million. Liabilities to third parties rose by million to million with the million increase in liabilities for bonds to million partially offset by the million decline in loans from banks to million as the primary factor. In addition there was a million increase in commercial paper. Net debt increased to million million after deduction of million million in cash and cash equivalents and marketable securities. Since all of the own shares acquired in were subsequently resold the transactions were not reflected in equity at the closing date. Details are provided in the stockbased compensation section of the Equity chapter in the Notes to the Financial Statements of Bayer AG. 
+
+Score 0.444
+TotalCarrying amount January Gainslosses recognized in profit or loss of which relating to assetsliabilities held at the end of the reporting period Gainslosses recognized outside profit or loss Additions of assetsliabilities Settlements of assetsliabilities Changes in scope of consolidation Exchange differences Carrying amount December 
+
+Score 0.444
+Plan assets included assets with a carrying amount of million million whose fair values are not determined based on quoted prices in active markets. The plan assets in Germany included real estate leased by Group companies recognized at a fair value of million million and Bayer AG shares and bonds held through investment funds recognized at their fair values of million million and million million respectively. The other plan assets comprised mortgage loans granted other receivables and qualified insurance policies. 
+
+Score 0.443
+ . .Net cash provided by operating activities . .Cash flowrelevant capital expenditures . .Research and development expenses . .
+
+Score 0.442
+ Derivatives with positive fair values are recognized under Other financial assets in the statement of financial position. 
+
+Score 0.441
+The current service cost for the pension entitlements of the Board of Management members recognized in according to IFRS was thousand thousand. The following table shows the service cost according to IFRS and the settlement or present value of the pension obligations attributable to the individual members of the Board of Management. 
+
+Score 0.44
+The depreciation of rightofuse assets in pertained to the following asset groups 
+
+Score 0.439
+Traderelated provisions are recorded mainly for obligations related to services performed but not yet invoiced and to sales commissions not recognized under trade accounts payable. 
+
+Score 0.438
+Net cash provided by used in operating investing and financing activities
+
+Score 0.434
+ is an alternative performance measure that is based on the cash flow from operating activities under IAS . FCF illustrates the cash flows available for paying dividends and reducing debt as well as for investing in innovation and acquisitions. It is calculated by subtracting cash outflows for additions to property plant and equipment and intangible assets from the cash flow from operating activities from continuing and discontinued operations adding interest and dividends received along with interest received from interestrate swaps and deducting interest paid including interestrate swaps. The forwardlooking key performance indicators published in the
+
+Score 0.434
+Provisions were established for defined benefit obligations pertaining to pensions and other postemployment benefits. The net liability was accounted for as follows 

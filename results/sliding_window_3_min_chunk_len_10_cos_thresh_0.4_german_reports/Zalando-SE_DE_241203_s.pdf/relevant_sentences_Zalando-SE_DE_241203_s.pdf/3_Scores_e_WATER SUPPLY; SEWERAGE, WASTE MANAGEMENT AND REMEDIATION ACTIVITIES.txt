@@ -1,0 +1,299 @@
+Scores_e_WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIESScore 0.687
+nonhazardous waste diverted from disposal due to other recovery operations. nonhazardous waste directed to disposal in tons . nonhazardous waste directed to disposal by incineration . nonhazardous waste directed to disposal by landfilling
+
+Score 0.666
+nonhazardous waste diverted from disposal in tons . nonhazardous waste diverted from disposal due to preparation for reuse . nonhazardous waste diverted from disposal due to recycling . nonhazardous waste diverted from disposal due to other recovery operations
+
+Score 0.662
+nonhazardous waste directed to disposal in tons . nonhazardous waste directed to disposal by incineration . nonhazardous waste directed to disposal by landfilling . nonhazardous waste directed to disposal by other disposal operations
+
+Score 0.654
+nonhazardous waste diverted from disposal due to preparation for reuse . nonhazardous waste diverted from disposal due to recycling . nonhazardous waste diverted from disposal due to other recovery operations. nonhazardous waste directed to disposal in tons
+
+Score 0.65
+nonhazardous waste diverted from disposal due to recycling . nonhazardous waste diverted from disposal due to other recovery operations. nonhazardous waste directed to disposal in tons . nonhazardous waste directed to disposal by incineration
+
+Score 0.649
+nonhazardous waste directed to disposal by incineration . nonhazardous waste directed to disposal by landfilling . nonhazardous waste directed to disposal by other disposal operations . nonrecycled waste in tons
+
+Score 0.641
+nonhazardous waste directed to disposal by other disposal operations . nonrecycled waste in tons . percentage of nonrecycled waste . companycombined managementreport consolidated financialstatements other informationand service zalando se annual report
+
+Score 0.629
+total nonhazardous waste generated . nonhazardous waste diverted from disposal in tons . nonhazardous waste diverted from disposal due to preparation for reuse . nonhazardous waste diverted from disposal due to recycling
+
+Score 0.625
+nonhazardous waste directed to disposal by landfilling . nonhazardous waste directed to disposal by other disposal operations . nonrecycled waste in tons . percentage of nonrecycled waste
+
+Score 0.622
+minimising water pollution our aim is to identify key sources of water pollution and opportunities to minimise it including ensuring that wastewater is treated to meet or exceed environmental standards before discharge.  complying with regulations we will pursue compliance with waterrelated regulations and standards that apply to our business.  this involves monitoring regulatory changes and implementing due diligence procedures where relevant.  managing waterrelated risks impacts dependencies and opportunities we will regularly assess waterrelated risks and impacts pertaining to our own operations and value chain and develop strategies to manage and mitigate material issues
+
+Score 0.619
+total hazardous waste generated . total nonhazardous waste generated . nonhazardous waste diverted from disposal in tons . nonhazardous waste diverted from disposal due to preparation for reuse
+
+Score 0.617
+. waste generated in operations tcoeq .  . business travel tcoeq
+
+Score 0.615
+this could include adopting watersaving technologies optimising processes to reduce water consumption and promoting responsible water use among employees.  minimising water pollution our aim is to identify key sources of water pollution and opportunities to minimise it including ensuring that wastewater is treated to meet or exceed environmental standards before discharge.  complying with regulations we will pursue compliance with waterrelated regulations and standards that apply to our business.  this involves monitoring regulatory changes and implementing due diligence procedures where relevant
+
+Score 0.604
+. upstream transportation and distribution tcoeq .  . waste generated in operations tcoeq
+
+Score 0.602
+of our total generated waste is recycled while only .  is incinerated and just .  is disposed by landfilling.  waste categorisation and data collection our waste is categorised as either hazardous or nonhazardous with key examples of each as follows nonhazardous waste
+
+Score 0.601
+is incinerated and just .  is disposed by landfilling.  waste categorisation and data collection our waste is categorised as either hazardous or nonhazardous with key examples of each as follows nonhazardous waste .  of total waste generated includes paper cardboard metals plastic packaging biodegradable kitchen waste and nondangerous electronic waste
+
+Score 0.598
+of total waste generated includes paper cardboard metals plastic packaging biodegradable kitchen waste and nondangerous electronic waste.  hazardous waste .  of total waste generated includes certain beauty products dangerous ewaste and packaging materials containing chemicals. waste data is collected at the site level where waste quantities and treatment routes are documented by our waste service providers
+
+Score 0.598
+waste categorisation and data collection our waste is categorised as either hazardous or nonhazardous with key examples of each as follows nonhazardous waste .  of total waste generated includes paper cardboard metals plastic packaging biodegradable kitchen waste and nondangerous electronic waste.  hazardous waste .  of total waste generated includes certain beauty products dangerous ewaste and packaging materials containing chemicals
+
+Score 0.579
+g.  office spaces showrooms retail spaces etc.  no water is recycled and reused.  for logistics facilities e
+
+Score 0.575
+office spaces showrooms retail spaces etc.  no water is recycled and reused.  for logistics facilities e. g
+
+Score 0.573
+is disposed by landfilling.  waste categorisation and data collection our waste is categorised as either hazardous or nonhazardous with key examples of each as follows nonhazardous waste .  of total waste generated includes paper cardboard metals plastic packaging biodegradable kitchen waste and nondangerous electronic waste.  hazardous waste
+
+Score 0.573
+of total waste generated includes certain beauty products dangerous ewaste and packaging materials containing chemicals. waste data is collected at the site level where waste quantities and treatment routes are documented by our waste service providers.  precise weighing ensures accuracy and any missing data is estimated based on averages from similar sites or previous time periods. we do not provide comparative data for the first year of preparing the sustainability statement except in cases where data has been disclosed in previous years and is comparable meaning it aligns in terms of scope and methodology with the current years figures
+
+Score 0.572
+environmental information. pollution industryspecific processes may adversely affect water quality.  for instance synthetic fibres shedding microplastics and the application of pesticides and fertilisers in cotton farming can contaminate soil and water sources.  to address this issue we have implemented chemical compliance programmes to minimise harmful discharges
+
+Score 0.569
+this includes identifying materials and processes which require less water and which generate minimal wastewater. the scope of our water management policy in includes water management and the identification of opportunities for reducing water consumption in our fulfilment centres and offices minimisation of water use and improved water management including pollution and water treatment for priority private labels value chain partners. within our management board the highest level of responsibility with respect to the oversight of environmentrelated topics including water lies with our coceo robert gentz.  the coceo is the highest decisionmaking body for waterrelated issues
+
+Score 0.569
+waste generated in operations tcoeq .  . business travel tcoeq .
+
+Score 0.566
+a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activitiesacquisition andownership ofbuildings ccm .  .
+
+Score 0.565
+the estimation is based primarily on data from the literature and the range is adjusted to account for geography nature of activities in these spaces primarily nonintensive water use activities where a high share of water withdrawn is returned to the sewer system.  for logistics facilities e. g.  fulfilment centres water consumption is estimated to be of the water withdrawn from the water supply network
+
+Score 0.563
+water consumption is estimated to be of the water withdrawn from the water supply network.  the estimation is based primarily on data from the literature and the range is adjusted to account for geography nature of activities in these spaces primarily nonintensive water use activities where a high share of water withdrawn is returned to the sewer system.  for logistics facilities e. g
+
+Score 0.56
+these other operating expenses relate to disposals of assets refer to sections . .  .  property plant and equipment
+
+Score 0.56
+g.  fulfilment centres water consumption is estimated to be of the water withdrawn from the water supply network.  the estimation is based primarily on data from the literature and the range is adjusted to account for geography and the nature of activities in these spaces.  ultimately our total water consumption is calculated as the sum of all water consumption in m at facilities in our own operations
+
+Score 0.559
+companycombined managementreport consolidated financialstatements other informationand service zalando se annual report resource outflows wastetotal waste generated in tons . total hazardous waste generated . total nonhazardous waste generated . nonhazardous waste diverted from disposal in tons
+
+Score 0.559
+upstream transportation and distribution tcoeq .  . waste generated in operations tcoeq .
+
+Score 0.558
+office spaces showrooms retail spaces etc.  water consumption is estimated to be of the water withdrawn from the water supply network.  the estimation is based primarily on data from the literature and the range is adjusted to account for geography nature of activities in these spaces primarily nonintensive water use activities where a high share of water withdrawn is returned to the sewer system.  for logistics facilities e
+
+Score 0.556
+waste data is collected at the site level where waste quantities and treatment routes are documented by our waste service providers.  precise weighing ensures accuracy and any missing data is estimated based on averages from similar sites or previous time periods. we do not provide comparative data for the first year of preparing the sustainability statement except in cases where data has been disclosed in previous years and is comparable meaning it aligns in terms of scope and methodology with the current years figures.  since the and waste data are not directly comparable due to the aggregation of the waste data in accordance with the applicable esrs scope we do not disclose the waste data
+
+Score 0.553
+this assessment may also include identifying dependencies on water resources in alignment with leading guidance and frameworks.  engaging stakeholders we will engage with stakeholders to gain additional insight build awareness and collaborate on waterrelated initiatives to promote the minimisation of our water consumption and water pollution.  enhancing product and service design we will continue to integrate sustainable business practices including water efficiency and water pollution prevention into the design and classification of our products and services.  this includes identifying materials and processes which require less water and which generate minimal wastewater
+
+Score 0.55
+hazardous waste .  of total waste generated includes certain beauty products dangerous ewaste and packaging materials containing chemicals. waste data is collected at the site level where waste quantities and treatment routes are documented by our waste service providers.  precise weighing ensures accuracy and any missing data is estimated based on averages from similar sites or previous time periods
+
+Score 0.545
+of our total generated waste. companycombined managementreport consolidated financialstatements other informationand service zalando se annual report .  of our total generated waste is recycled while only .  is incinerated and just
+
+Score 0.544
+enhancing product and service design we will continue to integrate sustainable business practices including water efficiency and water pollution prevention into the design and classification of our products and services.  this includes identifying materials and processes which require less water and which generate minimal wastewater. the scope of our water management policy in includes water management and the identification of opportunities for reducing water consumption in our fulfilment centres and offices minimisation of water use and improved water management including pollution and water treatment for priority private labels value chain partners. within our management board the highest level of responsibility with respect to the oversight of environmentrelated topics including water lies with our coceo robert gentz
+
+Score 0.544
+disposals are mainly related to other equipment furniture and fixtures scrapped in the financial year . depreciation of property plant and equipment totalled . m eur prior year . m eur
+
+Score 0.543
+managing waterrelated risks impacts dependencies and opportunities we will regularly assess waterrelated risks and impacts pertaining to our own operations and value chain and develop strategies to manage and mitigate material issues.  this assessment may also include identifying dependencies on water resources in alignment with leading guidance and frameworks.  engaging stakeholders we will engage with stakeholders to gain additional insight build awareness and collaborate on waterrelated initiatives to promote the minimisation of our water consumption and water pollution.  enhancing product and service design we will continue to integrate sustainable business practices including water efficiency and water pollution prevention into the design and classification of our products and services
+
+Score 0.541
+total water consumption in areas at material water risk including areas of highwater stressm. total water recycled and reused m. total water stored m. water intensity mm eur
+
+Score 0.539
+the assessment covered logistics and nonlogistics sites .  among all zalando sites only our fulfilment centre in lodz poland is classified as in an area at high overall water risk.  water consumption in areas at water risk is calculated as the sum of all water consumption at facilities that are located in areas of high and extremely high overall water risk scores from to .  total water recycled and reused the total water recycled and reused is the amount of water and wastewater treated or untreated that has been used more than once within zalando before being discharged
+
+Score 0.538
+the following useful lives are applieduseful livesyearsleasehold improvements plant and machinery other equipment furniture and fixtures an item of property plant and equipment is derecognised upon disposal or when no further economic benefits are expected from its use or disposal.  any gain or loss arising on derecognition of the asset calculated as the difference between the net disposal proceeds and the carrying amount of the asset is included in the statement of profit or loss when the asset is derecognised. the residual values useful lives and methods of depreciation of property plant and equipment are reviewed at the end of each financial year and adjusted prospectively if appropriate. impairment of nonfinancial assetsat each reporting date t he group assesses whether there is any indication that a nonfinancial asset reported in the statement of financial position may be impaired
+
+Score 0.538
+total water recycled and reused the total water recycled and reused is the amount of water and wastewater treated or untreated that has been used more than once within zalando before being discharged.  for nonlogistics facilities e. g.  office spaces showrooms retail spaces etc
+
+Score 0.535
+we are considering water quality quantity and risk and stress levers.  the monitoring of water consumption will be used to track the effectiveness of our water management policy related to water quantity for our own operations.  as the policy emphasises efficient water use tracking consumption will allow us to measure progress towards our objectives.  the year will act as the baseline for future evaluations providing a reference point for our ongoing improvement efforts
+
+Score 0.535
+no water is recycled and reused.  for logistics facilities e. g.  fulfilment centres no water is recycled and reused
+
+Score 0.532
+g.  office spaces showrooms retail spaces etc.  water consumption is estimated to be of the water withdrawn from the water supply network.  the estimation is based primarily on data from the literature and the range is adjusted to account for geography nature of activities in these spaces primarily nonintensive water use activities where a high share of water withdrawn is returned to the sewer system
+
+Score 0.531
+engaging stakeholders we will engage with stakeholders to gain additional insight build awareness and collaborate on waterrelated initiatives to promote the minimisation of our water consumption and water pollution.  enhancing product and service design we will continue to integrate sustainable business practices including water efficiency and water pollution prevention into the design and classification of our products and services.  this includes identifying materials and processes which require less water and which generate minimal wastewater. the scope of our water management policy in includes water management and the identification of opportunities for reducing water consumption in our fulfilment centres and offices minimisation of water use and improved water management including pollution and water treatment for priority private labels value chain partners
+
+Score 0.53
+years within zalandos controlesrs e pollutionpollution of airwater and soil substances of concern substances of very high concern microplastics negative impacts vc material processing activities such as wet processing in manufacturing lead to negative environmental impacts e. g.  reduced water quality.  insufficient chemical management practices could result in the release of harmful substances into the environment
+
+Score 0.527
+for further information please refer to esrs e pollution in section . .  environmental information. water resources our business relies on continuous water availability with water scarcity and quality issues already evident
+
+Score 0.525
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyalignedopex of environmentally sustainable activities taxonomyaligned a.  .
+
+Score 0.524
+environmentally sustainable activities taxonomyalignedopex of environmentally sustainable activities taxonomyaligned a.  .  . of which enabling
+
+Score 0.524
+the aim of our water management policy is to minimise our water consumption and water pollution comply with regulatory requirements and ensure the responsible use of water resources across our own operations and value chain. companycombined managementreport consolidated financialstatements other informationand service zalando se annual report our water stewardship guiding objectives and management principles are pursuing efficient water use we are dedicated to measuring our water footprint and identifying opportunities to reduce water consumption especially in areas of limited water availability and higher water stress and enhancing water efficiency across our operations while promoting best practice for water use across our value chain.  this could include adopting watersaving technologies optimising processes to reduce water consumption and promoting responsible water use among employees.  minimising water pollution our aim is to identify key sources of water pollution and opportunities to minimise it including ensuring that wastewater is treated to meet or exceed environmental standards before discharge
+
+Score 0.522
+of which transitional .  a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activitiesacquisition andownership ofbuildings ccm .
+
+Score 0.522
+depreciation is presented within the functional area to which it relates.  the following useful lives are applieduseful livesyearsleasehold improvements plant and machinery other equipment furniture and fixtures an item of property plant and equipment is derecognised upon disposal or when no further economic benefits are expected from its use or disposal.  any gain or loss arising on derecognition of the asset calculated as the difference between the net disposal proceeds and the carrying amount of the asset is included in the statement of profit or loss when the asset is derecognised. the residual values useful lives and methods of depreciation of property plant and equipment are reviewed at the end of each financial year and adjusted prospectively if appropriate
+
+Score 0.522
+the absolute weight of secondary reused or recycled components secondary intermediary products and secondary materials used to manufacture the undertakings products and services in tons. products . packaging . percentage of secondary reused or recycled components secondary intermediary products and packaging and secondary materials
+
+Score 0.521
+this involves monitoring regulatory changes and implementing due diligence procedures where relevant.  managing waterrelated risks impacts dependencies and opportunities we will regularly assess waterrelated risks and impacts pertaining to our own operations and value chain and develop strategies to manage and mitigate material issues.  this assessment may also include identifying dependencies on water resources in alignment with leading guidance and frameworks.  engaging stakeholders we will engage with stakeholders to gain additional insight build awareness and collaborate on waterrelated initiatives to promote the minimisation of our water consumption and water pollution
+
+Score 0.52
+insufficient chemical management practices could result in the release of harmful substances into the environment. actual year and potential yearslinked to zalandoesrs e water resourceswater water consumption water withdrawals water dischargesnegative impacts vc zalandos portfolio production could contribute to the depletion of local water resources.  waterintensive processes such as farming textile treatment with chemicals and customer use e. g
+
+Score 0.52
+environmentally sustainable activities taxonomyalignedturnover of environmentally sustainable activities taxonomyaligned a.  .  . of which enabling
+
+Score 0.52
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyalignedturnover of environmentally sustainable activities taxonomyaligned a.  .
+
+Score 0.519
+percentage of nonrecycled waste . companycombined managementreport consolidated financialstatements other informationand service zalando se annual report . .  social informationesrs s own workforcematerial iros and their interaction with strategy and business model and interests and views of stakeholdersour workforce encompasses a diverse array of job families and capabilities and comprises employees in overhead functions such as finance human resources it marketing overhead employees nonoverhead employees working in our logistic centres outlet stores or customers care centres and nonemployees individuals working at thirdparty contractors who a re materially impacted by our own operations
+
+Score 0.518
+share of the measure obtained from direct measurement . total water consumption in areas at material water risk including areas of highwater stressm. total water recycled and reused m. total water stored m
+
+Score 0.518
+.  environmental information. pollution industryspecific processes may adversely affect water quality.  for instance synthetic fibres shedding microplastics and the application of pesticides and fertilisers in cotton farming can contaminate soil and water sources
+
+Score 0.517
+disposals. . . depreciation
+
+Score 0.517
+disposals.  . . depreciation
+
+Score 0.516
+m eur.  disposals are mainly related to other equipment furniture and fixtures scrapped in the financial year . depreciation of property plant and equipment totalled . m eur prior year
+
+Score 0.516
+to meet our epr obligations we submit detailed reports to authorities and pros enhancing transparency in our waste management processes.  additionally we contribute financially through epr fees helping to support efficient product disposal and recycling. companycombined managementreport consolidated financialstatements other informationand service zalando se annual report resource outflows wastetotal waste generated in tons . total hazardous waste generated
+
+Score 0.516
+companycombined managementreport consolidated financialstatements other informationand service zalando se annual report our water stewardship guiding objectives and management principles are pursuing efficient water use we are dedicated to measuring our water footprint and identifying opportunities to reduce water consumption especially in areas of limited water availability and higher water stress and enhancing water efficiency across our operations while promoting best practice for water use across our value chain.  this could include adopting watersaving technologies optimising processes to reduce water consumption and promoting responsible water use among employees.  minimising water pollution our aim is to identify key sources of water pollution and opportunities to minimise it including ensuring that wastewater is treated to meet or exceed environmental standards before discharge.  complying with regulations we will pursue compliance with waterrelated regulations and standards that apply to our business
+
+Score 0.515
+water management is critical for the resilience of our business operations and value chain.  the aim of our water management policy is to minimise our water consumption and water pollution comply with regulatory requirements and ensure the responsible use of water resources across our own operations and value chain. companycombined managementreport consolidated financialstatements other informationand service zalando se annual report our water stewardship guiding objectives and management principles are pursuing efficient water use we are dedicated to measuring our water footprint and identifying opportunities to reduce water consumption especially in areas of limited water availability and higher water stress and enhancing water efficiency across our operations while promoting best practice for water use across our value chain.  this could include adopting watersaving technologies optimising processes to reduce water consumption and promoting responsible water use among employees
+
+Score 0.514
+environmentally sustainable activities taxonomyalignedcapex of environmentally sustainable activities taxonomyaligned a.  .  . of which enabling
+
+Score 0.514
+the scope of our water management policy in includes water management and the identification of opportunities for reducing water consumption in our fulfilment centres and offices minimisation of water use and improved water management including pollution and water treatment for priority private labels value chain partners. within our management board the highest level of responsibility with respect to the oversight of environmentrelated topics including water lies with our coceo robert gentz.  the coceo is the highest decisionmaking body for waterrelated issues.  our water management policy and initiatives the water risk assessment for our own operations and the water footprint calculation align with the principles of both the alliance for water stewards hip standard and the ceo water mandate in terms of identifying water stress and waterrelated risks
+
+Score 0.514
+fulfilment centres water consumption is estimated to be of the water withdrawn from the water supply network.  the estimation is based primarily on data from the literature and the range is adjusted to account for geography and the nature of activities in these spaces.  ultimately our total water consumption is calculated as the sum of all water consumption in m at facilities in our own operations. total water consumption in areas at water risk to identify areas of high water risk we employ a composite index approach that aggregates multiple waterrelated risks i
+
+Score 0.514
+taxonomyeligible activities a.  environmentally sustainable activities taxonomyalignedcapex of environmentally sustainable activities taxonomyaligned a.  .
+
+Score 0.513
+g.  office spaces showrooms retail spaces etc.  the volume of water stored is reported equal to the storing capacity of the water tanks at each site.  for logistics facilities e
+
+Score 0.513
+these actions are associated with reducing material impacts outlined in impacts risks and opportunities in section . . .  general infor mation
+
+Score 0.513
+within our own operations we do not engage in waterintensive activities as our core processes e. g.  warehousing office and showrooms have a relatively low water usage.  we acknowledge that our more significant water impacts lie within our upstream value chain particularly in raw material extraction product manufacturing and downstream activities related to product use
+
+Score 0.51
+additionally we contribute financially through epr fees helping to support efficient product disposal and recycling. companycombined managementreport consolidated financialstatements other informationand service zalando se annual report resource outflows wastetotal waste generated in tons . total hazardous waste generated . total nonhazardous waste generated
+
+Score 0.509
+water consumption in areas at water risk is calculated as the sum of all water consumption at facilities that are located in areas of high and extremely high overall water risk scores from to .  total water recycled and reused the total water recycled and reused is the amount of water and wastewater treated or untreated that has been used more than once within zalando before being discharged.  for nonlogistics facilities e. g
+
+Score 0.508
+property plant and equipmentproperty plant and equipment are recogni sed at cost and depreciated in accordance with their expected useful life using the straightline method.  depreciation is presented within the functional area to which it relates.  the following useful lives are applieduseful livesyearsleasehold improvements plant and machinery other equipment furniture and fixtures an item of property plant and equipment is derecognised upon disposal or when no further economic benefits are expected from its use or disposal.  any gain or loss arising on derecognition of the asset calculated as the difference between the net disposal proceeds and the carrying amount of the asset is included in the statement of profit or loss when the asset is derecognised
+
+Score 0.508
+dindicator no table annex material esrs epara.  indicator no table annex material only hazardous wasteesrs sbm spara.  findicator no table annex imaterial esrs sbm spara.  gindicator no table annex imaterial esrs spara
+
+Score 0.508
+companycombined managementreport consolidated financialstatements other informationand service zalando se annual report .  of our total generated waste is recycled while only .  is incinerated and just .  is disposed by landfilling
+
+Score 0.507
+polic ies related to pollutionto manage upstream and downstream impacts and comply with regulations we have developed a chemical management system.  this includes the restricted substances list rsl to determine chemical requirements and limits for harmful substances in products.  for private labels the manufacturing restricted substances list mrsl restricts chemicals in production aligned with zero discharge of hazardous chemicals standards.  for more information on our chemical management system and the processes for remediating negative impacts please refer to esrs s consumers and endusers personal safety in section
+
+Score 0.507
+this policy sets the foundation for managing water consumption and pollution and for managing waterrelated risks.  we are dedicated to continuously expanding and refining our water management approach in the future in alignment with industry best practices and stakeholder expectations.  water management is critical for the resilience of our business operations and value chain.  the aim of our water management policy is to minimise our water consumption and water pollution comply with regulatory requirements and ensure the responsible use of water resources across our own operations and value chain
+
+Score 0.505
+for nonlogistics facilities e. g.  office spaces showrooms retail spaces etc.  no water is recycled and reused
+
+Score 0.504
+of which enabling .  of which transitional .  a.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activitiesacquisition andownership ofbuildings ccm
+
+Score 0.504
+soil pollution resulting from the use of pesticides and fertilisers in the conventional farming of natural fibres which contaminate both soil and water sources.  chemical pollution processes such as bleaching printing and finishing often involve harmful chemicals that if not properly managed can be released into the environment. the material environmental impacts resulting from the dma occur during the production and distribution stages including raw material extraction textile production and transportation.  these stages are outside our direct operations
+
+Score 0.504
+m eur prior year . m eur.  disposals are mainly related to other equipment furniture and fixtures scrapped in the financial year . depreciation of property plant and equipment totalled
+
+Score 0.502
+participating factories develop and sign off on action plans to improve their water and energy management.  for further information on the initiative please refer to actions and resources related to climate change policies in section esrs e climate change. target s related to water managementwe are currently in the e xploratory phase and have not yet set specific water targets in line with the esrs .  we are considering water quality quantity and risk and stress levers
+
+Score 0.502
+furthermore since we did not identify any taxonomyeligible turnover we could not calculate any taxonomyaligned turnover .  nuclear and fossil gas related activitiesnuclear energy related activities the undertaking carries out funds or has exposures tor research development demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle. no the undertaking carries out funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production as well as their safety upgrades using best available technologies. no the undertaking carries out funds or has exposures to safe operation of existing nuclear installations that produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production from nuclear energy as well as their safety upgrades
+
+Score 0.501
+for instance synthetic fibres shedding microplastics and the application of pesticides and fertilisers in cotton farming can contaminate soil and water sources.  to address this issue we have implemented chemical compliance programmes to minimise harmful discharges.  linked to our circularity goal we aim t o reduce our environmental impact and enhance clothing quality by sourcing alternative chemicals and fibres as well as by recycling clothing.  for further information please refer to esrs e pollution in section
+
+Score 0.5
+m eur .  these other operating expenses relate to disposals of assets refer to sections . .
+
+Score 0.5
+the monitoring of water consumption will be used to track the effectiveness of our water management policy related to water quantity for our own operations.  as the policy emphasises efficient water use tracking consumption will allow us to measure progress towards our objectives.  the year will act as the baseline for future evaluations providing a reference point for our ongoing improvement efforts. metrics for our water consumptionin we focused on establishing our corporate water footprint and water risk assessment starting with our own operations water metrics calculation
+
+Score 0.499
+water resources our business relies on continuous water availability with water scarcity and quality issues already evident.  water is crucial throughout our own operations and value chain from cotton cultivation to garment maintenance and corporate operations.  in we conducted our first water risk assessment starting with our own operations and a strategy will be developed based on the findings.  for further information please refer to esrs e water resources in section
+
+Score 0.498
+g.  fulfilment centres no water is recycled and reused.  total water stored the total water stored is the amount of water that is held in water storage facilities and is calculated as the sum of all water volumes stored at facilities in our own operations.  for nonlogistics facilities e
+
+Score 0.498
+environmental information. water resources our business relies on continuous water availability with water scarcity and quality issues already evident.  water is crucial throughout our own operations and value chain from cotton cultivation to garment maintenance and corporate operations.  in we conducted our first water risk assessment starting with our own operations and a strategy will be developed based on the findings
+
+Score 0.497
+cindicator no table annex not material not applicableesrs epara.  dindicator no table annex not material not applicableesrs epara.  dindicator no table annex material esrs epara.  indicator no table annex material only hazardous wasteesrs sbm spara
+
+Score 0.496
+target s related to water managementwe are currently in the e xploratory phase and have not yet set specific water targets in line with the esrs .  we are considering water quality quantity and risk and stress levers.  the monitoring of water consumption will be used to track the effectiveness of our water management policy related to water quantity for our own operations.  as the policy emphasises efficient water use tracking consumption will allow us to measure progress towards our objectives
+
+Score 0.495
+complying with regulations we will pursue compliance with waterrelated regulations and standards that apply to our business.  this involves monitoring regulatory changes and implementing due diligence procedures where relevant.  managing waterrelated risks impacts dependencies and opportunities we will regularly assess waterrelated risks and impacts pertaining to our own operations and value chain and develop strategies to manage and mitigate material issues.  this assessment may also include identifying dependencies on water resources in alignment with leading guidance and frameworks
+
+Score 0.493
+dindicator no table annex not material not applicableesrs epara.  dindicator no table annex material esrs epara.  indicator no table annex material only hazardous wasteesrs sbm spara.  findicator no table annex imaterial esrs sbm spara
+
+Score 0.493
+this correspondingly also applies to related opex.  furthermore since we did not identify any taxonomyeligible turnover we could not calculate any taxonomyaligned turnover .  nuclear and fossil gas related activitiesnuclear energy related activities the undertaking carries out funds or has exposures tor research development demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle. no the undertaking carries out funds or has exposures to construction and safe operation of new nuclear installations to produce electricity or process heat including for the purposes of district heating or industrial processes such as hydrogen production as well as their safety upgrades using best available technologies

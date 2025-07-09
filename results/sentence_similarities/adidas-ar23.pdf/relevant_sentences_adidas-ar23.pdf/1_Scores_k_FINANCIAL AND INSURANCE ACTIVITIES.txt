@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.586
+investments in other equity instruments held for trading fahft investments in other equity instruments fvtpl investments in other equity instruments fvoci promissory notes fvtpl earnout components assets due to the shortterm maturities of cash and cash equivalents shortterm financial assets and accounts receivable and payable as well as other current financial receivables and payables their respective fair values equal their carrying amount
+
+Score 0.578
+information regarding investmen ts borrowings and financial instruments is also included in these notes
+
+Score 0.558
+for this portion an insurance entity is responsible for the determination and the implementation of the investment strategy
+
+Score 0.558
+other financial assets other financial assets are classified and measured under ifrs   based on the compa nys business model for managing these assets and the contractual cash flow characteristics
+
+Score 0.557
+this category mainly includes secured promissory notes and earnout compon ents
+
+Score 0.556
+these are parts of the nonfinancial statement that are covered by a separate limited assurance engagement
+
+Score 0.556
+the line item other investments comprises investments that are mainly invested in insurance products which are measured at fair v alue and securities for longterm variable compensation components
+
+Score 0.548
+to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t financial instruments additional information to financial instruments carrying amounts of financial instruments and their fair values including hierarchy according to ifrs in millions category december december carrying amount fair value level level level carrying amount fair value level level level financial assets cash and cash equivalents cash and cash equivalents amortized cost cash equivalents fair value through profit or loss shortterm financial assets fair value through profit or loss accounts receivable amortized cost other current financial assets derivatives used in hedge accounting n
+
+Score 0.542
+other financial assets that give rise to cash flows consisting only of payments of principal and interest and that are assigned to the business model hold to collect and sell are measured at fair value through oci
+
+Score 0.539
+to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t carrying amounts of financial instruments and their fair values including hierarchy according to ifrs in millions category december december carrying amount fair value level level level carrying amount fair value level level level derivatives not used in hedge accounting fair value through profit or loss other financial liabilities amortized cost lease liabilities n
+
+Score 0.539
+it includes operating business functions primarily for the german market as well as corporate headquarter functions such as marketing it treasury taxes legal and finance
+
+Score 0.537
+only financial assets that are held within the business model hold to collect with the objective to collect the contractual cash flows which represent solely payments of principal and interest on the principal am ount outstanding on a specific date are measured at amortized cost
+
+Score 0.532
+cash and cash equivalents equity instruments bonds real estate pension plan reinsurance investment funds other assets fair value of plan assets all equities and bonds are traded freely and have a quoted market price in an active market
+
+Score 0.532
+similarly certain activities on the part of key stakeholders e
+
+Score 0.532
+this category mainly includes other investments and securities to hedge longterm variable compensation compon ents
+
+Score 0.524
+a financial asset is measured at fair value through other comprehensive income if it meets both of the following conditions and is not designated at fair value through profit or loss the financial asset is held within a business model whose objective is achieved by both c ollecting contractual cash flows and selling financial assets business model hold to collect and sell and its contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outst anding
+
+Score 0.522
+forward exchange contracts security deposits earnout components sundry other noncurrent financial assets further information about forward exchange contracts is contained in th ese note s
+
+Score 0.521
+those other financial assets that give rise to cash flows consisting only of payments of principal and interest and that are assigned to the business model hold t o collect are measured at amortized cost
+
+Score 0.521
+the operating activities of our segments and the resulting cash inflows represent the companys main source of liquidity
+
+Score 0.517
+to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t the carrying amounts of recognized derivative financial instruments which are subject to the agreements mentioned here are also presented in the following table setoff possibilities of derivative financial assets and liabilities in millions assets gross amounts of recognized financial assets financial instruments which qualify for setoff in the statement of financial position net amounts of financial assets presented in the statement of financial position setoff possible due to master agreements total net amount of financial assets liabilities gross amounts of recognized financial liabilities financial instruments which qualify for setoff in the statement of financial position net amounts of financial liabilities presented in the statement of financial position setoff possible due to master agreements total net amount of financial liabilities interest rate risks changes in global market interest rates affect future interest payments for variableinterest liabilities
+
+Score 0.517
+see note pensions and similar obligations provisions and expenses for pensions and similar obligations relate to the companys obligations for defined benefit and defined contribution plans
+
+Score 0.517
+other financial assets amortized cost longterm financial assets other equity investments fair value through profit or loss other equity investments fair value through other comprehensive income other investments fair value through profit or loss other investments n
+
+Score 0.516
+other financial assets within the scope of ifrs   impairment analysis include mainly security deposits as well as accounts receivab le from credit card companies and electronic marketplaces
+
+Score 0.516
+to ensure optimal allocation of the companys liquid financial resources subsidiaries transfer ex cess cash to our headquarters in all instances where it is legally and economically feasible
+
+Score 0.515
+in addition the department is responsible for e ffective management of our currency exposure and interest rate risks
+
+Score 0.513
+controlling functions on a corporate level ensure that the transactions of the individual business units are in compliance with our treasury policy
+
+Score 0.51
+financial liabilities at fair value through profit or loss include in particular d erivative financial instruments not designated as hedging instruments in hedging relationships in accordance with ifrs
+
+Score 0.51
+on a subsidiary level where applicable and economically reasonable local managing directors and finance directors are responsible for managing treasury matters in their respective subsidiaries
+
+Score 0.507
+these are parts of the nonfinancial statement that are covered by a separate reasonable assurance engagement
+
+Score 0.504
+investments in other equity instruments held for trading fahft investments in other equity instruments fvtpl investments in other equity instruments fvoci earnout components assets reconciliation of fair value hierarchy level in in millions realized unrealized fair value jan
+
+Score 0.503
+assets liabilities income and expenses relating to these corporate functions are presented in the reconciliations
+
+Score 0.502
+a financial asset is measured at amortized cost if it meets both of the following conditions and is not designated at fair value through profit or loss the financial asset is held within a business model whose objective is to hold assets to collect contra ctual cash flows business model hold to collect and the financial assets contractual terms give rise on specified dates to cash flows that are solely payments of principal and interest on the principal amount outstanding
+
+Score 0.502
+change in liabilities and equity shortterm borrowings accounts payable current lease liabilities other current financial liabilities income taxes other current provisions current accrued liabilities other current liabilities total current liabilities longterm borrowings noncurrent lease liabilities other noncurrent financial liabilities pensions and similar obligations deferred tax liabilities other noncurrent provisions noncurrent accrued liabilities n
+
+Score 0.502
+interest income from financial instruments measured at amortized cost interest income from nonfinancial assets other financial income financial expenses in millions year ending dec
+
+Score 0.5
+the plan assets in the registered association are mainly invested in fixed income funds equity funds and real estate
+
+Score 0.499
+accounting and auditing also include nonfinancial reporting and i ts audit and assurance
+
+Score 0.494
+see note other current financial assets other current financial assets consist of the following other current financial assets in millions dec
+
+Score 0.489
+to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t longterm financial assets longterm financial assets are distinguished between debt and equity instruments and classified according to ifrs as follows debt instruments are measured depending on the companys business model for managing financia l assets and the contractual cash flows
+
+Score 0.488
+other operating expenses presented by functions include marketing and pointofsale expenses distribution and selling expenses and general and administration expenses as well as sundry expenses less any income from government grants if applicable
+
+Score 0.488
+other noncurrent liabilities total noncurrent liabilities share capital reserves retained earnings shareholders equity noncontrolling interests total equity total liabilities and equity the accompanying notes are an integral part of these consolidated financial statements
+
+Score 0.488
+our responsibilities under those requirements principles and standards are further described in the auditors responsibilities for the audit of the consolidated financial statements and of the group management report section of our auditors report
+
+Score 0.487
+tax liabilities other than income taxes liabilities due to personnel liabilities due to social security deferred income contract liabilities donation pledge sundry other current liabilities in the line item sundry mainly relates to marketing expenses
+
+Score 0.487
+the trustee board is responsible for setting the schemes funding objective agreeing the contributions with the company and determining the investment strategy of the s cheme
+
+Score 0.486
+they also have the responsibility for disclosing as applicable matters related to going concern
+
+Score 0.485
+another substantial part of the plan assets in germany is invested in insurance contracts via a pension fund and a provident fund
+
+Score 0.484
+this information covered all relevant aspects of the companys strategic direction business planning including finance investment and personnel planning the b usiness development and the companys financial position and profitability
+
+Score 0.483
+to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t overview of selected subsequent measurement principles subsequent measurement principle assets cash and cash equivalents amortized cost cash and cash equivalents investments in certain money market funds fair value through profit or loss accounts receivable amortized cost inventories lower of cost and net realizable value property plant and equipment amortized cost rightofuse assets amortized cost goodwill impairmentonly approach intangible assets except goodwill with definite useful life amortized cost with indefinite useful life impairmentonly approach financial assets see separate table liabilities borrowings amortized cost accounts payable amortized cost liabilitiesprovisions for cashsettled sharebased payment arrangements fair value through profit or loss derivatives not used in hedge accounting fair value through profit or loss derivatives used in hedge accounting fair value through other comprehensive income other financial liabilities amortized cost provisions pensions projected unit credit method other provisions expected settlement amount accrued liabilities amortized cost lease liabilities amortized cost financial assets are classified and measured according to ifrs
+
+Score 0.482
+as a result the following eligible economic activities have been identified for
+
+Score 0.48
+for the following subsidiaries with noncontrolling interests the main financial information is presented combined
+
+Score 0.48
+illustration of risks this report includes an explanation of financial and nonfinancial risks that we deem to be most relevant to the achievement of the companys objectives in and beyond
+
+Score 0.48
+investment in fc bayern münchen ag other equity investments other investments loans longterm financial assets other noncurrent financial assets other noncurrent financial assets consist of the following other noncurrent financial assets in millions dec
+
+Score 0.479
+our responsibility in accordance therewith is further described in the group auditors responsibilities for the assurance work on the esef documents section
+
+Score 0.479
+this includes payments to settle obligations from borrowings as well as cash outflows from cashsettled derivatives with negative market values
+
+Score 0.478
+noncurrent assets current assets liabilities and provisions accumulated tax loss carryforwards deferred tax assets noncurrent assets current assets liabilities and provisions deferred tax liabilities deferred tax assets net deferred tax assets are recognized only to the extent that the realization of the related benefit is probable
+
+Score 0.478
+in addition they are responsible for financial reporting based on the going concern basis of accounting unless there is an intention to liquidate the group or to cease operations or there is no realistic alternative but to do so
+
+Score 0.477
+the subsequent measurement of financial assets is as follows overview of financial asset subsequent measurement principles according to ifrs ifrs category subsequent measurement principle subsequent measurement fair value through profit or loss these assets are subsequently measured at fair value
+
+Score 0.477
+other financial assets which are neither within the business model hold to collect nor within hold to collect and sell are measured at fair value through profit or loss
+
+Score 0.477
+in accordance with ifrs the fol lowing table includes further information about setoff possibilities of derivative financial assets and liabilities
+
+Score 0.477
+general and administration expenses include the functions it finance legal human resources and facilities   services as well as general management
+
+Score 0.476
+sales marketing operations finance it and human resources
+
+Score 0.476
+intercompany accounts through which transactions between affiliated companies are settled represent another of total assets and of total equity and liabilities as of december
+
+Score 0.475
+the designation of certain equity instruments at fair value through other comprehensive income equity is based on a strategic management decision
+
+Score 0.475
+we update the finance manual on a regular basis d ependent on regulatory changes and internal developments
+
+Score 0.474
+further details on future cash outflows are provided in these notes
+
+Score 0.473
+financial assets classified at amortized cost ac financial assets at fair value through profit or loss fvtpl thereof designated as such upon initial recognition thereof classified as held for trading equity instruments at fair value through profit or loss fvtpl equity instruments at fair value through other comprehensive income fvoci financial liabilities at amortized cost ac financial liabilities at fair value through profit or loss fvtpl thereof designated as such upon initial recognition thereof classified as held for trading net gains or losses on financial assets measured at amortized cost comprise mainly impairment losses and reversals
+
+Score 0.473
+for the remaining eligible activities under section
+
+Score 0.472
+accounts payable of reportable segments accounts payable of other businesses accounts payable of hq current financial liabilities other current liabilities noncurrent liabilities total geographical information net sales third parties are shown in the geographic market in which the net sales are realized
+
+Score 0.472
+shortterm borrowings longterm borrowings current lease liability noncurrent lease liability pensions and similar obligations factoring subtotal cash and cash equivalents shortterm financial assets less trapped cash less accessible cash and cash equivalents adjusted net borrowings to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t reserves reserves within shareholders equity are as follows capital reserve primarily comprises the paid premium for the issuance of share capital as well as expenses recognized for sharebased payment for executive board members and third parties
+
+Score 0.472
+financial liabilities per level thereof aggregated by category according to ifrs financial assets at fair value through profit or loss fvtpl financial assets at fair value through other comprehensive income fvoci thereof equity investments without recycling to profit and loss financial assets at amortized cost ac financial liabilities at fair value through profit or loss fvtpl financial liabilities at amortized cost ac level is based on quoted prices in active markets for identical assets or liabilities
+
+Score 0.472
+other activities to mitigate credit risks include retention of title clauses as well as on a selective basis credit insurance the sale of accounts receivable without recourse and bank guarantees
+
+Score 0.469
+derivative financial instru ments are initially recognized in the statement of financial position at fair value and are subsequently also measured at their fair value
+
+Score 0.469
+in the individual financia l statements of subsidiaries monetary items denominated in nonfunctional currencies of the subsidiaries are generally translated into the functional currency at closing exchange rates at the balance sheet date
+
+Score 0.468
+interest incomeexpense from financial instruments at fair value through profit or loss mainly includes interest payments from investment funds as well as net interest payments from interest derivatives not being part of a hedging relationship
+
+Score 0.468
+tax planning we ensure that the tax profile of our activities is aligned with the substance of t he operating structures of our business
+
+Score 0.467
+see note see note structure of statement of financial position in of total liabilities and equity liabilities and equity in millions shortterm borrowings
+
+Score 0.467
+fixed assets property plant and equipment rightofuse assets goodwill trademarks other intangible assets longterm financial assets
+
+Score 0.466
+therefore this amount has been included in other current financial liabilit ies
+
+Score 0.466
+this includes in particular functions such as global brands and global sales central brand and distribution to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t management central treasury and global sourcing as well as other hea dquarter functions
+
+Score 0.465
+operating working capital accounts receivable inventories accounts payable
+
+Score 0.463
+it is as well embedded within the companywide corporate governance system and encompasses various subprocesses in the areas of brands operations including procurement and it sales or human resources
+
+Score 0.462
+structure of statement of financial position in of total assets assets in millions cash and cash equivalents
+
+Score 0.461
+other reserves comprises the remeasurements of defined benefit plans consisting of the cumulative net change of actuarial gains or losses relating to the defined benefit obligations the return on plan assets excluding interest income and the asset ceiling effect the remeasurement of the fair value of the equity investments measured at fair value through other comprehensive income expenses recognized for share option plans and effects from the acquisition of noncontrolling interests as well as reserves required by law
+
+Score 0.461
+other liabilities
+
+Score 0.461
+this responsibility includes the selection and application of appropriate nonfinancial reporting methods and making assumptions and estimates about individual nonfinancial disclosures of the company that are reasonable in the circumstances
+
+Score 0.46
+this standard requires that we plan and perform the assurance engagement to obtain reasonable assurance about whether the sections denoted with in the combined nonfinancial statement for the period from january to december other than the external sources of documentation or expert opinions mentioned in the combined nonfinancial statement have been prepared in all material respects in accordance with c in conjunction with c to e hgb and obtain limited assurance about whether any matters have come to our attention that cause us to believe that the sections denoted with in the companys combined nonfinancial statement for the period from january to december other than the exter nal sources of documentation or expert opinions mentioned in the combined nonfinancial statement are not prepared in all material respects in accordance with c in conjunction with c to e hgb and the eu taxonomy regulation and the delegated acts issued thereunder as well as the interpretation by the executive directors disclosed in section eu taxonomy of the combined nonfinancial statement
+
+Score 0.46
+it also prepares a combined nonfinancial statement for the company and the group
+
+Score 0.46
+b oth net assets as well as income and expenses are attributable entirely to the noncontrolling interest
+
+Score 0.459
+this technique supports our inhouse bank concept where advantage is taken of any surplus funds of subsidiaries to cover cash requirements of other subsidiaries thus reducing external financing needs and optimizing our net interest expenses
+
+Score 0.459
+change in assets cash and cash equivalents shortterm financial assets n
+
+Score 0.458
+the objective of the amendments is to assist users of fina ncial statements in understanding the effects of supplier finance arrangements on an entitys liabilities cash flows and exposure to liquidity risk
+
+Score 0.458
+these legal covenants may include limits on the disposal of fixed assets the amount of debt secured by liens cro ssdefault provisions and change of control
+
+Score 0.457
+to o ur sha reho l ders gro up man a gemen t rep o rt o ur co mpa n y gro up man a gemen t rep o rt fin a n cial review co n so l ida ted fin an cia l sta temen ts a ddition a l in fo rma tion a n n u a l r e p o r t notes to the consolidated statement of financial position cash and cash equivalents cash and cash equivalents consist of cash held by banks cash on hand and shortterm deposits
+
+Score 0.457
+other operating expenses expenses are presented by function according to the cost of sales method in the income statement with the exception of impairment losses net on accounts receivable and contract assets which are disclosed in a separate line item as required by ifrs financial instruments
+
+Score 0.457
+it mainly complements the net borrowings reported up to that point by the present value of future payment obligatio ns from leasing and pension commitments
+
+Score 0.457
+net gains or lo sses on financial liabilities measured at amortized cost include effects from early settlement and reversals of accrued liabilities and refund liabilities
+
+Score 0.456
+financial expenses
+
+Score 0.456
+thereof million relate s to benefits directly paid to pensioners by the subsidiaries and million to employer contributions paid into the plan assets
+
+Score 0.456
+the content of the nonfinancial statement can be found throughout the combined management report with relevant parts being indicated accordingly
+
+Score 0.455
+accounts receivable and inventories of reportable segments accounts receivable and inventories of other businesses accounts receivable and inventories of hq current financial assets other current assets noncurrent assets total liabilities in millions dec
+
+Score 0.455
+interest paid is presented within the net cash used in financing activities

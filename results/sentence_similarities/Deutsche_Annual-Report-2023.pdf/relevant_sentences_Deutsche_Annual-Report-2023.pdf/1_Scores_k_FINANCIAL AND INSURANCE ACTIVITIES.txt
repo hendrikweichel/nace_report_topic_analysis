@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.672
+for the group the primary operating activity is to manage financial assets and financial liabilities
+
+Score 0.646
+such services include insurance and pension solutions assetliability management portfolio management solutions and asset allocation advisory
+
+Score 0.616
+risk management activities also include the consideration review and measurement of other financial risks e
+
+Score 0.613
+this facilitates the delivery of a range of financial products and services to the banks corporate clients
+
+Score 0.61
+this includes our wealth management business client coverage in the corporate bank and origination advisory in the investment bank
+
+Score 0.594
+this includes managing issuances and repurchases of capital instruments see section on capital management for details
+
+Score 0.589
+assets pledged by our insurance subsidiaries are included in note assets pledged and received as collateral of the consolidated financial statements and restricted assets held to satisfy obligations to insurance companies policy holders are included within note information on subsidiaries of the consolidated financial statements
+
+Score 0.586
+net interest income trading income loss net gains losses on nontrading financial assets mandatory at fair value through profit or loss net gains losses on financial assetsliabilities designated at fair value through profit or loss total net gains losses on financial assetsliabilities at fair value through profit or loss total net interest income and net gains losses on financial assetsliabilities at fair value through profit or loss corporate treasury services institutional client services business banking corporate bank fic sales trading remaining products investment bank private bank germany international private bank private bank asset management corporate other total net interest income and net gains losses on financial assetsliabilities at fair value through profit or loss trading income loss includes gains and losses from derivatives not qualifying for hedge accounting prior years comparatives aligned to presentation in the current year the groups trading and risk management businesses include significant activities in interest rate instruments and related derivatives
+
+Score 0.585
+in addition the group provides banking services such as payment and account services as well as investment advice to key management personnel
+
+Score 0.582
+for further information please refer to note offsetting financial assets and fin ancial liabilities
+
+Score 0.579
+where the group holds fund units these are typically in regard to market making in funds or otherwise serve as hedges for notes issued to clients
+
+Score 0.579
+the division also provides financial institutions with certain transaction banking services
+
+Score 0.579
+these specialized risk management units generally handle the following core tasks foster consistency with the risk appetite set by the management board and applied to business divisions and their business units determine and implement risk and capital management policies procedures and methodologies that are appropriate to the businesses within each division establish and approve risk limits conduct periodic portfolio reviews to keep the portfolio of risks within acceptable parameters develop and implement risk and capital management infrastructures and systems that are appropriate for each division chief risk officers for each business division as well as each region having a holistic view of the respective business challe nge and influence the divisional and regional strategies risk awareness and ownership as well as their adherence to risk appetite
+
+Score 0.573
+for purposes of the banks impairment approach the group refers to these instruments as financial assets
+
+Score 0.572
+it covers actions that can be taken to raise cash andor recover the banks liquidity metrics in breach
+
+Score 0.57
+financial liabilities included in this classification are structured note issuances structured deposits and other structure d securities issued by consolidated vehicles
+
+Score 0.569
+better financial services gmbh berlin ancillary services undertaking
+
+Score 0.567
+trading assets include debt and equity securities derivatives held for trading purposes and trading loans
+
+Score 0.566
+these activities include but are not limited to regular emerging risk reviews as well as portfolio deep dives day to day risk management on the level of individual borrowers as well as regular model validations
+
+Score 0.565
+if the group holds a financial asset either in a hold to collect or a hold to collect and sell business model then an assess ment at initial recogniti on to determine whether the contractual cash flows of the financial asset are solely payments of principal and interest on the principal amount outstanding is required to determine the financial asset classification
+
+Score 0.565
+the business division corporate other primarily contains exposures in treasury and capital release unit
+
+Score 0.564
+certain financial guarantee contracts are integral to the financial assets guaranteed
+
+Score 0.563
+hold to collect and sell financial assets held with the objective of both collecting contractual cash flows and selling financial assets
+
+Score 0.558
+included in this category are securities borrow ed or purchased under resale agreements and positive market value from derivatives
+
+Score 0.551
+institutional client services comprises of cash management for institutional clients trust and agency services as well as securities services
+
+Score 0.55
+a substantial proportion of the assets and liabilities on the groups balance sheet are of financial instruments carried at f air value with changes in fair value recognized in the income st atement
+
+Score 0.549
+the group may transfer assets to these securitization vehicles an d provides financial support to these entities in the form of liquidity facilities
+
+Score 0.547
+cash collateral securities equity bonds coll ateral pledges or assignments of other claims or inventory movable assets i
+
+Score 0.546
+finanzberatungsgesellschaft mbh der deutschen bank berlin ancillary services undertaking
+
+Score 0.546
+other risks in the banking book market risks in the a sset management business primarily result from principal guaranteed funds or accounts but also from coinvestments in the banks funds
+
+Score 0.546
+therefore the issuance and management of longterm borrowings is a core operating activity which is different than for a nonfinancial company where borrowing is not a principal revenue producing activity and thus is part of the financing category
+
+Score 0.545
+the group has business relationships with a number of its pension plans pursuant to which it provides fin ancial services to these plans including investment management services
+
+Score 0.545
+the group also invests in funds that are sponsored by third parties or the bank may act as fund manager custodian or some other capacity and provide funding and liquidity facilities t o both bank sponsored and third party funds
+
+Score 0.541
+this involves taking positions in debt equity foreign exchange other securities and commodities as well as in equivalent derivatives traded default risk arising from defaults and rating migrations relating to trading instruments nontrading market risk arises from market movements primarily outside the activities of the trading units in the banking book and from offbalance sheet items this includes interest rate risk credit spread risk investment risk and foreign exchange risk as we ll as market risk arising from pension schemes guaranteed funds and equity compensation nontrading market risk also includes risk from the modeling of client deposits as well as savings and loan products market risk management governance is designed and established to promote oversight of all market risks effective decisionmaking and timely escalation to senior management
+
+Score 0.541
+within this context the group develops and maintains guidelines for governance and risk management including funding asset allocation and actuarial assumption setting
+
+Score 0.538
+it applies to all corporate divisions and entities with balance sheet items requiring active management and funding from the group and promotes pricing of i assets in accordance with their underlying liquidity risk ii liabilities in accordance with their liquidity value and iii contingent liquidity exposures in accordance with the cost of providing for appropriate high quality liquid a ssets
+
+Score 0.537
+while operating independently from each other and the business divisions the finance and risk functions have the joint responsibility to quantify and verify the risk that the bank assumes
+
+Score 0.537
+another focus area is private capital markets which include certain activities from nonbank financial institutions and privat e credit more broadly
+
+Score 0.536
+funds the group establishes structured entities to accommodate client requirements to hold investments in specific assets
+
+Score 0.536
+additionally any financial asset that falls into the hold to collect or hold to collect and sell business models for which the contractual cash flow characteristics are not sppi
+
+Score 0.535
+unencumbered fina ncial assets at fair value other than securities borrowed or purchased under resale agreements and positive market value from derivatives and available for sale investments are all assumed to be readily available
+
+Score 0.535
+in addi tion it includes finan cial assets that meet the criteria for hold to collect or hold to collect and sell business model but the financial asset fails sppi or where the group designated the financial assets under the fair value option
+
+Score 0.534
+risk transfers are conducted by the respective business units and or by strategic corporate lending in accordance with specifically approved mandates
+
+Score 0.534
+these investment comm ittees set the investment strategy for these funds in line with the banks investment objective to protect the capital base and distribution capacity of the bank
+
+Score 0.533
+the group views the issuance of senior longterm debt as an operating activity
+
+Score 0.532
+on demand due within months due between and months due between and years due after years noninterest bearing deposits interest bearing deposits trading liabilities negative market values from derivative financial instruments financial liabilities designated at fair value through profit or loss investment contract liabilities negative market values from derivative financial instruments qualifying for hedge accounting central bank funds purchased securities sold under repurchase agreements securities loaned other shortterm borrowings longterm debt trust preferred securities lease liabilities other financial liabilities offbalance sheet loan commitments financial guarantees total trading liabilities and derivatives not qualifying for hedge accounting balances are recorded at fair value
+
+Score 0.531
+these operations and dealings include working through subsidiaries and branches representative offices one or more representatives assigned to serve customers capital expenditures or divestitures related to the divisions are included in the respective corporate division overview
+
+Score 0.531
+funds the group may provide funding and liquidity facility or guarantees to funds consolidated by the group
+
+Score 0.531
+its objective is to ensure t hat all necessary governance and controls are established within the group to fulfil its payment obligations at all times including intraday and to manage its liquidity and funding risks within the management board approved risk appetite when executing the strategic plan
+
+Score 0.53
+asset management as a fiduciary asset manager invests money on behalf of clients
+
+Score 0.529
+the bank also accounts for a substantial portion of assets and li abilities at amortized costs
+
+Score 0.529
+finance and risk are the nd lod and act as facilitators via their controlling activities and are responsible for escalatio n to the appropriate decisiontaking authorities
+
+Score 0.529
+treasury directly or through the group asset and liability committ ee manages among other things issuance and repurchase of shares and capital instruments hedging of capital ratios against foreign exchange swings setting capacities for key financial resources the design of shareholders e quity allocation and region al capital planning
+
+Score 0.529
+across fic and origination and advisory corporate and institutional clients access a comprehensive range of servic es encompassing financing market makingliquidity provision risk management solutions advisory and debt and equity issuance
+
+Score 0.528
+unless stated otherwise corporate bank investment bank private bank asset management corporate other total consolidated major type of services commissions for administration commissions for assets under management commissions for other securities underwriting and advisory fees brokerage fees commissions for local payments commissions for foreign commercial business commissions for foreign currencyexchange business commissions for loan processing and guarantees intermediary fees fees for sundry other customer services total fee and commissions income gross expense net fees and commissions prior years comparatives aligned to presentation in the current year revenue is recognized when performance obligations are satisfied
+
+Score 0.528
+this also includes loan commitments that are allocated to the other business model and that are presented as derivatives held for trading
+
+Score 0.527
+deposits outstanding beginning of year net movement in deposits during the period changes in the group of consolidated companies exchange rate changesother deposits outstanding end of year other transactions trading assets and positive market values from derivative financial transactions with associated companies amounted to million as of december and million as of december
+
+Score 0.525
+its components have been designed to operate together to provide a comprehens ive riskbased approach to managing the banks most material operational risks
+
+Score 0.525
+at amortized cost trading at fair value through pl designated mandatory at fair value through pl at fair value through oci revocable and irrevocable lending commitments contingent liabilities at fair value through pl corporate bank investment bank private bank asset management corporate other total dec debt securities repo and repostyle transactions total in m
+
+Score 0.524
+trust and agency services cover depository receipts corporate trust and document custody
+
+Score 0.524
+at amortized cost trading at fair value through pl designated mandatory at fair value through pl at fair value through oci revocable and irrevocable lending commitments contingent liabilities at fair value through pl agriculture forestry and fishing mining and quarrying manufacturing electricity gas steam and air conditioning supply water supply sewerage waste management and remediation activities construction wholesale and retail trade repair of motor vehicles and motorcycles transport and storage accommodation and food service activities information and communication financial and insurance activities real estate activities professional scientific and technical activities administrative and support service activities public administration and defense compulsory social security education human health services and social work activities arts entertainment and recreation other service activities activities of households as employers undifferentiated goods and servicesproducing activities of households for own use activities of extraterritorial organizations and bodies total deutsche bank risk and capital performance annual report credit risk exposure dec debt securities repo and repostyle transactions total in m
+
+Score 0.523
+current and noncurrent assets and liabilities asset and liability line items by amounts recovered or settled within or after one year asset items as of december amounts to be recovered or settled total in m
+
+Score 0.523
+accordingly businessrelated parts of chief operating office that support the investment bank and the corporate bank which were previously run in infrastructure moved to those divisions
+
+Score 0.523
+for more detail please refer to note noncurrent assets and disposal groups held for sale
+
+Score 0.522
+the balance is predominantly related to derivative instruments
+
+Score 0.521
+trading assets financial assets are classified as held for trading if they have been originated acquired or incurred principally for the purpose of selling or repurchasing them in the near term or they form part of a portfolio of ident ified financial instruments that are managed together and for which there is evidence of a recent actual pattern of shortterm profittaking
+
+Score 0.52
+such enforcement activity comprises for example cases where the bank continues to devote resources e
+
+Score 0.52
+and c of the banking act article of the ssm framework regulation
+
+Score 0.52
+retail mutual fund business and are allocated to the asset management cgu
+
+Score 0.52
+the business divisions and infrastructure functions are the st lod t hat own the risk and have the responsibility to manage strategic risk in accordance with the plan approved by the management board
+
+Score 0.518
+it specifies the provisions procedures and action plans for responding to potential disruptions to the banks ability to fund itself
+
+Score 0.518
+additionally any financial asset that falls into the hold to collect or hold to collect and sell business models for which the contractual cash flow characteristic s are not sppi is class ified by the group as nontrading financial assets mandatory at fair value through profit and loss
+
+Score 0.517
+within one year after one year dec deposits central bank funds purchased and securities sold under repurchase agreements securities loaned financial liabilities at fair value through profit or loss other shortterm borrowings other liabilities provisions liabilities for current tax longterm debt trust preferred securities total liabilities before deferred tax liabilities deferred tax liabilities total liabilities asset items as of december amounts to be recovered or settled total in m
+
+Score 0.517
+securitization vehicles the group uses securitization vehicles for funding purchase of diversified pool of assets
+
+Score 0.516
+these operational subrisk types are controlled by various infrastructure functions and include the following the compliance department performs an independent nd level control function that protects the banks license to operate by promoting and enforcing compliance with the law and driving a culture of compliance and ethical conduct in the bank the compliance department assists and challenges the business divisions and works with other infrastructure functions and reg ulators to establish and maintain a riskbased approach to the management of the banks compliance risks in accordance with the banks risk appetite and to help the bank detect mitigate and prevent breaches of laws and regulations the compliance departme nt performs the following principal activities the identification assessment mitigation monitoring and reporting on compliance risk performs second level controls the results of these assessments and controls are regularly reported to the management board and supervisory board the compliance department also assists the regulatory management team with regulatory engagement financial crime risks are managed by the antifinancial crime afc function via maintenance and development of a dedicated progra m the afc program is based on regulatory and supervisory requirements afc has defined roles and responsibilities and established dedicated functions for the identification and management of financial crime risks resulting from money laundering terrorism financing compliance with sanctions and embargoes the facilitation of tax evasion as well as other criminal activities including fraud bribery and corruption and other crimes afc updates its strategy for financial crime prevention via regular developm ent of internal policies processes and controls institutionspecific risk assessment and staff training the legal department is a fully independent infrastructure function mandated to provide legal advice to the management board the supervisory board r estricted to matters that do not give rise to conflict of interest corporate divisions and infrastructure functions and to support the management board in setting up and guarding the banks corporate governance framework and manage the banks legal corp orate governance framework antitrust legal and data privacy risk the legal department carries out its mandate through the following responsibilities advising the management board and supervisory board on legal aspects of their activities providing legal advice to all deutsche bank units to facilitate adherence to legal and regulatory requirements in relation to their activities respectively supporting other bank units managing deutsche bank groups interactions with regulatory authorities engaging and man aging external lawyers used by deutsche bank group in conjunction with the outside counsel management team in regulatory exam management managing deutsche bank groups litigation and contentious regulatory matters including contentious hr matters an d managing deutsche bank groups response to external regulatory enforcement investigations establishing appropriate processes for the preparation review and execution of transactional documentation preserving documents in connection with the management o f continuous matters by issuing legal holds advising on legal aspects of internal investigations setting the global governance framework for deutsche bank group facilitating its crossunit application and assessing its implementation developing and safegu arding efficient corporate governance structures suitable to support efficient decisionmaking to align risk and accountability based on clear and consistent roles and responsibilities maintaining deutsche bank groups framework for policies procedures framework and key operating documents and serving in particular as guardian for the same setting the framework for the establishment composition and functioning of joint decisionmaking bodies ensuring its consistent implementation and providing a framew ork and platforms for sustainable and auditable documentation of decisionmaking events allowing for central swift retrieval of information setting the framework for and facilitating the legal entity approval processes advising on internal corporate gove rnance topics to ensure the implementation of the governance frameworks including the analysis of corporate governance specific laws and regulations interaction with supervisors on internal corporate governancerelated topics and the ongoing development of solutions for organizationalstructural topics of deutsche bank group deutsche bank risk and capital management annual report operational risk management advising on data privacy laws rules and regulation and maintaining deutsche bank groups data privacy risk and control framework ensuring appropriate quality assurance in relation to all of the above deutsche banks new product approval and systematic product review processes form a control framework designed to manage the risks associated with new products and services and their lifecycle management these processes are overseen by product governance within the nonfinancial risk function existing products and services are reviewed in one to three year cycles designed to assess whether they remain fit for purpose and consistent with their respective target markets chara cteristics and objectives each product or service must be sponsored by a business managing director who bears ultimate accountability for it breaches of the new product approval requirements are in scope of the banks red flag consequence management proc ess nfrm is the risk type controller for a number of operational resilience risks its mandate includes second line oversight of controls over transaction processing activities as well as infrastructure risks to prevent technology or process disrupti on maintain the confidentiality integrity and availability of data records and information security and ensure business divisi ons and infrastructure functions have robust plans in place to recover critical business processes and functions in the event of disruption including technical or building outage or the effects of cyberattack or natural disaster as well as any physical security or safety risk nfrm risk type controller also manages the risks arising from the banks internal and external vendor engag ements via the provision of a comprehensive third party risk management framework measuring operational risks deutsche bank calculates and measures the regulatory and economic capital requirements for operational risk using the advanced measurement approac h ama methodology
+
+Score 0.516
+these investment committees set the investment strategy for these funds in line with the banks investment objective to protect the capital base and distribution capacity of the bank
+
+Score 0.516
+the banks tradin g activities can periodically shift income between net interest income and net gains losses on fina ncial assetsliabilities at fair value through profit or loss depending on a variety of factors including risk management strategies
+
+Score 0.515
+financial assets at amortized cost include predominately loans at amortized cost central bank funds sold and securities purchased under resale agreements securities borrowed and certain receivables presented in other assets
+
+Score 0.515
+interest on interest earning assets such as trading loans and debt securities and dividends on equity instruments are present ed in interest and similar income
+
+Score 0.515
+securitization vehicles the group establishes securitization vehicles which purchase diversified pools of assets including fixed income securities corporate loans and assetbacked securities predominantly commercial and residential mortgagebacked securities and credit card r eceivables
+
+Score 0.515
+there are two main areas of focus including how financial institutions manage their thirdparty risks and how to address the systemic risks caused by concentration of services provided by critical third parties
+
+Score 0.515
+pension expenses represent the main element of the banks benefits portfolio globally
+
+Score 0.514
+transactions not considered to result in an ongoing involvement include normal warranties on fraudulent activities that could invalidate a transfer in the e vent of legal action qualifying passthrough arrangements and standard trustee or administrative fees that are not linked to performance
+
+Score 0.514
+the groups interests in securitizations are collateralized by the assets contained in these entities
+
+Score 0.514
+in the division expects the targeted investments made in both fic sales trading and origination advisory in the prior year combined with a broader recovery in origination advisory market to drive improved performance
+
+Score 0.514
+federal agencies other debt securities total debt securities loans total financial assets at fair value through other comprehensive income equity method investments investments in associates and jointly controlled entities are accounted for using the equity method of accounting
+
+Score 0.514
+under ifrs interest and similar income earned from trading instruments and financial instruments designated at fair val ue through profit or loss i
+
+Score 0.513
+the relevant financial instruments are reported within financial assets and liabilities at fair value through profit or loss and financial assets at fair value through othe r comprehensive income
+
+Score 0.512
+credit risk management principal investments is responsible for the riskrelated governance and monitoring of our alternative asset activities
+
+Score 0.511
+in net revenues corporate treasury services institutional client services business banking total net revenues of which net interest income commissions and fee income remaining income provision for credit losses nm noninterest expenses compensation and benefits general and administrative expenses impairment of goodwill and other intangible assets nm nm restructuring activities nm total noninterest expenses noncontrolling interests nm nm profit loss before tax employees front office fulltime equivalent employees businessaligned operations fulltime equivalent employees allocated central infrastructure fulltime equivalent total employees fulltime equivalent total assets in bn riskweighted assets in bn of which operational risk rwa in bn leverage exposure in bn deposits in bn loans gross of allowance for loan losses in bn costincome ratio
+
+Score 0.511
+these enable the bank to determine its operational risk profile in relation to risk appetite for operational risk to systematically identify operatio nal risk themes and concentrations and to define risk mitigating measures and priorities
+
+Score 0.511
+in general level includes cash and central bank balances level includes interbank balances wo central banks central bank funds sold and securities purchased under resale agreements securities bor rowed other financial assets deposits central bank funds purchased and securities sold under repurchase agreements securities loaned other short term borrowings other financial liabilities long term debt and trust preferred securities and level includes loans
+
+Score 0.511
+the group measures certain portfolios of financial assets and financial li abilities on the basis of their net risk exposures when the following criteria are met the group of financial assets and liabilities is managed on the basis of its net exposure to a particular market risk or ris ks or to the credit risk of a particular c ounterparty in accordance with a documented risk management strategy the fair values are provided to key management personnel and the financial assets and liabilities are measured at fair value through profit or loss
+
+Score 0.51
+in addition to corporate banks product su ite coverage teams provide clients with access to the expertise of investment bank
+
+Score 0.51
+commissions and fee income predominantly earned from providing services at a point in time or transactiontype services include other securities underwriting and advisory fees brokerage fees local payments foreign currency exchange busines s and intermediary fees
+
+Score 0.509
+commenci ng from the first quarter of investment bank introduces additional subcategories to fic sales and trading revenues entitled fixed income currencies financing and fixed income currencies ex financing
+
+Score 0.509
+asset management reports revenues in the categories management fees performance and transaction fees and other
+
+Score 0.508
+trading income fic sales and trading other trading income loss total trading income loss net gains losses on nontrading financial assets mandatory at fair value through profit or loss breakdown by financial assets category debt securities equity securities loans and loan commitments deposits others nontrading financial assets mandatory at fair value through profit and loss total net gains losses on nontrading financial assets mandatory at fair value through profit or loss net gains losses on financial assetsliabilities designated at fair value through profit or loss breakdown by financial assetliability category loans and loan commitments deposits longterm debt other financial assetsliabilities designated at fair value through profit or loss total net gains losses on financial assetsliabilities designated at fair value through profit or loss total net gains losses on financial assetsliabilities at fair value through profit or loss combined net interest income and net gains losses on financial assetsliabilities at fair value through profit or loss in m
+
+Score 0.508
+the chief security office in its responsibility as st lod executes against the nonfinancial risk management framework and leverages its various instruments e
+
+Score 0.507
+pension risk management is embedded in the groups risk management organization with strong focus on market risks given importance of capital market developments e

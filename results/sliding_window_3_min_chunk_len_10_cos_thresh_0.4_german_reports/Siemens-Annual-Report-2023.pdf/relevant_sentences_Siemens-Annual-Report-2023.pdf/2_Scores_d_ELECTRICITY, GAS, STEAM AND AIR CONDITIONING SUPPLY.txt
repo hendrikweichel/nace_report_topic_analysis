@@ -1,0 +1,299 @@
+Scores_d_ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLYScore 0.706
+.  transmission and distribution of electricity .  .  infrastructure for rail transport
+
+Score 0.702
+transmission and distribution of electricity .  .  infrastructure for rail transport .
+
+Score 0.625
+transmission and distribution of electricity .  .  transport by motorbikes passenger cars and light commercial vehicles .
+
+Score 0.621
+e transmission and distribution of electricity .  .  y y y y y y .  e infrastructure for rail transport
+
+Score 0.615
+.  transmission and distribution of electricity .  .  transport by motorbikes passenger cars and light commercial vehicles
+
+Score 0.595
+ii rail transportation infrastructure ccm .  iii infrastructure enabling lowcarbon road transport and public transport ccm .  all associated with mobility businesses as well as iv energyefficient building technologies ccm .  and v services for energyefficient building technologies ccm
+
+Score 0.584
+installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings .  .  installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .
+
+Score 0.575
+.  renovation of existing buildings .  .  installation maintenance and repair of energy efficiency equipment
+
+Score 0.57
+.  y y y y y y .  e transmission and distribution of electricity .
+
+Score 0.569
+iii infrastructure enabling lowcarbon road transport and public transport ccm .  all associated with mobility businesses as well as iv energyefficient building technologies ccm .  and v services for energyefficient building technologies ccm .  both related to smart infrastructure businesses
+
+Score 0.568
+.  installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings .  .  installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings
+
+Score 0.568
+e transmission and distribution of electricity .  .  y y y y y y .  e transport by motorbikes passenger cars and light commercial vehicles
+
+Score 0.559
+.  installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .  .  installation maintenance and repair of renewable energy technologies
+
+Score 0.558
+e installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings .  .  y y y y y y .  e installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings
+
+Score 0.558
+.  installation maintenance and repair of renewable energy technologies .  .  acquisition and ownership of buildings
+
+Score 0.553
+installation maintenance and repair of energy efficiency equipment .  .  installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings .
+
+Score 0.552
+y y y y y y .  e transmission and distribution of electricity .  .  y y y y y y
+
+Score 0.547
+installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .  .  installation maintenance and repair of renewable energy technologies .
+
+Score 0.544
+e installation maintenance and repair of energy efficiency equipment .  .  y y y y y y .  e installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings
+
+Score 0.543
+.  manufacture of other low carbon technologies .  .  transmission and distribution of electricity
+
+Score 0.537
+e installation maintenance and repair of renewable energy technologies .  .  y y y y y y .  e acquisition and ownership of buildings
+
+Score 0.53
+e installation maintenance and repair of energy efficiency equipment .  .  y y y y y y .  e installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings
+
+Score 0.53
+infrastructure for rail transport .  .  infrastructure enabling lowcarbon road transport and public transport .
+
+Score 0.53
+its buildings portfolio addresses the needs of operators owners occupants and users of buildings.  it spans integrated building management systems and software heating ventilation and air conditioning controls fire safety and security products and systems and solutions and services such as energy performance services.  with its electrification portfolio smart infrastructure makes grids more resilient flexible and efficient.  its offerings cover grid simulation operation and control software substation automation and protection mediumvoltage primary and secondary switchgear including fluorinated gasfree fgasfree mediumvoltage switchgear and lowvoltage switchboards and emobility charging infrastructure
+
+Score 0.529
+smart infrastructures versatile portfolio consists of buildings electrification and electrical products.  its buildings portfolio addresses the needs of operators owners occupants and users of buildings.  it spans integrated building management systems and software heating ventilation and air conditioning controls fire safety and security products and systems and solutions and services such as energy performance services.  with its electrification portfolio smart infrastructure makes grids more resilient flexible and efficient
+
+Score 0.527
+e installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .  .  y y y y y y .  e installation maintenance and repair of renewable energy technologies
+
+Score 0.527
+installation maintenance and repair of renewable energy technologies .  .  acquisition and ownership of buildings .
+
+Score 0.525
+it spans integrated building management systems and software heating ventilation and air conditioning controls fire safety and security products and systems and solutions and services such as energy performance services.  with its electrification portfolio smart infrastructure makes grids more resilient flexible and efficient.  its offerings cover grid simulation operation and control software substation automation and protection mediumvoltage primary and secondary switchgear including fluorinated gasfree fgasfree mediumvoltage switchgear and lowvoltage switchboards and emobility charging infrastructure.  the electrical products portfolio addresses industrial and building applications
+
+Score 0.525
+renovation of existing buildings .  .  installation maintenance and repair of energy efficiency equipment .
+
+Score 0.524
+.  installation maintenance and repair of energy efficiency equipment .  .  installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings
+
+Score 0.522
+y y y y y y .  e installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .  .  y y y y y y
+
+Score 0.521
+t infrastructure for rail transport .  .  y y y y y y .  e infrastructure enabling lowcarbon road transport and public transport
+
+Score 0.516
+.  y y y y y y .  e installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .
+
+Score 0.51
+smart infrastructure smart infrastructure offers products systems solutions services and software to support the global transition from fossil to renewable energy sources and the associated transition to smarter more sustainable buildings and communities.  smart infrastructures versatile portfolio consists of buildings electrification and electrical products.  its buildings portfolio addresses the needs of operators owners occupants and users of buildings.  it spans integrated building management systems and software heating ventilation and air conditioning controls fire safety and security products and systems and solutions and services such as energy performance services
+
+Score 0.508
+y y y y y y .  e installation maintenance and repair of energy efficiency equipment .  .  y y y y y y
+
+Score 0.507
+e manufacture of other low carbon technologies .  .  y y y y y y .  e transmission and distribution of electricity
+
+Score 0.498
+.  installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings .  .  acquisition and ownership of buildings
+
+Score 0.495
+.  smart infrastructure smart infrastructure offers products systems solutions services and software to support the global transition from fossil to renewable energy sources and the associated transition to smarter more sustainable buildings and communities.  smart infrastructures versatile portfolio consists of buildings electrification and electrical products.  its buildings portfolio addresses the needs of operators owners occupants and users of buildings
+
+Score 0.492
+manufacture of other low carbon technologies .  .  transmission and distribution of electricity .
+
+Score 0.487
+its offerings include lowvoltage switching measuring and control equipment lowvoltage distribution systems and switchgear and circuit breakers contactors and switching for medium voltage.  smart infrastructures customer and end user base is diverse.  it encompasses infrastructure developers construction companies and contractors owners operators and tenants of both public and commercial buildings including hospitals campuses airports and data centers companies in process industries such as oil and gas pharmaceuticals and chemicals companies in discrete manufacturing industries such as automotive and machine building and utilities and power grid network operators transmission and distribution.  smart infrastructure serves its customers through a broad range of channels including direct sales organizations distributors and partners such as panel builders original equipment manufacturers and valueadded resellers and installers
+
+Score 0.486
+digitalization is an enabler for such changes in both buildings and grids making it possible to develop smarter buildings and manage electricity distribution with a higher share of renewables.  the markets served are experiencing shifts that present opportunities where building technologies and electrification meet.  smart infrastructures rd activities focus on sustainable and decarbonizing offerings for buildings utilities and industrial customers.  smart infrastructure develops digital offerings for stable operation of electrical grids with a high share of renewable energy
+
+Score 0.484
+.  manufacture of energy efficiency equipment for buildings .  .  manufacture of other low carbon technologies
+
+Score 0.481
+.  y y y y y y .  e installation maintenance and repair of energy efficiency equipment .
+
+Score 0.479
+these include urbanization demographic change decarbonization and digitalization.  urbanization and demographic change drive a need for smarter and more humancentric buildings.  climate change drives the need for decarbonization and digitalization.  this results in an increasing demand for flexible and resilient energy infrastructures including rapid growth in electric mobility and more sustainable buildings
+
+Score 0.477
+e manufacture of energy efficiency equipment for buildings .  .  y y y y y y .  e manufacture of other low carbon technologies
+
+Score 0.476
+installation maintenance and repair of charging stations for electric vehicles in buildings and parking spaces attached to buildings .  .  acquisition and ownership of buildings .
+
+Score 0.475
+within its rolling stock business its offerings encompass vehicles and selected components for urban and regional transport such as metro systems trams and light rail and commuter trains as well as trains and passenger coaches for intercity and longdistance services such as highspeed rail.  rolling stock offerings furthermore include locomotives and solutions for automated transportation such as automated people movers.  offerings in its rail infrastructure business include products and solutions for rail automation such as automatic train control systems interlocking operations control and telematic systems digital station solutions and railway communication systems signaling onboard and signaling crossing products and yard and depot solutions and for electrification such as ac and dc traction power supply contact lines and network control.  with its service business mobility provides maintenance and digital services among others for rolling stock and rail infrastructure throughout the entire lifecycle
+
+Score 0.474
+note guarantees and other commitments sep in millions of obligations from guarantees warranty obligations thereof relating to financing of affiliated companies thereof relating to performance guarantees on behalf of affiliated companies thereof others guarantees and other commitments annual financial statements warranty obligations relating to financing of affiliated companies included guarantees towards banks for credit lines granted to affiliated companies.  the items obligations from guarantees and warranty obligations others included guarantees and other commitments for the benefit of companies of the siemens energy group totaling .  billion and .  billion respectively with corresponding full reimbursement rights towards siemens energy global gmbh co
+
+Score 0.473
+.  infrastructure for rail transport .  .  infrastructure enabling lowcarbon road transport and public transport
+
+Score 0.47
+the electrical products portfolio addresses industrial and building applications.  its offerings include lowvoltage switching measuring and control equipment lowvoltage distribution systems and switchgear and circuit breakers contactors and switching for medium voltage.  smart infrastructures customer and end user base is diverse.  it encompasses infrastructure developers construction companies and contractors owners operators and tenants of both public and commercial buildings including hospitals campuses airports and data centers companies in process industries such as oil and gas pharmaceuticals and chemicals companies in discrete manufacturing industries such as automotive and machine building and utilities and power grid network operators transmission and distribution
+
+Score 0.469
+africa middle east americas asia australia siemens thereof germany thereof countries outside of germany therein u. s noncurrent assets consist of property plant and equipment goodwill and other intangible assets.  note related party transactions joint ventures and associates siemens has relationships with many joint ventures and associates in the ordinary course of business whereby siemens buys and sells a wide variety of products and services generally on arms length terms.  the transactions between continuing operations and joint ventures and associates were as follows sales of goods and services and other income purchases of goods and services and other expenses receivables liabilities fiscal year fiscal year sep sep sep sep in millions of joint ventures associates as of september and receivables to associates included reimbursement rights against siemens energy which were recognized correspondingly with obligations from customer contracts in connection with siemens energy activities legally remaining at siemens
+
+Score 0.468
+it encompasses infrastructure developers construction companies and contractors owners operators and tenants of both public and commercial buildings including hospitals campuses airports and data centers companies in process industries such as oil and gas pharmaceuticals and chemicals companies in discrete manufacturing industries such as automotive and machine building and utilities and power grid network operators transmission and distribution.  smart infrastructure serves its customers through a broad range of channels including direct sales organizations distributors and partners such as panel builders original equipment manufacturers and valueadded resellers and installers.  to address more complex customer requirements smart infrastructure uses its dedicated sales forces within its country organization.  furthermore smart infrastructure provides ecommerce platforms or marketplaces where customers can directly place orders online either via a web shop or via electronic interfaces and sells its broad range of digital offerings and connected devices via siemens xcelerator
+
+Score 0.467
+manufacture of energy efficiency equipment for buildings .  .  manufacture of other low carbon technologies .
+
+Score 0.467
+with its electrification portfolio smart infrastructure makes grids more resilient flexible and efficient.  its offerings cover grid simulation operation and control software substation automation and protection mediumvoltage primary and secondary switchgear including fluorinated gasfree fgasfree mediumvoltage switchgear and lowvoltage switchboards and emobility charging infrastructure.  the electrical products portfolio addresses industrial and building applications.  its offerings include lowvoltage switching measuring and control equipment lowvoltage distribution systems and switchgear and circuit breakers contactors and switching for medium voltage
+
+Score 0.466
+reconciliation to consolidated financial statements siemens energy investment includes our investment in siemens energy accounted for using the equity method and previously a smaller investment in connection with siemens energy sold in fiscal .  siemens real estate sre siemens real estate is responsible for uniform and comprehensive management of company real estate worldwide except for siemens healthineers and supports the industrial businesses and corporate activities with customerspecific real estate solutions.  innovation mainly includes results from our units technology and next.  governance primarily includes siemens brand fees and governance costs group managing costs it and corporate services
+
+Score 0.464
+.  transport by motorbikes passenger cars and light commercial vehicles .  .  infrastructure for rail transport
+
+Score 0.463
+s noncurrent assets consist of property plant and equipment goodwill and other intangible assets.  note related party transactions joint ventures and associates siemens has relationships with many joint ventures and associates in the ordinary course of business whereby siemens buys and sells a wide variety of products and services generally on arms length terms.  the transactions between continuing operations and joint ventures and associates were as follows sales of goods and services and other income purchases of goods and services and other expenses receivables liabilities fiscal year fiscal year sep sep sep sep in millions of joint ventures associates as of september and receivables to associates included reimbursement rights against siemens energy which were recognized correspondingly with obligations from customer contracts in connection with siemens energy activities legally remaining at siemens.  liabilities to associates as of september and were mainly due to trade receivables that also result from these activities and that have economically to be allocated to siemens energy
+
+Score 0.461
+e manufacture of low carbon technologies for transport .  .  y y y y y y .  e transmission and distribution of electricity
+
+Score 0.461
+.  taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities manufacture of low carbon technologies for transport .  .  manufacture of energy efficiency equipment for buildings
+
+Score 0.46
+infrastructure enabling lowcarbon road transport and public transport .  .  installation maintenance and repair of energy efficiency equipment .
+
+Score 0.459
+the markets served are experiencing shifts that present opportunities where building technologies and electrification meet.  smart infrastructures rd activities focus on sustainable and decarbonizing offerings for buildings utilities and industrial customers.  smart infrastructure develops digital offerings for stable operation of electrical grids with a high share of renewable energy.  in this regard data from field devices is the basis for intelligent grid control and protection providing grid flexibility and continuously matching energy supply and demand while protecting grid assets
+
+Score 0.458
+.  y y y y y y .  e manufacture of energy efficiency equipment for buildings .
+
+Score 0.458
+e manufacture of low carbon technologies for transport .  .  y y y y y y .  e manufacture of energy efficiency equipment for buildings
+
+Score 0.456
+smart infrastructures customer and end user base is diverse.  it encompasses infrastructure developers construction companies and contractors owners operators and tenants of both public and commercial buildings including hospitals campuses airports and data centers companies in process industries such as oil and gas pharmaceuticals and chemicals companies in discrete manufacturing industries such as automotive and machine building and utilities and power grid network operators transmission and distribution.  smart infrastructure serves its customers through a broad range of channels including direct sales organizations distributors and partners such as panel builders original equipment manufacturers and valueadded resellers and installers.  to address more complex customer requirements smart infrastructure uses its dedicated sales forces within its country organization
+
+Score 0.455
+construction of new buildings .  .  renovation of existing buildings .
+
+Score 0.454
+grid markets grew clearly driven by demand for integration of energy from renewable resources.  industrial markets also grew clearly on strong demand in the battery semiconductor and automotive industries.  the buildings market overall also grew but activity in the commercial building market rose only moderately.  in fiscal markets served by smart infrastructure are expected to grow clearly but at a slower pace than in fiscal due to a substantially lower effect from price inflation and a cooling of the general economic environment
+
+Score 0.454
+this results in an increasing demand for flexible and resilient energy infrastructures including rapid growth in electric mobility and more sustainable buildings.  digitalization is an enabler for such changes in both buildings and grids making it possible to develop smarter buildings and manage electricity distribution with a higher share of renewables.  the markets served are experiencing shifts that present opportunities where building technologies and electrification meet.  smart infrastructures rd activities focus on sustainable and decarbonizing offerings for buildings utilities and industrial customers
+
+Score 0.454
+the items obligations from guarantees and warranty obligations others included guarantees and other commitments for the benefit of companies of the siemens energy group totaling .  billion and .  billion respectively with corresponding full reimbursement rights towards siemens energy global gmbh co.  kg
+
+Score 0.453
+transport by motorbikes passenger cars and light commercial vehicles .  .  infrastructure for rail transport .
+
+Score 0.452
+e infrastructure for rail transport .  .  y y y y y y .  e infrastructure enabling lowcarbon road transport and public transport
+
+Score 0.451
+smart infrastructure develops digital offerings for stable operation of electrical grids with a high share of renewable energy.  in this regard data from field devices is the basis for intelligent grid control and protection providing grid flexibility and continuously matching energy supply and demand while protecting grid assets.  furthermore it develops technologies for environmentally friendly and increasingly renewablebased energy systems ranging from climatefriendly fgasfree switchgear for medium voltage to charging solutions for emobility and grid integration of green hydrogen production.  rd efforts also strengthen smart infrastructures capabilities to improve the sustainability performance and attractiveness of buildings
+
+Score 0.448
+liabilities to associates as of september and were mainly due to trade receivables that also result from these activities and that have economically to be allocated to siemens energy.  as of september and guarantees to joint ventures and associates amounted to million and million respectively thereof million and million respectively to associates.  these guarantees included mainly obligations from performance and credit guarantees in connection with the siemens energy business.  for these guarantees siemens has reimbursement rights towards siemens energy
+
+Score 0.448
+siemens energy assets comprises certain regional business activities of the former gas and power segment as part of the siemens energy carveout these activities remained so far with siemens due to countryspecific regulatory restrictions or economic considerations.  demand within the industries served by portfolio companies mainly shows a delayed response to changes in the overall economic environment.  financial results are strongly dependent however on customer investment cycles in their key industries.  in commoditybased industries such as oil and gas or mining these cycles are driven mainly by commodity price fluctuations rather than changes in produced volumes
+
+Score 0.447
+e professional services related to energy performance of buildings .  .  y y y y y y .  e opex of environmentally sustainable activities taxonomyaligned a
+
+Score 0.447
+y y y y y y .  e manufacture of energy efficiency equipment for buildings .  .  y y y y y y
+
+Score 0.447
+its offerings cover grid simulation operation and control software substation automation and protection mediumvoltage primary and secondary switchgear including fluorinated gasfree fgasfree mediumvoltage switchgear and lowvoltage switchboards and emobility charging infrastructure.  the electrical products portfolio addresses industrial and building applications.  its offerings include lowvoltage switching measuring and control equipment lowvoltage distribution systems and switchgear and circuit breakers contactors and switching for medium voltage.  smart infrastructures customer and end user base is diverse
+
+Score 0.447
+.  infrastructure enabling lowcarbon road transport and public transport .  .  installation maintenance and repair of energy efficiency equipment
+
+Score 0.446
+infrastructure healthcare mobility or digitalization investments and may ultimately result in an opportunity for us to participate in ways that increase our revenue and profit.  investments to strengthen countries resilience energy and food security as well as to diversify value chains close to major markets reshoring nearshoring can present opportunities to businesses.  by enabling our customers to reduce their greenhouse gas ghg emissions using our portfolio and by reducing co emission in our own operations siemens strives to support the transition towards a lowcarbon economy.  siemens also welcomes and supports recent combined management report legislative and governmental measures to accelerate the mitigation of climate change especially in europe such as through the green deal or sustainable finance initiatives
+
+Score 0.446
+infrastructure enabling lowcarbon road transport and public transport .  .  construction of new buildings .
+
+Score 0.446
+the following useful lives are assumed factory and office buildings to years other buildings to years technical machinery equipment generally years office other equipment generally years equipment leased to others generally to years impairment of property plant and equipment and other intangible assets the company reviews property plant and equipment and other intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.  in addition intangible assets not yet available for use are subject to an annual impairment test.  impairment testing of property plant and equipment and other intangible assets involves the use of estimates in determining the assets recoverable amount which can have a material impact on the respective values and ultimately the amount of any impairment.  leases a contract is or contains a lease if the contract conveys the right to control the use of an identified asset for a period of time in exchange for consideration
+
+Score 0.444
+y y y y y y .  e infrastructure for rail transport .  .  y y y y y y
+
+Score 0.444
+g.  infrastructure healthcare mobility or digitalization investments and may ultimately result in an opportunity for us to participate in ways that increase our revenue and profit.  investments to strengthen countries resilience energy and food security as well as to diversify value chains close to major markets reshoring nearshoring can present opportunities to businesses.  by enabling our customers to reduce their greenhouse gas ghg emissions using our portfolio and by reducing co emission in our own operations siemens strives to support the transition towards a lowcarbon economy
+
+Score 0.444
+e infrastructure enabling low carbon water transport .  .  y y y y y y .  e installation maintenance and repair of energy efficiency equipment
+
+Score 0.443
+.  y y y y y y .  e infrastructure for rail transport .
+
+Score 0.443
+.  construction of new buildings .  .  renovation of existing buildings
+
+Score 0.442
+for electrical distribution systems and industrial plants smart infrastructure continuously drives digitalization of its switching and control products with connectivity to the cloud remote diagnostics and edge computing capability.  smart infrastructure puts an increasing focus of rd on the sustainability of its products along the lifecycle incorporating environmentally friendly designs materials and processes.  to a large extent its capital expenditures relate to the products businesses.  main investment areas are replacement of fixed assets and further digitalization of factories and technical equipment with a strong focus on innovation
+
+Score 0.441
+e.  electrotechnical projects and products athens greece siemens healthcare industrial and commercial single member societe anonyme marousi greece mentor graphics holdings unlimited company shannon county clare ireland siemens industry software limited shannon county clare ireland siemens concentrated solar power ltd.  rosh haayin israel siemens industry software ltd.  airport city israel ugs israeli holdings israel ltd
+
+Score 0.441
+property plant and equipment property plant and equipment is valued at cost less accumulated depreciation and impairment losses.  depreciation expense is recognized using the straightline method.  the following useful lives are assumed factory and office buildings to years other buildings to years technical machinery equipment generally years office other equipment generally years equipment leased to others generally to years impairment of property plant and equipment and other intangible assets the company reviews property plant and equipment and other intangible assets for impairment whenever events or changes in circumstances indicate that the carrying amount of an asset may not be recoverable.  in addition intangible assets not yet available for use are subject to an annual impairment test
+
+Score 0.44
+y y y y y y .  t infrastructure for rail transport .  .  y y y y y y
+
+Score 0.44
+related to siemens real estate portfolio represents the largest portion in overall capex eligibility.  the difference between taxonomyeligible capex and taxonomyaligned capex is impacted by i only partial availability of information on energy performance certificates for our global portfolio and ii energy certificates below the required threshold defined in the substantial contribution criteria for the energy efficiency of buildings.  operating expenditures kpi the opex kpi shows the ratio of opex from taxonomyeligible andor aligned economic activities to total opex.  the total opex comprises direct noncapitalized costs related to research and development building renovation measures shortterm leases maintenance and repairs and any other direct expenditures relating to the daytoday servicing of assets of property plant and equipment per annex i of the commission delegated regulation eu
+
+Score 0.439
+eu taxonomy disclosure combined management report .  organization of the siemens group and basis of presentation siemens is a technology group that is active in nearly all countries of the world focusing on the areas of automation and digitalization in the process and manufacturing industries intelligent infrastructure for buildings and distributed energy systems smart mobility solutions for rail transport and medical technology and digital healthcare services.  siemens comprises siemens aktiengesellschaft siemens ag a stock corporation under the federal laws of germany as the parent company and its subsidiaries.  our company is incorporated in germany with our corporate headquarters situated in munich
+
+Score 0.439
+a.  electrical equipment manufacturers vassiliko greece parallel graphics ltd.  dublin ireland reindeer energy ltd.  bnei berak israel transfima geie milan italy transfima s
+
+Score 0.438
+and v services for energyefficient building technologies ccm .  both related to smart infrastructure businesses.  the difference between taxonomyeligible revenue and taxonomyaligned revenue is mainly due to dnsh criteria related to pollution prevention as part of appendix c which go beyond existing national regulation.  this is mainly because additionally required documentation is not completely available yet
+
+Score 0.438
+note related party transactions joint ventures and associates siemens has relationships with many joint ventures and associates in the ordinary course of business whereby siemens buys and sells a wide variety of products and services generally on arms length terms.  the transactions between continuing operations and joint ventures and associates were as follows sales of goods and services and other income purchases of goods and services and other expenses receivables liabilities fiscal year fiscal year sep sep sep sep in millions of joint ventures associates as of september and receivables to associates included reimbursement rights against siemens energy which were recognized correspondingly with obligations from customer contracts in connection with siemens energy activities legally remaining at siemens.  liabilities to associates as of september and were mainly due to trade receivables that also result from these activities and that have economically to be allocated to siemens energy.  as of september and guarantees to joint ventures and associates amounted to million and million respectively thereof million and million respectively to associates
+
+Score 0.438
+degrees celsius.  use of renewable energy re green electricity by use of electric vehicles ev electric vehicles improving energy productivity ep co neutral buildings.  the nps is calculated by subtracting the percentage of detractors from the percentage of promoters.  customers that rate sieme ns high on the scale are promoters
+
+Score 0.436
+e infrastructure enabling lowcarbon road transport and public transport .  .  y y y y y y .  e infrastructure enabling low carbon water transport
+
+Score 0.436
+electrotechnical projects and products athens greece siemens healthcare industrial and commercial single member societe anonyme marousi greece mentor graphics holdings unlimited company shannon county clare ireland siemens industry software limited shannon county clare ireland siemens concentrated solar power ltd.  rosh haayin israel siemens industry software ltd.  airport city israel ugs israeli holdings israel ltd.  airport city israel medical systems s
+
+Score 0.436
+kg stuttgart ait verwaltungsgmbh stuttgart alpha verteilertechnik gmbh cham befund gmbh erlangen berliner vermögensverwaltung gmbh berlin capta grundstücksverwaltungsgesellschaft mbh grünwald dade behring grundstücks gmbh kemnath eos. uptrade gmbh hamburg evosoft gmbh nuremberg geisenhausener entwicklungs management gmbh grünwald geisenhausener entwicklungsgmbh co.  kg grünwald hacon ingenieurgesellschaft mbh hanover illit grundstücksverwaltungsmanagement gmbh grünwald innomotics beteiligungsgmbh munich innomotics gmbh munich innomotics real estate gmbh co.  kg nuremberg ipgd grundstücksverwaltungsgesellschaft mbh grünwald kaco new energy gmbh neckarsulm komptime gmbh munich kyros gmbh munich kyros gmbh munich kyros gmbh munich kyros gmbh munich kyros gmbh munich kyros b ag munich kyros c ag munich lincas electro vertriebsgesellschaft mbh grünwald moorenbrunn entwicklungs management gmbh grünwald moorenbrunn entwicklungsgmbh co
+
+Score 0.435
+yangzhong china zhi dao railway equipment ltd.  taiyuan china bangalore international airport ltd.  bangalore india greenko sironj wind power private limited new delhi india happzee technologies private limited hyderabad india pune it city metro rail limited pune india sunsole renewables private limited mumbai india p. t
+
+Score 0.434
+rightofuse assets are presented in property plant and equipment in accordance with their nature rightofuse assets have a carrying amount of million and million as of september and respectively additions are million and million and depreciation expense is million and million in fiscal and .  rightofuse assets mainly relate to leases of land and buildings with a carrying amount of million and million as of september and additions of million and million and depreciation expense of million and million in fiscal and .  equipment leased to others mainly relate to technical machinery and equipment as well as to office and other equipment owned by siemens with a carrying amount of million and million respectively as of september and million and million respectively as of september .  in fiscal and expenses recognized for shortterm leases are million and million respectively expenses for lowvalue leases not accounted for under the rightofuse model are million and million respectively

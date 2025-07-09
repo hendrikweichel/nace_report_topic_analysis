@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.637
+.  financial liabilities .  .  floatingrate instruments financial assets .
+
+Score 0.635
+.  amortization of investments and of securities under current assets .  net interest result .  .  result from activities
+
+Score 0.629
+.  floatingrate instruments financial assets .  .  financial liabilities .
+
+Score 0.625
+income from other securities and longterm loans .  .  amortization of investments and of securities under current assets .  net interest result .
+
+Score 0.623
+amortization of investments and of securities under current assets .  net interest result .  .  result from activities .
+
+Score 0.62
+financial liabilities .  .  floatingrate instruments financial assets .  .  financial liabilities
+
+Score 0.619
+.  other assurance services .  .  .  tax advisory services
+
+Score 0.61
+.  miscellaneous financial liabilities .  .  .
+
+Score 0.607
+defined benefit assets .  .  longterm derivative instruments and interestbearing investments .  .  longterm other financial assets
+
+Score 0.607
+.  income from other securities and longterm loans .  .  amortization of investments and of securities under current assets .  net interest result
+
+Score 0.595
+remeasurement of defined benefit plans .  .  remeasurement of other financial investments .  .  investment in equityaccounted investees
+
+Score 0.593
+.  tax advisory services .  .  other services provided to the parent company or its subsidiaries .
+
+Score 0.588
+ifrs financial instruments distinguishes between three business models hold tocollect the objective of this business model is to hold the financial assets and generate the contractual cash flows.  this model is the prevalent business model in the continental group.  hold tocollect and sale this business model aims to collect the contractual cash flows or sell the financial assets.  this business model does occur for example in connection with notes receivable but is fundamentally of subordinate importance in the continental group.  other this business model constitutes a catchall category
+
+Score 0.588
+other assurance services .  .  .  tax advisory services .
+
+Score 0.588
+net investment income .  .  income from other securities and longterm loans .  .  amortization of investments and of securities under current assets
+
+Score 0.588
+miscellaneous financial liabilities .  .  .  .  other financial liabilities
+
+Score 0.587
+.  .  tax advisory services .  .  other services provided to the parent company or its subsidiaries
+
+Score 0.585
+.  .  cash and cash equivalents .  .  short and longterm derivative instruments interestbearing investments
+
+Score 0.584
+other financial assets .  .  .  .
+
+Score 0.584
+.  defined benefit assets .  .  longterm derivative instruments and interestbearing investments .
+
+Score 0.583
+.  investments in equityaccounted investees .  .  longterm miscellaneous assets .
+
+Score 0.583
+cash and cash equivalents .  .  short and longterm derivative instruments interestbearing investments .  .  other financial assets
+
+Score 0.582
+tax advisory services .  .  other services provided to the parent company or its subsidiaries .  .
+
+Score 0.582
+.  other investments .  deferred tax assets .  longterm other financial assets .  inventories
+
+Score 0.577
+this relates to the investig ation of the way in which financial assets held in order to collect cash flows are managed.  the continental group reclassifies debt instruments if the corresponding business model changes.  ifrs financial instruments distinguishes between three business models hold tocollect the objective of this business model is to hold the financial assets and generate the contractual cash flows.  this model is the prevalent business model in the continental group.  hold tocollect and sale this business model aims to collect the contractual cash flows or sell the financial assets
+
+Score 0.576
+investments in equityaccounted investees .  .  longterm miscellaneous assets .  .  noncurrent assets
+
+Score 0.573
+other investments .  deferred tax assets .  longterm other financial assets .  inventories .
+
+Score 0.573
+property plant and equipment .  .  investments in equityaccounted investees .  .  longterm miscellaneous assets
+
+Score 0.573
+investments .  .  noncurrent assets .  .  receivables and other assets
+
+Score 0.572
+.  cash and cash equivalents .  .  short and longterm derivative instruments interestbearing investments .
+
+Score 0.572
+.  remeasurement of defined benefit plans .  .  remeasurement of other financial investments .
+
+Score 0.568
+longterm other financial assets .  .  longterm other assets .  .  noncurrent assets
+
+Score 0.567
+.  .  .  other financial liabilities .
+
+Score 0.567
+shortterm derivative instruments and interestbearing investments .  .  cash and cash equivalents .  .  assets held for sale
+
+Score 0.567
+other financial assets .  .  .  .  amounts receivable from related parties related primarily to loans to associates
+
+Score 0.566
+financial assets fvoci .  .  .  .
+
+Score 0.562
+.  .  .  other financial assets .
+
+Score 0.562
+longterm other financial assets .  inventories .  .  trade accounts receivable .
+
+Score 0.561
+.  .  other financial liabilities .  .
+
+Score 0.561
+.  .  financial assets fvoci .  .
+
+Score 0.56
+.  deferred tax liabilities .  .  longterm provisions for other risks and obligations .
+
+Score 0.558
+.  short and longterm derivative instruments interestbearing investments .  .  other financial assets .
+
+Score 0.557
+.  other financial assets .  .  .
+
+Score 0.557
+.  remeasurement of other financial investments .  .  investment in equityaccounted investees .
+
+Score 0.557
+.  financial assets fvoci .  .  .
+
+Score 0.557
+.  shortterm derivative instruments and interestbearing investments .  .  cash and cash equivalents .
+
+Score 0.555
+.  thereof longterm financial liabilities .  .  total liabilities .
+
+Score 0.555
+employee benefits and other provisions .  .  other assets and liabilities .  .  cash flow arising from operating activities
+
+Score 0.554
+trade accounts receivable .  .  shortterm contract assets .  .  shortterm other financial assets
+
+Score 0.554
+thereof longterm financial liabilities .  .  total liabilities .  .
+
+Score 0.552
+trade accounts payable .  .  shortterm contract liabilities .  income tax payables .  shortterm provisions for other risks and obligations
+
+Score 0.552
+.  other financial liabilities .  .  .
+
+Score 0.55
+.  trade accounts payable .  .  other financial liabilities .
+
+Score 0.55
+.  .  other financial assets .  .
+
+Score 0.549
+.  longterm derivative instruments and interestbearing investments .  .  longterm other financial assets .
+
+Score 0.548
+.  shortterm contract assets .  .  shortterm other financial assets .
+
+Score 0.548
+.  other assets and liabilities .  .  cash flow arising from operating activities .
+
+Score 0.548
+.  .  .  financial liabilities .
+
+Score 0.548
+.  .  .  .  financial liabilities
+
+Score 0.547
+short and longterm derivative instruments interestbearing investments .  .  other financial assets .  .
+
+Score 0.547
+.  trade accounts receivable .  .  shortterm other financial assets .  shortterm other assets
+
+Score 0.546
+the classification of a component of an entity as a discontinued operation is also appropriate in the case of classification as held for distribution provided the criteria are met.  financial instruments a financial instrument as defined in ias financial instruments presentation is a contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity.  in the continental group a purchase or sale of financial assets or financial liabilities is recognized or derecognized at the settlement date.  financial assets financial assets are recognized in the statement of financial position as at the date continental becomes a contractual party to the financial instrument.  at the acquisition date they must be classified into measurement categories that determine the subsequent accounting
+
+Score 0.545
+.  longterm miscellaneous assets .  .  noncurrent assets .
+
+Score 0.544
+other investments .  .  deferred tax assets .  .  defined benefit assets
+
+Score 0.544
+shortterm other assets .  .  income tax receivables .  .  shortterm derivative instruments and interestbearing investments
+
+Score 0.544
+.  investments .  .  noncurrent assets .
+
+Score 0.543
+other financial liabilities .  .  less financial liabilities .  .  deferred tax liabilities
+
+Score 0.543
+.  .  thereof longterm financial liabilities .  .  total liabilities
+
+Score 0.543
+thereof shortterm financial liabilities .  .  noncurrent liabilities .  .
+
+Score 0.542
+amounts receivable from related parties related primarily to loans to associates.  loans to third parties related mainly to loans to customers with various maturities and tenant loans for individual properties.  amounts receivable from employees related mainly to preliminary payments for hourly wages and for other advances.  in particular other amounts receivable include investment subsidies for research and development expenses not yet utilized and amounts recei vable from suppliers.  the carrying amounts of the other financial assets are essentially their fair values
+
+Score 0.542
+.  .  financial liabilities .  .
+
+Score 0.542
+.  financial assets and liabilities fvpl .  .  .
+
+Score 0.541
+.  .  other assurance services .  .
+
+Score 0.541
+deferred tax assets .  .  defined benefit assets .  .  longterm derivative instruments and interestbearing investments
+
+Score 0.541
+.  other services provided to the parent company or its subsidiaries .  .  .  total
+
+Score 0.541
+other amounts receivable .  .  .  .  other financial assets
+
+Score 0.54
+.  property plant and equipment .  .  investments in equityaccounted investees .
+
+Score 0.54
+income tax receivables .  .  shortterm derivative instruments and interestbearing investments .  .  cash and cash equivalents
+
+Score 0.539
+.  miscellaneous liabilities .  .  .
+
+Score 0.538
+financial assets financial assets are recognized in the statement of financial position as at the date continental becomes a contractual party to the financial instrument.  at the acquisition date they must be classified into measurement categories that determine the subsequent accounting.  receivables from the receivables factoring programs carried out in the continental group are recognized in the statement of financial position when the risks and rewards in particular credit and default risk have not been essentially t ransferred.  the repayment obligations therefrom are as a rule then shown as shortterm financial liabilities.  the classification and measurement of financial assets that constitute debt instruments is based on the business model in which the assets are managed and on their cash flow characteristics
+
+Score 0.538
+other services provided to the parent company or its subsidiaries .  .  .  total .
+
+Score 0.538
+.  financial liabilities .  .  .
+
+Score 0.538
+deferred tax assets .  longterm other financial assets .  inventories .  .  trade accounts receivable
+
+Score 0.538
+.  .  .  financial assets fvoci .
+
+Score 0.538
+property plant and equipment .  .  other investments .  deferred tax assets .  longterm other financial assets
+
+Score 0.538
+.  longterm other financial assets .  .  longterm other assets .
+
+Score 0.538
+.  .  .  thereof longterm financial liabilities .
+
+Score 0.536
+.  trade accounts payable .  .  shortterm other provisions and liabilities .
+
+Score 0.535
+liabilities for selling expenses .  .  purchase prices payable on company acquisitions .  .  miscellaneous financial liabilities
+
+Score 0.535
+trade accounts payable .  .  employee benefits and other provisions .  .  other assets and liabilities
+
+Score 0.535
+miscellaneous liabilities .  .  .  .  other liabilities
+
+Score 0.535
+provisions for other risks and obligations provisions are recognized when a legal or constructive obligation has arisen that is likely to result in a future cash outflow to third parties and the amount can be reliably determined or estimated.  the provisions are recognized as at the end of the reporting period at the value at which the obligations could probably be settled or transferred to a third party.  noncurrent provisions such as those for litigation or environmental risks are discounted to their present value.  the resulting periodic interest charge for the provisions is shown under the financial result including an effect from a change in interest.  nonfinancial liabilities current nonfinancial liabilities are carried at their settlement amount
+
+Score 0.533
+.  .  .  .  financial assets fvoci
+
+Score 0.533
+.  .  .  miscellaneous liabilities .
+
+Score 0.533
+.  .  .  other .  joint ventures ordinary business activities
+
+Score 0.533
+interest income and expense from financial instruments is reported in the financial result note .  dividend income from financial assets measured at fair value through other comprehensive income is explained under income from investments note .  collateral as at december a total of .  million py .  million of financial assets had been pledged as collateral
+
+Score 0.532
+longterm miscellaneous assets .  .  noncurrent assets .  .  inventories
+
+Score 0.532
+financial instruments a financial instrument as defined in ias financial instruments presentation is a contract that gives rise to a financial asset of one entity and a financial liability or equity instrument of another entity.  in the continental group a purchase or sale of financial assets or financial liabilities is recognized or derecognized at the settlement date.  financial assets financial assets are recognized in the statement of financial position as at the date continental becomes a contractual party to the financial instrument.  at the acquisition date they must be classified into measurement categories that determine the subsequent accounting.  receivables from the receivables factoring programs carried out in the continental group are recognized in the statement of financial position when the risks and rewards in particular credit and default risk have not been essentially t ransferred
+
+Score 0.531
+expenses from interest cost on pension liabilities and income from pension funds are reported net in the financial result.  accordingly the interest effects of other longterm employee benefits are reported in the financial result.  pens ion liabilities for some companies of the continental group are covered by pension funds.  furthermore plan assets comprise all assets as well as claims from insurance contracts that are held exclusively toward payments to those entitled to pensions and are not available to meet the claims of other creditors.  pension obligations and plan assets are reported on a net basis in the statement of financial position
+
+Score 0.531
+financial liabilities .  .  .  .

@@ -1,0 +1,299 @@
+Scores_k_FINANCIAL AND INSURANCE ACTIVITIESScore 0.654
+. current financial investments . current derivative financial instruments .  . cash and cash equivalents
+
+Score 0.621
+.  .  . other	receivables 	and	assets	that	qualify	as	financial	instruments .
+
+Score 0.613
+current financial investments . current derivative financial instruments .  . cash and cash equivalents .
+
+Score 0.612
+.  .  . other	liabilities	that	qualify	as	financial	instruments .
+
+Score 0.611
+. financial assets ac .  . derivatives  held  for trading fvtpl .
+
+Score 0.608
+financial assets ac .  . derivatives  held  for trading fvtpl .  . financial liabilities ac
+
+Score 0.605
+. current derivative financial instruments assets .  .  . cash and cash equivalents assets
+
+Score 0.601
+.  .  . miscellaneous  other financial liabilities .
+
+Score 0.601
+group services . financial assets and other business units . total .  incl.  intangible assetsin the  fin ancial ye ar he idelberg ma terials con tinued its portfolio optimisation and made subsequent investments and divestments
+
+Score 0.6
+. other assurance services .  .  . tax services
+
+Score 0.6
+. other	receivables 	and	assets	that	qualify	as	financial	instruments .  .  .
+
+Score 0.598
+other current assets . assets	classified	as	held	for	sale .  . pension provisions . other noncurrent provisions
+
+Score 0.596
+other	receivables 	and	assets	that	qualify	as	financial	instruments .  .  .  . overfunding of pension plans
+
+Score 0.595
+.  . other	receivables 	and	assets	that	qualify	as	financial	instruments .  .
+
+Score 0.594
+financial liabilitiesother current operating liabilities .  .  .  . derivative financial instruments liabilities
+
+Score 0.594
+. financial fixed assets  .  . other noncurrent assets .
+
+Score 0.594
+. financial fixed assets .  . other noncurrent assets .
+
+Score 0.594
+derivative financial instruments .  .  .  . miscellaneous  other financial liabilities
+
+Score 0.594
+operating liabilities include trade payables and other liabilities from operating activities. . 	 investments 	cash	outflowthe payments  fo r in vestments  di ffer fr om ad ditions in the fixed asset movement schedule which shows for instance noncash transactions as additions such as additions in connection  with leasing transactions.   consolidated financial statementsgroup notesheidelberg materials of the total ca shrelevant  in vestments  of  .  m illion previous year
+
+Score 0.592
+. other	liabilities	that	qualify	as	financial	instruments .  .  .
+
+Score 0.591
+other assurance services .  .  . tax services .
+
+Score 0.585
+risk areasrisks that ma y ha ve a si gnificant im pact on ou r as sets financial and earn ings po sition are div ided int o fiv e categories based on the risk catalogue established in the group fin ancial ris ks st rategic ris ks ope rational risks legal and compliance risks and esg risks especially c limate  r isks.  i n t he f ollowing w e a ssess o nly t he risk situation of risks that are significant  for us. financial risksour significant  fin ancial ris ks inc lude curr ency ris ks interest rate risks refinancingliquidity  risks credit risks tax risks and pension risks.  we manage these risks primarily as par t of our ong oing bu siness and fin ancing activities a nd w hen r equired b y u sing d erivative fi nancial instruments.  these risk areas are monitored on a continuous basis by the group treasury department in accordance with internal group guidelines which also define the work and processes of group treasury
+
+Score 0.583
+miscellaneous  other financial liabilities .  . .  .
+
+Score 0.583
+miscellaneous  other financial liabilities . .  .  .
+
+Score 0.583
+.  .  .  . miscellaneous  other financial liabilities
+
+Score 0.581
+. derivatives  held  for trading fvtpl .  . financial liabilities ac .
+
+Score 0.581
+.  . derivatives held for trading . . cash	flows	of	financial	liabilities	and	derivative 	financial	instruments 	previous	yearmcarrying amount dec
+
+Score 0.58
+.  . other	liabilities	that	qualify	as	financial	instruments .  .
+
+Score 0.579
+other	liabilities	that	qualify	as	financial	instruments .  .  .  . employee liabilities
+
+Score 0.579
+financial fixed assets .  . other noncurrent assets .  . noncurrent	assets
+
+Score 0.578
+miscellaneous operating receivables .  .  .  . other	receivables 	and	assets	that	qualify	as	financial	instruments
+
+Score 0.577
+derivative financial instruments assets .  .  .  . financial liabilitiesother current operating liabilities
+
+Score 0.577
+miscellaneous other operating liabilities .  .  .  . other	liabilities	that	qualify	as	financial	instruments
+
+Score 0.577
+. derivatives held for trading . . cash	flows	of	financial	liabilities	and	derivative 	financial	instruments 	previous	yearmcarrying amount dec.  cash flows cash flows cash flows cash flows cash flows  bonds payable
+
+Score 0.577
+changes 	in	operating 	assets  liabilitiesoperating assets consist of inventories trade receivables and other assets used in operating activities.  operating liabilities include trade payables and other liabilities from operating activities. . 	 investments 	cash	outflowthe payments  fo r in vestments  di ffer fr om ad ditions in the fixed asset movement schedule which shows for instance noncash transactions as additions such as additions in connection  with leasing transactions.   consolidated financial statementsgroup notesheidelberg materials of the total ca shrelevant  in vestments  of
+
+Score 0.577
+other current financial liabilities .  .  . pension provisions current portion .
+
+Score 0.577
+. miscellaneous  other financial liabilities .  . .
+
+Score 0.577
+. miscellaneous  other financial liabilities .  .  .
+
+Score 0.577
+. miscellaneous  other financial liabilities . .  .
+
+Score 0.576
+.  financial investmentsthis item includes investments in equity instruments.  firstly participations in immaterial subsidiaries joint ventures an d as sociates wi th a ca rrying am ount of .  million previous year .  are shown
+
+Score 0.574
+assets	classified	as	held	for	sale .  . pension provisions . other noncurrent provisions . noncurrent liabilities
+
+Score 0.573
+. property plant and equipment .  . financial fixed assets .
+
+Score 0.573
+. property plant and equipment .  . financial fixed assets  .
+
+Score 0.573
+current income tax assets .  .  . current financial investments . current derivative financial instruments
+
+Score 0.572
+.  . current financial investments . current derivative financial instruments .
+
+Score 0.572
+.  . financial fixed assets .  .
+
+Score 0.57
+.  .  . financial fixed assets .
+
+Score 0.57
+.  . miscellaneous  other financial liabilities . .
+
+Score 0.57
+.  . miscellaneous  other financial liabilities .  .
+
+Score 0.569
+derivative financial instruments liabilities.  .  .  .  december financial assetscurrent interestbearing receivables
+
+Score 0.568
+subsidiaries and other business units .  . other financial assets associates and joint ventures .  . divestments 	cash	inflow
+
+Score 0.567
+financial fixed assets  .  . other noncurrent assets .  . total	noncurrent	assets
+
+Score 0.567
+. derivatives   held for trading .  . liabilitiesderivatives   hedge accounting .
+
+Score 0.566
+current derivative financial instruments assets .  .  . cash and cash equivalents assets . other noncurrent financial liabilities
+
+Score 0.565
+. other noncurrent financial liabilities . .  . pension provisions
+
+Score 0.565
+.  .  . miscellaneous other operating liabilities .
+
+Score 0.565
+other financial assets associates and joint ventures .  . divestments 	cash	inflow .  .
+
+Score 0.565
+. subsidiaries and other business units .  . other financial assets associates and joint ventures .
+
+Score 0.565
+miscellaneous  other financial liabilities .  .  .  . miscellaneous other operating liabilities
+
+Score 0.564
+financial assets are derecognised from the balance sheet at the point in time that the contractual rights to cash flows from the asset expire or the financial asset is transferred.   tr ansferred fin ancial as sets are full y derecognised  if all ris ks and re wards are sub stantially transferred to the acquirer.  if the risks and rewards are only partially transferred risk sharing the assets continue to be recognised to the extent of the maximum risk retained due to the impossibility of resale. financial as sets ar e al so de recognised  wh en th ere is no prospect  of re covery fo r ex ample if enf orcement measures have been unsuccessful insolvency proceedings have been discontinued due to lack of assets or the debt has since become statute barred.  no further enforcement activities will subsequently  be taken
+
+Score 0.563
+.  . derivatives   held for trading .  . liabilitiesderivatives   hedge accounting
+
+Score 0.563
+subsidiaries and other business units .  . other financial assets associates and joint ventures .  . investments 	cash	outflow
+
+Score 0.563
+other	receivables 	and	assets	that	do	not	qualify	as	financial	instruments .  .  .  .
+
+Score 0.562
+.  .  .  . financial fixed assets
+
+Score 0.561
+. other current financial liabilities .  .  . pension provisions current portion
+
+Score 0.56
+changes 	in	liabilities	arising	from	financing	activitiesthe following tab le sh ows th e ch anges in li abilities arising from fin ancing ac tivities br oken do wn in to ca sh relevant and noncash changes. changes	in	liabilities	arising	from	financing	activitiesmbonds payablebank loansmiscellane ous other financial liabilitieslease liabilitiesnon controlling interests w ith  put optionsderivative financial ins truments net position total january .  .  .
+
+Score 0.56
+.  .  . financial liabilitiesother current operating liabilities .
+
+Score 0.56
+. financial liabilitiesother current operating liabilities .  .  .
+
+Score 0.559
+inventories . other current assets . assets	classified	as	held	for	sale .  . pension provisions
+
+Score 0.558
+other assets . . provisions and liabilities .  . carryforward  of unused tax losses and interest tax credits
+
+Score 0.558
+. 	 changes 	in	operating 	assets  liabilitiesoperating assets consist of inventories trade receivables and other assets used in operating activities.  operating liabilities include trade payables and other liabilities from operating activities. . 	 investments 	cash	outflowthe payments  fo r in vestments  di ffer fr om ad ditions in the fixed asset movement schedule which shows for instance noncash transactions as additions such as additions in connection  with leasing transactions
+
+Score 0.558
+further explanations on provisions can be found in note .  other provisions. financial assets are classified on the basis of the contractual cash flo ws an d th e bu siness mo del us ed.  wh ile the contractual  ca sh flo ws ar e de termined by th e ch aracteristics  of th e fin ancial ins trument dis cretionary  decisions m ay b e r equired w hen a ssessing u nder w hich business model a financial asset should be classified.  for certain contracts a decision must be made as to whether they sh ould be tr eated as de rivatives or accounted for as ow n us e con tracts
+
+Score 0.555
+. other financial assets associates and joint ventures .  . investments 	cash	outflow .
+
+Score 0.555
+. trade payables and miscellaneous operating liabilities .  . noncontrolling  interests with put options  .
+
+Score 0.555
+. other financial assets associates and joint ventures .  . divestments 	cash	inflow .
+
+Score 0.554
+. other assets . . provisions and liabilities .
+
+Score 0.554
+. other assets .  . provisions and liabilities .
+
+Score 0.554
+other financial assets associates and joint ventures .  . investments 	cash	outflow . .
+
+Score 0.554
+.  . miscellaneous other operating liabilities .  .
+
+Score 0.553
+.  .  . current derivative financial instruments assets .
+
+Score 0.552
+.  . other	receivables 	and	assets	that	do	not	qualify	as	financial	instruments .  .
+
+Score 0.552
+.  .  . derivative financial instruments assets .
+
+Score 0.552
+cash and cash equivalents  amortised cost .  . liabilitiesbonds payable bank loans and miscellaneous other financial liabilities . .
+
+Score 0.552
+. cash and cash equivalents  amortised cost .  . liabilitiesbonds payable bank loans and miscellaneous other financial liabilities .
+
+Score 0.551
+changes in the fair value and income from these assets are recognised  di rectly in pr ofit or los s in th e period in which they are incurred.  financial assets are derecognised from the balance sheet at the point in time that the contractual rights to cash flows from the asset expire or the financial asset is transferred.   tr ansferred fin ancial as sets are full y derecognised  if all ris ks and re wards are sub stantially transferred to the acquirer.  if the risks and rewards are only partially transferred risk sharing the assets continue to be recognised to the extent of the maximum risk retained due to the impossibility of resale. financial as sets ar e al so de recognised  wh en th ere is no prospect  of re covery fo r ex ample if enf orcement measures have been unsuccessful insolvency proceedings have been discontinued due to lack of assets or the debt has since become statute barred
+
+Score 0.551
+. current liabilities . liabilities	classified	as	held	for	sale .  . net	assets
+
+Score 0.551
+other noncurrent financial liabilities . .  . pension provisions .
+
+Score 0.55
+if the risks and rewards are only partially transferred risk sharing the assets continue to be recognised to the extent of the maximum risk retained due to the impossibility of resale. financial as sets ar e al so de recognised  wh en th ere is no prospect  of re covery fo r ex ample if enf orcement measures have been unsuccessful insolvency proceedings have been discontinued due to lack of assets or the debt has since become statute barred.  no further enforcement activities will subsequently  be taken. nonderivative	financial	liabilities are initially recognised at the fair value of the consideration received or at the value of the cash received less transaction costs incurred if applicable.  these instruments are subsequently measured  at am ortised cos t us ing th e eff ective interest method if applicable
+
+Score 0.549
+. miscellaneous other operating liabilities .  .  .
+
+Score 0.549
+liabilitiesbonds payable bank loans and miscellaneous other financial liabilities . .  .  . trade payables and miscellaneous operating liabilities
+
+Score 0.548
+december financial assetscurrent interestbearing receivables .  .  .  . derivative financial instruments assets
+
+Score 0.548
+. other	liabilities	that	do	not	qualify	as	financial	instruments .  .  .
+
+Score 0.547
+. financial fixed assets .  .  . deferred taxes
+
+Score 0.547
+derivatives   held for trading .  . liabilitiesderivatives   hedge accounting .  .
+
+Score 0.546
+.  . financial liabilitiesother current operating liabilities .  .
+
+Score 0.546
+. other	receivables 	and	assets	that	do	not	qualify	as	financial	instruments .  .  .
+
+Score 0.544
+. current financial liabilities .  . current provisions .
+
+Score 0.544
+. current financial liabilities . . current provisions .
+
+Score 0.544
+liabilitiesbonds payable bank loans and miscellaneous other financial liabilities ac . .  .  . trade payables and miscellaneous operating liabilities ac
+
+Score 0.544
+.  . trade payables and miscellaneous operating liabilities .  . noncontrolling  interests with put options

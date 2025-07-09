@@ -1,0 +1,299 @@
+Scores_n_ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIESScore 0.617
+Taxonomyeligible business activities 
+
+Score 0.58
+B. TAXONOMYNONELIGIBLE ACTIVITIES Sales of Taxonomynoneligible activities B 
+
+Score 0.578
+Thereof enabling activities 
+
+Score 0.563
+Determining taxonomyeligible business activities 
+
+Score 0.552
+CHANGE IN TAXONOMYELIGIBLE BUSINESS ACTIVITIES COMPARED TO THE PREVIOUS YEAR 
+
+Score 0.547
+Sales of taxonomyeligible activities A. A. 
+
+Score 0.541
+A. TAXONOMYELIGIBLE ACTIVITIES 
+
+Score 0.54
+Turnover is the main parameter used as the basis for technical screening criteria for assessing the taxonomy alignment of business activities. This applies analogously to capital and operating expenditures associated with these business activities irrespective of their intended purpose. For example on the basis of their intended purpose capital expenditures for a business activity could potentially be allocated to a different economic activity listed in the delegated acts which in turn could involve different screening criteria. This is ruled out by applying the principle that turnover has the priority. In the case of business activities allocated to a research and developmentrelated economic activity on the basis of turnover the technical screening criteria are derived from capital and operating expenditure. 
+
+Score 0.538
+Business activities are taxonomyeligible if they are consistent with the descriptions of the economic activities contained in the delegated acts in respect of the environmental objectives of the EU Taxonomy. It is not significant that they satisfy the technical screening criteria defined there for each economic activity. By contrast business activities that are not consistent with the description of an economic activity may not be classified as taxonomyeligible. 
+
+Score 0.534
+Taxonomyaligned business activities 
+
+Score 0.532
+Code No. Economic activity according to the delegated acts Business activity or product Segment Unit 
+
+Score 0.53
+Thereof transitional activities 
+
+Score 0.525
+One special aspect in determining taxonomyaligned business activities relates to capital expenditures contained in a CapEx plan see also CapEx plan to expand taxonomy alignment because all the evidence of these in respect of compliance with the technical screening criteria will only be available in the future. 
+
+Score 0.521
+Sales Group external sales from taxonomyaligned economic activities Total Group external sales CapEx aCapital expenditure on taxonomyaligned economic activities bCapital expenditure that is part of a CapEx plan cCapital expenditure in accordance with EU Annex I No. .... lit. c Total capital expenditure OpEx a Operating expenditure on taxonomyaligned activities b Operating expenditure that is part of a CapEx plan c Operating expenditure in accordance with EU Annex I No. .... lit. c Total operating expenditure 
+
+Score 0.51
+ On the basis of the expert assessment in the course of determining taxonomyeligible business activities 
+
+Score 0.502
+The disclosures for turnover capital expenditure and operating expenditure for the reporting year do not include data for business activities that were reclassified as taxonomyeligible or allocated to the new economic activities pursuant to Delegated Regulation EU or Delegated Regulation EU . 
+
+Score 0.502
+Determining taxonomyaligned business activities 
+
+Score 0.501
+Functions that monitor risks and actively contribute to risk management Governance Controlling Accounting Risk Legal Compliance Other functions
+
+Score 0.49
+OpEx of taxonomyeligible activities A. A. 
+
+Score 0.485
+Risks from operating activities We deal in detail with these categories and provide a risk assessment in the following sections. In fiscal year we reported and assessed investment risks separately for the first time. Compared with the prior year the risk assessments revealed changes for valuation risks and order risks. 
+
+Score 0.482
+Operational opportunities of the businesses 
+
+Score 0.48
+Business activities are taxonomyaligned if they meet the technical screening criteria specified in the delegated acts and therefore make a substantial contribution to achieving one or more of the environmental objectives of the EU Taxonomy do no significant harm to one or more environmental objectives pursuant to Article of the EU Taxonomy DNSH criteria and also meet the minimum social safeguards pursuant to Article . 
+
+Score 0.48
+CapEx of taxonomyeligible activities A. A. 
+
+Score 0.473
+The operational opportunities and risks not included in the updated monthly projections or in the annual budget are part of standard segment reporting. Regular discussion of opportunities and risks in established controlling talks which include the CFO makes an important contribution to integrated business management during the year and to corporate planning because it highlights bands for the key performance indicators adjusted EBIT and free cash flow before MA related to the current and the subsequent fiscal year in a systematic and standardized way. 
+
+Score 0.472
+B. TAXONOMYNONELIGIBLE ACTIVITIES OpEx of Taxonomynoneligible activities B 
+
+Score 0.47
+This segment is focused on the global distribution of materials and the provision of technical services for the production and manufacturing sectors. 
+
+Score 0.465
+In fiscal year the turnover generated by taxonomyeligible economic activities amounted to million which was of the groups total turnover. This increase by percentage points resulted mainly from the firsttime classification of the economic activities Manufacture of automotive and mobility components and Manufacturing of aircraft as taxonomyeligible in the reporting year it was offset primarily by declines in turnover in the steel business. Taxonomyeligible CapEx of million in the reporting year accounted for of total capital expenditure which was percentage points higher than in the prior year. Taxonomyeligible OpEx in the reporting year amounted to million which was of total operating expenditure and percentage points higher than in the prior year. The increases in taxonomyeligible CapEx and OpEx resulted mainly from the firsttime classification of the economic activity Manufacture of automotive and mobility components as taxonomyeligible in the reporting year. 
+
+Score 0.461
+B. TAXONOMYNONELIGIBLE ACTIVITIES CapEx of Taxonomynoneligible activities B 
+
+Score 0.454
+We refer to the explanations provided by the Management in the section EU Taxonomy of the combined nonfinancial statement of the company and the group integrated into the combined management report pursuant to Sections b c HGB and Sections b c HGB. This section describes that the EU Taxonomy Regulation and its related delegated acts contain formulations and terms that are still subject to significant interpretative uncertainties for which clarifications have not yet been published in every case. The legal representatives explain how they have made the necessary interpretations of the EU Taxonomy Regulation and its related delegated acts. Due to the inherent risk that undefined legal terms may be interpreted differently the compliance of the interpretations with legal requirements is subject to uncertainties. Our audit opinion on the combined management report is not modified in this regard.
+
+Score 0.451
+Roles and responsibilities 
+
+Score 0.449
+The condition for including taxonomyeligible business activities in EU Taxonomy reporting is that external turnover is generated by a business activity that is consistent with the description of an economic activity in accordance with the delegated acts. If a business activity is allocated to a research and developmentrelated economic activity this must either generate external turnover or be associated with a capital expenditure CapEx andor operating expenditure OpEx. A materiality threshold of million applies in both cases. In the first case it must be satisfied by turnover associated with a business activity and in the second case either by turnover associated with a business activity or by capital expenditure or operating expenditure for this activity. 
+
+Score 0.448
+Miscellaneous other income includes income from hedging operational foreign exchange risks of million prior year million and a multitude of minor single items resulting from the prior year consolidated companies. The increase in miscellaneous other income mainly resulted from higher income in connection with compensation for electricity prices in the Steel Europe segment income from the entry into effect of a supply agreement classified as an embedded lease in the Materials Services segment and income from charging on costs to subsuppliers for remedying quality deficits in customer contracts in the Automotive Technology segment. 
+
+Score 0.448
+Selling and buying market related liabilities Liabilities to the employees Other liabilities social security Deferred income Other tax liabilities wo income taxes Miscellaneous Total 
+
+Score 0.443
+Miscellaneous other financial assets mainly include receivables in connection with agent activities claims from bonuses and discounts and receivables from price adjustments. Other financial assets in the amount of million prior year million have a remaining term of more than one year. As of September cumulative impairments amount to million prior year million regarding current other financial assets and million prior year million regarding noncurrent other financial assets. 
+
+Score 0.443
+TAXONOMYELIGIBLE BUSINESS ACTIVITIES OF THYSSENKRUPP 
+
+Score 0.438
+A single noncurrent asset is classified as held for sale if its carrying amount will be recovered principally through a sale transaction rather than through continuing use. The group reports assets and liabilities as a disposal group that will be disposed of by sale or otherwise in a single transaction which collectively meet the held for sale criteria as specified in IFRS Noncurrent Assets Held for Sale and Discontinued Operations. The group reports the assets and liabilities of a disposal group separately in the balance sheet line item assets held for saledisposal and liabilities associated with assets held for saledisposal respectively. Unless a disposal group qualifies for discontinued operations reporting the revenues and expenses of the disposal group remain within continuing operations until the date of disposal. The group reports the results of a disposal group that also qualifies as a separate component of the group as discontinued operations if it represents a separate major line of business or geographical area of operations. The group reports the results of discontinued operations in the period in which they occur separately within the consolidated statement of income as discontinued operations net of tax. All prior period consolidated statements of income are adjusted to report the results of the component within discontinued operations. In the consolidated statement of cash flows the cash flows resulting from discontinued operations are presented separately from cash flows resulting from continuing operations prior year presentation has been adjusted accordingly. On initial classification as held for sale noncurrent assets and disposal groups are recognized at the lower of the carrying amount and fair value less costs of disposal and depreciation and amortization ceases. Immediately before this a noncurrent asset or disposal group is initially measured in line with the respective IFRS standards to determine the carrying amount which is then compared to the fair value less costs of disposal of the group in order to recognize the group at the lower of both amounts. Impairment losses on initial classification as held for sale are included in profit or loss as are gains and losses on subsequent remeasurement but not in excess of the cumulative impairment loss.
+
+Score 0.436
+In order to determine thyssenkrupps taxonomyeligible business activities the delegated acts issued in respect of the environmental objectives of the EU Taxonomy were analyzed at group level by a team of experts. Those group business activities that are consistent with the description of an economic activity are assigned to the economic activities listed in the delegated acts. The resulting list of potential taxonomyeligible business activities is then assessed and finalized by experts from the segments and operating entities that perform the respective activity. This process also validates the conditions for the taxonomy eligibility of business activities that were already reported as taxonomyeligible in previous reporting periods. In fiscal year the following business activities of thyssenkrupp were reported as taxonomyeligible 
+
+Score 0.435
+Course of business 
+
+Score 0.433
+Operating expenditure related to taxonomyaligned business activities Operating expenditure as part of a CapEx plan Operating expenditure in accordance with EU Annex I No. .... lit. c Total thyssenkrupp annual report Combined management report EU Taxonomy
+
+Score 0.43
+A CapEx plan in accordance with Delegated Regulation EU exists if its objective is to expand the taxonomy alignment of the thyssenkrupp group. This can be achieved by enabling taxonomyeligible business activities to become taxonomyaligned or by expanding business activities that are already taxonomyaligned. A CapEx plan is reported at the level of economic activities and must be approved directly by the Executive Board of thyssenkrupp or a delegated body. 
+
+Score 0.43
+Trade accounts receivable excluding finance lease Contract assets Finance lease receivables Other financial assets Miscellaneous other financial assets Equity instruments Debt instruments Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Cash and cash equivalents Total of financial assets Financial debt excluding lease liabilities Lease liabilities Trade accounts payable Other financial liabilities Miscellaneous other financial liabilities Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Total of financial liabilities 
+
+Score 0.426
+Additions to abovementioned assets due to business combinations OpEx Research and development costs Expenses for shortterm or low value leases Expenses for building renovations and maintenance and repair measures for property plant and equipment 
+
+Score 0.425
+ non operational components of statement of income
+
+Score 0.423
+Income from companies accounted for using the equity method Interest income from financial receivables Income from investments Other finance income Finance income Interest expense from financial debt Net interest cost of pensions and similar obligations Other finance expenses Finance expense Total 
+
+Score 0.422
+Difference between cash and cash equivalents shown in the statement of financial position plus current debt instruments and current and noncurrent financial debt. The corresponding assets and liabilities of the disposal groups where applicable are also taken into account. Net financial assets are shown as a positive figure in the tables. 
+
+Score 0.422
+A. TaxonomyEligible but not environmentally sustainable activities not Taxonomyaligned Manufacture of renewable energy technologies 
+
+Score 0.421
+ Provisions for pensions and similar obligations Other provisions Trade accounts payable contract liabilities
+
+Score 0.42
+Substantial contribution criteria DNSH criteria Economic activities Code Sales ShareCCMCCA WTRPPC CEBIO CCMCCA WTRPPCCEBIO MS NCategory 
+
+Score 0.42
+Risks from operating activities include procurement risks production risks sales risks order risks risks associated with information security and personnel risks. 
+
+Score 0.419
+In the case of business activities that are considered in the screening procedure for taxonomy alignment in a reporting year suitable evidence is obtained for the sites of relevance to the performance of these activities on the basis of which it can be established that none of the aforementioned substances on their own in mixtures or in articles are manufactured placed on the market or used or that this is done only in accordance with the exemptions described above. Such evidence includes for example lists of substances with a CLP classification in accordance with Regulation EC No. declarations of conformity safety data sheets and declarations of RoHS compliance from the sites that perform the activities. 
+
+Score 0.419
+OpEx of Taxonomyeligible but not environmentally sustainable activities not Taxonomyaligned A. 
+
+Score 0.419
+Our offbalancesheet financing instruments also include the nonrecourse factoring of receivables from ordinary business activities which the group sold in the amount of . billion as of the reporting date prior year . billion. Continuing involvement exists for a portion of these receivables with a carrying amount of . billion prior year . billion. For details see Note Trade accounts receivable. Should financing instruments of this kind no longer be available in the future we have adequate liquid funds and available credit lines of . billion. 
+
+Score 0.418
+Continuing operations 
+
+Score 0.416
+Sales of Taxonomyeligible but not environmentally sustainable activities not Taxonomyaligned A. 
+
+Score 0.415
+Management respectively supervisory board are responsible for the other information. The other information comprises the following components of the combined management report whose content was not audited
+
+Score 0.415
+Finance lease receivables Other financial assets Miscellaneous other financial assets Equity instruments Debt instruments Derivatives not qualifying for hedge accounting Derivatives qualifying for hedge accounting Cash and cash equivalents Total of financial assets
+
+Score 0.413
+Sales Revenue from contracts with customers IFRS Revenue from leases IFRS CapEx Additions to property plant and equipment IAS Additions to investment property IAS Additions to intangible assets IAS Additions to rightofuse assets from leases IFRS excluding amortisation and revaluations including those from reversals of impairment losses and impairments
+
+Score 0.413
+Property plant and equipment inclusive of investment property Inventories Trade accounts receivable Other current financial assets Other current nonfinancial assets Current income tax assets Cash and cash equivalents Assets held for sale Provisions for pensions and similar obligations Other current provisions Current income tax liabilities Trade accounts payable Other current nonfinancial liabilities Liabilities associated with assets held for sale 
+
+Score 0.411
+Revenue from contracts with customers is recognized when the included distinct performance obligations i.e. the distinct goods or services promised in the contract are transferred to the customer. Transfer takes place when the customer obtains control of the promised goods or services. This is generally the case when the customer has the ability to direct the use of and obtain substantially all of the remaining benefits from the transferred goods or services. Revenue from contracts with customers corresponds to the transaction price. The transaction price includes variable consideration only to the extent it is highly probable that actual occurrence of the variable consideration will not result in a significant revenue reversal. Variable consideration can include for example volume discounts delay penalties early completion incentives or credits in connection with bonus agreements. The transaction price is not adjusted for a financing component mainly because the period between the transfer of goods and services and the date of payment by the customer is generally less than twelve months. Where a contract with a customer has multiple distinct performance obligations the transaction price is allocated to the performance obligations by reference to their relative standalone selling prices. The standalone selling prices are determined on the basis of directly observable market prices or using recognized estimation methods. If distinct performance obligations are satisfied acting as an agent the revenue recognized is not the gross amount payable by the customer but only the net amount retained as a commissionlike fee for the respective performance obligation. 
+
+Score 0.409
+The main special items related to restructuring expenses for adjusting capacities at Automotive Body Solutions Automation Engineering and Bilstein in response to lower volume sales expectations. Added to these were asset impairments mainly at Forged Technologies Automotive Body Solutions and Springs Stabilizers also due to lower volume sales expectations. 
+
+Score 0.407
+In presenting information for geographical areas allocation of sales is based on the location of the customer. Allocation of segment assets and capital expenditures is based on the location of the assets. Capital expenditures are presented in line with the definition of the cash flow statement. There are no individual customers that generate sales values that are material to the groups consolidated net sales. 
+
+Score 0.406
+The taxonomyeligible turnover CapEx and OpEx of thyssenkrupp cover the parameters and their individual items explained at the start of this section which during a reporting period are assigned to the groups taxonomyeligible business activities directly or using the allocation mechanisms described. Likewise the taxonomyaligned turnover CapEx and OpEx cover the parameters and their individual items which during a reporting period are assigned to the groups taxonomyaligned business activities directly or indirectly. Moreover taxonomyaligned turnover CapEx and OpEx may also include amounts that are part of a CapEx plan or are incurred for special individual measures as explained in more detail in the following paragraphs. Taxonomynoneligible turnover CapEx and OpEx are those that cannot be allocated to any of the economic activities listed in the delegated acts. 
+
+Score 0.404
+Continuing operations are operations that are not defined by IFRS as discontinued operations. 
+
+Score 0.403
+Noncash financing activities 
+
+Score 0.402
+Further activities in the reporting year relating to each of the three elements of the compliance program can be summarized as follows 
+
+Score 0.402
+Pension obligations Partial retirement Other pensionrelated obligations Reclassification due to the presentation as liabilities associated with assets held for sale Total 
+
+Score 0.402
+Sales of environmentally sustainable activities Taxonomyaligned A. 
+
+Score 0.401
+Substantial contribution criteria DNSH criteria Economic activities Code OpEx ShareCCMCCA WTRPPC CEBIO CCMCCA WTRPPCCEBIO MS NCategory 
+
+Score 0.101
+million TotalForeign currency risk Interest risk
+
+Score 0.042
+Commodity price risk
+
+Score 0.134
+Derivatives that qualify for hedge accounting Fair value hedges 
+
+Score 0.279
+The gross carrying amounts impairment losses and average probabilities of default for each segment are shown below. 
+
+Score 0.17
+million Gross carrying amountExpected credit lossDefaults Total of impairmentsAverage probability of default
+
+Score 0.328
+IMPAIRMENTS OF TRADE ACCOUNTS RECEIVABLE AND CONTRACT ASSETS BY SEGMENTS AS OF SEPT. 
+
+Score 0.183
+CHANGES IN OTHER COMPREHENSIVE INCOME RESULTING FROM CASH FLOW HEDGES BY TYPE OF RISK 
+
+Score 0.23
+For the loans from the Elevator investment expected impairment losses of million prior year million were recognized as of September . The calculation of the probability of default is based on the credit spread included in the discount rate when determining the fair value of the loans. On the other financial assets measured at amortized cost or at fair value through other comprehensive income or on finance lease receivables there were no significant changes in impairment losses in the and in the fiscal year respectively. The expected default rates for trade accounts receivable are mainly derived from external credit information and ratings for each counterparty which allows more accurate calculation of the probability of default compared with the formation of rating classes. The customer risk numbers assigned by trade credit insurers and the creditworthiness information provided by credit agencies are translated into an individual probability of default per customer using a central allocation system. This individual probability of default per customer is used uniformly throughout the thyssenkrupp group. The information is updated quarterly. If no rating information is available at counterparty level an assessment is made based on the average probability of default for each segment plus an appropriate risk premium. For the group financial statements as of September the latest external credit information and ratings were used. The defaults refer in particular to insolvency cases that could not be derived from the rating information in the prior year. 
+
+Score 0.17
+million Gross carrying amountExpected credit lossDefaults Total of impairmentsCarrying amount
+
+Score 0.234
+Balance as of Oct. Net unrealized gainslosses on designated risk component Net unrealized gainslosses on hedging costs Net realized gainslosses Tax effect Balance as of Sept. Net unrealized gainslosses on designated risk component Net unrealized gainslosses on hedging costs Net realized gainslosses Tax effect Balance as of Sept. 
+
+Score 0.2
+IMPAIRMENT OF TRADE ACCOUNTS RECEIVABLE RECOGNIZED AT FAIR VALUE IN EQUITY 
+
+Score 0.327
+As of September net income from the ineffective portions of derivatives classified as cash flow hedges totaled million prior year million. In the subsequent fiscal year fluctuations in fair value of derivatives included in cumulative other comprehensive income as of the reporting date is expected to impact earnings by income of million. During the fiscal year earnings are expected to be impacted by income of million in the fiscal year by expenses of million and in the following fiscal years by expenses of million. The cancellation of cash flow hedges during the current fiscal year resulted in earnings of million prior year million due to reclassification from cumulative other comprehensive income. These fluctuations in fair value of derivatives originally recognized in equity were reclassified to profit or loss when the hedged underlying transactions in form of currency hedged sales were no longer probable to occur. 
+
+Score 0.357
+The gross carrying amounts and the impairment losses on trade accounts receivable recognized at fair value recognized in equity developed as follows 
+
+Score 0.226
+Automotive Technology .Decarbon Technologies .Materials Services .Steel Europe .Marine Systems
+
+Score 0.246
+Fair value hedges are mainly used to hedge the exposure to changes in fair value of a firm commitment and exposure to inventory price risks as well as to hedge interest rate risks. The incomeexpense from these hedges and the hedged underlying transactions are generally shown in the same profit and loss item. 
+
+Score 0.259
+The following table shows the development of other comprehensive income from cash flow hedges by risk type 
+
+Score 0.286
+Automotive Technology .Decarbon Technologies .Materials Services .Steel Europe .Marine Systems .Corporate Headquarters .Reconciliation .
+
+Score 0.127
+Cash flow hedges 
+
+Score 0.255
+million Notional amount as of Sept. Carrying amount as of Sept. Notional amount as of Sept. Carrying amount as of Sept. 
+
+Score 0.313
+The presentation of the gross values of contract assets as of Oct. and Sept. has been adjusted see Note . 
+
+Score 0.255
+Cash flow hedges are mainly used to hedge future cash flows against foreign currency and commodity price risks arising from future sales and purchase transactions as well as interest rate and foreign currency risks from noncurrent liabilities. In the case of cash flow hedges too the earnings effect of the hedging instruments is generally also shown in the same profit and loss item as the hedged underlying transaction. 
+
+Score 0.321
+DERIVATIVE FINANCIAL INSTRUMENTS 
+
+Score 0.241
+The following table shows the notional amounts and fair values of derivatives used within the group 
+
+Score 0.323
+The group uses various derivative financial instruments including foreign currency forward contracts foreign currency options interest rate swaps cross currency swaps and commodity forward contracts. Derivative financial instruments are generally used to hedge existing or anticipated underlying transactions so as to reduce foreign currency interest rate and commodity price risks. In some cases the derivatives are designated as hedging instruments for hedge accounting purposes. 
+
+Score 0.243
+The maximum credit risk exposure of the financial assets subject to the impairment models corresponds to the gross carrying amounts less the recognized impairment losses. The gross carrying amounts were secured by letters of credit credit insurances sureties and guarantees amounting to million prior year million.
+
+Score 0.304
+The following table shows the carrying amounts of derivatives qualifying for hedge accounting the designated portion of the hedging instruments and changes in the fair values of hedged items by hedged risk type and type of hedge. Derivative assets and liabilities are part of other financial assets and liabilities. 
+
+Score 0.311
+Cash flows from future transactions are currently hedged for a maximum of months. During the current fiscal year million prior year million of cumulative other comprehensive income was reclassified to sales in profit or loss as a result of the underlying transactions being realized during the year. In addition million from the reserve for cash flow hedges was reclassified to decrease cost of inventories prior year million to decrease cost of inventories as the hedged commodities were recognized. For million the expense effect was already recognized at the time the provision was created in the fiscal year . For the current fiscal year there was a reduction in expenses of million prior year million. Furthermore million of income will impact earnings in . 
+
+Score 0.243
+INFORMATION ON HEDGING INSTRUMENTS IN THE CONTEXT OF CASH FLOW HEDGES AND FAIR VALUE HEDGES 
+
+Score 0.165
+ Figures have been adjusted see Note . 
+
+Score 0.292
+Carrying amount on balance sheet Sept. million Derivative assetsDerivative liabilities Designated part of hedging instrumentsFair value change of hedged item
+
+Score 0.326
+Assets Foreign currency derivatives that do not qualify for hedge accounting Foreign currency derivatives qualifying as cash flow hedges Embedded derivatives Interest rate derivatives that do not qualify for hedge accounting Commodity derivatives that do not qualify for hedge accounting Commodity derivatives qualifying as cash flow hedges Total Equity and liabilities Foreign currency derivatives that do not qualify for hedge accounting Foreign currency derivatives qualifying as cash flow hedges Embedded derivatives Interest rate derivatives that do not qualify for hedge accounting Commodity derivatives that do not qualify for hedge accounting Commodity derivatives qualifying as cash flow hedges Total 
+
+Score 0.118
+ Interest rate derivatives qualifying as cash flow hedges

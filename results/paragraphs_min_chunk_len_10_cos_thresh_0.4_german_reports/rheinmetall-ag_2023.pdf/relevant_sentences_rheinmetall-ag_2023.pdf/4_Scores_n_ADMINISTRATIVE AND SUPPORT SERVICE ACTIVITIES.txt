@@ -1,0 +1,299 @@
+Scores_n_ADMINISTRATIVE AND SUPPORT SERVICE ACTIVITIESScore 0.565
+Business activities and markets 
+
+Score 0.522
+A portion of the taxonomyeligible and taxonomyaligned operating expenditure could be allocated to salesrelated activities. The majority of our taxonomyeligible operating expenditure relates to areas in research and development that serve to expand taxonomyeligible andaligned activities. They are intended to lead to additional taxonomyeligible sales and thus underscore the importance already attached to alternative drive technologies. In addition operating expenditure for building refurbishment measures as well as maintenance and repair of property plant and equipment has been identified that could be classified as taxonomyeligible or taxonomyaligned within the meaning of the EU Taxonomy Regulation. 
+
+Score 0.513
+Nonfinancial aspects of business activities 
+
+Score 0.508
+ External Sales Vehicle Systems External Sales Weapon and Ammunition External Sales Electronic Solutions External Sales Sensors and Actuators External Sales Materials and Trade OthersConsolidation Group sales in of worldwide Group sales Noncurrent assets 
+
+Score 0.506
+In terms of sales of our business activities fall under the classification system of the EU Taxonomy Regulation. of total sales meets the requirements for taxonomy alignment. With the possible upcoming revisions of the legal texts and interpretations of the industries future changes to the classifications cannot be ruled out at the present time. We will also continue to take taxonomy alignment requirements into account in all process steps in order to steadily increase these in subsequent years. 
+
+Score 0.478
+The Group generates sales from the transfer of goods and services in areas of security technology and mobility. Sales from the real estate development sector are also recognized in the other companies. The following table shows the timing of sales recognition broken down by segment. 
+
+Score 0.47
+Convertible bond Promissory notes Bank liabilities Leasing Commercial Papers Other Total year year year year As of Cash changes Borrowing of financial debts Repayment of financial debts Noncash changes Currency differences Adjustment in scope of consolidation Addition of rightofuse assets Book transfers As of and Cash changes Borrowing of financial debts Repayment of financial debts Noncash changes Currency differences Adjustment in scope of consolidation Interest Addition of rightofuse assets Book transfers As of 
+
+Score 0.463
+ Audit services . Other attestation services . Tax services . Other services . . 
+
+Score 0.461
+ Provisions for pensions and similar obligations Other noncurrent provisions Noncurrent financial debts Other noncurrent liabilities Deferred taxes Noncurrent liabilities Other current provisions Current financial debts Contract liabilities Trade liabilities Other current liabilities Income tax liabilities Liabilities directly associated with assets held for sale Current liabilities Total equity and liabilities
+
+Score 0.46
+Group.operating result marging around operating result marging around operating result marging around operating result marging around ..Vehicle Systems.operating margin of to operating margin of to operating margin of to operating margin of to ..Weapon and Amunition.operating margin of to operating margin of to operating margin of to operating margin of to ..Electronic Solutions.operating margin of to operating margin of to operating margin of to operating margin of to ..Sensors and Actuators.operating margin of to operating margin of to operating margin of to operating margin of to ..Materials and Trade.operating margin of to operating margin of to operating margin of to operating margin of to ..OFCF in relation to salesGroup million. to to to to ..
+
+Score 0.456
+Land land rights and buildings Production plant and machinery Other plant factory and office equipment Prepayments made and construction in progress Total As of Additions Disposals Book transfers Adjustments in scope of consolidation Currency differences As of and Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of 
+
+Score 0.452
+ Other noncurrent assets Noncurrent assets Inventories Trade receivables Other current assets Current assets Provisions Other noncurrent liabilities Noncurrent liabilities Provisions Trade liabilities Other current liabilities Current liabilities 
+
+Score 0.451
+Years Buildings Other structures Equivalent titles Production plant and machinery Other plant factory and office equipment 
+
+Score 0.45
+Notes Sales Changes in inventories and work performed by the enterprise and capitalized Total operating performance Other operating income Cost of materials Personnel costs Amortization depreciation and impairment Other operating expenses Result from investments accounted for using the equity method
+
+Score 0.447
+While recording this a distinction was made between business activities that are always associated with the intention of generating external sales and those that are not. The activities aimed at generating sales regardless of whether sales capital expenditures or operating expenditures were concerned were examined for possible doublecounting effects as there is a risk of this with regard to internal value added in particular. This approach has eliminated existing uncertainties. In the case of manufacturing overheads procedures were applied that assumed an interdependence between sales and operating costs of the respective product. It was not possible to break down the overhead costs separately. However this procedure ensured that there was no double counting. Activities that pursue a goal other than generating sales particularly energyrelated measures were analyzed on the basis of itemizations. This did not reveal any anomalies. 
+
+Score 0.442
+Goodwill Development costs Sundry other intangible assets Total As of Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of and Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of 
+
+Score 0.44
+ Purchased goods and services t COe Use of sold products t COe Rheinmetall Group t COe 
+
+Score 0.438
+We refer to the explanations of the executive board in the section EU taxonomy contained in the section Nonfinancial statement of the combined management report. There it is stated that some of the wording and terminology contained in the EU Taxonomy Regulation and the delegated acts adopted thereon are still subject to considerable interpretation uncertainty and have not yet been officially clarified. The executive board sets out how it has made the necessary interpretation of the EU Taxonomy Regulation and the delegated acts adopted thereon. As there is the inherent risk that indefinite legal concepts may allow for various interpretations the legal conformity of the interpretation is prone to uncertainty. Our audit opinion on the combined management report was not modified in this respect. 
+
+Score 0.437
+Classification of other provisions 
+
+Score 0.437
+Principal topics discussed by the Supervisory Board 
+
+Score 0.436
+protection of water and marine resources and environmental objective protection and restoration of biodiversity and ecosystems in the classification of economic activities phase. In the Annexes to Environmental Objectives of the Delegated Regulation there were also some changes to the wording regarding compliance with the NACE codes which stipulate a stricter interpretation. While the wording a The economic activities in this category could be associated with several NACE codes is always used in environmental objectives climate change mitigation and climate change adaptation the categories in environmental objectives now often contain the wording b The economic activity relates to ... classified under the NACE codes. The wording a suggests an optional formulation so that economic activities that do not fall under the listed NACE codes but can be clearly assigned to a category on the basis of the other criteria are considered taxonomyeligible. Wording b on the other hand can be understood as a mandatory formulation meaning that economic activities that cannot be assigned to the NACE codes mentioned are considered nontaxonomyeligible. According to EU Annex I the Capital expenditure and Operating expenditure KPIs are subdivided as A directly attributable to a taxonomyeligible oraligned activity B serving to expand taxonomyeligible andaligned activities or C relating to the acquisition of production from taxonomyaligned economic activities and to individual measures through which the target activities are carried out in a lowcarbon manner or the emission of greenhouse gases is reduced. Derived from this the assignment of the category sets first identified the salesgenerating economic activities and the associated capital and operating expenditure. In addition any values that did not generate sales in the reporting period but could be assigned to categories B or C were identified. In a second step the sets of categories were applied to the economic activities of the divisions. To gain an initial estimate of the taxonomy eligibility in the expected annual values were also added. In addition these were used to determine an internal materiality limit as the granularity in the determination made possible by the EU Taxonomy Regulation in particular for C capital expenditure cannot yet be fully technically implemented. The materiality limit for comparability is based on the methodology of previous years which is approximately of the taxonomyeligible totals of sales operating expenditure and investments less special effects. Special effects are business activities that are not part of the companys core business are nonrecurring in nature and have a significant impact on earnings. These include for example the oneoff purchase of buildings by Rheinmetall Immobilien Gesellschaft for rental or resale. No significant deviations in the projected annual value were identified by the materiality limit. In the third phase the determined economic activities of Rheinmetall AG were finally checked for their taxonomy alignment. A distinction was made between requirements to be examined for each individual economic activity itself such as the substantial contribution and specific DNSH criteria requirements relating to the locations and requirements covered by Groupwide compliance. The latter particularly applies to the requirements of the minimum safeguards. For the Annexes of the Delegated Regulation on the new environmental objectives published in June and the additions to the existing annexes of environmental objectives and a soft landing will be carried out again this year so that no conformity check will be carried out and all economic activities identified here will be reported as taxonomycompliant. Due to the reclassification of economic activities in the automotive sector from category . Manufacture of other low carbon technologies to the new category . Manufacture of automotive and mobility components this leads to a oneoff significant change in the KPIs this year compared to the previous year. Due to the full reporting obligation for taxonomy eligibility and alignment for all environmental objectives taxonomy alignment is expected to increase again from the fiscal year. With the results the KPIs of the EU Taxonomy Regulation have been conclusively evaluated for the Rheinmetall Group.
+
+Score 0.434
+ . . . . . . . ORDER INFORMATION Booked Business million Frame Nomination million Frame Utilization million Order Intake million Rheinmetall Nomination million Nominated Backlog million Frame Backlog million Order Backlog million Rheinmetall Backlog December million CASH FLOW Cash flow from operating activities million Cash flow from investments million Operating free cash flow million Of which continuing operations
+
+Score 0.432
+Goodwill Development costs Sundry other intangible assets Total As of Current period Disposals Adjustment in scope of consolidation Currency differences As of and Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.431
+Activities in the field of acquisition and management of property in buildings fall under Category . of the EU Taxonomy Regulation. Here in particular sales from the rental of buildings or the purchase of a property are to be recognized as taxonomyeligible. The construction of new buildings for own use should also be included here. The majority of the economic activities assigned to this category do not meet the criteria for a significant contribution. In Düsseldorf however Rheinmetall Immobilien Gesellschaft mbH generates taxonomyaligned sales from the rental of the DeltaD office building. As this was built in accordance with the DGNB Gold standard it can be assumed that the building meets the criteria for the significant contribution.
+
+Score 0.426
+As of Earnings after taxes Other comprehensive income after taxes Total comprehensive income Dividend payout Change in basis of consolidation Book transfers Other changes As of As of Earnings after taxes Other comprehensive income after taxes Total comprehensive income Dividend payout Change in scope of consolidation Book transfers Other changes As of 
+
+Score 0.425
+Operating result Corporate transactions Restruc turing Others Special items PPA effects EBIT Rheinmetall Group Vehicle Systems Weapon and Ammunition Electronic Solutions Sensors and Actuators Materials and Trade Othersconsolidation 
+
+Score 0.424
+Business performance in the segments 
+
+Score 0.423
+Nonfinancial undertakings must disclose material information on investment planning for each of their specified economic activities. There is currently no clear interpretation of what the investment plan includes meaning that different interpretations exist with regard to the market. As part of its investment planning Rheinmetall considers all investments that are planned for current and future taxonomyaligned activities. Investments that serve to convert current taxonomyeligible business into future taxonomyaligned business are also considered. In addition to capital expenditure noncapitalized development costs for taxonomyaligned business activities are 
+
+Score 0.422
+Other operating expenses 
+
+Score 0.421
+At the beginning of fiscal year the existing key order figures were further developed with the aim of establishing a crosssegment indicator for Groupwide sales activity and the future sales potential of the Rheinmetall Group. As a new order indicator Rheinmetall Backlog comprises the previously used order backlog key figure as well as the new frame backlog and nominated backlog key figures. The frame backlog reflects the expected future calloffs from existing framework agreements for the security business which are converted into order backlog when called off by the customer. Based on existing written agreements and framework contracts with customers the nominated backlog figure shows the future calloffs expected for the civil business from these customer agreements. The sales resulting from the frame backlog and the nominated backlog may differ from the corresponding amounts depending on the final calloff quantities. The new Rheinmetall Nomination indicator is composed of the previously used order intake and booked business indicators as well as the new flow indicator for the security business the frame nomination. Similarly to the booked business indicator used for the civil business this represents the expected value of new framework agreements concluded with customers. Like booked business frame nomination does not yet represent binding customer orders so actual calloff volumes and the resulting sales may vary. The frame backlog is converted into order backlog by way of the calloffs reported as order intake. Within Rheinmetall Nomination this change is presented as frame utilization. 
+
+Score 0.42
+Personnel provisions essentially relate to variable remuneration of million previous year million and obligations from vacation overtime and flexitime accounts of million previous year million. Provisions for restructuring mainly relate to termination settlements and expenses for partial retirement obligations. The provisions for contractrelated costs comprise offset obligations of million previous year million contractual penalties of million previous year million price review risks of million previous year million contractrelated commissions of million previous year million and other contract costs of million previous year million. Miscellaneous provisions relate to environmental risks at million previous year million rebates and bonuses at million previous year million as well as other individual provisions. 
+
+Score 0.42
+In the following presentation of information by geographical region foreign sales of Vehicle Systems Weapon and Ammunition and Electronic Solutions are reported based on the country of destination while external sales of Sensors and Actuators and Materials and Trade are reported according to where the customer is based. Noncurrent assets include intangible assets rightofuse assets property plant and equipment and investment property according to the respective location of the company. 
+
+Score 0.419
+As of Earnings after taxes Other comprehensive income after taxes Total comprehensive income Dividend payout Disposal of treasury shares Changes in shares in subsidiaries Convertible Bond Change in basis of consolidation Book transfers Other changes As of As of Earnings after taxes Other comprehensive income after taxes Total comprehensive income Dividend payout Disposal of treasury shares Changes in shares in subsidiaries Convertible Bond Change in scope of consolidation Book transfers Other changes As of 
+
+Score 0.419
+Property land Property buildings Passenger cars Other rightof use assets Total As of Current period Disposals Book transfers Currency differences As of and Current period Disposals Book transfers Adjustments in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.418
+Land land rights and buildings Production plant and machinery Other plant factory and office equipment Prepayments made and construction in progress Total As of Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of and Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.417
+ Inventories and receivables Pension provisions Other provisions Liabilities
+
+Score 0.412
+ Of which current Of which noncurrent Of which current Of which noncurrent Derivatives Receivables from contracts with customers Receivables from finance leases Bonds Other Financial assets Other taxes Contract acquisition costs Contract costs Subsidiesgrants receivable Prepaid expenses Pension reimbursement claims Net definded benefit from plan assets Reimbursement claims from insurances Other Nonfinancial assets Other assets 
+
+Score 0.409
+Amendments to IAS and IFRS Supplier Finance Arrangements Amendments to IAS Lack of Exchangeability Amendments to IFRS and IAS Sale or Contribution of Assets between an Investor and its Associate or Joint Venture Date of initial application postponed indefinitely 
+
+Score 0.409
+ Inventories Contract assets Trade receivables Other current assets Income tax receivables Securities held for trade Cash and cash equivalents Assets held for sale
+
+Score 0.408
+ Noncontrolling interests included in equity Dec. Assets Dec. Of which noncurrent Of which inventories Liabilities Dec. Of which noncurrent Sales Earnings after taxes Of which from minority interests Total comprehensive income Of which from minority interests Cash flows from operating activities 
+
+Score 0.405
+Standard Name Effective date Amendments to IAS Disclosure of Accounting Policies Amendments to IAS Definition of Accounting Estimates Amendments to IAS Deferred Tax related to Assets and Liabilities arising from a Single Transaction Amendments to IAS International Tax Reform Pillar Two Model Rules IFRS including Amendments to IFRS Insurance Contracts 
+
+Score 0.402
+ Remeasurement of net defined benefit liability from pensions Other comprehensive income from investments accounted for using the equity method Amounts not reclassified to the income statement Change in value of derivative financial instruments cash flow hedge Currency translation difference Other comprehensive income from investments accounted for using the equity method
+
+Score 0.401
+. Operating expenses 
+
+Score 0.401
+For the Vehicle Systems segment we anticipate a considerable increase in sales of between and in fiscal supported in particular by the continued production of the Lynx infantry fighting vehicle for the Hungarian customer and by further deliveries of swap body systems for various customers as well as ring exchanges segment sales in million. The operating margin is expected to range from to segment margin in .. Based on the very good order situation and rising sales in the core business ammunition we anticipate considerable sales growth of between and in the Weapon and Ammunition segment in fiscal segment sales in million. The operating margin is expected to range from to segment margin in .. For the Electronic Solutions segment we anticipate significant sales growth of to in underpinned by deliveries for the large systems projects in the Vehicle Systems segment and business for our air defence systems and associated followup deliveries of components with international customers segment sales in million. The operating margin is expected to range from to segment margin in .. For the new Power Systems segment which will exist from January and which combines the former Sensors and Actuators SA and Materials and Trade MT divisions we expect sales growth of around in the current fiscal year based on the forecast development in international light vehicle and truck production in and the continued growth of the aftermarket business pro forma segment sales in million. The operating margin is expected be around pro forma segment margin in .. 
+
+Score 0.268
+In addition to fixed remuneration and committee remuneration Supervisory Board members receive a meeting attendance fee. The attendance fee for Supervisory Board meetings is . The attendance fee for committee meetings that are not held on the same day as a Supervisory Board meeting is . Supervisory Board and committee members who belonged to the Supervisory Board or a committee for only part of the fiscal year receive remuneration on a pro rata temporis basis. In addition Rheinmetall AG reimburses Supervisory Board members for expenses incurred for Supervisory Board meetings upon request. Each member of the Supervisory Board with the exception of the employee representatives is required to deploy of the fixed remuneration paid for acquiring shares in Rheinmetall AG and to hold the shares for the length of the membership in the Supervisory Board. Compliance with the holding obligation is to be demonstrated to Rheinmetall AG. The aforementioned obligation to buy shares does not apply to remuneration that has not yet been paid at the time of departure from the Supervisory Board. The claim to the part of the remuneration referred to in Article sentence of the Articles of Association does not apply retroactively if the member of the Supervisory Board partly or fully sells or loans the acquired shares before his departure from the Supervisory Board. The Supervisory Board members are covered by any directors and officers liability insurance that has been taken out by Rheinmetall AG in its own interests in an appropriate amount and with an appropriate deductible for members of management bodies and certain other managers. The premiums for this are paid by Rheinmetall AG. The shareholder representatives on the Supervisory Board in office as of December received the following remuneration for fiscal year 
+
+Score 0.343
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Remuneration of the Supervisory Board 
+
+Score -0.045
+ . . . . . . KlausGünter Vennemann . . . . . . 
+
+Score 0.269
+Compensation granted and owed earningsoriented interpretation for employee representatives on the Supervisory Board in office as of December 
+
+Score 0.278
+Compensation granted and owed earningsoriented interpretation to shareholders in office on the Supervisory Board as of December 
+
+Score 0.242
+Fixed remuneration Committee remuneration Attendence fee Total renumeration EUR EUR EUR Ulrich Grillo . . . Chairman of the Supervisory Board . . . Prof. Dr. Dr. h.c. Sahin Albayrak . . . . . . Dr.Ing. Dr.Ing. E. h. Klaus Draeger . . . . . . Prof. Dr. Andreas Georgi . . . . . . Dr. Britta Giesen . . . . . . Prof. Dr. Susanne Hannemann . . . . . . Louise Öfverström
+
+Score 0.23
+The employee representatives on the Supervisory Board in office as of December received the following remuneration for fiscal year 
+
+Score 0.102
+ One attendance fee from settled in Figures exclude valueadded tax
+
+Score 0.148
+RHEINMETALL ANNUAL REPORT 
+
+Score 0.205
+Fixed remuneration Committee remuneration Attendence fee Total renumeration EUR EUR EUR Dr. Daniel Hay
+
+Score 0.075
+Comparative representation 
+
+Score 0.255
+Letter to shareholders Combined management report Consolidated financial statement Further information Supplementary report RHEINMETALL ANNUAL REPORT 
+
+Score 0.027
+Rheinmetall AG Rheinmetall AG 
+
+Score 0.228
+The remuneration of Rheinmetall employees is shown on the basis of average personnel expenses for employees fulltime equivalents of the Rheinmetall Group in Germany not including the Pistons business unit. The salaries include performancebased remuneration additional payments fringe benefits social security and special payments. In line with the remuneration granted and owed in accordance with section AktG pension expenses are not included. Düsseldorf March The Executive Board Rheinmetall AG 
+
+Score 0.276
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Comparison of yearonyear change in remuneration 
+
+Score 0.023
+ One attendance fee from settled in 
+
+Score 0.133
+ The change in percent is based on exact nonrounded figures in euro 
+
+Score 0.144
+ . KlausGünter Vennemann . . . Dr. Daniel Hay . . . Ralf Bolm . . . Murat Küplemez . Dr. Michael Mielke . . . Reinhard Müller . . . Dagmar Muth . . . Barbara Resch . . . Sven Schmidt . . Employees remuneration of employees . . . Earnings trend Net income Rheinmetall AG in million . . . Adjusted EBT of Rheinmetall Group million . . . 
+
+Score 0.192
+ TEUR On December incumbent members of the executive board Armin Papperger . . . Peter Sebastian Krause . . . Dagmar Steinert . Former members of the executive board Helmut P. Merch . . . Jörg Grotendorst . . . Klaus Eberhardt . Horst Binnig . . On December incumbent supervisory board members Dipl.Kfm. Ulrich Grillo . . Prof. Dr. Dr. h.c. Sahin Albayrak . . Dr.Ing. Dr. Ing. E.h. Klaus Draeger . . . Prof. Dr. Andreas Georgi . . . Dr. Britta Giesen . . Prof. Dr. Susanne Hannemann . . . Louise Öfverström
+
+Score 0.242
+The table below shows the yearonyear change in remuneration Rheinmetalls earnings development and the average remuneration of Rheinmetall employees on the basis of fulltime equivalents. 
+
+Score 0.165
+ . . . Deputy chairman of the Supervisory Board . . . Ralf Bolm
+
+Score 0.112
+Comparison of yearonyear change in remuneration 
+
+Score 0.266
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Comparison of yearonyear change in remuneration RHEINMETALL ANNUAL REPORT 
+
+Score 0.278
+ These employee representatives in the Supervisory Board and the trade union representatives in the Supervisory Board have declared that they will transfer most of their remuneration to the Hans Böckler Foundation in accordance with the trade union regulations. Figures exclude valueadded tax 
+
+Score -0.011
+ . . . . Sven Schmidt
+
+Score -0.038
+ . . . . . . Barbara Resch
+
+Score 0.225
+Remuneration of the members of the Supervisory Board and its committees 
+
+Score -0.043
+ . . . . Dr. Michael Mielke . . . . Reinhard Müller
+
+Score 0.005
+ . . . . . . Murat Küplemez
+
+Score -0.025
+ . . . . . . Dagmar Muth
+
+Score 0.2
+. Remuneration granted and owed in fiscal year former Executive Board members 
+
+Score 0.245
+In accordance with section sentence AktG the annual general meeting of a listed company must resolve on the remuneration and the remuneration system for the members of the Supervisory Board at least every four years. On May Rheinmetall AGs Annual General Meeting approved the Supervisory Board remuneration regulation put to the vote under agenda item with a clear majority of .. The aim of the remuneration is to strengthen the independence of the Supervisory Board as a supervisory body and to take into account the functionspecific time burdens and responsibilities. This is achieved through the highlighted remuneration for the Chair and Vice Chair of the Supervisory Board and the additional remuneration for work on committees. The remuneration regulations for the Supervisory Board applicable for fiscal year are set out in Article of the Articles of Association of Rheinmetall AG and are shown in the diagram below
+
+Score 0.177
+Remuneration of the Supervisory Board 
+
+Score 0.05
+Born Nationality German Finance and Controlling ZF Friedrichshafen AG
+
+Score 0.211
+Vorsitzender Dagmar Steinert Business graduate CFO December to November iG Nyrt.
+
+Score 0.11
+Born Nationality German Human Resources Rheinmetall Waffe Munition GmbH
+
+Score 0.124
+Chairman Peter Sebastian Krause Lawyer Director of Industrial Relations January to December Rheinmetall Electronics GmbH
+
+Score 0.108
+Chairman The Dynamic Engineering Solution Pty Ltd Deputy Chairman of the Supervisory Board Rheinmetall MAN Military Vehicles GmbH
+
+Score 0.092
+Chairman Born Nationality German Rheinmetall Landsysteme GmbH
+
+Score 0.226
+Positionarea Appointments Membership in Supervisory Boards Armin Papperger Engineering graduate Chairman January to December Rheinmetall Automotive AG
+
+Score 0.335
+Members of the Executive Board and mandates of the Executive Board members 
+
+Score 0.251
+The Executive Board remuneration covers all activities for Rheinmetall AG and for services performed with Rheinmetall AG in accordance with sections et seq. of the German Stock Corporation Act. If remuneration is agreed for mandates at affiliated companies this is offset against the basic remuneration. For mandates at companies that are not affiliated companies or for functions in associations or similar groups to which Rheinmetall AG or one of its affiliated companies belongs the Supervisory Board decides on settingoff. In fiscal year the Executive Board members held the following mandates at affiliated and nonaffiliated companies 
+
+Score 0.251
+. Remuneration for mandates 
+
+Score 0.197
+termination of the employment contract of the Executive Board is excluded. It is possible however for both the Executive Board member concerned and Rheinmetall AG to terminate the contract for cause. Automatic termination is also stipulated in the event that the Executive Board member becomes permanently unable to work during the term of their contract. The Executive Board contracts stipulate that the contract shall end automatically at the latest at the end of the month in which the Executive Board member reaches the standard retirement age under the statutory pension scheme or at the time when they draw a statutory retirement pension before reaching the standard retirement age. In the event of termination of an Executive Board employment contract any outstanding variable remuneration components attributable to the period up to termination of the contract are paid out in accordance with the originally agreed targets and comparison parameters and in accordance with the due dates or holding periods specified in the contract. The remuneration system also provides for a severance payment cap. Under this payments to an Executive Board member that are agreed upon with the member concerned in the event of premature termination without cause of the Executive Board contract including fringe benefits must not exceed the value of two annual remuneration payments and must not remunerate more than the remaining term of the Executive Board members contract. The Executive Board contracts do not provide for any special arrangements for a severance payment in the event of a change of control. 
+
+Score 0.207
+In the event that either Rheinmetall AG or the Executive Board member does not wish to be reappointed or the Supervisory Board recalls the Executive Board member it may be agreed that the Supervisory Board releases the Executive Board member from their service obligation while otherwise continuing to apply the contract. Ordinary 
+
+Score 0.207
+. Payments in the event of premature termination of the Executive Board contract 
+
+Score 0.198
+To further align the interests of the Executive Board and shareholders the Executive Board members are required to make a significant personal investment in Rheinmetall shares. The Executive Board members are accordingly required to invest an amount equivalent to of the annual gross basic remuneration in the case of the Chair of the Executive Board and of the annual gross basic remuneration in the case of the ordinary Executive Board members in Rheinmetall shares and to hold these shares until the end of their Executive Board activity. As of December Armin Papperger Peter Sebastian Krause and Dagmar Steinert had already invested the required amount in Rheinmetall shares and fulfilled the holding obligation. 
+
+Score 0.273
+. Share ownership guidelines SOG 
+
+Score 0.222
+To further ensure the sustainable successful development of the company and the appropriateness of Executive Board remuneration the STI and LTI are subject to penalty and clawback regulations. If after payment of the performancerelated variable remuneration STI and LTI it transpires that the consolidated financial statements were incorrect the Supervisory Board may demand partial or full repayment of variable remuneration already paid out performance clawback. The amount of the claim for repayment shall be determined on the basis of the corrected and audited consolidated financial statements. The fault of the Executive Board member is irrelevant in this case. If a member of the Executive Board intentionally violates the Code of Conduct the compliance guidelines or a significant contractual obligation or commits significant breaches of their duty of care as defined in section AktG the Supervisory Board may also at its reasonable discretion reduce to zero any variable remuneration not yet paid out compliance penalty and demand the return of any variable remuneration already paid out compliance clawback. The obligation of the Executive Board member to pay damages to Rheinmetall AG in accordance with section AktG the right of Rheinmetall AG to revoke the appointment in accordance with section AktG and the right of Rheinmetall AG to terminate the Executive Board members employment contract for cause section BGB remain unaffected by the clause. There were no circumstances either in fiscal year or in fiscal year that would have justified withholding or reclaiming the variable remuneration under the penalty and clawback provisions. 
+
+Score 0.061
+. Malus and clawback 
+
+Score 0.278
+Further details on targets set target achievements and payment amounts of the performance share plan tranches are provided in the remuneration report covering the final fiscal year of the respective performance period. 
+
+Score 0.182
+Target value Starting price Rheinmetall share Number of shares allotted Armin Papperger . Peter Sebastian Krause . Dagmar Steinert . 
+
+Score -0.061
+ until March 
+
+Score 0.13
+. Thirdparty payments 
+
+Score 0.081
+In fiscal year no Executive Board member received payments from a third party with regard to their work as an Executive Board member. 
+
+Score 0.205
+Paid and owed remuneration for members of the executive board active in financial year 

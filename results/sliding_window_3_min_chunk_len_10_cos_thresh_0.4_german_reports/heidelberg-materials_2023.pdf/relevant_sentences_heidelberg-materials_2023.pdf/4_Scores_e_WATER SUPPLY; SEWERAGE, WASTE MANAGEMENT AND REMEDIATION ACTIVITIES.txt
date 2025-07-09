@@ -1,0 +1,299 @@
+Scores_e_WATER SUPPLY; SEWERAGE, WASTE MANAGEMENT AND REMEDIATION ACTIVITIESScore 0.768
+wastewater  g enerated d uring p roduction p rocesses i s initially treated on site so that regular water sampling can be used to demonstrate that primary treatment is sufficient.  wastein accordance with the requirements  of gri standard  w e r eport  o n g enerated w aste a nd s econdary m aterials used for the cement and aggregates business lines.  waste is an y ma terial or ob ject th at th e ow ner discards intends to discard or is required to discard.  in the case of generated waste a distinction is made between ha zardous and non hazardous  wa ste wi th further categorisation according to the type of disposal or recycling
+
+Score 0.688
+th e wa ter us ed to wa sh and clean the aggregates is often reused in closed loops r ecycled  o r a dded t o t he fi nal c oncrete p roduct.  wastewater  g enerated d uring p roduction p rocesses i s initially treated on site so that regular water sampling can be used to demonstrate that primary treatment is sufficient.  wastein accordance with the requirements  of gri standard  w e r eport  o n g enerated w aste a nd s econdary m aterials used for the cement and aggregates business lines.  waste is an y ma terial or ob ject th at th e ow ner discards intends to discard or is required to discard
+
+Score 0.678
+waste is an y ma terial or ob ject th at th e ow ner discards intends to discard or is required to discard.  in the case of generated waste a distinction is made between ha zardous and non hazardous  wa ste wi th further categorisation according to the type of disposal or recycling.  secondary materials and byproducts are production residues that are not waste.  consideration is given to materials produced inhouse and received from external suppliers for backfilling reuse or use as an alternative fuel or raw material
+
+Score 0.672
+share of waste sent to other disposal operations .  .  .  watercement business linetotal water withdrawal
+
+Score 0.665
+wastein accordance with the requirements  of gri standard  w e r eport  o n g enerated w aste a nd s econdary m aterials used for the cement and aggregates business lines.  waste is an y ma terial or ob ject th at th e ow ner discards intends to discard or is required to discard.  in the case of generated waste a distinction is made between ha zardous and non hazardous  wa ste wi th further categorisation according to the type of disposal or recycling.  secondary materials and byproducts are production residues that are not waste
+
+Score 0.655
+thereof hazardous waste .  .  .  total waste disposed share of waste sent to incineration n
+
+Score 0.649
+.   share of waste sent to other disposal operations .  .
+
+Score 0.636
+.  thereof taxonomyaligned operating expenses .  .  wastetotal waste generated
+
+Score 0.633
+a.  .   share of waste sent to other disposal operations .
+
+Score 0.633
+we di spose of th e do mestic wa stewater accruing at our company buildings via the municipal wastewater  sy stems. heidelberg materials has committed itself to minimising the impact of its activities on the limited natural resource of wa ter to th e gr eatest pos sible ex tent.  we comply with stringent environmental  regulations to ensure that our raw material quarrying does not endanger local bo dies of su rface wa ter or gr oundwater  resources.  all dire ct wi thdrawals  are he avily re gulated and closely mo nitored by go vernments  wo rldwide
+
+Score 0.632
+if no other option is available it can be de posited in un derground  la ndfill si tes in a controlled process.  the local operating permit at each plant specifies the allowable amount of processrelated waste products and how they are to be used.  our r  d de partment re gularly ch ecks th e byproducts  arising from production for their suitability for various applications either in our own operations   as cementitious material fo r ex ample  or in th e pr ocesses of industry partners. excess concrete is also generally reused in our plants either as fresh concrete or cured in the form of building elements which are then used for example to secure construction sites
+
+Score 0.629
+the local operating permit at each plant specifies the allowable amount of processrelated waste products and how they are to be used.  our r  d de partment re gularly ch ecks th e byproducts  arising from production for their suitability for various applications either in our own operations   as cementitious material fo r ex ample  or in th e pr ocesses of industry partners. excess concrete is also generally reused in our plants either as fresh concrete or cured in the form of building elements which are then used for example to secure construction sites.  if concrete cannot be reused fresh it is still possible to crush the completely recyclable concrete and return it to the production cycle
+
+Score 0.621
+thereof taxonomyaligned operating expenses .  .  wastetotal waste generated .
+
+Score 0.614
+.  total waste disposed share of waste sent to incineration n. a.  n
+
+Score 0.612
+the majority of water discharged is subject to primary treatment.  this is because water extracted for quarry dewatering  and ex traction purp oses ge nerally do es not require subsequent treatment as it only contains natural mineral co mponents.   th e wa ter us ed to wa sh and clean the aggregates is often reused in closed loops r ecycled  o r a dded t o t he fi nal c oncrete p roduct.  wastewater  g enerated d uring p roduction p rocesses i s initially treated on site so that regular water sampling can be used to demonstrate that primary treatment is sufficient
+
+Score 0.608
+this is because water extracted for quarry dewatering  and ex traction purp oses ge nerally do es not require subsequent treatment as it only contains natural mineral co mponents.   th e wa ter us ed to wa sh and clean the aggregates is often reused in closed loops r ecycled  o r a dded t o t he fi nal c oncrete p roduct.  wastewater  g enerated d uring p roduction p rocesses i s initially treated on site so that regular water sampling can be used to demonstrate that primary treatment is sufficient.  wastein accordance with the requirements  of gri standard  w e r eport  o n g enerated w aste a nd s econdary m aterials used for the cement and aggregates business lines
+
+Score 0.604
+th e cl eaning wa ter th at accumulates  when transport vehicles are washed is fully recycled.  we di spose of th e do mestic wa stewater accruing at our company buildings via the municipal wastewater  sy stems. heidelberg materials has committed itself to minimising the impact of its activities on the limited natural resource of wa ter to th e gr eatest pos sible ex tent.  we comply with stringent environmental  regulations to ensure that our raw material quarrying does not endanger local bo dies of su rface wa ter or gr oundwater  resources
+
+Score 0.6
+.   thereof hazardous waste .  .
+
+Score 0.599
+share of waste sent to reuse recycling recovery .  .  .   share of waste sent to landfill  n
+
+Score 0.598
+we use water in various ways from washing gravel and sand to cooling and cleaning transport vehicles.  it is also one of the source materials used in concrete manufacturing and becomes part of the building material in the production  pr ocess.  we ob tain so me of th e wa ter we use from the public water supply but the majority comes from ou r ow n ap proved we ll sy stems or fr om rivers and la kes.  th e us e of ra inwater an d re cycled wa ter in cleaning and production processes is also becoming increasingly  important
+
+Score 0.598
+kt thereof nonhazardous waste .  .  .   thereof hazardous waste
+
+Score 0.597
+th e us e of ra inwater an d re cycled wa ter in cleaning and production processes is also becoming increasingly  important.   some of the water  the water used for cooling for instance  evaporates and is released into th e at mosphere.   th e cl eaning wa ter th at accumulates  when transport vehicles are washed is fully recycled.  we di spose of th e do mestic wa stewater accruing at our company buildings via the municipal wastewater  sy stems
+
+Score 0.595
+.  .  total waste disposed share of waste sent to incineration n. a
+
+Score 0.595
+of the other four environmental objectives only the environmental obje ctive t ransition to a cir cular ec onomy with the activity ce .  .  so rting an d ma terial re covery of nonhazardous  waste was identified as material for heidelberg materials.  we have been reporting on taxonomy eligibility for this activity since pursuant to the environmental delegated act
+
+Score 0.592
+we ob tain so me of th e wa ter we use from the public water supply but the majority comes from ou r ow n ap proved we ll sy stems or fr om rivers and la kes.  th e us e of ra inwater an d re cycled wa ter in cleaning and production processes is also becoming increasingly  important.   some of the water  the water used for cooling for instance  evaporates and is released into th e at mosphere.   th e cl eaning wa ter th at accumulates  when transport vehicles are washed is fully recycled
+
+Score 0.591
+some of the water  the water used for cooling for instance  evaporates and is released into th e at mosphere.   th e cl eaning wa ter th at accumulates  when transport vehicles are washed is fully recycled.  we di spose of th e do mestic wa stewater accruing at our company buildings via the municipal wastewater  sy stems. heidelberg materials has committed itself to minimising the impact of its activities on the limited natural resource of wa ter to th e gr eatest pos sible ex tent
+
+Score 0.588
+so rting an d ma terial re covery of nonhazardous  waste was identified as material for heidelberg materials.  we have been reporting on taxonomy eligibility for this activity since pursuant to the environmental delegated act.  there are also other taxonomyeligible economic activities within he idelberg mat erials bu siness li nes su ch as transport services which are however not shown separately and are included in the reporting for the cement business line and activity .  respectively
+
+Score 0.585
+.  provisions for environmental obligations are recognised o n t he  b asis o f c ontractual  o r o fficial r egulations  and essentially  in clude ex penses co nnected wi th th e cleaning up of contaminated areas and the remediation of extraction damages.  the provisions are measured at the present value of the expected expenses.  these provisions amount to a total of
+
+Score 0.585
+.  so rting an d ma terial re covery of nonhazardous  waste was identified as material for heidelberg materials.  we have been reporting on taxonomy eligibility for this activity since pursuant to the environmental delegated act.  there are also other taxonomyeligible economic activities within he idelberg mat erials bu siness li nes su ch as transport services which are however not shown separately and are included in the reporting for the cement business line and activity
+
+Score 0.583
+.  wastetotal waste generated .  .
+
+Score 0.582
+n. a.  .   share of waste sent to other disposal operations
+
+Score 0.579
+million previous year . .  provisions for environmental obligations are recognised o n t he  b asis o f c ontractual  o r o fficial r egulations  and essentially  in clude ex penses co nnected wi th th e cleaning up of contaminated areas and the remediation of extraction damages.  the provisions are measured at the present value of the expected expenses
+
+Score 0.577
+.  .   thereof hazardous waste .
+
+Score 0.577
+wastetotal waste generated .  .  .  kt thereof nonhazardous waste
+
+Score 0.576
+in the case of generated waste a distinction is made between ha zardous and non hazardous  wa ste wi th further categorisation according to the type of disposal or recycling.  secondary materials and byproducts are production residues that are not waste.  consideration is given to materials produced inhouse and received from external suppliers for backfilling reuse or use as an alternative fuel or raw material. biodiversity we report on the proportion of our quarries located near an area of hi gh b iodiversity  va lue wi th a bi odiversity management  plan as well as those with an after use plan
+
+Score 0.575
+provisions for environmental obligations are recognised o n t he  b asis o f c ontractual  o r o fficial r egulations  and essentially  in clude ex penses co nnected wi th th e cleaning up of contaminated areas and the remediation of extraction damages.  the provisions are measured at the present value of the expected expenses.  these provisions amount to a total of .  million previous year
+
+Score 0.574
+.  kt thereof nonhazardous waste .  .
+
+Score 0.573
+waste figures include cement and aggregates  business lines.  values are partially based on estimates or calculations.   we are in the progress of setting up a comprehensive  waste recording and reporting system at group level and expect data quality  to improve in the next years.   values are partially based on estimates or calculations
+
+Score 0.568
+total waste disposed share of waste sent to incineration n. a.  n. a
+
+Score 0.564
+.   share of waste sent to reuse recycling recovery .  .
+
+Score 0.562
+it is also one of the source materials used in concrete manufacturing and becomes part of the building material in the production  pr ocess.  we ob tain so me of th e wa ter we use from the public water supply but the majority comes from ou r ow n ap proved we ll sy stems or fr om rivers and la kes.  th e us e of ra inwater an d re cycled wa ter in cleaning and production processes is also becoming increasingly  important.   some of the water  the water used for cooling for instance  evaporates and is released into th e at mosphere
+
+Score 0.559
+in accordance with the disclosure requirements  we report in detail on these economic activities alignment reporting.  of the other four environmental objectives only the environmental obje ctive t ransition to a cir cular ec onomy with the activity ce .  .  so rting an d ma terial re covery of nonhazardous  waste was identified as material for heidelberg materials
+
+Score 0.558
+turnover		category enabling activity category transitional activity  m  y n nel y n nel y n nel y n nel y n nel y n nel yn yn yn yn yn yn yn e ta. 	taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm .
+
+Score 0.556
+wasteactive waste ma nagement  an d th e as sociated re duction of environmental  pollution are two core objectives of a circular economy.  our main focus in waste management is on minimising production waste and reusing byproducts from the production process in expedient ways.  for example kiln dust that is a byproduct of clinker production is generally reused as an alternative raw material in the production of certain types of cement.  this dust has to be removed from the kiln systems at several facilities in order to prevent disruptions to proper kiln operations
+
+Score 0.555
+.  .  kt thereof nonhazardous waste .
+
+Score 0.553
+s pecific w ater consumption per revenue is .  per litre.  the majority of water discharged is subject to primary treatment.  this is because water extracted for quarry dewatering  and ex traction purp oses ge nerally do es not require subsequent treatment as it only contains natural mineral co mponents
+
+Score 0.553
+per litre.  the majority of water discharged is subject to primary treatment.  this is because water extracted for quarry dewatering  and ex traction purp oses ge nerally do es not require subsequent treatment as it only contains natural mineral co mponents.   th e wa ter us ed to wa sh and clean the aggregates is often reused in closed loops r ecycled  o r a dded t o t he fi nal c oncrete p roduct
+
+Score 0.553
+in some exceptional cases the locally produced cement type portfolio prevents us from fully recycling the dust.  a second possibility for us is to use the kiln dust as a raw material for the production of special concretes.  if no other option is available it can be de posited in un derground  la ndfill si tes in a controlled process.  the local operating permit at each plant specifies the allowable amount of processrelated waste products and how they are to be used
+
+Score 0.553
+we want to conserve water and minimise negative impacts through me asures ai med at sa ving wa ter an d using it efficiently.  this objective can be achieved by using rainwater  ta king ad vantage of re use an d re cycling technologies  or work ing wi th lo cal comm unities on waterrelated  pr ojects.  we ac knowledge  th at access to clean wa ter an d sa nitation is a hu man ri ght an d have implemented the world business council for sustainable developments wash pledge for access to safe water sanitation and hygiene at all production sites. sustainable water managementresponsible  us e of wa ter is al so pa rt of ou r su stainability commitments
+
+Score 0.552
+after the first group countries developed and introduced water management  plans as part of a pilot project in  the  water  target was rolled out to all lo cations wo rldwide.  pr iority is gi ven to regions affected by wa ter sc arcity wa ter st ress an d ot her physical ri sks as sociated wi th wa ter.  th e ma jority of our production sites worldwide already have water recycling systems.  in order to guarantee efficient water use and reduce the demand for fresh water in the long term it is our intention that all heidelberg materials plants will use water recycling systems by
+
+Score 0.546
+we ac knowledge  th at access to clean wa ter an d sa nitation is a hu man ri ght an d have implemented the world business council for sustainable developments wash pledge for access to safe water sanitation and hygiene at all production sites. sustainable water managementresponsible  us e of wa ter is al so pa rt of ou r su stainability commitments .  we wa nt to in troduce water m anagement  p lans a nd w ater r ecycling s ystems a t  of ou r lo cations in re gions aff ected by wa ter scarcity by  .  to th is en d we ha ve sy stematically  categorised our plants using the world resources institutes a queduct  t ool
+
+Score 0.546
+values are partially based on estimates or calculations.   we are in the progress of setting up a comprehensive  waste recording and reporting system at group level and expect data quality  to improve in the next years.   values are partially based on estimates or calculations.   we are in the progress of setting up a comprehensive  water recording and reporting system at group level and expect data quality to improve in the next years
+
+Score 0.545
+in addition th e av ailability of wa ter ca n pos e a ri sk.  based on a gl obal w aterrisk s tudy w e h ave dr awn up a groupwide  guid eline con cerning su stainable wa ter management in the cement aggregates and readymixed c oncrete  b usiness l ines.  b ack i n   w e b egan developing  indi vidual wa ter man agement pl ans for those plants in re gions su ffering fr om wa ter sc arcity.  the plans include concepts and measures to ensure careful use of sc arce wa ter re sources an d en able lo cal stakeholders  t o b ecome i nvolved s o t hat t he w ater u tilisation concepts support the common good and thus minimise local water risks
+
+Score 0.545
+. disposals .  . reclassifications
+
+Score 0.543
+taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm . .
+
+Score 0.543
+. 	turnover		category enabling activity category transitional activity  m  y n nel y n nel y n nel y n nel y n nel y n nel yn yn yn yn yn yn yn e ta. 	taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm
+
+Score 0.542
+t hese m easures c omply with local pe rmit re quirements  an d re gulations as well as global reporting obligations. we want to conserve water and minimise negative impacts through me asures ai med at sa ving wa ter an d using it efficiently.  this objective can be achieved by using rainwater  ta king ad vantage of re use an d re cycling technologies  or work ing wi th lo cal comm unities on waterrelated  pr ojects.  we ac knowledge  th at access to clean wa ter an d sa nitation is a hu man ri ght an d have implemented the world business council for sustainable developments wash pledge for access to safe water sanitation and hygiene at all production sites
+
+Score 0.541
+.   share of waste sent to landfill  n. a.  n
+
+Score 0.541
+. 	opex		category enabling activity category transitional activity  m  y n nel y n nel y n nel y n nel y n nel y n nel yn yn yn yn yn yn yn e ta. 	taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm
+
+Score 0.541
+. 	capex		category enabling activity category transitional activity  m  y n nel y n nel y n nel y n nel y n nel y n nel yn yn yn yn yn yn yn e ta. 	taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm
+
+Score 0.541
+the same method is applied f or  o ur a ggregates  b usiness l ine.  s pecific w ater consumption per revenue is .  per litre.  the majority of water discharged is subject to primary treatment
+
+Score 0.54
+opex		category enabling activity category transitional activity  m  y n nel y n nel y n nel y n nel y n nel y n nel yn yn yn yn yn yn yn e ta. 	taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm .
+
+Score 0.539
+based on a gl obal w aterrisk s tudy w e h ave dr awn up a groupwide  guid eline con cerning su stainable wa ter management in the cement aggregates and readymixed c oncrete  b usiness l ines.  b ack i n   w e b egan developing  indi vidual wa ter man agement pl ans for those plants in re gions su ffering fr om wa ter sc arcity.  the plans include concepts and measures to ensure careful use of sc arce wa ter re sources an d en able lo cal stakeholders  t o b ecome i nvolved s o t hat t he w ater u tilisation concepts support the common good and thus minimise local water risks.  we aim to have water management plans in place by for all plants in regions affected by wa ter sc arcity li mited ac cessibility  po or water q uality  a nd c limaterelated  p hysical w ater r isks
+
+Score 0.536
+as at the reporting date these provisions amounted to .  million previous year . .  provisions for environmental obligations are recognised o n t he  b asis o f c ontractual  o r o fficial r egulations  and essentially  in clude ex penses co nnected wi th th e cleaning up of contaminated areas and the remediation of extraction damages
+
+Score 0.536
+under other current receivables and assets.  other environmental provisionsthe other environmental provisions include recultivation environmental and asset retirement obligations.  recultivation obligations relate to legal and constructive obligations  to ba ckfill and re store ra w ma terial quarr ying sites.  the provisions recognised for these obligations are measured in ac cordance wi th th e ex traction pr ogress on the ba sis of th e be st cos t es timate fo r fu lfilling the obligation
+
+Score 0.536
+. water managementemcma. total water withdrawn million cubic metres cement aggregates and readymixed concrete business linespages total water consumed million cubic metres cement aggregates and readymixed concrete business linespages percentage of water withdrawn in regions with high or extremely high baseline water stress cement business linepage percentage of water consumed in regions with high or extremely high baseline water stress cement business linepage heidelberg materials additional informationsustainability accounting standards board sasb index sustainability accounting standards board sasb index references and commentswaste managementemcma. amount of waste generated percentage hazardous and percentage recycled page biodiversity impactsemcma
+
+Score 0.536
+a.  .   share of waste sent to reuse recycling recovery .
+
+Score 0.535
+to th is en d we ha ve sy stematically  categorised our plants using the world resources institutes a queduct  t ool.  w e u se a w ater r eporting s ystem based on the gcca guidelines at all of our companys cement plants.  we wo rk co ntinuously  to re duce ou r consumption  o f f resh w ater f or e xample b y s witching to closed cooling circuits and recycling systems.  we have also started to introduce measurement systems and key figures on water reporting in our aggregates and readymixed concrete business lines
+
+Score 0.534
+million m municipalpotable water .  .  .  million m external waste water
+
+Score 0.533
+this objective can be achieved by using rainwater  ta king ad vantage of re use an d re cycling technologies  or work ing wi th lo cal comm unities on waterrelated  pr ojects.  we ac knowledge  th at access to clean wa ter an d sa nitation is a hu man ri ght an d have implemented the world business council for sustainable developments wash pledge for access to safe water sanitation and hygiene at all production sites. sustainable water managementresponsible  us e of wa ter is al so pa rt of ou r su stainability commitments .  we wa nt to in troduce water m anagement  p lans a nd w ater r ecycling s ystems a t  of ou r lo cations in re gions aff ected by wa ter scarcity by
+
+Score 0.533
+material recovery from 	non	hazardous	waste  sorting and material recovery of non hazardous wasteccm	.   ce . .
+
+Score 0.532
+th e local operating pe rmit at ea ch pl ant sp ecifies th e allowable amoun ts of wa ter ex traction and re circulation.   we systematically  id entify an d cl assify po tential wa ter pollutants.  we also carry out stakeholder analyses and risk assessments  as pa rt of ou r wa ter ma nagement  plans.  water quality is tested usually in external laboratories by taking regular water samples
+
+Score 0.532
+other environmental provisionsthe other environmental provisions include recultivation environmental and asset retirement obligations.  recultivation obligations relate to legal and constructive obligations  to ba ckfill and re store ra w ma terial quarr ying sites.  the provisions recognised for these obligations are measured in ac cordance wi th th e ex traction pr ogress on the ba sis of th e be st cos t es timate fo r fu lfilling the obligation.  as at the reporting date these provisions amounted to
+
+Score 0.531
+nonfinancial	statementsupplier managementact  developmanagement at group levelmeasures actionsidentify prioritise risksdefi ne prevent review report mitigate risksevaluate fi ndingsmeasurerevise strategyheidelberg materials sustainabilitysafe  inclusive   responsible  procurement building a nature positive futureof our active quarries contribute to the global goal of nature positive withof sites in waterrisk  areas implement  water management  plans and water recycling systems. space for natureproportion  of quarries with a restoration plan . proportion of quarries located near an area of high biodiversity value with a biodiversity management plan .     quarrieswater withdrawal water and hygiene water consumptionour commitment litres per tonne of cementspecific water consumption  in
+
+Score 0.531
+for the recycled aggregates operating line is taxonomyaligned and composed of .  million previous year .  million from research and development expenditure   .  mi llion p revious ye ar
+
+Score 0.53
+capex		category enabling activity category transitional activity  m  y n nel y n nel y n nel y n nel y n nel y n nel yn yn yn yn yn yn yn e ta. 	taxonomy el igible	acti vitiesa. 	environmentally 	sustainable 	activities	taxonomy alignedmanufacture of cement ccm .
+
+Score 0.529
+ta. 	taxonomyeligible	but	not	environmentally 	sustainable 	activities	not	taxonomyaligned	activitiesel nel el nel el nel el nel el nel el nelmanufacture of cement ccm  . .
+
+Score 0.528
+our main focus in waste management is on minimising production waste and reusing byproducts from the production process in expedient ways.  for example kiln dust that is a byproduct of clinker production is generally reused as an alternative raw material in the production of certain types of cement.  this dust has to be removed from the kiln systems at several facilities in order to prevent disruptions to proper kiln operations.  in some exceptional cases the locally produced cement type portfolio prevents us from fully recycling the dust
+
+Score 0.527
+we comply with stringent environmental  regulations to ensure that our raw material quarrying does not endanger local bo dies of su rface wa ter or gr oundwater  resources.  all dire ct wi thdrawals  are he avily re gulated and closely mo nitored by go vernments  wo rldwide.  th e local operating pe rmit at ea ch pl ant sp ecifies th e allowable amoun ts of wa ter ex traction and re circulation.   we systematically  id entify an d cl assify po tential wa ter pollutants
+
+Score 0.527
+th is me ans th at we en d th e co ntractual relationship if violations are not remedied by appropriate measures.  we produce training materials on sustainability topics for suppliers and recognise the importance of providing training and instruction to service providers working at our plants.  nonfinancial	statementsupplier managementact  developmanagement at group levelmeasures actionsidentify prioritise risksdefi ne prevent review report mitigate risksevaluate fi ndingsmeasurerevise strategyheidelberg materials sustainabilitysafe  inclusive   responsible  procurement building a nature positive futureof our active quarries contribute to the global goal of nature positive withof sites in waterrisk  areas implement  water management  plans and water recycling systems. space for natureproportion  of quarries with a restoration plan
+
+Score 0.527
+sustainable water managementresponsible  us e of wa ter is al so pa rt of ou r su stainability commitments .  we wa nt to in troduce water m anagement  p lans a nd w ater r ecycling s ystems a t  of ou r lo cations in re gions aff ected by wa ter scarcity by  .  to th is en d we ha ve sy stematically  categorised our plants using the world resources institutes a queduct  t ool.  w e u se a w ater r eporting s ystem based on the gcca guidelines at all of our companys cement plants
+
+Score 0.527
+this includes environmental impacts that affect access to food drinking water sanitation or health.  in addition suppliers are expected to commit to implementing appropriate environmental measures and to continuously improving their environmental performance among other things via the supplier code of conduct.  suppliers are asked to promote the environmentally friendly production of their goods and provision of their services.  we re quire su ppliers to co mply wi th al l ap plicable local national and international  laws relating to land water and resources and to adhere to the appropriate standards  wh en han dling me rcury pe rsistent organic pollutants  and ha zardous wa ste amon g ot her things
+
+Score 0.526
+we systematically  id entify an d cl assify po tential wa ter pollutants.  we also carry out stakeholder analyses and risk assessments  as pa rt of ou r wa ter ma nagement  plans.  water quality is tested usually in external laboratories by taking regular water samples.  in addition there are onsite measures aimed at monitoring the water t emperature  f or e xample
+
+Score 0.524
+disposals .  . reclassifications .
+
+Score 0.523
+because we are facing a water surplus in other regions of the world where we need to pump off large quantities of water in order to operate our quarries it does not make se nse to defi ne a ge neral glob al re duction target for th e gr oup ba sed on qu antified wa ter wi thdrawal rates.  after the first group countries developed and introduced water management  plans as part of a pilot project in  the  water  target was rolled out to all lo cations wo rldwide.  pr iority is gi ven to regions affected by wa ter sc arcity wa ter st ress an d ot her physical ri sks as sociated wi th wa ter.  th e ma jority of our production sites worldwide already have water recycling systems
+
+Score 0.522
+he idelberg ma terials recognises  th e im portance of effi cient wa ter ma nagement and conservation  which is why it has a globally applicable water	policy .  we use water in various ways from washing gravel and sand to cooling and cleaning transport vehicles.  it is also one of the source materials used in concrete manufacturing and becomes part of the building material in the production  pr ocess.  we ob tain so me of th e wa ter we use from the public water supply but the majority comes from ou r ow n ap proved we ll sy stems or fr om rivers and la kes
+
+Score 0.522
+.  manufacture of  cement and ccm . .  material recovery from non hazardous  wa ste
+
+Score 0.521
+.  .  . disposal groups
+
+Score 0.521
+million m offsite water treatment facility .  .  .  million m discharge to beneficial third partyother
+
+Score 0.52
+quarrieswater withdrawal water and hygiene water consumptionour commitment litres per tonne of cementspecific water consumption  in .  our sustainability commitments naturepositivewe have implemented the world business council for sustainable developments wash pledge for access to safe water sanitation and hygiene at all production sites. wash	pledge	 for access to safe water.  m m water withdrawn  for our cement business line in vs
+
+Score 0.519
+t he w aste is coprocessed  wi thout an y re sidue in a bu rning pr ocess that meets the same strict emission standards as those set for waste incineration  plants.  about  of our cement plants have environmental management systems.  as such they are subject to regular internal and external au dits wh ich co ver to xic em issions an d hazardous  s ubstances  a s w ell a s w aste.    nonfinancial	st atementreuse in cement plants has proved to be a safe means of recovery particularly for various types of hazardous waste
+
+Score 0.519
+we wa nt to in troduce water m anagement  p lans a nd w ater r ecycling s ystems a t  of ou r lo cations in re gions aff ected by wa ter scarcity by  .  to th is en d we ha ve sy stematically  categorised our plants using the world resources institutes a queduct  t ool.  w e u se a w ater r eporting s ystem based on the gcca guidelines at all of our companys cement plants.  we wo rk co ntinuously  to re duce ou r consumption  o f f resh w ater f or e xample b y s witching to closed cooling circuits and recycling systems
+
+Score 0.519
+million m external waste water .  .  .  million m quarry water used
+
+Score 0.518
+taxonomyeligible	but	not	environmentally 	sustainable 	activities	not	taxonomyaligned	activitiesel nel el nel el nel el nel el nel el nelmanufacture of cement ccm  . .  .  el nel nel nel nel nel
+
+Score 0.518
+taxonomyeligible	but	not	environmentally 	sustainable 	activities	not	taxonomyaligned	activitiesel nel el nel el nel el nel el nel el nelmanufacture of cement ccm  . . .  el nel nel nel nel nel
+
+Score 0.518
+.  y y y y y y y .  ta. 	taxonomyeligible	but	not	environmentally 	sustainable 	activities	not	taxonomyaligned	activitiesel nel el nel el nel el nel el nel el nelmanufacture of cement ccm
+
+Score 0.517
+space for natureproportion  of quarries with a restoration plan . proportion of quarries located near an area of high biodiversity value with a biodiversity management plan .     quarrieswater withdrawal water and hygiene water consumptionour commitment litres per tonne of cementspecific water consumption  in .  our sustainability commitments naturepositivewe have implemented the world business council for sustainable developments wash pledge for access to safe water sanitation and hygiene at all production sites
+
+Score 0.516
+this has been co nfirmed by me asurements  ta ken by in dependent statecertified  institutes. wasteactive waste ma nagement  an d th e as sociated re duction of environmental  pollution are two core objectives of a circular economy.  our main focus in waste management is on minimising production waste and reusing byproducts from the production process in expedient ways.  for example kiln dust that is a byproduct of clinker production is generally reused as an alternative raw material in the production of certain types of cement
+
+Score 0.515
+.  . disposal groups .
+
+Score 0.514
+a s a t t he e nd o f t he   financial year  of our ag gregates si tes in are as su ffering from water sc arcity ha d im plemented  wa ter re cycling systems while in the cement business line this figure had already reached . because we are facing a water surplus in other regions of the world where we need to pump off large quantities of water in order to operate our quarries it does not make se nse to defi ne a ge neral glob al re duction target for th e gr oup ba sed on qu antified wa ter wi thdrawal rates.  after the first group countries developed and introduced water management  plans as part of a pilot project in  the  water  target was rolled out to all lo cations wo rldwide.  pr iority is gi ven to regions affected by wa ter sc arcity wa ter st ress an d ot her physical ri sks as sociated wi th wa ter

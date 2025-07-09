@@ -1,0 +1,299 @@
+Scores_c_MANUFACTURINGScore 0.556
+we specifically analysed the key materials sourced the production of raw materials the manufacturing processes and the primary regions from which we source
+
+Score 0.553
+mechanical recyclability documentation upon written request suppliers shall provide documentation on mechanical recyclability of products e
+
+Score 0.549
+of total waste generated includes paper cardboard metals plastic packaging biodegradable kitchen waste and nondangerous electronic waste
+
+Score 0.545
+the material topics are organised into three main categories and our policies actions targets and metrics related to these material topics are discussed in the respective chapters e s and g of our sustainability statement
+
+Score 0.544
+category purchased goods and services this category covers all upstream emissions from the production of products acquired and delivered to us including raw material extraction manufacturing and transportation up to the tier supplier
+
+Score 0.53
+in the short to mediumterm we must adhere to new regulations such as the ecodesign for sustainable products regulation and aim to increase our use of recycled materials while diminishing our reliance on primary resources to enhance resilience
+
+Score 0.53
+additionally a binary classification system is applied to distinguish between technical and biological materials
+
+Score 0.529
+this includes materials adhering to thirdparty certifications or licensed or trademarked standards such as the global recycle stan dard and the global organic textile standard
+
+Score 0.527
+this involves sourcing materials responsibly reducing waste promoting circular economy principles and working with suppliers and partners to encourage sustainable practices throughout the value chain
+
+Score 0.519
+additionally factory mills in pakistan within the value chains of the signatories are included
+
+Score 0.514
+this involves assessing the material composition of the packaging the presence of appropriate sorting and recycling infrastructure and ensuring the packaging can substitute virgin material in typical applications after recycling
+
+Score 0.506
+the material environmental impacts resulting from the dma occur during the production and distribution stages including raw material extraction textile production and transportation
+
+Score 0.506
+waste categorisation and data collection our waste is categorised as either hazardous or nonhazardous with key examples of each as follows nonhazardous waste
+
+Score 0.503
+it also includes upstream emissions of packaging and nonproduct procurement
+
+Score 0.5
+additionally we are incorporating materials produced using lower environmental impact and processing techniques
+
+Score 0.498
+material and component production producers convert fibres into yarn and yarn into fabric
+
+Score 0.498
+of total waste generated includes certain beauty products dangerous ewaste and packaging materials containing chemicals
+
+Score 0.497
+recyclable content in product packaging our current methodology considers product packaging recyclable if the material making up of the product packaging meets specific criteria for recycling processes
+
+Score 0.496
+the absolute weight of secondary reused or recycled components secondary intermediary products and secondary materials used to manufacture the undertakings products and services in tons
+
+Score 0.495
+the rsl outlines the acceptable limits of potentially toxic or harmful substances that may be present in finished products used components materials and packaging
+
+Score 0.494
+the onboarding process for new suppliers or factories tier final assembly factory aims to ensure compliance with the following key areas defined in our general instructions gis human rights and environment ethics and sustainability legal and finance product labelling and packaging logistics product safety and quality management alongside our terms and conditions
+
+Score 0.494
+this includes identifying materials and processes which require less water and which generate minimal wastewater
+
+Score 0.493
+the following useful lives are applieduseful livesyearsleasehold improvements plant and machinery other equipment furniture and fixtures an item of property plant and equipment is derecognised upon disposal or when no further economic benefits are expected from its use or disposal
+
+Score 0.49
+our full value chain has been included in this analysis upstream including design raw material production manufacturing processes own operations including procurement and buying plus fulfilment downstream including transport product use and endoflife
+
+Score 0.488
+for recycled content only the percentage of recycled material within the primary component is counted as sustainably sourced
+
+Score 0.484
+percentage of secondary reused or recycled components secondary intermediary products and packaging and secondary materials
+
+Score 0.482
+disposals are mainly related to other equipment furniture and fixtures scrapped in the financial year
+
+Score 0.481
+our approach to identifying material iros for workers in our value chain is described in impacts risks and opportunities in section
+
+Score 0.48
+category processing of sold products we do not sell intermediate products for further processing
+
+Score 0.477
+years within zalandos controlesrs e pollutionpollution of airwater and soil substances of concern substances of very high concern microplastics negative impacts vc material processing activities such as wet processing in manufacturing lead to negative environmental impacts e
+
+Score 0.477
+in this context a standardised classification system the eu taxonomy was established to define criteria classifying economic activities as being environmentally sustainable
+
+Score 0.475
+waste in the fashion ecommerce sector waste generation primarily comes from two sources packaging and textile waste
+
+Score 0.475
+for example noncarbon emissions to air of our fulfilment centres are significantly lower than the emissions generated by the manufacturing processes
+
+Score 0.473
+the resource inflow metrics refer to all products and materials used for the production of products and packaging
+
+Score 0.472
+this includes the restricted substances list rsl to determine chemical requirements and limits for harmful substances in products
+
+Score 0.472
+after thoroughly analysing existing industry standards and regulations related to recyclability and metric methodologies we explored the possibility of establishing an internal metric for product recyclability
+
+Score 0.471
+the lca results highlighted that raw material extraction and processing were the most significant environmental impact areas of a products life cycle
+
+Score 0.471
+according to the minimum standard defined by the central agency packaging register zentrale stelle verpackungsregister mechanically recyclable means that the packaging can be sorted and processed using available industrial recycling technologies to produce highquality recyclates
+
+Score 0.47
+chemical pollution processes such as bleaching printing and finishing often involve harmful chemicals that if not properly managed can be released into the environment
+
+Score 0.468
+it comprises the structure of all relevant regulations processes and practices
+
+Score 0.467
+items that do not fulfil these criteria shall be classified under other categories
+
+Score 0.467
+these actions are associated with reducing material impacts outlined in impacts risks and opportunities in section
+
+Score 0.466
+report reporting of the processes and results of each years cycle is conducted in adherence to the german supply chain due diligence act and the guidance of the competent authority federal office for economic affairs and export control bundesamt für wirtschaft und ausfuhrkontrolle bafa
+
+Score 0.466
+the operating profit or loss shall comprise all income and expenses classified in the operating category
+
+Score 0.465
+the economic activity contributes substantially to one or more of the environmental objectives set out in article in accordance with articles to does not significantly harm any of the environmental objectives set out in article in accordance with article is carried out in compliance with minimum safeguards laid down in article and complies with technical screening criteria as defined by a substantial contribution to environmental objectives and adherence to the do no significant harm dnsh principle in accordance with article or
+
+Score 0.464
+to ensure mrsl compliance we regularly conduct audits of our suppliers manufacturing processes
+
+Score 0.462
+in addition to ensuring factories have robust environmental management systems these plans also include measures to enhance energy efficiency transition to cleaner fuels increase renewable energy use and improve water recycling thereby reducing wastewater discharge
+
+Score 0.462
+indicators no and table annex article a regulation eu no regulation eu template regulation eu article and material esrs epara
+
+Score 0.46
+we also obtain an understanding of the process used to prepare the group sustainability statement including the materiality assessment process carried out by the company to identify the disclosures to be reported in the group sustainability statement
+
+Score 0.46
+these impacts are as follows water pollution arising from the material processing phase particularly during dyeing and involving the use of water and chemicals
+
+Score 0.46
+the table outlines the level of our responsibility and the associated triggers for each material iro
+
+Score 0.459
+through these efforts we strive to minimise the presence of harmful substances in both our products and manufacturing processes in line with our ambition for sustainability and consumer safety
+
+Score 0.456
+the determination of the useful life of items of property plant and equipment and of intangible assets as well as the determination of development costs of internally generated intangible assets see sections
+
+Score 0.454
+these other operating expenses relate to disposals of assets refer to sections
+
+Score 0.453
+m eur related to maintenance and repair as well as the daytoday servicing of these assets
+
+Score 0.452
+taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activitiesacquisition andownership ofbuildings ccm
+
+Score 0.449
+as a result of the above textile waste accounts only for
+
+Score 0.448
+for example income and expenses from hedging relationships shall be moved to the operating category
+
+Score 0.448
+we consider a material as recyclable when we have self declarations from suppliers or when the specifications of the material indicate that it is paper paperboard or cardboard and aligns with the definition of fibrous material in the standard mentioned above
+
+Score 0.445
+regarding materials in beauty products and garments could result in fines or loss of reputation
+
+Score 0.443
+regulation eu annex iimaterial esrs spara
+
+Score 0.443
+and international standard on quality management isqm issued by the iaasb
+
+Score 0.439
+extended producer responsibility epr as part of our commitment to responsible waste management we participate in epr programmes
+
+Score 0.438
+this includes our fulfilment return and refurbishment centres operated by or on behalf of ourselves
+
+Score 0.438
+the rate of recyclable content in products packaging in is
+
+Score 0.436
+in line with the direction set by the circularity policy we have applied a set of minimum sustainability and circularity product requirements through the implementation of the sustainable sourcing policy
+
+Score 0.435
+for the majority of these product emissions emissions are calculated using physical activity data including product volumes material types and product weights kg where material types are first mapped to the higg materials sustainability index higg msi material emission factors expressed in kgcoeq
+
+Score 0.435
+in terms of material negative impacts inadequate product safety standards can result in individual incidents related to the goods we sell
+
+Score 0.434
+accessories manufacturing the production of accessories like bags and jewellery in some developing countries may involve risks of child labour in informal workshops
+
+Score 0.433
+waterintensive processes such as farming textile treatment with chemicals and customer use e
+
+Score 0.431
+for private labels the manufacturing restricted substances list mrsl restricts chemicals in production aligned with zero discharge of hazardous chemicals standards
+
+Score 0.43
+the table includes information on the level of responsibility that each material iro entails
+
+Score 0.43
+esrs e resource use and circular economyidentification and assessment of material resource use and circular economyrelated irosto identify the environmental impact potential related to the circular economy we conducted life cycle assessments lcas in and updated them in during the dma
+
+Score 0.429
+outlines actions taken to address impacts in the value chain including joining the fwf and membership in industry associations
+
+Score 0.428
+for further information on our approach to alternative materials and sourcing please refer to the section esrs e resource use and circular economy
+
+Score 0.428
+in relation to some of the current actions and mostly in relation to our industrywide efforts to decarbonise the value chains the main levers and their estimated maximum emissions reduction potential is material substitution with up to reduction potential
+
+Score 0.427
+indicator no table annex regulation eu annex ii regulation eu art material esrs spara
+
+Score 0.426
+the qam sets out binding minimum requirements for productrelated due diligence obligations including chemical and physical product characteristics as well as labelling obligations
+
+Score 0.424
+direct emissions from fulfilment centres upstream and downstream activities and raw material extraction contribute to higher ghg concentrations in the atmosphere
+
+Score 0.424
+based on our first assessment we identified one material taxonomyeligible economic activity within our group related to the leasing of assets covering our office buildings outlets and logistic centres economic activity
+
+Score 0.423
+the standards help prevent discriminatory or offensive behaviour during production and a remediation process is in place for escalations in line with germanys general equal treatment act agg
+
+Score 0.421
+considered the process for identifying taxonomyeligible and taxonomyaligned economic activities and the corresponding disclosures in the group sustainability statement
+
+Score 0.42
+key project work streams focus on design materials end of use and traceability the project launched in and will be running through
+
+Score 0.419
+inventoriesmerchandise accounted for as inventories is recogni sed at cost pursuant to ias
+
+Score 0.419
+the material sustainability matters are structured in alignment with the esrs in topics subtopics and subsubtopics
+
+Score 0.419
+we will source preferred material options including recycled for polyester and organic regenerative and recycled for cotton among others
+
+Score 0.419
+this collaboration ensures compliance with epr regulations and supports recycling infrastructure
+
+Score 0.418
+this has resulted in improved efficiency driven by better endtoend process understanding and optimised factory operations
+
+Score 0.418
+the regulation is expected to influence how repairability is addressed although it will still vary based on the specific damage and product involved
+
+Score 0.418
+this includes selecting more sustainably sourced raw materials as aligned with our circularity policy
+
+Score 0.418
+indicator no table annex article a regulation eu no regulation eu template regulation eu article material esrs epara
+
+Score 0.417
+as of december this item pertains mainly to trade payables intercompany liabilities the convertible bond and provisions for product return claims and outstanding invoices for fulfilment and marketing expenses
+
+Score 0.416
+these mechanisms include determining principles and procedures defining processes and controls and introducing approval and testing plans and guidelines among other things
+
+Score 0.414
+years resources dependenciesesrs e resource use and circular economyresources inflows and outflows related to products and services positive impacts vc designing products with a focus on longevity reusability and recyclability extends their life cycle and using materials more efficiently reduces the consumption of natural resources and the generation of waste
+
+Score 0.414
+they encompassed different circular business models such as preowned takeback care and repair and reusable packaging
+
+Score 0.412
+waste data is collected at the site level where waste quantities and treatment routes are documented by our waste service providers
+
+Score 0.412
+companycombined managementreport consolidated financialstatements other informationand service zalando se annual report recyclable content in products current reporting guidelines do not yet define how to assess the recyclable content of fashion products
+
+Score 0.412
+the compilation of topics was informed by legal mandates notably esrs alongside external reports including industry and global risk reports peer and consumer publications esg reporting frameworks our prior materiality assessment and input from employees
+
+Score 0.411
+d iindicator no table annex article a regulation eu no regulation eu table and table regulation eu annex iinot applicable not applicableesrs sbmpara
+
+Score 0.41
+these stages are outside our direct operations

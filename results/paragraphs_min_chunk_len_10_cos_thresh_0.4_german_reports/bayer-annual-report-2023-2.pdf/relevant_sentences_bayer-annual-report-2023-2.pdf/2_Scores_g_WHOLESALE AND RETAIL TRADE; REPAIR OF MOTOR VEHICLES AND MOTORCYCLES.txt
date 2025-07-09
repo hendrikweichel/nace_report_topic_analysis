@@ -1,0 +1,299 @@
+Scores_g_WHOLESALE AND RETAIL TRADE; REPAIR OF MOTOR VEHICLES AND MOTORCYCLESScore 0.619
+More information on the divisions products and activities is contained in the following table 
+
+Score 0.618
+Sales of goods and servicesPurchase of goodsand servicesReceivablesLiabilities
+
+Score 0.567
+Products and Activities of the Divisions 
+
+Score 0.532
+. Declaration by Corporate Management Pursuant to Sections f and d of the German Commercial Code 
+
+Score 0.524
+Net sales Increase or decrease in inventories of finished goods and work in process Other own work capitalized Other operating income Cost of materials Personnel expenses Writedowns on intangible assets and property plant and equipment Other operating expenses Operating income Income from investments in affiliated companies net Interest incomeexpense net Other financial incomeexpense net Nonoperating income Income taxes and other taxes Income after taxesnet income Allocation to other retained earnings Distributable profit 
+
+Score 0.516
+Traderelated provisions are recorded mainly for obligations related to services performed but not yet invoiced and to sales commissions not recognized under trade accounts payable. 
+
+Score 0.51
+All revenues derived from the selling of products rendering of services or from licensing agreements are recognized as sales. Revenues are based on customer contracts and the performance obligations contained therein which are individually identified and may be presented separately for the purpose of revenue recognition. Revenues are recognized in profit or loss when or as soon as the entity transfers control of goods or services to a customer either over time or at a point in time. Control lies with the customer if the customer can independently determine the use of and consume the benefit derived from a product or service. Revenues from product deliveries are recognized at a point in time based on an overall assessment of the existence of a right to payment the allocation of ownership rights the transfer of physical possession the transfer of risks and rewards and acceptance by the customer. In the case of product deliveries undertaken by the Bayer Group the transfer of risks and rewards and the right to determine the product shipment destination are particularly important. Depending on the transfer of control revenues from services are recognized either at a point in time or over the period of time when services are rendered and in accordance with a reasonable measure of progress. Net sales are limited to the amount the Bayer Group expects to receive for the fulfillment of performance obligations. Payment components to be withheld for third parties are deducted. Sales are therefore reduced by sales taxes and by actual and expected sales deductions resulting from rebates discounts and bonuses. Furthermore sales are reduced by the amount of the refund liability for expected returns of defective goods or of saleable products that may be returned under contractual arrangements with this reduction taking place at the date of revenue recognition or when a reliable estimate can be made. Refund liabilities are recognized for expected sales deductions and product returns. Sales deductions and refund liabilities are estimated primarily on the basis of historical experience specific contractual terms price information and thus future expectations of sales development. The underlying assumptions applied for refund liabilities are reviewed at each closing date and revised where necessary. 
+
+Score 0.506
+Dec. Dec. Raw materials and supplies Work in process finished goods and goods purchased for resale Rights of return Advance payments Total 
+
+Score 0.505
+CarryingamountCarrying amount Carrying amountCarrying amount Carrying amountTotal Trade accounts receivable AC FVTPL mandatory
+
+Score 0.503
+. Disclosures Pursuant to Sections b Through e and b and c of the German Commercial Code 
+
+Score 0.502
+The definition of turnover according to EU taxonomy corresponds with the sales reported in the consolidated financial statements see Note . A portion of our core business became taxonomyeligible for the first time through the passage of Delegated Regulation EU of June due to an economic activity manufacture of medicinal products which can contribute to the environmental objective pollution prevention and control. Sales of the Pharmaceuticals and Consumer Health divisions can be attributed to this economic activity. The determination of taxonomyeligible sales takes place at product level. According to our interpretation sales generated from medicinal products that are merely resold repackaged or mixed are not taxonomyeligible. Taxonomyeligible sales amounted to million in million and taxonomynoneligible sales amounted to million million. The proportion of taxonomyeligible sales was thus . . Due to the simplified reporting requirements for with respect to the four environmental objectives to be applied for the first time there are no taxonomyaligned sales to disclose. 
+
+Score 0.499
+ Depreciation amortization and impairment lossesloss reversals before special items of segments Depreciation amortization and impairment lossesloss reversals before special items of Enabling Functions and Consolidation Depreciation amortization and impairment lossesloss reversals before special items EBIT before special items of segments EBIT before special items of Enabling Functions and Consolidation EBIT before special items
+
+Score 0.486
+Declaration by Corporate Management Pursuant to Sections f and d of the German Commercial Code
+
+Score 0.482
+The total sales identified as being taxonomyeligible and taxonomyaligned are shown in the following table 
+
+Score 0.48
+Changes in the various provision categories in were as follows 
+
+Score 0.478
+. Production. RD. Marketing distribution
+
+Score 0.476
+Disclosures Pursuant to Sections b Through e and b and c of the German Commercial Code
+
+Score 0.472
+Explanatory report pursuant to Section a Paragraph and Section a Paragraph of the German Commercial Code HGB 
+
+Score 0.472
+ EBIT of segments EBIT of Enabling Functions and Consolidation EBIT
+
+Score 0.468
+ Special items of segments Special items of Enabling Functions and Consolidation Special items
+
+Score 0.467
+The following tables show the carrying amounts and fair values of the individual financial assets and liabilities by category of financial instrument under IFRS and a reconciliation to the corresponding line items in the statements of financial position. Since the line items Trade accounts receivable Other receivables Financial liabilities and Other liabilities contain both financial instruments and nonfinancial assets or liabilities such as other tax receivables the reconciliation is shown in the column headed Nonfinancial assetsliabilities. 
+
+Score 0.466
+ Inventories Trade accounts receivable Other receivables
+
+Score 0.465
+Total reported net sales in fell by million or . year on year to million. Sales were derived primarily from product deliveries million million and licenses million million. The license revenues amounted to million million for Crop Science million million for Pharmaceuticals and million million for Consumer Health. Breakdowns of net sales by segment and geographical area are given in the overview in Note . Sales of million were recognized in million from performance obligations already satisfied in previous years. These sales primarily resulted from righttouse licenses granted against salesbased royalties and from adjustments to refund liabilities for expected product returns and rebates to be granted. Contractually agreed sales volumes pertaining to performance obligations not yet satisfied as of December are expected to be reclassified to profit or loss as follows taking into account anticipated sales deductions 
+
+Score 0.464
+The description above only accounts for customer contracts with an original contractual term of more than one year. Contract liabilities mainly result from advance payments by customers for product deliveries and are predominantly recognized as sales within one year. Further significant amounts of contract liabilities comprised milestone payments already received for righttoaccess licenses. The contract liabilities under righttoaccess licenses will be recognized as sales over a period of more than five years. 
+
+Score 0.464
+Land andbuildingsPlant installationsand machineryFurniture fixtures and other equipmentConstruction in progress and advance paymentsTotalCost of acquisition or construction December Acquisitions Capital expenditures Retirements Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Accumulated depreciation and impairment December Retirements Depreciation and impairment losses Depreciation Impairment losses Impairment loss reversals Transfers Transfers IFRS Divestmentschanges in the scope of consolidation Inflation adjustment IAS Exchange differences December Carrying amounts December Carrying amounts December 
+
+Score 0.463
+The following table provides a regional breakdown of external sales by market and of intangible assets property plant and equipment 
+
+Score 0.462
+ EBITDA before special items of segments EBITDA before special items of Enabling Functions and Consolidation EBITDA before special items
+
+Score 0.461
+The interest income and expense from assets and liabilities within the AC category also included income and expenses from interestrate derivatives that qualified for hedge accounting. Income and expenses from lease receivables and lease liabilities respectively are also included here. The changes in the fair value of assets within the FVTPL category mainly included changes in the fair value of the interests in Century and Pyxis as well as changes in the fair value of investments in money market funds and mixed funds. Dividend income is reflected in income from affiliated companies while interest income from debt instruments within the FVPTL category is included in interest income and primarily concerns interest income from the capital provided to BayerPensionskasse for its effective initial fund and from money market funds. The changes in the fair value of derivatives that do not qualify for hedge accounting related mainly to forward commodity contracts and embedded derivatives. Changes in the fair value of nonderivative liabilities within the FVTPL category mainly included changes in the fair value of obligations for contingent consideration in connection with business acquisitions. 
+
+Score 0.461
+.. ... . Intersegment sales Net sales total EBIT
+
+Score 0.457
+. . . .Intersegment sales Net sales total EBIT
+
+Score 0.454
+Information on other business activities and segments that are not reportable is provided under All Other Segments. These include Bayer Leverkusen Fussball GmbH and Bayer Gastronomie GmbH. The information provided under Enabling Functions and Consolidation mainly relates to Groupwide competence centers and business support services as well as Leaps by Bayer which focuses on the development of crucial crossspecies innovations. All Other Segments and Enabling Functions and Consolidation in the Management Report are combined under the Reconciliation. It also includes the increase or decrease in expenses for Groupwide longterm stockbased compensation Aspire arising from fluctuations in the performance of Bayer stock and other factors and the consolidation of intersegment sales million million. Also recognized are gains and losses incurred upon the ongoing revaluation of nonmonetary assets and liabilities and of equity under IAS for Bayer S.A. in Argentina and for Bayer Türk Kimya Sanayii Limited Sirketi Monsanto Gida Ve Tarim Ticaret Ltd Sirketi and Bayer Tohumculuk ve Tarim Limited Sirketi in Turkey. Included here in addition are income and expenses resulting from certain contingent liabilities unrelated to the current business along with those pertaining to the comparable central functions of the acquired Monsanto Group. Chief among the latter are the matters relating to lawsuits concerning polychlorinated biphenyls PCBs referred to in Note Legal risks. The segment data is calculated as follows The intersegment sales reflect intraGroup transactions effected at transfer prices fixed on an armslength basis. The net cash provided by operating activities is the cash flow from operating activities as defined in IAS Statement of Cash Flows. Leases between fully consolidated companies continue to be recognized as operating leases under IAS within the segment data in the consolidated financial statements of the Bayer Group even after the firsttime application of IFRS as of January . This does not have any relevant impact on the respective key data used in the steering of the company and internal reporting to the Board of Management as the chief operating decision maker. 
+
+Score 0.454
+Q Q ChangeChangeNet sales . .Cost of goods sold ..Selling expenses ..Research and development expenses ..General administration expenses ..Other operating incomeexpenses ..EBIT
+
+Score 0.454
+Our sustainability targets Chapter .. help us to realize our mission of Health for all Hunger for none. In addition we also report on other nonfinancial aspects. For we are required to disclose the proportion of turnover sales capital expenditure CapEx and operating expenditure OpEx in the reporting period that is EU taxonomyeligible and taxonomyaligned with regard to the environmental objectives climate change mitigation and climate change adaptation. For the four additional environmental objectives sustainable use and protection of water and marine resources the transition to a circular economy pollution prevention and control and the protection and restoration of biodiversity and ecosystems by contrast we are only required to disclose taxonomyeligible turnover capital expenditure and operating expenditure. Company activities are assessed for taxonomy eligibility based on the economic activities described in Annexes I and II to the Delegated Act of June and Annexes I through IV to the Delegated Act of June . To avoid doublecounting results are documented for example at product master data level. Taxonomy alignment is evaluated based on the technical screening criteria for each economic activity which are also defined in the aforementioned Annexes. We use our own interpretation when applying the EU taxonomy as definitions are not yet available and the wording used is unclear. The FAQ documents published by the European Commission as of December were duly taken into account. 
+
+Score 0.451
+Gains on retirements of noncurrent assets Income from reversal of impairment losses on receivables Income from reversal of unutilized provisions Gains from derivatives Sales revenues from products acquired through barter transactions Miscellaneous operating income Total 
+
+Score 0.451
+ After special items and depreciationamortizationimpairments 
+
+Score 0.447
+Assets from expected product returns are recognized in inventories as rightofreturn assets at the previous carrying amounts less any recovery and processing costs and potential impairments. For unilaterally fulfilled customer contracts where more than one year passes between performance and payment significant financing components are accounted for separately based on their present values and the subsequent unwinding of the discount. The underlying discount rate takes into account the individual credit risk of the contracting party that receives the financing. Revenues from contracts involving noncash consideration such as exchange transactions are measured at the fair value of the assets received or the right to receive them. Some of the Bayer Groups revenues are generated on the basis of licensing agreements under which third parties have been granted the right to use or access products and technologies. A righttouse license is characterized by the underlying technology remaining essentially unchanged over the period for which the rights are granted. With a righttoaccess license by contrast the customers interest is directed toward the consistent further development of that intellectual property. Revenues from righttouse licenses are recognized at a specific point in time while those from righttoaccess licenses are recognized over time according to the underlying measure of progress. Milestone payments related to righttoaccess licenses are allocated to satisfied and unsatisfied portions of the underlying performance obligation as applicable. Consideration relating to already satisfied obligations is recognized as catchup adjustments to revenue. Payment elements still to be earned are deferred as contract liabilities. Sales or usagebased royalties agreed in connection with outlicensing arrangements are only recognized if the sale or the usage is sufficiently verified and the underlying performance obligation has been fulfilled. In the Crop Science segment Bayer conducts barter transactions in certain geographies to grant its customers longer payment terms while at the same time reducing the credit risk. For example payment may be made in the form of a subsequent delivery of soybeans or corn or crops may be pledged as collateral. Any commodityprice risk that Bayer is exposed to as a result is hedged using derivatives. Changes in the fair value of these derivatives are recognized in other operating income and expenses. If Bayer assumes control of goods such as soybeans instead of receiving a cash payment their resale is accounted for in other operating income and their derecognition in other operating expenses since transactions of this nature do not form part of normal business operations. 
+
+Score 0.446
+Impairment losses recognized on inventories were reflected in the cost of goods sold. They were comprised as follows 
+
+Score 0.446
+Transportation and warehouse safety is part of HSE management and is implemented by networks of supply chain experts. In addition to complying with legal regulations we have implemented supplementary standards and requirements that are defined in corporate policies. This ensures that our materials are handled and transported in accordance with their respective potential hazards and applicable regulations. There were transport incidents in primarily involving road transport accidents. We define transport incidents as accidents that cause personal injury or significant damage to property environmental impact resulting from the release of substances or leakage of hazardous goods. 
+
+Score 0.445
+ Measurement categories in accordance with IFRS AC at amortized cost FVTOCI at fair value through other comprehensive income FVTPL at fair value through profit or loss 
+
+Score 0.445
+Note Net sales Cost of goods sold Gross profit Selling expenses Research and development expenses General administration expenses Other operating income Other operating expenses EBIT
+
+Score 0.444
+These responsibilities of the executive directors of the Company include the selection and application of appropriate methods regarding the additional nonfinancial information and the use of assumptions and estimates for individual nonfinancial information which are reasonable under the given circumstances. In addition the executive directors are responsible for such internal control as they have determined necessary to enable the preparation of a nonfinancial reporting that is free from material misstatement whether due to fraud i.e. fraudulent nonfinancial reporting or error. The EU Taxonomy Regulation and the Delegated Acts issued thereunder contain wording and terms that are still subject to considerable interpretation uncertainties and for which clarifications have not yet been published in every case. Therefore the executive directors have laid down their own interpretation of the EU Taxonomy Regulation and of the Delegated Acts adopted thereon in section . of the combined management report. They are responsible for the justifiability of this interpretation. The legal conformity of the interpretation is subject to uncertainties due to the immanent risk that undefined legal terms may be interpreted differently. The preciseness and completeness of environmental data of the additional nonfinancial information is subject to inherent restrictions resulting from the way the data was collected and calculated and from assumptions made. 
+
+Score 0.442
+The total operating expenditure identified as being taxonomyeligible and taxonomyaligned is shown in the following table 
+
+Score 0.442
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned Turnover of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Manufacture of medicinal products Turnover of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. Turnover of taxonomyeligible activities A.A. B. Taxonomynoneligible activities Turnover of taxonomynoneligible activities Total 
+
+Score 0.44
+Due to the short maturities of most trade accounts receivable and payable other financial receivables and liabilities and cash and cash equivalents their carrying amounts at the closing date do not significantly differ from the fair values. Trade accounts receivable are measured at fair value through other comprehensive income if they can potentially be transferred as part of factoring agreements. In case of a transfer all of the risks and opportunities contained in these agreements are transferred resulting in complete derecognition of the receivables. The fair values of financial assets and liabilities measured at amortized cost that are given for information are the present values of the respective future cash flows. The present values are determined by discounting the cash flows at a closingdate interest rate taking into account the term of the assets or liabilities and also the creditworthiness of the counterparty in certain cases. Where a market price is available however this is deemed to be the fair value. The fair values of financial assets measured at fair value correspond to quoted prices in active markets Level or are determined using valuation techniques based on observable market data as of the end of the reporting period Level or are the present values of the respective future cash flows determined on the basis of unobservable inputs Level . The fair values of derivatives for which no publicly quoted prices exist in active markets Level are determined using valuation techniques based on observable market data as of the end of the reporting period Level . In applying valuation techniques credit or debt value adjustments are determined to account for the credit risk of the contractual party or Bayer. Currency and commodity forward contracts are measured individually at their forward rates or forward prices on the closing date. These depend on spot rates or prices including time spreads. The fair values of interestrate hedging instruments and crosscurrency interestrate swaps were determined by discounting future cash flows over the remaining terms of the instruments at market rates of interest taking into account any foreign currency translation as of the closing date in certain cases. Fair values measured using unobservable inputs are categorized within Level of the fair value hierarchy. This essentially applies to certain debt or equity instruments in some cases to the fair values of embedded derivatives and to obligations for contingent consideration in business combinations. Credit risk is frequently the principal unobservable input used to determine the fair values of debt instruments classified as FVTPL at fair value through profit or loss by the discounted cash flow method. Here the credit spreads of comparable issuers are applied. A significant increase in credit risk could result in a lower fair value whereas a significant decrease could result in a higher fair value. However a relative change of in the credit spread does not materially affect the fair value. When determining the fair values of contingent consideration within the FVTPL nonderivative at fair value through profit or loss category the principal unobservable input is the estimation of the probability that for example predefined milestones for research and development projects will be achieved or that sales targets will be attained as well as the timing of the payments. Changes in these estimates may lead to significant increases or decreases in fair value. Embedded derivatives are separated from their respective host contracts if the contracts do not represent financial assets and are not closely related to them. Such host contracts are generally sale or purchase agreements relating to the operational business. The embedded derivatives cause the cash flows from the contracts to vary with exchangerate or price fluctuations for example. The internal measurement of embedded derivatives is performed using appropriate valuation models such as discounted cash flow models which are based on unobservable inputs. The relevant models include planned sales and purchase volumes and prices derived from market data. Regular monitoring is carried out based on these fair values as part of quarterly reporting. 
+
+Score 0.437
+Trade accounts receivable for which lifetime expected credit losses are calculated collectively assessedTrade accounts receivable that are creditimpairedTotalGross carrying amounts as of January Changes resulting from trade accounts receivables recognized derecognized or written off in the reporting period Transfer to creditimpaired trade accounts receivable Transfer from creditimpaired trade accounts receivable Writeoffs Other changes from exchange differences Gross carrying amounts as of December Changes resulting from trade accounts receivables recognized derecognized or written off in the reporting period Transfer to creditimpaired trade accounts receivable Transfer from creditimpaired trade accounts receivable Writeoffs Other changes from exchange differences Gross carrying amounts as of December 
+
+Score 0.437
+Amendments to standardsnew standards Mandatory applicationAnticipated effectsIFRS Amendments to IFRS Leases Lease Liability in a Sale and Leaseback Jan. No material effects expectedIAS Amendments to IAS Presentation of Financial Statements Classification of Liabilities as Current or Noncurrent including Deferral of Effective Date as well as Noncurrent Liabilities with Covenants Jan. No material effects expectedIAS IFRS Amendments to IAS Statements of Cash Flows IFRS Financial Instruments Disclosures Supplier Finance Arrangements Jan. 
+
+Score 0.436
+Trade accounts receivable less loss allowances amounted to million million on the closing date and pertained to the following regions and countries 
+
+Score 0.436
+ in the divisions and enabling functions. 
+
+Score 0.436
+Inventories were comprised as follows 
+
+Score 0.434
+NoteDec. Dec. Noncurrent assets Goodwill Other intangible assets Property plant and equipment Investments accounted for using the equity method Other financial assets Other receivables Deferred taxes Current assets Inventories Trade accounts receivable Other financial assets Other receivables Claims for income tax refunds Cash and cash equivalents Assets held for sale .Total assets Equity Capital stock Capital reserves Other reserves Equity attributable to Bayer AG stockholders Equity attributable to noncontrolling interest Noncurrent liabilities Provisions for pensions and other postemployment benefits Other provisions Refund liabilities Contract liabilities Financial liabilities Income tax liabilities Other liabilities Deferred taxes Current liabilities Other provisions Refund liabilities Contract liabilities Financial liabilities Trade accounts payable Income tax liabilities Other liabilities Total equity and liabilities 
+
+Score 0.434
+.. Business Development by Division 
+
+Score 0.433
+Other receivables were comprised as follows 
+
+Score 0.431
+OTHER LEGAL AND REGULATORY REQUIREMENTS 
+
+Score 0.431
+Activities of the Segments 
+
+Score 0.431
+Target attainment in Group sales to billionFx p adj. to . to . billionFx p adj. to . billionFx p adj. .EBITDA before special items
+
+Score 0.429
+DeferredtaxassetsDeferredtaxliabilitiesDeferredtaxassetsDeferredtaxliabilitiesIntangible assets Property plant and equipment Financial assets Inventories Receivables Other assets Provisions for pensions and other postemployment benefits Other provisions Liabilities Tax loss and interest carryforwards Tax credits Setoff Total 
+
+Score 0.427
+This component is calculated for each division by setting the EBITDA margin before special items against currency and portfolioadjusted sales growth in a matrix. Members of the Board of Management with divisional responsibility are assessed solely based on the respective divisions performance while those with functional responsibility are assessed based on the weighted average performance of all divisions. This average performance is determined using the following weightings Crop Science Pharmaceuticals and Consumer Health. This matrix serves to specifically incentivize profitable growth in each division. Growth should only be generated while maintaining profitability and raising profitability in the short term should not be incentivized at the expense of growth. At the end of each year the EBITDA margin before special items and the currency and portfolioadjusted sales growth actually achieved by the individual divisions are compared to the target matrix previously set for that year. Failure to meet one of the two minimum values results in a target attainment level of for the divisional component. 
+
+Score 0.427
+EBITQ EBITQ EBITEBITEBITDAQ EBITDAQ EBITDAEBITDARestructuring Impairment lossesloss reversals Total special items 
+
+Score 0.425
+Trade accounts receivable mainly comprise amounts outstanding from diverse customer groups and distribution channels including dealers and retailers for all units of the company pharmacies for Pharmaceuticals and Consumer Health and farmers for Crop Science. These receivables expose the Bayer Group to a credit risk though not to significant credit risk concentrations because the risk is spread among a large number of counterparties and customers. Receivables that were not individually impaired were classified as recoverable on the basis of established credit management processes and individual estimates of customer risks. The loss allowances recognized at the closing date contained appropriate risk provisions. Noncurrent trade accounts receivable comprised receivables of million million in connection with rights to use technologies outlicensed to a customer that were acquired through the acquisition of Monsanto. 
+
+Score 0.425
+Income taxes comprise the taxes levied on taxable income in the individual countries along with changes in deferred tax assets and liabilities that are recognized in profit or loss. This also includes current income taxes resulting from tax laws that have come into force or been adopted to implement the Pillar Two Model Rules published by the Organisation for Economic Cooperation and Development OECD. The income taxes recognized are reflected at the amounts likely to be payable under the statutory regulations in force or already enacted in relation to future periods at the end of the reporting period. Complex tax regulations may give rise to uncertainties with respect to their interpretation and the amounts and timing of future taxable income. Given the wide range of international business relationships and the longterm nature and 
+
+Score 0.424
+The gross carrying amounts of trade accounts receivable were as follows 
+
+Score 0.422
+ and expected tax rate . . Tax reduction from taxfree income .. Tax reductions from recognition of previously unrecognized deferred tax assets on tax loss and interest carryforwards and from utilization of carryforwards without previously recognized deferred tax assets .. Increase in taxes due to nontaxdeductible expenses related to the operating business . .Tax expense for expected unrecoverable temporary differences tax loss and interest carryforwards . .Tax income and expenses relating to other periods . .Tax effects of changes in tax rates .. Other tax effects . .Actual income tax income and expense and effective tax rate . .
+
+Score 0.422
+IFRS Insurance Contracts including amendments to IFRS and amendments to IFRS Insurance Contracts Initial Application of IFRS and IFRS Comparative Information Jan. IAS Amendments to IAS Presentation of Financial Statements and IFRS Practice Statement Disclosure of Accounting Policies Jan. IAS Amendments to IAS Accounting Policies Changes in Accounting Estimates and Errors Definition of Accounting Estimates Jan. IAS Amendments to IAS Income Taxes Deferred Tax related to Assets and Liabilities arising from a Single Transaction Jan. IAS Amendments to IAS Income Taxes Temporary relief from accounting for deferred taxes arising from the OECDs international tax reform Jan. 
+
+Score 0.421
+The currency and portfolioadjusted sales growth and the EBITDA margin before special items achieved by the divisions in are shown below. 
+
+Score 0.42
+EBITQ EBITQ EBITEBITEBITDAQ EBITDAQ EBITDAEBITDATotal special items Restructuring of which in the Reconciliation Acquisitionintegration Divestments of which in the Reconciliation Litigationslegal risks of which in the Reconciliation Impairment lossesloss reversals Other 
+
+Score 0.418
+. Procurement and Supplier Management 
+
+Score 0.418
+Derivatives are recognized at fair value through profit or loss unless they qualify for hedge accounting. This mainly applies to the exchange hedging of accounting risks the effects of which are reflected in other financial income and expenses as exchange gains or losses. The effective portion of derivatives designated as cash flow hedges is initially recognized outside profit or loss in other comprehensive income. Any ineffective portions are recognized directly in profit or loss. Only when the hedged item is recognized through profit or loss is the effective portion of the hedging instrument also recognized in the income statement. In the case of commodity futures and options that hedge purchase prices reclassification is to the cost of goods sold. For commodity futures that hedge selling prices reclassification is to sales. The effects of interestrate hedges are reflected in interest income or expense. The effects of the hedging of forecasted sales transactions in foreign currencies are recognized in other operating income or expenses at the time of revenue recognition. The hedging of stockbased employee compensation is recognized in the respective operating expense items of Enabling Functions and Consolidation over the duration of the Aspire programs. Changes in the fair values of derivatives designated as fair value hedges are recognized in income along with the adjustments in the carrying amounts of the hedged items. The effects of interestrate hedges are reflected in interest income or expense. 
+
+Score 0.418
+EBITQ EBITQ EBITEBITEBITDAQ EBITDAQ EBITDAEBITDATotal special items Cost of goods sold Selling expenses Research and development expenses General administration expenses Other operating incomeexpenses 
+
+Score 0.417
+Sales in the 
+
+Score 0.416
+Monetary items such as receivables and liabilities that are denominated in currencies other than a Group companys functional currency are measured at closing rates. Related exchange differences are recognized as exchange gains or losses under other financial income or expenses. 
+
+Score 0.416
+TotalCarrying amount January Gainslosses recognized in profit or loss of which relating to assetsliabilities held at the end of the reporting period Gainslosses recognized outside profit or loss Additions of assetsliabilities Settlements of assetsliabilities Changes in scope of consolidation Exchange differences Carrying amount December 
+
+Score 0.415
+ as per income statements Amortization and impairment lossesloss reversals on goodwill and other intangible assets Impairment lossesloss reversals on property plant and equipment and accelerated depreciation included in special items Special items other than accelerated depreciation amortization and impairment lossesloss reversals Core EBIT
+
+Score 0.414
+Inventories
+
+Score 0.414
+Inventories 
+
+Score 0.413
+complexity of existing contractual agreements differences arising between the actual results and the assumptions made or future changes to such assumptions could necessitate adjustments to tax income and expense in future periods. Liabilities to tax authorities that are uncertain as to their amount and the probability of their occurrence are recognized as tax liabilities based on reasonable estimates. The amounts recognized are based on various factors such as experience with previous tax audits and differing legal interpretations by the taxable entity and the responsible tax authority. In compliance with IAS Income Taxes deferred taxes are recognized for temporary differences between the carrying amounts of assets and liabilities in the statement of financial position prepared according to IFRS and their tax bases. Deferred taxes are also recognized for loss carryforwards interest carryforwards and tax credits that are likely to be usable. Based on the exception stated in IAS .A deferred taxes related to Pillar Two are not recognized nor is information thereon disclosed. Deferred tax assets relating to deductible temporary differences tax credits loss carryforwards and interest carryforwards are recognized where it is probable that taxable income or sufficiently taxable temporary differences will be available in the future to enable them to be used. Deferred tax liabilities are recognized on temporary differences taxable in the future. Deferred taxes are calculated at the rates which on the basis of the statutory regulations in force or already enacted in relation to future periods as of the closing date are expected to apply in the individual countries at the time of realization. Deferred tax assets and deferred tax liabilities are offset if Bayer has a legally enforceable right to set off current tax assets against current tax liabilities and these are levied by the same taxation authority. Material effects of changes in tax rates or tax law on deferred tax assets and liabilities are generally accounted for in the period in which the changes are enacted. Such effects are recognized in profit or loss except where they relate to deferred taxes that were recognized outside profit or loss in which case they are recognized in other comprehensive income or directly in equity. Deferred and current taxes are recognized in profit or loss unless they relate to items recognized outside profit or loss in other comprehensive income in which case they too are recognized in other comprehensive income or directly in equity. The probability that deferred tax assets resulting from temporary differences loss carryforwards or interest carryforwards can be used in the future is the subject of forecasts by the individual consolidated companies regarding their future earnings situation and other parameters. Deferred tax liabilities are recognized on planned dividend payments by subsidiaries. Where no dividend payment is planned for the foreseeable future no deferred tax liability is recognized on the difference between the proportionate net assets according to IFRS and the tax base of the investment in the subsidiary. 
+
+Score 0.413
+In almost every country in which we operate our business activity is subject to extensive regulations standards requirements and inspections that also apply to our local contract manufacturers. In the area of health this largely pertains to clinical studies and manufacturing processes but also to production materials for example. At our Crop Science Division extensive requirements apply along the value chain such as in our production activities and also with respect to the external partners involved. Acquisitions may at times also be subject to requirements compliance with which must be ensured both during and after the integration process. Potential infringements of regulatory requirements may result in the imposition of civil or criminal penalties including substantial monetary fines restrictions on our freedom to operate andor other adverse financial consequences. They could also harm our reputation and lead to declining sales andor margins. We counter these risks through binding principles standards and the control mechanisms in place. Quality requirements are defined and implemented in global quality management systems. 
+
+Score 0.413
+A. Taxonomyeligible activities A. Environmentally sustainable activities taxonomyaligned CapEx of environmentally sustainable activities taxonomyaligned A. Of which enabling Of which transitional A. Taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities Construction extension and operation of waste water collection and treatment .Renewal of waste water collection and treatment .Transport by motorbikes passenger cars and light commercial vehicles .Renovation of existing buildings .Installation maintenance and repair of energy efficiency equipment .Installation maintenance and repair of instruments and devices for measuring regulation and controlling energy performance of buildings .Acquisition and ownership of buildings .Manufacture of medicinal products CapEx of taxonomyeligible but not environmentally sustainable activities not taxonomyaligned activities A. .CapEx of taxonomyeligible activities A.A. B. Taxonomynoneligible activities CapEx of taxonomynoneligible activities Total 
+
+Score 0.412
+North America of which USA EuropeMiddle EastAfrica of which Germany AsiaPacific Latin America of which Brazil Trade accounts receivable before impairments Accumulated impairment losses Carrying amount December of which noncurrent 
+
+Score 0.412
+CarryingamountInterest and repaymentFinancial liabilities Bonds Liabilities to banks Remaining liabilities Trade accounts payable Other liabilities Accrued interest on liabilities Remaining liabilities Liabilities from derivatives With gross settlement Cash outflows Cash inflows With net settlement Cash inflowsoutflows Loan commitments Financial guarantees Total 
+
+Score 0.411
+Miscellaneous receivables contained other advanced payments for services amounting to million million. Other receivables are stated net of impairment losses of million million. 
+
+Score 0.411
+Changes in Other Provisions 
+
+Score 0.411
+ChangeTotal .ChangeEuropeMiddle EastAfrica .North America .AsiaPacific .Latin America .ChangeProduction .Marketing distribution .RD .General administration .WomenMen EuropeMiddle EastAfrica North America AsiaPacific Latin America Total 
+
+Score 0.41
+The financial statements of the individual companies consolidated are prepared according to uniform recognition and measurement methods. The consolidated financial statements are based on the principle of the historical cost of acquisition construction or production with the exception of the items reflected at fair value such as equity instruments held debt instruments held that do not solely comprise principal and interest payments and derivatives and liabilities that must be recognized or were designated at fair value through profit or loss. In preparing the consolidated financial statements management must make certain assumptions and estimates that may substantially impact the presentation of the Groups financial position andor results of operations. Such estimates assumptions or the exercise of discretion mainly relate to the useful life of noncurrent assets the discounted cash flows used for impairment testing and purchase price allocations and the recognition of provisions including those for litigationrelated expenses pensions and other benefits taxes environmental compliance and remediation costs product liability and guarantees as well as the recognition of refund liabilities. Essential estimates and assumptions that may affect reporting in the various item categories of the financial statements are described in the following sections of this Note. Estimates are based on historical experience and other assumptions that are considered reasonable under given circumstances. They are continually reviewed but may vary from the actual values. New or revised financial reporting standards often contain options regarding the firsttime application of new recognition and measurement methods. The income statement for the previous year and the opening statement of financial position for that year may be adjusted depending on the option Bayer exercises. For further information on the standards applied for the first time as of January see Note . 
+
+Score 0.409
+ Interest held in noncontrolling interests . . . . . .Equity attributable to noncontrolling interest Dividends paid to noncontrolling interest Noncurrent assets Current assets Noncurrent liabilities Current liabilities Sales Income after income taxes of which attributable to noncontrolling interest Total comprehensive income of which attributable to noncontrolling interest Net cash provided by used in operating activities Net cash provided by used in investing activities Net cash provided by used in financing activities 
+
+Score 0.409
+TotalInterest income Interest expense Incomeexpenses from affiliated companies Changes in fair value Impairment losses Impairment loss reversals Exchange gainslosses Gainslosses from retirements Other financial incomeexpenses Net result 
+
+Score 0.409
+Production Marketing and distribution Research and development General administration Total Apprentices 
+
+Score 0.408
+Inventories are recognized at their cost of acquisition or production productionrelated full costs calculated by the weightedaverage method or at their net realizable value whichever is lower. 
+
+Score 0.407
+ show the development of the operational business irrespective of the effects of special items i.e. special effects for the Bayer Group with regard to their nature and magnitude. These may include acquisition costs divestments litigations restructuring integration costs impairment losses and impairment loss reversals. In the calculation of EBIT before special items and EBITDA before special items special charges are added and special gains subtracted. 
+
+Score 0.406
+Currencyhedging offorecastedtransactionsInterestrate hedging of forecasted transactions Commodity price hedgingHedging of stockbased employee compensation programsTotalJanuary Changes in fair values Reclassified to profit or loss Reclassified to inventories December Changes in fair values Reclassified to profit or loss Reclassified to inventories December 
+
+Score 0.405
+The changes recognized in profit or loss were included in other operating incomeexpenses as well as in the financial result in interest income exchange gains or losses and other financial income and expenses. 
+
+Score 0.405
+Volume .. .. Price .. .. Currency .. .. Portfolio .. .. Sales by region EuropeMiddle EastAfrica .. ..North America .. ..AsiaPacific .. ..Latin America .. ..EBITDA
+
+Score 0.405
+Volume . .. . Price . .. . Currency . .. . Portfolio . .. . Sales by region EuropeMiddle EastAfrica .. ..North America .. ..AsiaPacific .. ..Latin America .. ..EBITDA
+
+Score 0.405
+Volume . . . . Price . . . . Currency . . . . Portfolio . . . . Sales by region EuropeMiddle EastAfrica .. ..North America .. ..AsiaPacific .. ..Latin America .. ..EBITDA
+
+Score 0.405
+Business Development by Division
+
+Score 0.404
+The expected useful lives of such assets and the amortization patterns are determined based on estimates of the period for which they will generate cash flows. In addition a review is conducted as of each closing date to ascertain whether there are any indications of impairment and impairment testing may then potentially be performed. Should inlicensing result in consideration for the acquisition of intellectual property this is capitalized as an intangible asset. If the transaction also includes research and development activities the share of consideration attributable to these activities is deferred and recognized through profit and loss according to the utilization thereof. If separately capitalizable intangible assets are acquired within the scope of software projects such as SHANA implementation the related costs are correspondingly capitalized. Emission allowances meet the criteria of intangible assets and are not subject to amortization due to their indefinite useful life. If emission allowances are granted to the company free of charge by a statutory authority in connection with regulatory requirements like the EU Emissions Trading System EU ETS no amount is recognized for emission allowances. If more emissions are emitted than the allocated emission allowances permit additional allowances are purchased and recognized as intangible assets at cost. Corresponding provisions are recognized in the period in which the emissions are emitted and usually reflect the cost of acquisition of the emission certificates. If the emissions in a specific period exceed the corresponding emission allowances this portion of the provision is measured at the current market value of the allowances. When the allowances are retired the intangible assets are derecognized and the corresponding provisions are reversed. CO
+
+Score 0.404
+ business reported sales growth in all regions mainly thanks to higher prices in EuropeMiddle EastAfrica and increased volumes in Latin and North America. However volumes were down in EuropeMiddle EastAfrica and AsiaPacific due to weatherrelated factors. Sales at 
+
+Score 0.404
+During the Supervisory Board monitored the conduct of the companys business by the Board of Management on a regular basis with the aid of detailed written and oral reports received from the Board of Management and also acted in an advisory capacity. In addition the Chairman of the Supervisory Board maintained a constant exchange of information with the respective Chairman and the other members of the Board of Management. Furthermore the Chairman of the Supervisory Board and the Chairman of the Audit Committee were regularly in direct contact including outside of the meetings with the heads of the Law Patents Insurance Compliance and Data Privacy unit Internal Audit and the Taxes Treasury and Accounting unit. In addition the Chairman of the Audit Committee was regularly in direct contact with the head of the Global Compliance and Data Privacy department including outside of the meetings. In this way the Supervisory Board was kept continuously informed about the companys intended business strategy corporate planning including financial investment and human resources planning and earnings performance as well as the state of the business and the situation in the company and the Group. Where Board of Management decisions or actions required the approval of the Supervisory Board whether by law or under the Articles of Incorporation or the rules of procedure the draft resolutions were inspected by the members at the meetings of the full Supervisory Board sometimes after preparatory work by the committees or approved on the basis of documents circulated to the members. The Supervisory Board was involved in decisions of material importance to the company. We discussed at length the business trends described in the reports from the Board of Management and the prospects. 
+
+Score 0.403
+Losses on retirements of noncurrent assets Impairment losses on receivables Expenses for significant litigations Losses from derivatives Cost of goods sold for products acquired through barter transactions Impairment losses on goodwill Miscellaneous operating expenses Total 
+
+Score 0.403
+ For our reduction target for Scope emissions in line with the SBTi we consider the following materially important Scope categories which accounted for of Scope emissions in the baseline year purchased goods and services capital goods fuel and energyrelated activities upstream transportation and distribution and business travel. 
+
+Score 0.402
+ .Other financial liabilities .Receivables from derivatives

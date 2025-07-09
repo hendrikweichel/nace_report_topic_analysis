@@ -1,0 +1,299 @@
+Scores_c_MANUFACTURINGScore 0.645
+manufacture of automotive and mobility components the activity description refers to the manufacture of automotive components for vehicle categories m n and l in accordance with the eu classification which according to the delegated act meet the criteria set out in this section and which are essential for delivering and improving the environmental performance of the vehicle
+
+Score 0.612
+manufacturing of aircraft as well as the manufacturing of aircraft the description of the activity includes the manufacturing of parts and equipment for aircraft the provision of related services as well as maintenance repair and overhaul mro to the extent that these can be linked to an eligible aircraft type and improves or maintains the level of efficiency of the aircraft
+
+Score 0.586
+material recovery from nonhazardous waste to make a substantial contribution to the environmental objective climate change mitigation the technical screening criteria for business activities in this category require that at least by weight of the separately collected and processed nonhazardous waste is converted into secondary raw materials
+
+Score 0.58
+moreover the resulting recycled materials must be able to substitute virgin materials in production processes
+
+Score 0.573
+thyssenkrupp annual report combined management report eu taxonomy dnsh criteria transition to a circular economy as a rule the dnsh criteria in respect of transition to a circular economy require an assessment of the availability and where feasible adoption of techniques that support the following practices use of secondary raw materials and reused components in manufactured products design for high durability recyclability easy disassembly and adaptability of products waste management that prioritizes recycling over disposal in the manufacturing process information on and traceability of substances of concern in products in the case of business activities that are considered in the screening procedure for taxonomy alignment in a reporting year suitable evidence is obtained for the sites of relevance to the performance of these activities on the basis of which it can be established that an asse ssment of the availability of processes in support of the circular economy has been performed or that such practices are already used in the context of this business activity
+
+Score 0.558
+materials services this segment is focused on the global distribution of materials and the provision of technical services for the production and manufacturing sectors
+
+Score 0.549
+change in taxonomyeligible business activities compared to the previous year already reported as taxonomyeligible in the previous year newly classified as taxonomyeligible new economic activity according to eu or eu slewing bearings for wind turbines water electrolysis technology oxygendepolarised cathode odc envinox technology steel production slag processing logistics services green chemicals planeo technology biopolymere clean ammonia fertiliser gas scrubbing technology polysius pure oxyfuel polysius activated clay mecaclay steel sleepers ties automotive components aircraft parts and services digital products toii on the basis of the expert assessment in the course of determining taxonomyeligible business activities thyssenkrupp annual report combined management report eu taxonomy taxonomyaligned bu siness activities business activities are taxonomyaligned if they m eet the technical screening criteria specified in the delegated acts and therefore make a substantial contribution to achieving one or more of the environmental objectives of the eu taxonomy do no significant harm to one or more environmental objectives pursuant to article of the eu taxonomy dnsh criteria and also meet the minimum social safeguards pursuant to article
+
+Score 0.546
+material recovery from nonhazardous waste thereof additions related to taxonomyaligned business activities thereof additions as part of a capex plan thereof additions due to business combinations contextual information on the key performance indicator related to operating expenditure opex million operating expenditure related to taxonomyaligned business activities operating expenditure as part of a capex plan operating expenditure in accordance with eu annex i no
+
+Score 0.54
+manufacture of iron and steel due to the direct technical and economic linkage between steel production and the formation of byproducts which are used in this power plant operation rather than reporting it as a separate power plant activity ccm
+
+Score 0.536
+this is where the liquid product is processed into the wellknown steel grades
+
+Score 0.534
+manufacturing cost includes direct material labor and allocable material and manufacturing overhead based on normal operating capacity
+
+Score 0.53
+environmentally sustainable activities taxonomyaligned manufacture of renewable energy technologies ccm
+
+Score 0.53
+manufacture of renewable energy technologies to make a substantial contribution to the environmental objective climate change mitigation the technical screening criteria for business activities in this category require that the technologies manufactured by this activity are used for the generati on of renewable energy as defined in article of directive eu namely energy from renewable nonfossil sources
+
+Score 0.527
+y nel nel nel nel nel y y y y y y y e material recovery from nonhazardous waste ccm
+
+Score 0.526
+y nel yel nel nel nel y y y y y y y e material recovery from nonhazardous waste ccm
+
+Score 0.524
+that is why we define the recyclability at the end of the life cycl e of the aircraft components manufactured in the context of this economic activity as a criterion for efficiency
+
+Score 0.522
+y nel nel yel nel nel y y y y y y y e material recovery from nonhazardous waste ccm
+
+Score 0.515
+manufacture of equipment for the production and use of hydrogen to make a substantial contribution to the environmental objective climate change mitigation the technical screening criteria for business activities in this category require that the plants manufactured by this activity produce hydrogen or hydrogen derivatives that achieve the greenhouse gas emissions savings across their life cycle as specified in annex v of regulation eu
+
+Score 0.509
+manufacture of iron and steel thereof additions related to taxonomyaligned business activities thereof additions as part of a capex plan thereof additions due to business combinations ccm
+
+Score 0.508
+thyssenkrupp classifies all its business activities in connection with the production of automotive components as taxonomyeligible
+
+Score 0.507
+throughout the life cycle of our products and processes we raise efficiency in the use of resources and minimize harmful emissions
+
+Score 0.507
+it was followed by trading steel and related processes and the remaining parts of the processing industry
+
+Score 0.507
+for production machinery or buildings the numerator also includes capital expenditure which is used to expand taxonomyaligned business activities or to allow taxonomyeligible busine ss activities to become taxonomyaligned and which is part of a capex plan in accordance with annex i point
+
+Score 0.506
+taxonomyeligible but not environmentally sustainable activities not taxonomyaligned manufacture of renewable energy technologies ccm
+
+Score 0.494
+materiality for reporting purposes the condition for including taxonomyeligible business activities in eu taxonomy reporting is that external turnover is generated by a business activity that is consistent with the description of an economic activity in accordance with the delegated acts
+
+Score 0.494
+materials expense materials expense comprises the groups total spend on products and services
+
+Score 0.487
+manufacture of iron and steel ccm
+
+Score 0.486
+capitalized production costs for selfconstructed assets include costs of material direct labor and allocable material and manufacturing overhead
+
+Score 0.485
+manufacturing of aircraft aircraft parts decarbon technologies rothe erde aircraft parts and services materials services aerospace ccm
+
+Score 0.483
+determining taxonomyeligible business activities in order to determine thyssenkrupps taxonomyeligible business activities the delegated acts issued in respect of the environmental objectives of the eu taxonomy were analyzed at group level by a team of experts
+
+Score 0.481
+material recovery from nonhazardous waste slag processing materials services millservices systems ccm
+
+Score 0.48
+thyssenkrupp annual report combined management report eu taxonomy in the case of business activities that are considered in the screening procedure for taxonomy alignment in a reporting year suitable evidence is obtained for the sites of relevance to the performance of these activities on the basis of which it can be established that none of the aforementioned substances on their own in mixtures or in articles are manufactured placed on the market or used or that this is done only in accordance with the ex emptions described above
+
+Score 0.48
+materials services in light of the successive transformation of the global economy three trends offer opportunities for our materials services segment
+
+Score 0.479
+this increase by percentage points resulted mainly from the firsttime classification of the economic activities manufacture of automotive and mobility components and manufacturing of aircraft as taxonomyeligible in the reporting year it was offset primarily by declines in turnover in the steel business
+
+Score 0.478
+such evidence includes for example operating permits compliance audits relating to waste disposal law environmental audits or productspecific documents that provide information about the composition of materials or other properties of the products manufactured in the course this business activity that are relevant to this matter
+
+Score 0.476
+thereof million relates to technical machine ry and equipment million to construction in progress million to buildings million to land million to other equipmen t factory and office equipment million to development costs and million to other intangible assets
+
+Score 0.474
+chemical substances as defined in annex xvii to regulation ec no
+
+Score 0.472
+taxonomynoneligible activities opex of taxonomynoneligible activities b total a b thyssenkrupp annual report combined management report eu taxonomy nuclear and fossil gas related activities row nuclear energy related activities the undertaking carries out funds or has exposures to research development demonstration and deployment of innovative electricity generation facilities that produce energy from nuclear processes with minimal waste from the fuel cycle
+
+Score 0.472
+of this amount mi llion relates to technical machinery and equipment million to construction in progress million to buildings million to other equipment factory and office equipment million to development costs and million to other intangible assets
+
+Score 0.471
+com company procurement materials expense in relation to sales materials expense of the segmentsas of sales automotive technology decarbon technologies materials services steel europe marine systems thyssenkrupp annual report combined management report purchasing sustainability in supplier management as an international corporation we develop tech nologies and solutions for future market and customer needs
+
+Score 0.47
+manufacture of iron and steel upgrading million the capex plan of thyssenkrupp includes capital expenditures intended to allow the taxonomyeligible steel production activities of the thyssenkrupp group to become taxonomyaligned with respect to the environmental objective climate change mitigation
+
+Score 0.47
+evidence of this is provided by an analysis of the production and use of slag from iron and steel works by a research institute specializing in construction materials
+
+Score 0.469
+thereof million relate to technical machinery and equipment million to other equipment factory and office equipment and million to capitalized development costs
+
+Score 0.467
+in addition forged compon ents and system solutions for the resources construction and mobility sectors are manufactured here
+
+Score 0.466
+taxonomyeligible bu siness activities business activities are taxonomyeligible if they are consistent with the descriptions of the economic activities contained in the delegated acts in respect of the environmental objectives of the eu taxonomy
+
+Score 0.466
+at thyssenkrupp this concerns disclosures in connection with the manufacture of automotive and mobility components and aircraft as well as all business activities that can be assigned to nonclimaterelated environmental objectives
+
+Score 0.466
+most of the measures concerned the automotive technology materials services and decarbon technologies segments
+
+Score 0.464
+manufacturing of aircraft ccm
+
+Score 0.461
+thereof million relate to technical machinery and equipme nt and million to other equipment factory and office equipment
+
+Score 0.461
+this addresses possible risks and negative impacts along the supply chain and requires our suppliers in particular to safeguard human rights ensure fair working conditions actively protect the environment and avoid human right violations caused by environmental harm combat corruption and create transparency on the origin of certain raw materials socalled conflict minerals
+
+Score 0.46
+thereof million relate to technical machinery and equip ment and million to other equipment factory and office equipment
+
+Score 0.459
+optimization of cycle times shorter tooling ti mes reduction in reject costs etc
+
+Score 0.459
+the main purchasers of the products are the automotive and engineering sectors the energy sector the metal processing industry and the construction industry
+
+Score 0.459
+manufacture of renewable energy technologies thereof additions related to taxonomyaligned business activities thereof additions as part of a capex plan thereof additions due to business combinations ccm
+
+Score 0.458
+which states that an economic activity is eligible irrespective of whether it meets the technical screening criteria laid down in the delegated acts
+
+Score 0.457
+manufacture of other low carbon technologies ccm
+
+Score 0.456
+y nel nel nel nel nel y y y y y y y e manufacture of iron and steel ccm
+
+Score 0.455
+manufacture of iron and steel steel production steel europe ccm
+
+Score 0.454
+materials services
+
+Score 0.453
+manufacture of automotive and mobility components automotive components automotive technology automotive components decarbon technologies rothe erde automotive components materials services ccm
+
+Score 0.451
+pro tec gmbh essen thyssenkrupp automation engineering gmbh essen thyssenkrupp automotive body solutions gmbh essen thyssenkrupp automotive systems gmbh essen thyssenkrupp bilstein gmbh ennepetal thyssenkrupp carbonchem gmbh essen thyssenkrupp components tech gmbh essen thyssenkrupp decarbon technologies gmbh essen thyssenkrupp delicate gmbh düsseldorf thyssenkrupp materials services digital innovations gmbh essen thyssenkrupp dritte beteiligun gsgesellschaft mbh duisburg thyssenkrupp dynamic components gmbh ilsenburg thyssenkrupp dynamic components chemnitz gmbh chemnitz thyssenkrupp dynamic components ilsenburg gmbh ilsenburg thyssenkrupp facilities services gmbh essen thyssenkrupp federn gmbh hagen thyssenkrupp federn und stabilisatoren gmbh hagen thyssenkrupp fertilizer technology gmbh dortmund thyssenkrupp gerlach gmbh homburgsaar thyssenkrupp gft gleistechnik gmbh essen thyssenkrupp grundbesitz verwaltungs gmbh essen thyssenkrupp holding germany gmbh essen thyssenkrupp industrial crankshafts gmbh homburgsaar thyssenkrupp industrial solutions ag essen thyssenkrupp information management gmbh essen thyssenkrupp intellectual property gmbh essen thyssenkrupp management consulting gmbh düsseldorf thyssenkrupp marine systems gmbh kiel thyssenkrupp materials business services gmbh essen thyssenkrupp materials dataflowworks gmbh essen thyssenkrupp materials proce ssing europe gmbh krefeld thyssenkrupp materials services gmbh essen thyssenkrupp materials services digital innovations gmbh essen thyssenkrupp materials trading gmbh essen thyssenkrupp nucera hte gmbh dortmund thyssenkrupp nucera participations gmbh dortmund thyssenkrupp plastics gmbh essen thyssenkrupp polysius gmbh essen thyssenkrupp presta mülheim gmbh mülheim thyssenkrupp presta schönebeck gmbh schönebeck thyssenkrupp annual report group financial statements thyssenkrupp group notes to the financial statements thyssenkrupp projekt gmbh essen thyssenkrupp rothe erde germany gmbh dortmund thyssenkrupp schulte gmbh essen thyssenkrupp senior experts gmbh essen thyssenkrupp services gmbh essen thyssenkrupp technologies beteiligungen gmbh essen thyssenkrupp transrapid gmbh kassel thyssenkrupp uhde engineering services gmbh dortmund thyssenkrupp uhde gmbh essen thyssenkrupp usa holding ag co kg essen u uhde high pressure technologies gmbh hagen uhde inventafischer gmbh berlin the following dutch subsidiaries made use of the exemption clause included in art
+
+Score 0.451
+moreover forged technologies reported as a separate segment as of september is now part of automotive techno logy as the endcustomer structure is the same
+
+Score 0.451
+these activities met the criteria set forth in ifrs for recognition as a disposal group for the first time in the th quarter of
+
+Score 0.45
+further details on production risks in our businesses can be found in the section operational risks of the businesses
+
+Score 0.448
+we classify slit strip manufactured for the automotive industry as taxonomyeligible because it is consistent with the definition of a component in accordance with regulation eu and regulation eu no
+
+Score 0.448
+determining taxonomyaligned business activities to determine the taxonomyaligned business activi ties profiles of the requirements are created for each economic activity on the basis of the delega ted acts adopted for the environmental objectives of the eu taxonomy
+
+Score 0.447
+thyssenkrupp annual report combined management report eu taxonomy due to unclarified legal terms uncertainty still exists regarding the interpretation of the eu taxonomy and associated delegated acts
+
+Score 0.445
+the increase in other provisions contained in this item related mainly to restructuring measures in the reporting year in the automotive technology decarbon technologies and materials services segments
+
+Score 0.445
+another key factor for the future performance of our forgings business forged technologies is the development of the global truck market and the construction machinery sector
+
+Score 0.444
+in total materials services sold
+
+Score 0.443
+the increases in taxonomyeligible capex and opex resulted mainly from the firsttime classification of the economic activity manufacture of automotive and mobility components as taxonomyeligible in the reporting year
+
+Score 0.442
+automotive technology this segment develops and manufactures hightech components and systems for the automotive industry
+
+Score 0.442
+in this rega rd materials services is expanding its portfolio of corresponding products and services as part of its beyond sustainability strategy in o rder to support customers in meeting their decarbonization targets
+
+Score 0.442
+in the case of steel europe in particular the progress in constructing the first direct reduction plant at the duisburg site a measure that is part of the green transformation was the subject of detailed discussion
+
+Score 0.442
+for the same reasons the german automotiverelated service cent ers of the materials services segment recognized impairment los ses of million mainly on technical machinery an d equipment in the cost of sales
+
+Score 0.442
+thereof million related to technical machinery and equipment million to buildings and million to development costs that were recognized in selling expenses
+
+Score 0.441
+material recovery from nonhazardous waste ccm
+
+Score 0.441
+which has met the criteria set forth in ifrs for recognition as a disposal group since the st quarter of
+
+Score 0.44
+to ensure its effectiveness we are pressuring the eu and the german government to extend application of the mechanism to processed steelintensive products
+
+Score 0.44
+in addition the slag generated in the melting units can be used in the production of cement analogously to blast furnace slag a further contribution to the decarbonization of the construction and ceme nt industries
+
+Score 0.44
+thyssenkrupp annual report combined management report compliance the supply chain act sca council group oversees the implementation of the concept to ensure compliance with human rights and environmentrelated due diligence obligations in the group
+
+Score 0.44
+manufacture of automotive and mobility components ccm
+
+Score 0.439
+manufacture of other low carbon technologies oxygendepolarised cathode odc decarbon technologies nucera envinox technology decarbon technologies uhde planeo technology biopolymers decarbon technologies uhde clean ammonia fertiliser decarbon technologies uhde gas scrubbing technology decarbon technologies uhde polysius pure oxyfuel decarbon technologies polysius polysius activated clay decarbon technologies polysius mecaclay mechanochemical activation decarbon technologies polysius ccm
+
+Score 0.437
+the availability of individual energy sources preproducts and transportation routes for raw materials could be restricted
+
+Score 0.436
+dnsh criteria pollution prevention and control the dnsh criteria relating to pollution prevention and control require that economic activities do not lead to the manufacture placing on the market or use of substances or groups of substances whether on their own in mixtures or in articles that are subject to european regulation
+
+Score 0.436
+thyssenkrupp annual report combined management report eu taxonomy eu taxonomy the european unions taxonomy regulation regulation eu hereinafter referred to as the eu taxonomy is a key component of the green deal and the action plan on financing sustainable growth to reach the environmental objectives adopted by the european union by
+
+Score 0.436
+through the reduction target we aim to further reduce the risk of violations of the legal pr ovisions of this legislation in respect of environmental protection human rights and occupational safety within the portfolio of suppliers
+
+Score 0.435
+the slag treatment performed in the course of this activity achieves recycling rates that exceed the minimum requirements
+
+Score 0.434
+we still classify the risks arising from this as low and we counter them with extensive measures in connection wi th production and quality assurance systems
+
+Score 0.434
+in addition the secondary raw materials obtained can substitute both virgin construction materials and fertilizers
+
+Score 0.434
+the purpose of the capital expenditure is the construction and operational capability of a hydrogencapable direct reduction dr plant allowing lowcarbon manufacture of iron and steel by thyssenkrupp
+
+Score 0.434
+you can find further information in the section segment review subsection steel europe
+
+Score 0.433
+starting from this it defines requirements for companies to ensure responsible management of supply chains on the one hand and of their own business areas on the other
+
+Score 0.432
+in this way we aim to achieve a general reduction in the risk of violating the legal provisions of this legislation in respect of environmental protection human rights and occupational safety within our portfolio of suppliers
+
+Score 0.432
+for this reason we classify the manu facture of all automotive components for these vehicle classes as taxonomyeligible
+
+Score 0.432
+the provision for decommissioning obligations mainly consists of obligations associated with mining activities and recultivatin g landfills
+
+Score 0.432
+by contrast the di vestment process for auto mation engineering was halted
+
+Score 0.431
+taxonomynoneligible turnover capex and opex are those that cannot be allocated to any of the economic activities listed in the delegated acts
+
+Score 0.431
+au tomotive technology takes measures as part of its production and quality assurance systems to avoid or limit such risks as far as possib le
+
+Score 0.429
+raw materials production supplies work in progress finished products merchandise total inventories of million prior year million have a remaining term of more than one year

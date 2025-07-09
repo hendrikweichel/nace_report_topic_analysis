@@ -1,0 +1,299 @@
+Scores_h_TRANSPORTATION AND STORAGEScore 0.502
+ Inventories and receivables Pension provisions Other provisions Liabilities
+
+Score 0.502
+Property land Property buildings Passenger cars Other rightof use assets Total As of Current period Disposals Book transfers Currency differences As of and Current period Disposals Book transfers Adjustments in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.476
+Land land rights and buildings Production plant and machinery Other plant factory and office equipment Prepayments made and construction in progress Total As of Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of and Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.469
+ Provisions for pensions and similar obligations Other noncurrent provisions Noncurrent financial debts Other noncurrent liabilities Deferred taxes Noncurrent liabilities Other current provisions Current financial debts Contract liabilities Trade liabilities Other current liabilities Income tax liabilities Liabilities directly associated with assets held for sale Current liabilities Total equity and liabilities
+
+Score 0.469
+Land land rights and buildings Production plant and machinery Other plant factory and office equipment Prepayments made and construction in progress Total As of Additions Disposals Book transfers Adjustments in scope of consolidation Currency differences As of and Additions Disposals Book transfers Adjustment in scope of consolidation Currency differences As of 
+
+Score 0.468
+ Trade receivables Contract assets Contract liabilities 
+
+Score 0.458
+ Carrying amount WACC before taxes WACC after taxes Carrying amount WACC before taxes WACC after taxes Vehicle Systems Europe . . Vehicle Systems International . . Vehicle Systems . . Weapon and Ammunition . . . . Electronic Solutions . . . . Sensors and Actuators . . . . Materials and Trade . . . . Group . . . . 
+
+Score 0.456
+In the following presentation of information by geographical region foreign sales of Vehicle Systems Weapon and Ammunition and Electronic Solutions are reported based on the country of destination while external sales of Sensors and Actuators and Materials and Trade are reported according to where the customer is based. Noncurrent assets include intangible assets rightofuse assets property plant and equipment and investment property according to the respective location of the company. 
+
+Score 0.451
+ Other noncurrent assets Noncurrent assets Inventories Trade receivables Other current assets Current assets Provisions Other noncurrent liabilities Noncurrent liabilities Provisions Trade liabilities Other current liabilities Current liabilities 
+
+Score 0.45
+ Inventories Contract assets Trade receivables Other current assets Income tax receivables Securities held for trade Cash and cash equivalents Assets held for sale
+
+Score 0.448
+Securities held for trade 
+
+Score 0.443
+Order to supply the MASS ship protection system to Australia 
+
+Score 0.443
+Trade receivables are recognized as soon as the goods and services have been transferred to the customer and there is an unconditional legal entitlement to the corresponding consideration. The credit term for contracts with customers is predominantly days. 
+
+Score 0.441
+Sales Vehicle Systems generated sales of million in fiscal exceeding the previous years figure of million by .. Adjusted for currency effects growth amounted to .. In the Tactical Vehicles business unit significant sales contributions were made by Lynx infantry fighting vehicles in Hungary and ring exchange programs in the context of the Ukraine war. The Logistic Vehicles business unit generated a large portion of its sales in fiscal from the delivery of loadhandling systems to various customers and a range of logistics vehicles from the HX TGS and TGM series. As in the previous year a considerable share of sales was generated in connection with the major Land Phase Australian order which includes a delivery of x Boxer wheeled armored vehicles. Rheinmetall Nomination At million Rheinmetall Nomination of Vehicle Systems was million higher than the previous years figure of million. A framework agreement for air assault vehicles in Germany and the Netherlands totaling more than billion was acquired in the year under review. At the same time an order for XM infantry fighting vehicles of around million was acquired in the US. Other major new orders included the second lot of Puma infantry fighting vehicles commissioned by the German government and the Leopard upgrade for Norway. Rheinmetall Backlog Vehicle Systems recorded an order backlog of million in fiscal compared with million in the previous year. Of this order backlog million is attributable to Germany million to Hungary million to the United Kingdom and million to Australia. Operating result In the operating result of Vehicle Systems improved by around million . to a total of million. As a result of sales picking up for the orders described and strict cost management the operating margin came to . and significantly exceeded the previous years figure of .. Operating free cash flow Operating free cash flow of Vehicle Systems decreased by around million year on year to million. Employees Vehicle Systems employed people as of the end of the fiscal year previous year. This increase in employees reflects the financial success of the segment and is the result in particular of the recruitment of staff to process major orders in Germany Great Britain Australia and Hungary. 
+
+Score 0.439
+ External Sales Vehicle Systems External Sales Weapon and Ammunition External Sales Electronic Solutions External Sales Sensors and Actuators External Sales Materials and Trade OthersConsolidation Group sales in of worldwide Group sales Noncurrent assets 
+
+Score 0.437
+Property land Property buildings Passenger cars Other rightof use assets Total As of Additions Disposals Book transfers Currency differences As of and Additions Disposals Book transfers Adjustments in scope of consolidation Currency differences As of 
+
+Score 0.435
+Other provisions 
+
+Score 0.435
+Property plant and equipment 
+
+Score 0.432
+The denominator of operating expenditures is limited to certain expenses. Consequently the taxonomyrelevant transactions are also only a subset of this limited unit. The denominator must include direct noncapitalized expenses incurred for research and development building renovation measures shortterm leasing maintenance and repair and all other direct expenses from the maintenance of property plant and equipment to ensure operational readiness. Here too we have used standardized reporting formats and thus include maintenance costs expenses for shortterm and lowvalue leases and noncapitalized expenses for research and development. The additional determination of expenses for the daily maintenance of assets has been carried out since . Rheinmetall understands this to mean internal expenses incurred in connection with maintenance and repair by its own personnel and therefore not included in other operating expenses. When evaluating the cost centers care is taken to ensure that the total costs are adjusted for individual costs where necessary for the required data reporting in order to avoid double counting when determining the key figures. 
+
+Score 0.429
+ Raw materials and supplies Work in process Finished products Merchandise Prepayments made 
+
+Score 0.428
+Property plant and equipment Property plant and equipment are carried at cost less accumulated depreciation and any impairment. Depreciation is recognized on a straightline basis over the expected useful life. 
+
+Score 0.426
+ Of which current Of which noncurrent Of which current Of which noncurrent Derivatives Receivables from contracts with customers Receivables from finance leases Bonds Other Financial assets Other taxes Contract acquisition costs Contract costs Subsidiesgrants receivable Prepaid expenses Pension reimbursement claims Net definded benefit from plan assets Reimbursement claims from insurances Other Nonfinancial assets Other assets 
+
+Score 0.426
+ Cost As of Book transfers Book transfers IFRS As of Amortization and depreciationimpairment As of Current period Book transfers Book transfers IFRS As of Carrying amount as of 
+
+Score 0.425
+ . . . . . . . ORDER INFORMATION Booked Business million Frame Nomination million Frame Utilization million Order Intake million Rheinmetall Nomination million Nominated Backlog million Frame Backlog million Order Backlog million Rheinmetall Backlog December million CASH FLOW Cash flow from operating activities million Cash flow from investments million Operating free cash flow million Of which continuing operations
+
+Score 0.425
+ Allocation of CTA assets to secure pension and partial retirement obligations Proceeds from reimbursements of pension payments made from CTA assets Other changes in pension provisions Incomeexpenses from disposals of noncurrent assets Changes in other provisions Changes in working capital Changes in receivables liabilities without financial debt and prepaid deferred items Pro rata incomeloss from investments accounted for using the equity method
+
+Score 0.424
+ Purchased goods and services t COe Use of sold products t COe Rheinmetall Group t COe 
+
+Score 0.424
+Years Buildings Other structures Equivalent titles Production plant and machinery Other plant factory and office equipment 
+
+Score 0.424
+Personnel provisions essentially relate to variable remuneration of million previous year million and obligations from vacation overtime and flexitime accounts of million previous year million. Provisions for restructuring mainly relate to termination settlements and expenses for partial retirement obligations. The provisions for contractrelated costs comprise offset obligations of million previous year million contractual penalties of million previous year million price review risks of million previous year million contractrelated commissions of million previous year million and other contract costs of million previous year million. Miscellaneous provisions relate to environmental risks at million previous year million rebates and bonuses at million previous year million as well as other individual provisions. 
+
+Score 0.423
+Framework agreement for logistics vehicles for the Austrian armed forces 
+
+Score 0.42
+also included in the investment planning. The resulting planned capital expenditure is reported at aggregated economic activity level. The current investment planning refers to the core business relating to the environmental objective of climate protection as investments in other activities such as the acquisition of real estate or the construction of photovoltaic plants cannot always be planned over a longer period of time and prices are subject to strong market fluctuations. Investment planning covers a period of three years i.e. for the period under review this relates to the period between and . In category .. Manufacture of renewable energy technologies capital expenditure of . million is planned for the coming years. In the category . Equipment for the production and use of hydrogen further taxonomyaligned capital expenditure of around . million is planned for the coming years in order to expand the product portfolio as part of our hydrogen strategy. Capital expenditure of around . million is planned for the business activities in category . Energyefficient equipment for buildings in order to expand our taxonomycompliant business activities. Capital expenditure of around . million is expected in the coming years for economic activities in the category . Other low carbon technologies. The product portfolio in category . Manufacture of automotive and mobility components is to be further expanded in the coming years with capital expenditure of around . million. Further taxonomyaligned capital expenditure of around million is also planned in the coming years in category . Transmission and distribution of electricity. 
+
+Score 0.417
+The Group generates sales from the transfer of goods and services in areas of security technology and mobility. Sales from the real estate development sector are also recognized in the other companies. The following table shows the timing of sales recognition broken down by segment. 
+
+Score 0.416
+The assets from contract acquisition see note Other assets relate to contracts with customers in security technology and essentially comprise commissions for agents and indirect offset costs. Offset costs are usually incurred for contracts with customers in which the customer wishes to support the local economy in order to offset an import business through an additional agreement. Indirect offset costs are costs that are incurred in addition to the manufacturingrelated costs. The assets are recognized at the time the costs arise and are written down in line with the sales recognition over the time of contract fulfillment. The order backlog as of December reflects the total of performance obligations not fulfilled or partly not yet fulfilled. Besides the contract value the order backlog also includes adjustments from variable remuneration such as indexbased price adjustment clauses which are customary on longerterm orders. Future sales from the order backlog are expected for the following periods 
+
+Score 0.413
+Classification of other provisions 
+
+Score 0.408
+Amortized cost Fair valueOCI Fair valuePL No category Total Trade receivables Cash and cash equivalents Securities held for trade Derivatives without hedge accounting Derivatives with cash flow hedge Other financial assets Financial assets Promissory notes Commercial Paper Other financial debts Trade liabilities Derivatives without hedge accounting Derivatives with cash flow hedge Other financial liabilities Financial liabilities 
+
+Score 0.407
+Amortized cost Fair valueOCI Fair valuePL No category Total Trade receivables Cash and cash equivalents Securities held for trade Derivatives without hedge accounting Derivatives with cash flow hedge Other financial assets Financial assets Convertible bond Promissory notes Commercial Paper Other financial debts Trade liabilities Derivatives without hedge accounting Derivatives with cash flow hedge Other financial liabilities Financial liabilities 
+
+Score 0.405
+Group.operating result marging around operating result marging around operating result marging around operating result marging around ..Vehicle Systems.operating margin of to operating margin of to operating margin of to operating margin of to ..Weapon and Amunition.operating margin of to operating margin of to operating margin of to operating margin of to ..Electronic Solutions.operating margin of to operating margin of to operating margin of to operating margin of to ..Sensors and Actuators.operating margin of to operating margin of to operating margin of to operating margin of to ..Materials and Trade.operating margin of to operating margin of to operating margin of to operating margin of to ..OFCF in relation to salesGroup million. to to to to ..
+
+Score 0.405
+Convertible bond Promissory notes Bank liabilities Leasing Commercial Papers Other Total year year year year As of Cash changes Borrowing of financial debts Repayment of financial debts Noncash changes Currency differences Adjustment in scope of consolidation Addition of rightofuse assets Book transfers As of and Cash changes Borrowing of financial debts Repayment of financial debts Noncash changes Currency differences Adjustment in scope of consolidation Interest Addition of rightofuse assets Book transfers As of 
+
+Score 0.404
+Goodwill Development costs Sundry other intangible assets Total As of Current period Disposals Adjustment in scope of consolidation Currency differences As of and Current period Reversal Disposals Book transfers Adjustment in scope of consolidation Currency differences As of Carrying amount as of Carrying amount as of 
+
+Score 0.404
+Materials and Trade 
+
+Score 0.404
+. Operating expenses 
+
+Score 0.401
+Customer contracts in security technology include the manufacture and supply of goods service contracts for service and maintenance activities and the provision of development services. Sales are realized at the time of transfer of control which is agreed individually. In particular sales are recognized at a point in time for orders for protection and weapon systems and for ammunition. In the business areas of civilian mobility contracts with customers relate primarily to serial deliveries of modules and systems for engine technology. The customers are predominantly large automotive manufacturers. As a rule sales are recognized at the time of delivery. Sales are recognized over time for customerspecific contract manufacturing. This predominantly applies to contracts with customers in the Electronic Solutions division to development and pilot production contracts and to the delivery of vehicle programs. The sales for include million previous year million which resulted from the inclusion of a financing component. The following contract balances result from contracts with customers 
+
+Score 0.401
+met Fair value through other comprehensive income Derivatives Fair value through profit or loss All other financial assets Fair value through profit or loss Equity and liabilities Provisions for pensions and similar obligation Present value of DBO Other provisions Discounted settlement amount Financial liabilities Amortized cost Trade liabilities Amortized cost Other liabilities Derivatives Fair value Miscellaneous Amortized cost 
+
+Score 0.4
+The following section describes the remuneration components in detail and shows how the performance criteria and targets for variable remuneration were applied in fiscal year .
+
+Score -0.025
+ . . . . . . KlausGünter Vennemann . . . . . . 
+
+Score 0.329
+In addition to fixed remuneration and committee remuneration Supervisory Board members receive a meeting attendance fee. The attendance fee for Supervisory Board meetings is . The attendance fee for committee meetings that are not held on the same day as a Supervisory Board meeting is . Supervisory Board and committee members who belonged to the Supervisory Board or a committee for only part of the fiscal year receive remuneration on a pro rata temporis basis. In addition Rheinmetall AG reimburses Supervisory Board members for expenses incurred for Supervisory Board meetings upon request. Each member of the Supervisory Board with the exception of the employee representatives is required to deploy of the fixed remuneration paid for acquiring shares in Rheinmetall AG and to hold the shares for the length of the membership in the Supervisory Board. Compliance with the holding obligation is to be demonstrated to Rheinmetall AG. The aforementioned obligation to buy shares does not apply to remuneration that has not yet been paid at the time of departure from the Supervisory Board. The claim to the part of the remuneration referred to in Article sentence of the Articles of Association does not apply retroactively if the member of the Supervisory Board partly or fully sells or loans the acquired shares before his departure from the Supervisory Board. The Supervisory Board members are covered by any directors and officers liability insurance that has been taken out by Rheinmetall AG in its own interests in an appropriate amount and with an appropriate deductible for members of management bodies and certain other managers. The premiums for this are paid by Rheinmetall AG. The shareholder representatives on the Supervisory Board in office as of December received the following remuneration for fiscal year 
+
+Score 0.332
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Remuneration of the Supervisory Board 
+
+Score 0.215
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Comparison of yearonyear change in remuneration 
+
+Score 0.284
+Compensation granted and owed earningsoriented interpretation to shareholders in office on the Supervisory Board as of December 
+
+Score 0.277
+Fixed remuneration Committee remuneration Attendence fee Total renumeration EUR EUR EUR Ulrich Grillo . . . Chairman of the Supervisory Board . . . Prof. Dr. Dr. h.c. Sahin Albayrak . . . . . . Dr.Ing. Dr.Ing. E. h. Klaus Draeger . . . . . . Prof. Dr. Andreas Georgi . . . . . . Dr. Britta Giesen . . . . . . Prof. Dr. Susanne Hannemann . . . . . . Louise Öfverström
+
+Score 0.159
+ One attendance fee from settled in 
+
+Score 0.091
+ The change in percent is based on exact nonrounded figures in euro 
+
+Score 0.049
+ . KlausGünter Vennemann . . . Dr. Daniel Hay . . . Ralf Bolm . . . Murat Küplemez . Dr. Michael Mielke . . . Reinhard Müller . . . Dagmar Muth . . . Barbara Resch . . . Sven Schmidt . . Employees remuneration of employees . . . Earnings trend Net income Rheinmetall AG in million . . . Adjusted EBT of Rheinmetall Group million . . . 
+
+Score 0.2
+ TEUR On December incumbent members of the executive board Armin Papperger . . . Peter Sebastian Krause . . . Dagmar Steinert . Former members of the executive board Helmut P. Merch . . . Jörg Grotendorst . . . Klaus Eberhardt . Horst Binnig . . On December incumbent supervisory board members Dipl.Kfm. Ulrich Grillo . . Prof. Dr. Dr. h.c. Sahin Albayrak . . Dr.Ing. Dr. Ing. E.h. Klaus Draeger . . . Prof. Dr. Andreas Georgi . . . Dr. Britta Giesen . . Prof. Dr. Susanne Hannemann . . . Louise Öfverström
+
+Score 0.048
+Comparative representation 
+
+Score 0.232
+Remuneration of the members of the Supervisory Board and its committees 
+
+Score 0.171
+ One attendance fee from settled in Figures exclude valueadded tax
+
+Score 0.037
+ . . . . . . Murat Küplemez
+
+Score 0.234
+The table below shows the yearonyear change in remuneration Rheinmetalls earnings development and the average remuneration of Rheinmetall employees on the basis of fulltime equivalents. 
+
+Score 0.047
+Comparison of yearonyear change in remuneration 
+
+Score 0.242
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Comparison of yearonyear change in remuneration RHEINMETALL ANNUAL REPORT 
+
+Score 0.304
+The employee representatives on the Supervisory Board in office as of December received the following remuneration for fiscal year 
+
+Score 0.32
+ These employee representatives in the Supervisory Board and the trade union representatives in the Supervisory Board have declared that they will transfer most of their remuneration to the Hans Böckler Foundation in accordance with the trade union regulations. Figures exclude valueadded tax 
+
+Score 0.263
+Compensation granted and owed earningsoriented interpretation for employee representatives on the Supervisory Board in office as of December 
+
+Score -0.001
+ . . . . Sven Schmidt
+
+Score 0.258
+Fixed remuneration Committee remuneration Attendence fee Total renumeration EUR EUR EUR Dr. Daniel Hay
+
+Score -0.069
+ . . . . . . Barbara Resch
+
+Score 0.021
+ . . . . . . Dagmar Muth
+
+Score -0.056
+ . . . . Dr. Michael Mielke . . . . Reinhard Müller
+
+Score 0.161
+ . . . Deputy chairman of the Supervisory Board . . . Ralf Bolm
+
+Score 0.202
+RHEINMETALL ANNUAL REPORT 
+
+Score 0.275
+In accordance with section sentence AktG the annual general meeting of a listed company must resolve on the remuneration and the remuneration system for the members of the Supervisory Board at least every four years. On May Rheinmetall AGs Annual General Meeting approved the Supervisory Board remuneration regulation put to the vote under agenda item with a clear majority of .. The aim of the remuneration is to strengthen the independence of the Supervisory Board as a supervisory body and to take into account the functionspecific time burdens and responsibilities. This is achieved through the highlighted remuneration for the Chair and Vice Chair of the Supervisory Board and the additional remuneration for work on committees. The remuneration regulations for the Supervisory Board applicable for fiscal year are set out in Article of the Articles of Association of Rheinmetall AG and are shown in the diagram below
+
+Score 0.22
+The Executive Board remuneration covers all activities for Rheinmetall AG and for services performed with Rheinmetall AG in accordance with sections et seq. of the German Stock Corporation Act. If remuneration is agreed for mandates at affiliated companies this is offset against the basic remuneration. For mandates at companies that are not affiliated companies or for functions in associations or similar groups to which Rheinmetall AG or one of its affiliated companies belongs the Supervisory Board decides on settingoff. In fiscal year the Executive Board members held the following mandates at affiliated and nonaffiliated companies 
+
+Score 0.067
+Born Nationality German Finance and Controlling ZF Friedrichshafen AG
+
+Score 0.159
+Vorsitzender Dagmar Steinert Business graduate CFO December to November iG Nyrt.
+
+Score 0.163
+Born Nationality German Human Resources Rheinmetall Waffe Munition GmbH
+
+Score 0.132
+Chairman Peter Sebastian Krause Lawyer Director of Industrial Relations January to December Rheinmetall Electronics GmbH
+
+Score 0.179
+Chairman The Dynamic Engineering Solution Pty Ltd Deputy Chairman of the Supervisory Board Rheinmetall MAN Military Vehicles GmbH
+
+Score 0.146
+Chairman Born Nationality German Rheinmetall Landsysteme GmbH
+
+Score 0.225
+Positionarea Appointments Membership in Supervisory Boards Armin Papperger Engineering graduate Chairman January to December Rheinmetall Automotive AG
+
+Score 0.285
+Members of the Executive Board and mandates of the Executive Board members 
+
+Score 0.224
+. Remuneration for mandates 
+
+Score 0.187
+. Thirdparty payments 
+
+Score 0.236
+termination of the employment contract of the Executive Board is excluded. It is possible however for both the Executive Board member concerned and Rheinmetall AG to terminate the contract for cause. Automatic termination is also stipulated in the event that the Executive Board member becomes permanently unable to work during the term of their contract. The Executive Board contracts stipulate that the contract shall end automatically at the latest at the end of the month in which the Executive Board member reaches the standard retirement age under the statutory pension scheme or at the time when they draw a statutory retirement pension before reaching the standard retirement age. In the event of termination of an Executive Board employment contract any outstanding variable remuneration components attributable to the period up to termination of the contract are paid out in accordance with the originally agreed targets and comparison parameters and in accordance with the due dates or holding periods specified in the contract. The remuneration system also provides for a severance payment cap. Under this payments to an Executive Board member that are agreed upon with the member concerned in the event of premature termination without cause of the Executive Board contract including fringe benefits must not exceed the value of two annual remuneration payments and must not remunerate more than the remaining term of the Executive Board members contract. The Executive Board contracts do not provide for any special arrangements for a severance payment in the event of a change of control. 
+
+Score 0.235
+In the event that either Rheinmetall AG or the Executive Board member does not wish to be reappointed or the Supervisory Board recalls the Executive Board member it may be agreed that the Supervisory Board releases the Executive Board member from their service obligation while otherwise continuing to apply the contract. Ordinary 
+
+Score 0.243
+. Payments in the event of premature termination of the Executive Board contract 
+
+Score 0.224
+To further align the interests of the Executive Board and shareholders the Executive Board members are required to make a significant personal investment in Rheinmetall shares. The Executive Board members are accordingly required to invest an amount equivalent to of the annual gross basic remuneration in the case of the Chair of the Executive Board and of the annual gross basic remuneration in the case of the ordinary Executive Board members in Rheinmetall shares and to hold these shares until the end of their Executive Board activity. As of December Armin Papperger Peter Sebastian Krause and Dagmar Steinert had already invested the required amount in Rheinmetall shares and fulfilled the holding obligation. 
+
+Score 0.213
+. Share ownership guidelines SOG 
+
+Score 0.263
+To further ensure the sustainable successful development of the company and the appropriateness of Executive Board remuneration the STI and LTI are subject to penalty and clawback regulations. If after payment of the performancerelated variable remuneration STI and LTI it transpires that the consolidated financial statements were incorrect the Supervisory Board may demand partial or full repayment of variable remuneration already paid out performance clawback. The amount of the claim for repayment shall be determined on the basis of the corrected and audited consolidated financial statements. The fault of the Executive Board member is irrelevant in this case. If a member of the Executive Board intentionally violates the Code of Conduct the compliance guidelines or a significant contractual obligation or commits significant breaches of their duty of care as defined in section AktG the Supervisory Board may also at its reasonable discretion reduce to zero any variable remuneration not yet paid out compliance penalty and demand the return of any variable remuneration already paid out compliance clawback. The obligation of the Executive Board member to pay damages to Rheinmetall AG in accordance with section AktG the right of Rheinmetall AG to revoke the appointment in accordance with section AktG and the right of Rheinmetall AG to terminate the Executive Board members employment contract for cause section BGB remain unaffected by the clause. There were no circumstances either in fiscal year or in fiscal year that would have justified withholding or reclaiming the variable remuneration under the penalty and clawback provisions. 
+
+Score 0.081
+. Malus and clawback 
+
+Score 0.294
+Further details on targets set target achievements and payment amounts of the performance share plan tranches are provided in the remuneration report covering the final fiscal year of the respective performance period. 
+
+Score 0.004
+ until March 
+
+Score 0.052
+In fiscal year no Executive Board member received payments from a third party with regard to their work as an Executive Board member. 
+
+Score 0.173
+Remuneration of the Supervisory Board 
+
+Score 0.203
+Paid and owed remuneration for members of the executive board active in financial year 
+
+Score 0.311
+Letter to shareholders Combined management report Consolidated financial statement Further information Remuneration report Remuneration of the Supervisory Board RHEINMETALL ANNUAL REPORT 
+
+Score 0.298
+The maximum remuneration in accordance with section a sentence no. AktG shall include all remuneration components allocated for fiscal year . The maximum remuneration for fiscal year therefore also includes the performance share plan tranche although the amount paid out will not be known until the end of the financial year. This means that the sum of all remuneration components allocated for fiscal year can only be determined after the end of fiscal year . In principle the appropriateness of the possible payment amounts is ensured by limiting the STI and LTI payments in each case to a maximum of of the individual target amount. If the sum of the payments from a fiscal year exceeds this defined maximum remuneration then the remuneration component due to be paid out last usually the LTI is reduced. 
+
+Score 0.395
+. Compliance with the maximum remuneration in accordance with section a sentence no. AktG 
+
+Score 0.132
+Nine former Executive Board members who have not been active in the last ten years received pension payments totaling thousand. 
+
+Score 0.112
+Helmut P. Merch Horst Binnig Leaving date Dezember Resignation date Dezember Pension payments Total 
+
+Score 0.195
+The remuneration granted and owed in fiscal year to former Executive Board members who were active within the past ten years is shown below. 

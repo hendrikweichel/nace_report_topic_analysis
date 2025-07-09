@@ -14,7 +14,7 @@ def cosine_similarity(A, B):
 
 def create_sentence_nace_code_similarities(chunks: str) -> pd.DataFrame:
     
-    df = pd.read_csv("NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
+    df = pd.read_csv("../NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
 
     df_first_level = df[df["ID"].apply(lambda x: not x.isnumeric())]
     df_first_level = df_first_level.dropna(subset=["Includes"])
