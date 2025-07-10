@@ -4,10 +4,19 @@ import os
 import sys
 import tqdm
 import numpy as np
+import ast
 
 sys.path.append("..")
-from src import text_extraction, create_sentence_nace_code_similarities
-import analysis_functions
+from src import text_extraction, create_sentence_nace_code_similarities, analysis_functions
+
+def get_position_of_label(classification: dict, label: str):
+    
+    if not isinstance(label, str): 
+        return None
+
+    label = label.lower().strip()
+    position = [key[0] for key in classification.keys()].index(label)
+    return position
 
 def shorten_csv(df: pd.DataFrame) -> pd.DataFrame: 
     df = df.drop(columns="Embeddings")
@@ -71,12 +80,18 @@ def test_similarities(reports_path: List[str], preprocess_report: callable, thre
                 f.write(top_chunks_text) 
             i += 1
 
+        # store df
+        df_similarities.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_long.csv"))
         df_short = shorten_csv(df_similarities)
-        df_short.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + ".csv"))
+        df_short.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_short.csv"))
 
+        # record
         mean_vals_dict = {k[7:]:round(v,3) for k,v in mean_vals.to_dict().items()}
-        mean_vals_dict
-        recording.append({"name": os.path.basename(report_path), "NACE": report_to_nace_class.get(os.path.basename(report_path)),"mean_values": mean_vals_dict})
+        label = report_to_nace_class.get(os.path.basename(report_path))
+
+        position = get_position_of_label(mean_vals_dict, label)
+
+        recording.append({"name": os.path.basename(report_path), "NACE": label,"mean_values": mean_vals_dict, "position_of_label": position})
 
         df_recording = pd.DataFrame(recording)
         df_recording.to_csv(os.path.join(result_path, "recordings.csv"))
