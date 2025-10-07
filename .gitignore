@@ -4,3 +4,6 @@ data/PDF_stoxx600/*.pdf
 data/*
 results/*
 training_data/*
+*.txt
+*.npz
+notebooks/Train_BERT/results/*
