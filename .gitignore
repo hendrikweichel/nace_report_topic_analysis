@@ -3,3 +3,4 @@ data/PDF_stoxx600/*.pdf
 *.pyc
 data/*
 results/*
+training_data/*
