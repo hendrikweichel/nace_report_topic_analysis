@@ -128,7 +128,7 @@ def test_similarities(reports_path: List[str], preprocess_report: callable, thre
 
     df_nace_codes_descriptions = pd.read_csv("../data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
 
-    for report_path in tqdm.tqdm(reports_path[250:]): 
+    for report_path in tqdm.tqdm(reports_path): 
 
         print("Report: ", report_path)
 
