@@ -1,0 +1,74 @@
+[
+    {
+        "id": "DP1_Transition_Plan",
+        "question": "Does a credible transition plan exist?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP2_scope12",
+        "question": "Are the scope 1 and 2 emission reported?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP3_scope3",
+        "question": "Are the scope 3 emission incl. portfolio emission reported?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP4_climate_scenarios",
+        "question": "Are climate scenarios used?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP5_objecits",
+        "question": "Do externally validated climate objecits exist?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP6_transition",
+        "question": "Does the report discuss climate transition risks?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP7_physical",
+        "question": "Does the report discuss climate physical risks?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    },
+    {
+        "id": "DP8_influences",
+        "question": "Does the report discuss how the company influences society and the environment?",
+        "include": [
+        ],
+        "exclude": [
+        ],
+        "prompt_template_id": "baseline" 
+    }
+]

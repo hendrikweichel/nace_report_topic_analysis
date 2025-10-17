@@ -11,6 +11,7 @@ sys.path.append("..")
 from src import text_extraction, create_sentence_nace_code_similarities, analysis_functions
 import test_base
 from sentence_splitter import split_text_into_sentences
+
 # ## Test retrieving the similarities for chunks in a pdf to the NACE Code
 
 # **Function:** pdf-> (chunk x code -> [-1,1])
