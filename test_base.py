@@ -6,12 +6,6 @@ import tqdm
 import numpy as np
 import ast
 
-
-sys.path.append("/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_topic_analysis_3")
-sys.path.append("..")
-from src.text_extraction import text_extraction
-from src import create_sentence_nace_code_similarities, analysis_functions
-
 mypath = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/benchmark"
 
 os.chdir(mypath)
