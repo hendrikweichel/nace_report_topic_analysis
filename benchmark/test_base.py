@@ -43,7 +43,7 @@ def translate_classification_to_other_level(classification, other_level, df_nace
         
         new_code = get_all_level(key.split("_")[0]).get(other_level, "")
         new_name = new_code + "_" + df_nace_codes_descriptions[df_nace_codes_descriptions["CODE"] == new_code]["NAME"]
-
+        
         if len(new_classification) == 0: 
             new_classification = pd.DataFrame({"nace_class": new_name, "score": value})
         else: 
@@ -82,6 +82,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions)
         # else:
         #     new_classification = classification
         new_classification = translate_classification_to_other_level(classification, level)
+        print(new_classification)
 
         try: 
             position = [k.split("_")[0] for k in new_classification].index(str(all_levels_label[level]))
@@ -98,7 +99,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions)
 def get_level_1_nace(x):
     x = float(x)
     
-    if 1 <= x <= 3.21:
+    if 1 <= x <= 3.22:
         return 'A'
     elif 5 <= x <= 9.9:
         return 'B'
@@ -203,7 +204,10 @@ def test_similarities(reports_path: List[str], preprocess_report: callable, thre
 
     df_nace_codes_descriptions = pd.read_csv("/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
 
-    for report_path in tqdm.tqdm(reports_path): 
+    for report_path in tqdm.tqdm((reports_path)): 
+
+        label = report_to_nace_class.get(os.path.basename(report_path))
+        level_1_label = get_all_level(label)[1]
 
         #print("Report: ", report_path)
 
@@ -232,6 +236,113 @@ def test_similarities(reports_path: List[str], preprocess_report: callable, thre
         # get similarities
         df_similarities = create_sentence_nace_code_similarities.create_sentence_nace_code_similarities(chunks, level=level, df_nace_codes_descriptions=df_nace_codes_descriptions)
 
+        # # plot 
+        # fig1 = analysis_functions.plot_mean_scores(df_similarities, cos_threshold=cos_threshold, NACE_code=report_to_nace_class.get(os.path.basename(report_path)), name=os.path.basename(report_path))
+        # fig2 = analysis_functions.plot_similarity_distributions(df_similarities, cos_threshold=cos_threshold, NACE_code=report_to_nace_class.get(os.path.basename(report_path)), name=os.path.basename(report_path))
+        # fig3 = analysis_functions.plot_nbr_threshold(df_similarities, cos_threshold=cos_threshold, NACE_code=report_to_nace_class.get(os.path.basename(report_path)), name=os.path.basename(report_path))    
+
+        # # store the figures
+        # fig1.savefig(os.path.join(result_path, os.path.basename(report_path), "mean_scores.png"), bbox_inches="tight")
+        # fig2.savefig(os.path.join(result_path, os.path.basename(report_path), "similarity_distributions.png"), bbox_inches="tight")
+        # fig3.savefig(os.path.join(result_path, os.path.basename(report_path), "nbr_threshold.png"), bbox_inches="tight")
+
+        scores_column_names = [column for column in df_similarities.columns if "Scores" in column]
+
+        # apply threshold on similarities
+        df_temp = df_similarities[scores_column_names][df_similarities[scores_column_names] > cos_threshold]   
+
+        # replace na vals with 0
+        df_temp = df_temp.fillna(0)
+
+        # get mean values for each nace code
+        mean_vals = df_temp.mean().sort_values(ascending=False)
+
+        # make folder 
+        store_sentences_path = os.path.join(result_path, os.path.basename(report_path), "relevant_sentences_" + os.path.basename(report_path))
+        os.makedirs(store_sentences_path, exist_ok=True)
+
+        # store the 100 most important chunks of the 5 most relevant sectors (shown with mean)
+        i = 1
+        for sector in df_temp.mean().sort_values(ascending=False)[:5].index: 
+            top_chunks = df_similarities[sector].sort_values(ascending=False)[:100]
+            top_chunks_text = "\n\n".join([f"Score {round(df_similarities.loc[idx][sector], 3)}\n"+ df_similarities.loc[idx]["Sentences"] for idx in top_chunks.index if df_similarities.loc[idx][sector] > cos_threshold])
+            top_chunks_text = sector + "\n\n\n" + top_chunks_text
+
+            with open(os.path.join(store_sentences_path, str(i) + "_" + sector + ".txt"), "w") as f:
+                f.write(top_chunks_text) 
+            i += 1
+
+        # store df
+        df_similarities = df_similarities.drop(columns=["Embeddings"])
+        df_similarities.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_long.csv"))
+        df_short = shorten_csv(df_similarities)
+        df_short.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_short.csv"))
+
+        # record the results 
+        mean_vals_dict = {k[7:]:round(v,3) for k,v in mean_vals.to_dict().items()}
+        
+        # get label of the report
+        label = report_to_nace_class.get(os.path.basename(report_path))
+        
+        try: 
+            if isinstance(label, float) or isinstance(label, int):                     
+                if len(str(label).split(".")[0]) == 1: 
+                    label = "0" + str(label) 
+            label_description = df_nace_codes_descriptions[df_nace_codes_descriptions["CODE"] == str(label)]["NAME"].iloc[0]
+            evaluation = get_evaluation(mean_vals_dict, label, df_nace_codes_descriptions)
+        except IndexError: 
+            label_description = ""
+            evaluation = {}
+
+        recording.append({"name": os.path.basename(report_path), "NACE": label, "label_description": label_description, **evaluation})
+
+        df_recording = pd.DataFrame(recording)
+        df_recording.to_csv(os.path.join(result_path, "recordings.csv"))
+
+        del df_short
+        del df_similarities
+
+    return df_recording
+
+
+
+def test_report_classification(reports_path: List[str], preprocess_report: callable, threshold_min_chunk_len, cos_threshold, report_to_nace_class, result_path, level=1, overwrite=True): 
+
+    recording = [] 
+
+    df_nace_codes_descriptions = pd.read_csv("../data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
+
+    for report_path in tqdm.tqdm((reports_path)): 
+
+        label = report_to_nace_class.get(os.path.basename(report_path))
+        level_1_label = get_all_level(label)[1]
+
+        #print("Report: ", report_path)
+
+        # create report folder 
+        store_result_at = os.path.join(result_path, os.path.basename(report_path))
+        os.makedirs(store_result_at, exist_ok=True)
+
+        if overwrite: 
+            if os.path.exists(store_result_at + "/" + os.path.basename(report_path) + "_long.csv"):
+                continue
+
+        # retrieve chunks
+        chunks = preprocess_report(pdf_path=report_path)
+
+        # remove chunks with length smaller than threshold
+        chunks = [chunk for chunk in chunks if len(chunk) > threshold_min_chunk_len]
+        
+        # remove duplicates
+        chunks = list(set(chunks))
+        
+        if len(chunks) == 0:
+            continue
+
+        #print("Number of Chunks: ", len(chunks))
+
+        # get similarities
+        df_similarities = create_sentence_nace_code_similarities.create_sentence_nace_code_similarities(chunks, level=level, df_nace_codes_descriptions=df_nace_codes_descriptions)
 
         # # plot 
         # fig1 = analysis_functions.plot_mean_scores(df_similarities, cos_threshold=cos_threshold, NACE_code=report_to_nace_class.get(os.path.basename(report_path)), name=os.path.basename(report_path))
