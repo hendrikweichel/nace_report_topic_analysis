@@ -10,3 +10,4 @@ notebooks/Train_BERT/results/*
 **/checkpoint-*
 doc_search_and_BERT/Train_BERT/results/*
 *.ipynb_checkpoints
+nace_git/*
