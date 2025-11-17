@@ -1,1 +1,0 @@
-# financial_index_llm_evaluation

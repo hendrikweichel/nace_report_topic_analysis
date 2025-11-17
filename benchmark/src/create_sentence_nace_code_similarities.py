@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import torch
+import os
 from langchain_huggingface import HuggingFaceEmbeddings
 from transformers import AutoTokenizer
 from functools import lru_cache
@@ -199,3 +200,56 @@ def create_sentence_nace_code_similarities(chunks: str, level = 1, df_nace_codes
     df_sentences = pd.concat([df_sentences, pd.DataFrame(dict_similarities, dtype=float, index=df_sentences.index)], axis=1)
 
     return df_sentences
+
+def shorten_csv(df: pd.DataFrame) -> pd.DataFrame: 
+    if "Embeddings" in df.columns: 
+        df = df.drop(columns="Embeddings")
+
+    # For all columns except the first, keep only the 100 highest scores, set the rest to NaN
+    for col in df.columns[1:]:
+        top_100_idx = df[col].nlargest(100).index
+        df.loc[~df.index.isin(top_100_idx), col] = np.nan
+    df = df[df.iloc[:,1:].apply(lambda x: not pd.isna(x).all(), axis=1)]
+    return df
+
+
+def classification_by_similarities(chunks: list, level: int, df_nace_codes_descriptions: pd.DataFrame, cos_threshold, report_path: str, result_path: str, **kwargs): 
+
+    # get similarities
+    df_similarities = create_sentence_nace_code_similarities(chunks, level=level, df_nace_codes_descriptions=df_nace_codes_descriptions)
+        
+    scores_column_names = [column for column in df_similarities.columns if "Scores" in column]
+
+    # apply threshold on similarities
+    df_temp = df_similarities[scores_column_names][df_similarities[scores_column_names] > cos_threshold]   
+
+    # replace na vals with 0
+    df_temp = df_temp.fillna(0)
+
+    # get mean values for each nace code
+    mean_vals = df_temp.mean().sort_values(ascending=False)
+
+    # make folder 
+    store_sentences_path = os.path.join(result_path, os.path.basename(report_path), "relevant_sentences_" + os.path.basename(report_path))
+    os.makedirs(store_sentences_path, exist_ok=True)
+
+    # store the 100 most important chunks of the 5 most relevant sectors (shown with mean)
+    i = 1
+    for sector in df_temp.mean().sort_values(ascending=False)[:5].index: 
+        top_chunks = df_similarities[sector].sort_values(ascending=False)[:100]
+        top_chunks_text = "\n\n".join([f"Score {round(df_similarities.loc[idx][sector], 3)}\n"+ df_similarities.loc[idx]["Sentences"] for idx in top_chunks.index if df_similarities.loc[idx][sector] > cos_threshold])
+        top_chunks_text = sector + "\n\n\n" + top_chunks_text
+
+        with open(os.path.join(store_sentences_path, str(i) + "_" + sector + ".txt"), "w") as f:
+            f.write(top_chunks_text) 
+        i += 1
+
+    # store df
+    df_similarities = df_similarities.drop(columns=["Embeddings"])
+    df_similarities.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_long.csv"))
+    #df_short = shorten_csv(df_similarities)
+    #df_short.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_short.csv"))
+
+    mean_vals_dict = {k[7:]:round(v,3) for k,v in mean_vals.to_dict().items()}
+
+    return mean_vals_dict

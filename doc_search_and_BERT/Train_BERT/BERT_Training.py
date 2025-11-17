@@ -18,20 +18,17 @@ from evaluate import load
 import matplotlib.pyplot as plt
 from torch import nn
 import pandas as pd
-import time 
-
-tik = time.time()
 
 
 #### Run Params
 
 train_full_model = True
-all_labels = False
+all_labels = True
 model_name = "ProsusAI/finbert"
 model_name = "bert-base-uncased"
-num_layers = 2
 
 #####
+
 
 mypath = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/"
 
@@ -42,12 +39,9 @@ data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_t
 data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_topic_analysis_3/data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
 data_path = "../../data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
 data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
-data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
 
-new_thresh = 0.5
-
-results_path = mypath + "doc_search_and_BERT/Train_BERT/results/results_data_2__cos_thresh_06" + os.path.basename(model_name)
-results_path = mypath + f"doc_search_and_BERT/Train_BERT/results/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
+results_path = mypath + "doc_search_and_BERT/Train_BERT/results/results__cos_thresh_045" + os.path.basename(model_name)
+results_path = mypath + "doc_search_and_BERT/Train_BERT/results/results__" + os.path.basename(model_name)
 if train_full_model: 
     results_path += "__train_full_model" 
 else: 
@@ -76,40 +70,33 @@ train_df = pd.read_csv(data_files["train"])
 test_df = pd.read_csv(data_files["test"])
 validation_df = pd.read_csv(data_files["validation"])
 
-
-train_df = train_df[(train_df["Score"] > new_thresh) | (train_df["NACE_Code"] == "NO_CLASS")]
-validation_df = validation_df[(validation_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
-test_df = test_df[(test_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
-
-
 if not all_labels: 
-    #train_df = train_df[train_df["NACE_Code"]!="C"]
+    #train_df = train_df[train_df["NACE_Code"]!="A"]
+    #train_df = train_df[train_df["NACE_Code"]!="J"]
     #train_df = train_df[train_df["NACE_Code"]!="P"]
-    #train_df = train_df[train_df["NACE_Code"]!="M"]
-    #train_df = train_df[train_df["NACE_Code"]!="M"]
+    #train_df = train_df[train_df["NACE_Code"]!="Q"]
     train_df = train_df[train_df["NACE_Code"]!="R"]
     train_df = train_df[train_df["NACE_Code"]!="S"]
     train_df = train_df[train_df["NACE_Code"]!="T"]
     train_df = train_df.reset_index(drop=True)
     
-    #test_df = test_df[test_df["NACE_Code"]!="C"]
-    #test_df = test_df[test_df["NACE_Code"]!="N"]
+    #test_df = test_df[test_df["NACE_Code"]!="A"]
+    #test_df = test_df[test_df["NACE_Code"]!="J"]
     #test_df = test_df[test_df["NACE_Code"]!="P"]
-    #test_df = test_df[test_df["NACE_Code"]!="M"]
+    #test_df = test_df[test_df["NACE_Code"]!="Q"]
     test_df = test_df[test_df["NACE_Code"]!="R"]
     test_df = test_df[test_df["NACE_Code"]!="S"]
     test_df = test_df[test_df["NACE_Code"]!="T"]
     test_df = test_df.reset_index(drop=True)
     
-    #validation_df = validation_df[validation_df["NACE_Code"]!="C"]
+    #validation_df = validation_df[validation_df["NACE_Code"]!="A"]
+    #validation_df = validation_df[validation_df["NACE_Code"]!="J"]
     #validation_df = validation_df[validation_df["NACE_Code"]!="P"]
-    #validation_df = validation_df[validation_df["NACE_Code"]!="M"]
-    #validation_df = validation_df[validation_df["NACE_Code"]!="N"]
+    #validation_df = validation_df[validation_df["NACE_Code"]!="Q"]
     validation_df = validation_df[validation_df["NACE_Code"]!="R"]
     validation_df = validation_df[validation_df["NACE_Code"]!="S"]
     validation_df = validation_df[validation_df["NACE_Code"]!="T"]
     validation_df = validation_df.reset_index(drop=True)
-
 
 # Load a custom CSV file
 dataset = DatasetDict({
@@ -142,45 +129,13 @@ print(tokenized_datasets["train"][0])
 labels = dataset["train"]["label"]
 class_weights = compute_class_weight("balanced", classes=np.unique(labels), y=labels)
 
-label2id = {char: val for val, char in enumerate(set(dataset["test"]["NACE_Code"]))}
-id2label = {val: char for val, char in enumerate(set(dataset["test"]["NACE_Code"]))}
-
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-print(label2id)
-
 if model_name == "ProsusAI/finbert": 
-    config = AutoConfig.from_pretrained(
-        model_name, 
-        num_labels=len(set(labels)), 
-        problem_type="single_label_classification", 
-        id2label=id2label,
-        label2id=label2id
-        )
+    config = AutoConfig.from_pretrained(model_name, num_labels=len(set(labels)), problem_type="single_label_classification")
     model = AutoModelForSequenceClassification.from_pretrained(model_name, config=config, ignore_mismatched_sizes=True)
 elif model_name == "bert-base-uncased": 
-    config = AutoConfig.from_pretrained(
-        model_name, 
-        num_labels=len(set(labels)), 
-        id2label=id2label,
-        label2id=label2id
-        )
+    config = AutoConfig.from_pretrained(model_name, num_labels=len(set(labels)))
     model = AutoModelForSequenceClassification.from_pretrained(model_name, config=config)
+
 print(model.config)
 
 
@@ -188,16 +143,12 @@ print(model.config)
 
 
 hidden = 512
-layers = []
-for i in range(num_layers):
-    in_dim = config.hidden_size if i == 0 else hidden
-    layers.append(nn.Linear(in_dim, hidden))
-    layers.append(nn.GELU())
-    layers.append(nn.Dropout(0.2))
-
-layers.append(nn.Linear(hidden, config.num_labels))
-
-model.classifier = nn.Sequential(*layers)
+model.classifier = nn.Sequential(
+    nn.Linear(config.hidden_size, hidden),
+    nn.GELU(),
+    nn.Dropout(0.2),
+    nn.Linear(hidden, config.num_labels),
+)
 
 
 # In[107]:
@@ -324,12 +275,13 @@ predicted_labels = predictions.predictions.argmax(axis=-1)
 print(classification_report(tokenized_datasets["test"]["label"], predicted_labels))
 
 results_txt += str(classification_report(tokenized_datasets["test"]["label"], predicted_labels))
-results_txt += "\n\n\nTime: " + str(time.time() - tik)
 
 # Confusion matrix
 cm = confusion_matrix(tokenized_datasets["test"]["label"], predicted_labels, normalize="true")
-disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=list(label_mapping.keys()))
-fig, ax = plt.subplots(figsize=(10, 10))
+alphabet = "ABCDEFGHIJKLMNOPQRSTUVW"
+#disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=[f"Label_{alphabet[i]}" for i in range(0, 21)])
+disp = ConfusionMatrixDisplay(confusion_matrix=cm)
+fig, ax = plt.subplots(figsize=(30, 10))  # <-- set size here
 disp.plot(ax=ax, xticks_rotation="vertical")
 plt.show()
 plt.savefig(results_path + "/conf_matrix.png")

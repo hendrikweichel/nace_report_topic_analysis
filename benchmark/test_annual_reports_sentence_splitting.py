@@ -114,4 +114,4 @@ for i in [1,2,3,4]:
         
         result_path = f"../results/paragraph_and_sentence_len_{sentence_length}_min_chunk_len_{threshold_min_chunk_len}_cos_thresh_{cos_threshold}_nace_level_{nace_level}_stoxx"
 
-        res = test_base.test_similarities(reports_path, preprocess_report, threshold_min_chunk_len, cos_threshold, report_to_nace_class, result_path, level=nace_level)
+        res = test_base.test_report_classification(reports_path, preprocess_report, threshold_min_chunk_len, cos_threshold, report_to_nace_class, result_path, level=nace_level)

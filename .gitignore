@@ -5,5 +5,13 @@ data/*
 results/*
 training_data/*
 *.txt
+*.pdf
 *.npz
 notebooks/Train_BERT/results/*
+doc_search/JSONs/*
+doc_search/data/results/*
+**/checkpoint-*
+doc_search_and_BERT/Train_BERT/results/*
+*.ipynb_checkpoints
+nace_git/*
+doc_search_and_BERT/doc_search_LLM/data/results/*

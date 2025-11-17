@@ -1,0 +1,20 @@
+[
+    {
+        "id": "Business_Model_1",
+        "question": "Does the following page contain a complete descriptions about the company's business activities? Look for Titles like 'Company Overview', 'Business Model', 'What we do'",
+        "include": [
+            	"What the company produces or offers (products, services, or technologies)",
+                "Its main business areas, divisions, or operating segments",
+                "Core markets or regions of activity",
+                "Key customers, suppliers, or industries it serves",
+                "Business model, mission, or how it generates revenue"
+        ],
+        "exclude": [
+            "Governance or management reports",
+	        "Financial statements or numerical tables",
+	        "Sustainability KPIs, emissions data, or risk sections",
+	        "General introductions or letters to shareholders"
+        ],
+        "prompt_template_id": "baseline" 
+    }
+]
