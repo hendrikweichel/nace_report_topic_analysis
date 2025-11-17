@@ -12,6 +12,10 @@ sys.path.append("..")
 from src.text_extraction import text_extraction
 from src import create_sentence_nace_code_similarities, analysis_functions
 
+mypath = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/benchmark"
+
+os.chdir(mypath)
+
 def translate_classification_to_other_level(classification, other_level, df_nace_codes_descriptions=None): 
     """ Take one classificaiton to another level, therefore: 
     1. Translate each classification to the objective level
@@ -31,7 +35,7 @@ def translate_classification_to_other_level(classification, other_level, df_nace
     assert original_level >= other_level, "original level: " + str(original_level) +  ">=" + "wanted level: " + str(other_level)
 
     if df_nace_codes_descriptions is None: 
-            df_nace_codes_descriptions = pd.read_csv("../data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
+            df_nace_codes_descriptions = pd.read_csv("/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
 
     new_classification = pd.DataFrame(columns=["nace_class", "score"])
 
@@ -197,7 +201,7 @@ def test_similarities(reports_path: List[str], preprocess_report: callable, thre
 
     recording = [] 
 
-    df_nace_codes_descriptions = pd.read_csv("../data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
+    df_nace_codes_descriptions = pd.read_csv("/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
 
     for report_path in tqdm.tqdm(reports_path): 
 

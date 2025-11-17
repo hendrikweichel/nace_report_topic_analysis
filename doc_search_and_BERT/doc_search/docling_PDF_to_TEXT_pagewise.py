@@ -7,19 +7,20 @@ import os
 import glob
 import json
 
-pdfs_path = "../data/stoxx_600_extended/reports-2"
-texts_path = "../data/stoxx_600_extended/JSONs"
+pdfs_path = "../data/stoxx_600/PDFs"
+pdfs_path = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/stoxx_600/PDFs"
+texts_path = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/JSONs"
 
 pdfs = glob.glob(pdfs_path + "/*.pdf")
-#print(pdfs)
+print(pdfs)
 
 pipeline_options = PdfPipelineOptions(
     # your current options
 )
 # choose GPU device
 pipeline_options.accelerator_options = AcceleratorOptions(
-    #num_threads=8, 
-    #device=AcceleratorDevice.CUDA 
+    num_threads=8, 
+    device=AcceleratorDevice.CUDA 
 )
 pipeline_options = PdfPipelineOptions(do_table_structure=True)
 #pipeline_options.table_structure_options.mode = TableFormerMode.FAST
@@ -31,7 +32,7 @@ doc_converter = DocumentConverter(
 
 os.makedirs(texts_path, exist_ok=True)
 
-for pdf in tqdm.tqdm(reversed(pdfs)):
+for pdf in tqdm.tqdm(pdfs):
     #try:
     if True: 
         print("Converting:", pdf)
@@ -58,6 +59,7 @@ for pdf in tqdm.tqdm(reversed(pdfs)):
         out_path = os.path.join(
             texts_path, os.path.splitext(os.path.basename(pdf))[0] + ".json"
         )
+        print(out_path)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(out, f)
             print("stored at", out_path)
