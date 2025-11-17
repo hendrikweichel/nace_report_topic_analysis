@@ -165,6 +165,10 @@ elif model_name == "bert-base-uncased":
 print(model.config)
 
 hidden = 512
+
+config.custom_hidden = hidden
+config.custom_num_layers = num_layers
+
 layers = []
 for i in range(num_layers):
     in_dim = config.hidden_size if i == 0 else hidden
@@ -177,7 +181,6 @@ layers.append(nn.Linear(hidden, config.num_labels))
 model.classifier = nn.Sequential(*layers)
 
 # In[107]:
-
 
 for param in model.bert.parameters():
     param.requires_grad = train_full_model

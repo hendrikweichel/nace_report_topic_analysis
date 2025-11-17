@@ -85,6 +85,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions,
         except ValueError: 
             position = None
 
+        evaluation["nace_lvl_1"] = get_all_level[1]
         evaluation["position_lvl_" + str(level)] = position
         evaluation["classes_lvl_" + str(level)] = len(new_classification)
         evaluation["classification_lvl_" + str(level)] = new_classification
