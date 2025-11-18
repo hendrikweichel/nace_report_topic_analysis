@@ -49,11 +49,12 @@ data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_t
 data_path = "../../data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
 data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
 data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
+data_path = mypath + "data/training_data/dataset_reports_subset_from_full_data_1__sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__2nd_approach__nace_level_1__cos_thres_0.35"
 
-new_thresh = 0.5
+new_thresh = 0.35
 
-results_path = mypath + "results/BERT_models/results_data_2__cos_thresh_06" + os.path.basename(model_name)
-results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
+results_path = mypath + f"results/BERT_models/results__new_approach_data__num_layers_{num_layers}__cos_thres_{new_thresh}" + os.path.basename(model_name)
+#results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
 if train_full_model: 
     results_path += "__train_full_model" 
 else: 
@@ -90,14 +91,16 @@ if not all_labels:
     train_df = train_df[train_df["NACE_Code"]!="R"]
     train_df = train_df[train_df["NACE_Code"]!="S"]
     train_df = train_df[train_df["NACE_Code"]!="T"]
+    train_df = train_df[train_df["NACE_Code"]!="N"]
     train_df = train_df.reset_index(drop=True)
     
     #test_df = test_df[test_df["NACE_Code"]!="C"]
     #test_df = test_df[test_df["NACE_Code"]!="N"]
     #test_df = test_df[test_df["NACE_Code"]!="P"]
     #test_df = test_df[test_df["NACE_Code"]!="M"]
-    test_df = test_df[test_df["NACE_Code"]!="R"]
+    test_df = test_df[test_df["NACE_Code"]!="N"]
     test_df = test_df[test_df["NACE_Code"]!="S"]
+    test_df = test_df[test_df["NACE_Code"]!="R"]
     test_df = test_df[test_df["NACE_Code"]!="T"]
     test_df = test_df.reset_index(drop=True)
     
@@ -106,6 +109,7 @@ if not all_labels:
     #validation_df = validation_df[validation_df["NACE_Code"]!="M"]
     #validation_df = validation_df[validation_df["NACE_Code"]!="N"]
     validation_df = validation_df[validation_df["NACE_Code"]!="R"]
+    validation_df = validation_df[validation_df["NACE_Code"]!="N"]
     validation_df = validation_df[validation_df["NACE_Code"]!="S"]
     validation_df = validation_df[validation_df["NACE_Code"]!="T"]
     validation_df = validation_df.reset_index(drop=True)
@@ -201,7 +205,7 @@ training_args = TrainingArguments(
     per_device_eval_batch_size=16,
     num_train_epochs=20,              # Number of epochs
     weight_decay=0.01,               # Regularization
-    save_total_limit=2,              # Limit checkpoints to save space
+    save_total_limit=1,              # Limit checkpoints to save space
     load_best_model_at_end=True,     # Automatically load the best checkpoint
     logging_dir="./logs",            # Directory for logs
     logging_strategy="epoch",            # Directory for logs
