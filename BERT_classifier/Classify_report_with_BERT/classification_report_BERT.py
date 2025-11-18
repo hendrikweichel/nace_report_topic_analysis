@@ -1,5 +1,6 @@
 import os
 import torch
+import numpy as np
 import torch.nn as nn
 from transformers import AutoConfig, AutoModelForSequenceClassification
 from safetensors.torch import load_file  # comes with HF if safetensors installed
@@ -120,8 +121,8 @@ def classification_report_BERT(chunks: list,
         return {}
 
     # 3) Aggregate logits over all chunks (mean over chunks)
-    stacked = torch.stack(chunk_logits, dim=0)  # (num_chunks, num_labels)
-    avg_logits = stacked.mean(dim=0)            # (num_labels,)
+    stacked = np.array(chunk_logits, dim=0)  # (num_chunks, num_labels)
+    avg_logits = np.mean(stacked, 0)            # (num_labels,)
 
     # Map to human-readable labels
     label_scores = {
