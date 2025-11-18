@@ -72,15 +72,12 @@ def BERT_classification_chunk(chunk: str, model, tokenizer):
     with torch.no_grad():
         outputs = model(**inputs)
         logits = outputs.logits.squeeze(0)
-        label_scores = {
-            model.config.id2label[i]: logits[i].item()
-            for i in range(logits.size(0))
-        }
-
-    return label_scores
 
 
-def classification_report_BERT(chunks: list, 
+    return logits
+
+
+def classify_report(chunks: list, 
                     model: AutoModelForSequenceClassification,
                     tokenizer: AutoTokenizer,
                     result_path: str,
@@ -106,35 +103,33 @@ def classification_report_BERT(chunks: list,
 
     for chunk in tqdm.tqdm(chunks):
 
-        label_scores = BERT_classification_chunk(chunk, 
+        logits = BERT_classification_chunk(chunk, 
                                            model=model, 
                                            tokenizer=tokenizer)
-        chunk_logits.append(list(label_scores.values()))
+        chunk_logits.append(logits)
         
-        # label_scores = {
-        #     model.config.id2label[i]: logits[i].item()
-        #     for i in range(logits.size(0))
-        # }
+        label_scores = {
+            model.config.id2label[i]: logits[i].item()
+            for i in range(logits.size(0))
+        }
         sentence_classification.append(label_scores)
+        #print(max(softmax(logits)))
 
     if len(chunk_logits) == 0:
         return {}
 
     # 3) Aggregate logits over all chunks (mean over chunks)
-    stacked = np.array(chunk_logits)  # (num_chunks, num_labels)
-    avg_logits = np.mean(stacked, 0)            # (num_labels,)
-    print(avg_logits)
-    
+    stacked = torch.stack(chunk_logits, dim=0)  # (num_chunks, num_labels)
+    avg_logits = stacked.mean(dim=0)            # (num_labels,)
+
     # Map to human-readable labels
     label_scores = {
-        model.config.id2label[i]: avg_logits[i]
-        for i in range(len(avg_logits))
+        model.config.id2label[i]: avg_logits[i].item()
+        for i in range(avg_logits.size(0))
     }
 
-    
     sentence_classification = pd.DataFrame(sentence_classification)
     sentence_classification["Sentences"] = chunks
-    sentence_classification = sentence_classification[["Sentences"] + [c for c in sentence_classification.columns if c != "Sentences"]]
 
     os.makedirs(os.path.join(result_path, os.path.basename(report_path)), exist_ok=True)
     sentence_classification.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_classifications.csv"))
