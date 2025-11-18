@@ -121,7 +121,7 @@ def classification_report_BERT(chunks: list,
         return {}
 
     # 3) Aggregate logits over all chunks (mean over chunks)
-    stacked = np.array(chunk_logits, dim=0)  # (num_chunks, num_labels)
+    stacked = np.array(chunk_logits)  # (num_chunks, num_labels)
     avg_logits = np.mean(stacked, 0)            # (num_labels,)
 
     # Map to human-readable labels
