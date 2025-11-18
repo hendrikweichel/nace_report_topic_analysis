@@ -123,13 +123,15 @@ def classification_report_BERT(chunks: list,
     # 3) Aggregate logits over all chunks (mean over chunks)
     stacked = np.array(chunk_logits)  # (num_chunks, num_labels)
     avg_logits = np.mean(stacked, 0)            # (num_labels,)
-
+    print(avg_logits)
+    
     # Map to human-readable labels
     label_scores = {
-        model.config.id2label[i]: avg_logits[i].item()
-        for i in range(avg_logits.size(0))
+        model.config.id2label[i]: avg_logits[i]
+        for i in range(len(avg_logits))
     }
 
+    
     sentence_classification = pd.DataFrame(sentence_classification)
     sentence_classification["Sentences"] = chunks
     sentence_classification = sentence_classification[["Sentences"] + [c for c in sentence_classification.columns if c != "Sentences"]]
@@ -137,4 +139,4 @@ def classification_report_BERT(chunks: list,
     os.makedirs(os.path.join(result_path, os.path.basename(report_path)), exist_ok=True)
     sentence_classification.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_classifications.csv"))
 
-    return label_scores, sentence_classification
+    return label_scores#, sentence_classification

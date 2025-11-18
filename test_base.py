@@ -243,7 +243,6 @@ def test_report_classification(reports_path: List[str],
         # mean_vals = classification_function(
         #     **classification_function_inputs
         # )
-        
         print(class_eval_dict)
 
         # get label of the report
