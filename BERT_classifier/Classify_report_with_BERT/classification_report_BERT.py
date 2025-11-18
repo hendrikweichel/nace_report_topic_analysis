@@ -105,15 +105,15 @@ def classification_report_BERT(chunks: list,
 
     for chunk in tqdm.tqdm(chunks):
 
-        logits = BERT_classification_chunk(chunk, 
+        label_scores = BERT_classification_chunk(chunk, 
                                            model=model, 
                                            tokenizer=tokenizer)
-        chunk_logits.append(logits)
+        chunk_logits.append(list(label_scores.values()))
         
-        label_scores = {
-            model.config.id2label[i]: logits[i].item()
-            for i in range(logits.size(0))
-        }
+        # label_scores = {
+        #     model.config.id2label[i]: logits[i].item()
+        #     for i in range(logits.size(0))
+        # }
         sentence_classification.append(label_scores)
 
     if len(chunk_logits) == 0:
