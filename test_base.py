@@ -85,7 +85,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions,
         except ValueError: 
             position = None
 
-        evaluation["nace_lvl_1"] = get_all_level[1]
+        evaluation["nace_lvl_1"] = all_levels_label[1]
         evaluation["position_lvl_" + str(level)] = position
         evaluation["classes_lvl_" + str(level)] = len(new_classification)
         evaluation["classification_lvl_" + str(level)] = new_classification
@@ -219,7 +219,7 @@ def test_report_classification(reports_path: List[str],
 
         # retrieve chunks
         chunks = preprocess_report(pdf_path=report_path)
-
+        
         # remove chunks with length smaller than threshold
         chunks = [chunk for chunk in chunks if len(chunk) > threshold_min_chunk_len]
         
@@ -243,7 +243,7 @@ def test_report_classification(reports_path: List[str],
         # mean_vals = classification_function(
         #     **classification_function_inputs
         # )
-        print(class_eval_dict)
+        #print(class_eval_dict)
 
         # get label of the report
         label = report_to_nace_class.get(os.path.basename(report_path))

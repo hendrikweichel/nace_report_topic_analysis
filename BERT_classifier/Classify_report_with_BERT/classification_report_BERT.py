@@ -1,3 +1,4 @@
+from scipy.special import softmax
 import os
 import torch
 import numpy as np
@@ -113,7 +114,6 @@ def classify_report(chunks: list,
             for i in range(logits.size(0))
         }
         sentence_classification.append(label_scores)
-        #print(max(softmax(logits)))
 
     if len(chunk_logits) == 0:
         return {}
@@ -135,3 +135,22 @@ def classify_report(chunks: list,
     sentence_classification.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_classifications.csv"))
 
     return label_scores#, sentence_classification
+
+
+if __name__ == "__main__": 
+
+    ckpt_path = "results/BERT_models/results__new_approach_data__num_layers_2bert-base-uncased__train_full_model__some_labels/checkpoint-15990"
+    model = load_custom_bert_from_checkpoint(ckpt_path)
+
+    tokenizer = AutoTokenizer.from_pretrained(ckpt_path) 
+
+    chunk = "'chairman of the board of directors hannover re bermuda ltd. hamilton bermuda'"
+    chunk = 'registered debt securities debentures and loans as well as other loans are carried at acquisition cost taking into account amortisation or at the lower fair value.'
+
+    label_scores = BERT_classification_chunk(chunk, model, tokenizer)
+    print(chunk)
+    print(softmax(label_scores))
+
+    res = classify_report(chunks=[chunk], model=model, tokenizer=tokenizer, result_path="../../results/BERT_classification/test_1", report_path="data/datasets/stoxx_600/TXTs/Hannover Rueck SE1.txt")
+
+    print(res)
