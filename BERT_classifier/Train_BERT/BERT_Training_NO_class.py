@@ -24,6 +24,7 @@ from torch import nn
 import pandas as pd
 from datasets import DatasetDict, Dataset
 import time 
+from safetensors.torch import load_file  # comes with HF if safetensors installed
 
 # In[]:
 
@@ -255,7 +256,13 @@ class WeightedCELossTrainer(Trainer):
         )
         loss = loss_fn(logits, labels)
         return (loss, outputs) if return_outputs else loss
-        
+
+# load model
+#ckpt_path = "results/BERT_models/results__new_approach_data__num_layers_2__cos_thres_0.35bert-base-uncased__train_full_model__some_labels/checkpoint-15681"
+#state_dict = load_file(os.path.join(ckpt_path, "model.safetensors"))
+#model.load_state_dict(state_dict, strict=True)  # will fail loudly if mismatch
+
+
 trainer = WeightedCELossTrainer(
     model=model,                        # Pre-trained BERT model
     args=training_args,                 # Training arguments
@@ -284,6 +291,7 @@ results = trainer.evaluate()
 results_txt = str(results)
 
 print(results)
+# In[]:
 
 # Generate predictions
 predictions = trainer.predict(tokenized_datasets["test"])
@@ -323,3 +331,5 @@ plt.ylabel("Loss")
 plt.title("Loss per Epoch")
 plt.legend()
 plt.savefig(results_path + "/losses.png")
+
+# %%
