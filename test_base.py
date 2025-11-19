@@ -79,6 +79,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions,
         # else:
         #     new_classification = classification
         new_classification = translate_classification_to_other_level(classification, level, df_nace_codes_descriptions)
+        first_class = new_classification.items[0][0][0]
 
         try: 
             position = [k.split("_")[0] for k in new_classification].index(str(all_levels_label[level]))
@@ -89,6 +90,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions,
         evaluation["position_lvl_" + str(level)] = position
         evaluation["classes_lvl_" + str(level)] = len(new_classification)
         evaluation["classification_lvl_" + str(level)] = new_classification
+        evaluation["first_class_" + str(level)] = first_class
     
     return evaluation
 
