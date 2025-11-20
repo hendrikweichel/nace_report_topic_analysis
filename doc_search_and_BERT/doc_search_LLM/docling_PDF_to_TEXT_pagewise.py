@@ -7,9 +7,8 @@ import os
 import glob
 import json
 
-pdfs_path = "../data/stoxx_600/PDFs"
-pdfs_path = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/stoxx_600/PDFs"
-texts_path = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/JSONs"
+pdfs_path = "projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_3/PDFs"
+texts_path = "projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_3/JSONs"
 
 pdfs = glob.glob(pdfs_path + "/*.pdf")
 print(pdfs)
