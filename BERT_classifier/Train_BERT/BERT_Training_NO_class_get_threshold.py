@@ -1,7 +1,8 @@
 #!/usr/bin/env python
 # coding: utf-8
+# %%
 
-# In[]:
+# %%
 
 from transformers import DataCollatorWithPadding
 import torch
@@ -26,14 +27,42 @@ from datasets import DatasetDict, Dataset
 import time 
 from safetensors.torch import load_file  # comes with HF if safetensors installed
 
-# In[]:
+# %%
+
+
+def load_custom_bert_from_checkpoint(ckpt_path: str):
+    # 1. Load the saved config (includes custom_hidden, custom_num_layers)
+    config = AutoConfig.from_pretrained(ckpt_path)
+
+    # 2. Build a model from config (bare BertForSequenceClassification)
+    model = AutoModelForSequenceClassification.from_config(config)
+
+    # 3. Rebuild the SAME classifier architecture as in training
+    hidden = getattr(config, "custom_hidden", 512)  # fallback if not in config
+    num_layers = getattr(config, "custom_num_layers", 2)
+
+    layers = []
+    for i in range(num_layers):
+        in_dim = config.hidden_size if i == 0 else hidden
+        layers.append(nn.Linear(in_dim, hidden))
+        layers.append(nn.GELU())
+        layers.append(nn.Dropout(0.2))
+
+    layers.append(nn.Linear(hidden, config.num_labels))
+    model.classifier = nn.Sequential(*layers)
+
+    # 4. Load weights from model.safetensors
+    state_dict = load_file(os.path.join(ckpt_path, "model.safetensors"))
+    model.load_state_dict(state_dict, strict=True)  # will fail loudly if mismatch
+
+    # 5. Inference mode
+    model.eval()
+    return model
 
 tik = time.time()
 
 for num_layers in [2]:
-#for num_layers in [2,3,4]:
 
-    #for thres in [0.35,0.4,0.45,0.5,0.55]:
     for thres in [0.5]:
     
         #### Run Params
@@ -59,7 +88,6 @@ for num_layers in [2]:
         data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
         data_path = mypath + f"data/training_data/dataset_reports_subset_from_full_data_1__sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__2nd_approach__nace_level_1__cos_thres_{new_thresh}"
         
-        
         results_path = mypath + f"results/BERT_models/results__new_approach_data__num_layers_{num_layers}__cos_thres_{new_thresh}" + os.path.basename(model_name)
         #results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
         if train_full_model: 
@@ -75,8 +103,8 @@ for num_layers in [2]:
         os.makedirs(results_path, exist_ok = True)
         
         print(results_path)
-        
-        # In[]:
+
+# %%
         
         # Load a custom CSV file
         data_files = {"train": os.path.join(data_path, "train_data.csv"), "test": os.path.join(data_path, "test_data.csv"), "validation": os.path.join(data_path, "val_data.csv")}
@@ -138,11 +166,11 @@ for num_layers in [2]:
         
         # Tokenize a sample text
         sample_text = dataset["train"][0]["text"]
-        tokens = tokenizer(sample_text, padding="max_length", truncation=True, max_length=512)
+        tokens = tokenizer(sample_text, padding="max_length", truncation=True, max_length=128)
         
         
         def tokenize_function(examples):
-            return tokenizer(examples["text"], padding="max_length", truncation=True, max_length=512)
+            return tokenizer(examples["text"], padding="max_length", truncation=True, max_length=128)
         
         # Apply the tokenizer to the dataset
         tokenized_datasets = dataset.map(tokenize_function, batched=True)
@@ -190,8 +218,8 @@ for num_layers in [2]:
         layers.append(nn.Linear(hidden, config.num_labels))
         
         model.classifier = nn.Sequential(*layers)
-        
-        # In[107]:
+
+# %%
         
         for param in model.bert.parameters():
             param.requires_grad = train_full_model
@@ -210,7 +238,7 @@ for num_layers in [2]:
             learning_rate=5e-5,              # Start with a small learning rate
             per_device_train_batch_size=16,  # Batch size per GPU
             per_device_eval_batch_size=16,
-            num_train_epochs=10,              # Number of epochs
+            num_train_epochs=20,              # Number of epochs
             weight_decay=0.01,               # Regularization
             save_total_limit=1,              # Limit checkpoints to save space
             load_best_model_at_end=True,     # Automatically load the best checkpoint
@@ -222,9 +250,9 @@ for num_layers in [2]:
         )
         
         print(training_args)
-        
-        
-        # In[109]:
+
+
+# %%
         
         
         # Load a metric (F1-score in this case)
@@ -238,13 +266,13 @@ for num_layers in [2]:
         
         data_collator = DataCollatorWithPadding(tokenizer=tokenizer)
         data_collator
-        
-        # In[111]:
+
+# %%
         
         #device = torch.device("mps") if torch.backends.mps.is_available() else torch.device("cpu")
         device = torch.device("cuda") if torch.backends.mps.is_available() else torch.device("cpu")
-        
-        # In[112]:
+
+# %%
         
         class WeightedCELossTrainer(Trainer):
             def __init__(self, *args, class_weights=None, **kwargs):
@@ -267,7 +295,10 @@ for num_layers in [2]:
         #ckpt_path = "results/BERT_models/results__new_approach_data__num_layers_2__cos_thres_0.35bert-base-uncased__train_full_model__some_labels/checkpoint-15681"
         #state_dict = load_file(os.path.join(ckpt_path, "model.safetensors"))
         #model.load_state_dict(state_dict, strict=True)  # will fail loudly if mismatch
-        
+
+        ckpt_path = "projects/nace_classification/nace_report_topic_analysis/results/BERT_models/_best_2nd_results__new_approach_data__num_layers_2__cos_thres_0.5bert-base-uncased__train_full_model__some_labels/checkpoint-4800"
+        model = load_custom_bert_from_checkpoint(ckpt_path)
+
         
         trainer = WeightedCELossTrainer(
             model=model,                        # Pre-trained BERT model
@@ -283,13 +314,13 @@ for num_layers in [2]:
                 early_stopping_threshold=0.0    # optional min improvement; e.g. 1e-4
             )]
         )
-        
-        # In[]:
+
+# %%
         
         # Start trainingO
-        trainer.train()
-        
-        # In[]:
+        #trainer.train()
+
+# %%
         
         # Evaluate the model
         results = trainer.evaluate()
@@ -297,17 +328,50 @@ for num_layers in [2]:
         results_txt = str(results)
         
         print(results)
-        # In[]:
+# %%
         
         # Generate predictions
         predictions = trainer.predict(tokenized_datasets["test"])
         predicted_labels = predictions.predictions.argmax(axis=-1)
+
+        logits = predictions.predictions          # shape: (N, num_labels)
+        probs = torch.softmax(torch.tensor(logits), dim=-1).numpy()
+        true_labels = np.array(tokenized_datasets["test"]["label"])
+
+        from sklearn.metrics import f1_score
+
+        thresholds = np.linspace(0.01, 0.99, 99)
+        best_f1 = -1
+        best_t = None
+        
+        for t in thresholds:
+            preds = []
+            for p in probs:
+                max_prob = p.max()
+                pred_class = p.argmax()
+        
+                if max_prob < t:
+                    preds.append(-1)  # -1 = NO_CLASS oder Reject
+                else:
+                    preds.append(pred_class)
+        
+            f1 = f1_score(true_labels, preds, average="macro")
+            print(f1)
+            if f1 > best_f1:
+                best_f1 = f1
+                best_t = t
+
+        print("Best threshold:", best_t)
+        print("Best macro F1:", best_f1)
+
+        
         
         # Classification report
         print(classification_report(tokenized_datasets["test"]["label"], predicted_labels))
         
         results_txt += str(classification_report(tokenized_datasets["test"]["label"], predicted_labels))
         results_txt += "\n\n\nTime: " + str(time.time() - tik)
+        results_txt += "Best threshold:" + str(best_t) + "Best macro F1:" + str(best_f1)
         
         # Confusion matrix
         cm = confusion_matrix(tokenized_datasets["test"]["label"], predicted_labels, normalize="true")
@@ -338,33 +402,4 @@ for num_layers in [2]:
         plt.legend()
         plt.savefig(results_path + "/losses.png")
 
-        # get threshold for classification
-        
-        logits = predictions.predictions          # shape: (N, num_labels)
-        probs = torch.softmax(torch.tensor(logits), dim=-1).numpy()
-        true_labels = np.array(tokenized_datasets["test"]["label"])
-
-        from sklearn.metrics import f1_score
-
-        thresholds = np.linspace(0.01, 0.99, 99)
-        best_f1 = -1
-        best_t = None
-        
-        for t in thresholds:
-            preds = []
-            for p in probs:
-                max_prob = p.max()
-                pred_class = p.argmax()
-        
-                if max_prob < t:
-                    preds.append(-1)  # -1 = NO_CLASS oder Reject
-                else:
-                    preds.append(pred_class)
-        
-            f1 = f1_score(true_labels, preds, average="macro")
-            if f1 > best_f1:
-                best_f1 = f1
-                best_t = t
-
-        print("Best threshold:", best_t)
-        print("Best macro F1:", best_f1)
+# %%

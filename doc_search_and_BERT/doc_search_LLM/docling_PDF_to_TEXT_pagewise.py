@@ -35,7 +35,18 @@ for pdf in tqdm.tqdm(pdfs):
     #try:
     if True: 
         print("Converting:", pdf)
-        result = doc_converter.convert(pdf)
+
+        out_path = os.path.join(
+            texts_path, os.path.splitext(os.path.basename(pdf))[0] + ".json"
+        )
+        
+        if os.path.isfile(out_path): 
+            continue
+
+        try: 
+            result = doc_converter.convert(pdf)
+        except RuntimeError:
+            continue
         doc = result.document
         
         pages = []
@@ -55,9 +66,7 @@ for pdf in tqdm.tqdm(pdfs):
             "num_pages": doc.num_pages(),
             "pages": pages,
         }
-        out_path = os.path.join(
-            texts_path, os.path.splitext(os.path.basename(pdf))[0] + ".json"
-        )
+        
         print(out_path)
         with open(out_path, "w", encoding="utf-8") as f:
             json.dump(out, f)

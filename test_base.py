@@ -200,7 +200,7 @@ def test_report_classification(reports_path: List[str],
     recording = [] 
 
     if path_nace_code_descriptions is None: 
-        path_nace_code_descriptions = "../data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
+        path_nace_code_descriptions = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
         
     df_nace_codes_descriptions = pd.read_csv(path_nace_code_descriptions, sep="\t")
 

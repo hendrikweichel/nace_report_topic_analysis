@@ -101,7 +101,7 @@ def classify_report(chunks: list,
     chunk_logits = []   
     sentence_classification = []
 
-    for chunk in tqdm.tqdm(chunks):
+    for chunk in (chunks):
 
         logits = BERT_classification_chunk(chunk, 
                                            model=model, 
@@ -142,10 +142,18 @@ if __name__ == "__main__":
 
     tokenizer = AutoTokenizer.from_pretrained(ckpt_path) 
 
-    chunk = "registered debt securities debentures and loans as well as other loans are carried at acquisition cost taking into account amortisation or at the lower fair value."
+    chunk = "any reasonably possible change in the foreign currency exchange rates other than disclosed above at the end of the reporting period against the respective functional currency of the entities within the group does not have a material impact on the profitloss after tax and other comprehensive incomeexpenses"
+    chunk = "This section includes the exploitation of vegetal and animal natural resources, comprising the activities of growing of crops, raising and breeding of animals, harvesting of timber and other plants, animals or animal products from a farm or their natural habitats."
+    chunk = """Ein Märchen ist eine alte Erzählung, die oft mit "Es war einmal..." beginnt und sich durch Merkmale wie magische Elemente, stereotype Figuren und eine oft unbestimmte Zeit und Ort auszeichnet. Bekannte Beispiele sind die Sammlung der Brüder Grimm (z.B. Hänsel und Gretel, Rotkäppchen, Aschenputtel), obwohl Märchen ursprünglich auch für Erwachsene gedacht waren und als Ratgeber für grundlegende menschliche Erfahrungen dienen können"""
 
     label_scores = BERT_classification_chunk(chunk, model, tokenizer)
     print(chunk)
     print(softmax(label_scores))
+    label_scores = {
+        model.config.id2label[i]: label_scores[i].item()
+        for i in range(len(label_scores))
+    }
 
-    classify_report(chunks=[chunk], model=model, tokenizer=tokenizer, result_path="../../results/BERT_classification/test_1", report_path="data/datasets/stoxx_600/TXTs/Hannover Rueck SE1.txt")
+    print(label_scores)
+    
+    #classify_report(chunks=[chunk], model=model, tokenizer=tokenizer, result_path="../../results/BERT_classification/test_1", report_path="data/datasets/stoxx_600/TXTs/Hannover Rueck SE1.txt")
