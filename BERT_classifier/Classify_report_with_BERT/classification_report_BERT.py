@@ -10,7 +10,8 @@ import time
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import pandas as pd
 import os
-from cachetools import LFUCache
+#from cachetools import lru_cache
+from functools import lru_cache
 
 def load_model(ckpt_path: str):
     """
@@ -79,11 +80,12 @@ def BERT_classification_chunk(chunk: str, model, tokenizer):
 
     return logits
 
-@LFUCache(1)
+@lru_cache(1)
 def get_relevancy_model(ckpt_path: str = "results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
     return load_custom_bert_from_checkpoint(ckpt_path, num_layers_base = 1, num_labels_base=1)
 
-@LFUCache(1)
+
+@lru_cache(1)
 def get_relevancy_tokenizer(ckpt_path: str = "results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
     return AutoTokenizer.from_pretrained(ckpt_path) 
 
