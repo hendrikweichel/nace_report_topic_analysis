@@ -6,9 +6,11 @@ import torch.nn as nn
 from transformers import AutoConfig, AutoModelForSequenceClassification
 from safetensors.torch import load_file  # comes with HF if safetensors installed
 import tqdm
+import time
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 import pandas as pd
 import os
+from cachetools import LFUCache
 
 def load_model(ckpt_path: str):
     """
@@ -37,7 +39,7 @@ def load_model(ckpt_path: str):
     return model, tokenizer, device
 
 
-def load_custom_bert_from_checkpoint(ckpt_path: str):
+def load_custom_bert_from_checkpoint(ckpt_path: str, num_layers_base: int = 2):
     # 1. Load the saved config (includes custom_hidden, custom_num_layers)
     config = AutoConfig.from_pretrained(ckpt_path)
 
@@ -46,7 +48,7 @@ def load_custom_bert_from_checkpoint(ckpt_path: str):
 
     # 3. Rebuild the SAME classifier architecture as in training
     hidden = getattr(config, "custom_hidden", 512)  # fallback if not in config
-    num_layers = getattr(config, "custom_num_layers", 2)
+    num_layers = getattr(config, "custom_num_layers", num_layers_base)
 
     layers = []
     for i in range(num_layers):
@@ -76,6 +78,35 @@ def BERT_classification_chunk(chunk: str, model, tokenizer):
 
     return logits
 
+@LFUCache(1)
+def get_relevancy_model(ckpt_path: str = "results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
+    return load_custom_bert_from_checkpoint(ckpt_path, num_layers_base = 1)
+
+@LFUCache(1)
+def get_relevancy_tokenizer(ckpt_path: str = "results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
+    return AutoTokenizer.from_pretrained(ckpt_path) 
+
+def relevancy_classification(chunk): 
+    """ Uses a binary model to classify whether a chunk is relevant or not.
+
+    Args:
+        chunk (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
+
+    tik = time.time()
+    model_binary = get_relevancy_model()
+    tokenizer = get_relevancy_tokenizer()
+    print(time.time() - tik)
+    inputs = tokenizer(chunk, return_tensors="pt", truncation=True)
+    with torch.no_grad():
+        outputs = model_binary(**inputs)
+        logits = outputs.logits.squeeze(0)
+        probs = torch.sigmoid(logits) 
+        
+    return probs.item()
 
 def classify_report(chunks: list, 
                     model: AutoModelForSequenceClassification,
@@ -129,6 +160,12 @@ def classify_report(chunks: list,
 
     sentence_classification = pd.DataFrame(sentence_classification)
     sentence_classification["Sentences"] = chunks
+
+    # add the relevancy check
+
+    if True: 
+        sentence_classification["Relevancy_sig"] = sentence_classification["Sentences"].apply(relevancy_classification)
+
 
     os.makedirs(os.path.join(result_path, os.path.basename(report_path)), exist_ok=True)
     sentence_classification.to_csv(os.path.join(result_path, os.path.basename(report_path), os.path.basename(report_path) + "_classifications.csv"))
