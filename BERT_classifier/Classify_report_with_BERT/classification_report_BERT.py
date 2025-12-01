@@ -39,7 +39,7 @@ def load_model(ckpt_path: str):
     return model, tokenizer, device
 
 
-def load_custom_bert_from_checkpoint(ckpt_path: str, num_layers_base: int = 2):
+def load_custom_bert_from_checkpoint(ckpt_path: str, num_layers_base: int = 2, num_labels_base: int = None):
     # 1. Load the saved config (includes custom_hidden, custom_num_layers)
     config = AutoConfig.from_pretrained(ckpt_path)
 
@@ -49,6 +49,7 @@ def load_custom_bert_from_checkpoint(ckpt_path: str, num_layers_base: int = 2):
     # 3. Rebuild the SAME classifier architecture as in training
     hidden = getattr(config, "custom_hidden", 512)  # fallback if not in config
     num_layers = getattr(config, "custom_num_layers", num_layers_base)
+    num_labels = getattr(config, "num_labels", num_labels_base)
 
     layers = []
     for i in range(num_layers):
@@ -57,7 +58,7 @@ def load_custom_bert_from_checkpoint(ckpt_path: str, num_layers_base: int = 2):
         layers.append(nn.GELU())
         layers.append(nn.Dropout(0.2))
 
-    layers.append(nn.Linear(hidden, config.num_labels))
+    layers.append(nn.Linear(hidden, num_labels))
     model.classifier = nn.Sequential(*layers)
 
     # 4. Load weights from model.safetensors
@@ -80,7 +81,7 @@ def BERT_classification_chunk(chunk: str, model, tokenizer):
 
 @LFUCache(1)
 def get_relevancy_model(ckpt_path: str = "results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
-    return load_custom_bert_from_checkpoint(ckpt_path, num_layers_base = 1)
+    return load_custom_bert_from_checkpoint(ckpt_path, num_layers_base = 1, num_labels_base=1)
 
 @LFUCache(1)
 def get_relevancy_tokenizer(ckpt_path: str = "results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
