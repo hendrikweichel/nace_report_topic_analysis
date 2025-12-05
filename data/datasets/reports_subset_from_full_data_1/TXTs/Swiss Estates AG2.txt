@@ -1,0 +1,823 @@
+## Annual Report 2022
+
+## shaping the transformation
+
+<!-- image -->
+
+## Key figures
+
+Key figures
+
+| Swiss Steel Group  Unit  2022  2021  Δ in %  Q4 2022  Q4 2021  Δ in %  Order backlog  kilotons  454  691  - 34.3  454  691  - 34.3  Sales volume  kilotons  1,663  1,863  - 10.7  362  425  - 14.8  Revenue  million EUR  4,051.4  3,192.8  26.9  960.0  837.1  14.7  Average sales price  EUR/t  2,438  1,716  42.1  2,654  1,972  34.6  Adjusted EBITDA  million EUR  217.0  191.6  13.3  36.5  39.9  - 8.5  EBITDA  million EUR  188.8  200.0  - 5.6  26.5  53.1  - 50.1  Adjusted EBITDA margin  %  5.4  6.0  -  3.8  4.8  -  EBITDA margin  %  4.7  6.3  -  2.8  6.3  -  EBIT  million EUR  73.0  108.7  - 32.8  - 17.7  27.9  -  Earnings before taxes  million EUR  21.3  64.1  - 66.8  - 33.2  16.2  -  Group result  million EUR  9.4  50.3  - 81.3  - 27.2  11.5  -  Investments  million EUR  115.1  107.1  7.5  41.4  43.9  - 5.7  Free cash flow  million EUR  - 53.7  - 223.7  76.0  68.2  - 53.8  -  Unit  31.12.2022  31.12.2021  Δ in %  Net debt  million EUR  848.2  720.5  17.7  Shareholders' equity  million EUR  530.9  448.9  18.3  Gearing  %  159.8  160.5  -  Net debt/adj. EBITDA LTM (leverage)  x  3.9  3.8  2.6  Balance sheet total  million EUR  2,386.0  2,227.4  7.1  Equity ratio  %  22.2  20.2  -  Employees as of closing date  Positions  9,857  9,914  - 0.6  Capital employed  million EUR  1,646.8  1,588.6  3.7  Unit  2022  2021  Δ in %  Q4 2022  Q4 2021  Δ in %  Earnings/share  1)  EUR/CHF  0.00/0.00  0.02/0.02  -  - 0.01/-0.01  0.00/0.00  -  Shareholders' equity/share  2)  EUR/CHF  0.17/0.17  0.15/0.16  -  0.17/0.17  0.15/0.16  -  Share price high/low  CHF  0.348/0.202  0.478/0.234  -  0.249/0.202  0.381/0.340  -   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+1) Earnings per share are based on the result of the Group after deduction of the portions attributable to non-controlling interests
+
+2)  As of December 31, 2022 and as of December 31, 2021
+
+Swiss Steel Holding AG, Landenbergstrasse 11, CH-6005 Lucerne, +41 41 581 4000
+
+www.swisssteel-group.com
+
+Page 1 of 1
+
+## Swiss Steel Group
+
+Annual Report 2022
+
+Preface 2
+
+Strategy Program 'SSG 2025'4
+
+Management report 34
+
+Corporate governance 98
+
+Compensation report 122
+
+Financial reporting 152
+
+Swiss Steel Group consolidated financial statements  156
+
+Swiss Steel Holding AG individual financial statements  224
+
+Sustainability notes  236
+
+GRI content index  239
+
+Glossary  242
+
+Abbreviations  243
+
+Legal notice  247
+
+## 'We are well positioned to become the leading player for Green Steel.'
+
+<!-- image -->
+
+## Dear reader,
+
+Swiss Steel Group faced multiple external and internal challenges in 2022, ranging from skyrocketing raw material and energy prices to interrupted supply chains due to the geopolitical volatilities. Despite this challenging environment and the shortfall from our operations in Ugine following the severe accident in early 2022, Swiss Steel Group was successful. We were able to increase revenue and adjusted EBITDA year on year. This is thanks to our foresightedness, our flexibility and the exceptional commitment of our employees.
+
+More than ever, we are faced with change. The world around us is evolving with increasing speed, forcing society, industries and companies to think outside the box, adapt existing business models and have the courage to break new ground.
+
+In a fast changing environment it is crucial to build on a strong foundation, embrace change and evolve with vision. Thanks to our expertise in recycling, electric arc furnace technology and highest operating standards, we are well positioned to become the leading player for the production of Green Steel. Our product portfolio addresses the wide range of customer needs. And we foster a high level of innovation driven by our talented, motivated and dedicated employees. In short, Swiss Steel Group holds enormous potential for the future - a potential we are now leveraging for the benefit of our customers, shareholders and other stakeholders. Swiss Steel Group and our steels are an indespensable part of the ongoing transitions.
+
+The past year has shown how important it is that we stick to our strategy program SSG 2025. We are shaping the transformation of our Group in order to ensure resilience, increase performance and lay the foundation for further organic growth by cost improvement and customer centricity.
+
+I am convinced Swiss Steel Group will succeed in contributing to shaping a future that matters.
+
+Yours sincerely,
+
+<!-- image -->
+
+Frank Koch
+
+Frank Koch Chief Executive Officer
+
+SSG 2025 Goal #1 Become a robust and best-in-class special long steel player
+
+## Transforming scrap into molten steel
+
+Swiss Steel Group produces exclusively from steel scrap. At the very beginning of the production process, the specially sorted scrap is transformed into liquid steel using electricity.
+
+## SSG 2025
+
+## shaping the transformation
+
+## Interview with Chairman and CEO 6 Strategy Program 'SSG 2025'10
+
+Resilience and Profitability  12 Customer Centricity and Reliability  16 Innovation and Sustainability  24
+
+## The steel industry is facing a large transition.
+
+Jens Alder Chairman of the Board
+
+<!-- image -->
+
+Frank Koch Chief Executive Officer
+
+<!-- image -->
+
+Frank, when you started as CEO in the summer of 2021, you were faced with the COVID-19 pandemic and turbulent market conditions. Since then, the conflict in Ukraine, inflation and rapidly rising energy prices have been added to the equation. How has this influenced your actions?
+
+Frank Koch The environment has indeed been quite challenging and has put our flexibility, foresightedness and production planning to the test. We were forced to implement immediate solutions to mitigate some of the effects - for example the introduction of an energy surcharge. But overall we were able to prevail with a good result, despite the challenging environment. This shows we are on the right path and it is all the more important we continue to focus on creating a resilient Swiss Steel Group.
+
+Jens, you have experienced different industries in your professional career. How do you assess the steel market in comparison with other sectors, and what is Swiss Steel Group's position today?
+
+Jens Alder Given the current volatility in the economic and geopolitical environments, many industries are challenged. That said, the
+
+'An open dialog within and between industries will be key.'
+
+Jens Alder
+
+'It is all the more important we continue to focus on creating a resilient Swiss Steel Group.'
+
+Frank Koch steel industry is facing a large transition, maybe even more so than other industries. Steel is a significant contributor to global carbon emissions and has to radically alter production processes. This transformation has the potential to change the playing field. With its expertise in sustainable steel production, Swiss Steel Group is in an excellent position to lead the green transformation in Europe.
+
+What economic policy framework do you expect from politicians in order to achieve this green transformation?
+
+Frank Koch Steel produced with scrap in electric arc furnaces holds great opportunities for a carbon-neutral future, but also has its own challenges along the way. Let me just name three areas in which a political framework will be key: For one, in order to continue the path toward carbon-neutral steel, the availability and affordability of sufficient green energy is key. Furthermore, the creation of green lead markets will support the transformation by creating a pull from the demand side. And finally, large sums are being spoken to support players on the blast furnace route in their decarbonization efforts, which may lead to distortion of competition
+
+if funds are spoken onesidedly.
+
+Jens Alder And of course we have to understand the green transformation requires significant investments and will require entire value chains to share the burden of the transformation costs. An open dialog within and between industries will be key.
+
+Swiss Steel Group has launched its strategy program SSG 2025 - what were the triggers and what are the most important cornerstones?
+
+Jens Alder We have been able to improve our results in each of the last two years. Although the trend is moving in the right direction, we are convinced that there is much more potential for Swiss Steel Group. We not only have the production technology of the future already in place today, we also produce a range of products that are part of the energy transformation - be it for hydrogen or wind power. So really SSG 2025 is all about leveraging all of our potential.
+
+Frank Koch In the course of SSG 2025, we are putting all Group entities to the test in regard to their future viability. We have to make sure every element of Swiss Steel
+
+<!-- image -->
+
+'The external factors reduce the room to maneuver and demand additional flexibility.'
+
+Jens Alder
+
+Group is contributing to our profitability. This will make us all the more resilient, even in challenging environments, and will lay the foundation for further organic growth. A key element is our new operating model which replaces the former Business Unit structure. It is built around the three Divisions Engineering Steel, Stainless Steel and Tool Steel and allows us to become one integrated Group. Finally, of course, SSG 2025 also includes expanding our position in sustainable steel production.
+
+SSG 2025 is quite a transformation - what are the biggest challenges?
+
+Frank Koch The transformation holds quite some complexity as it leaves no stone unturned. The organization needs to focus on day-today operations and let go of old habits, as it finds its way into new, more efficient processes and builds a new identity. It is only normal that many also perceive a threat in such complex change processes, so we are required to communicate as transparently and proactively as possible.
+
+Jens Alder The volatile geopolitical and economic environment add another layer of complexity to the program. The external factors reduce the room to maneuver and demand additional flexibility. But the strategic tact of the Executive Board, paired with the willpower of the entire Swiss Steel Group team, have succeeded in keeping SSG 2025 on track, despite the intensifying environment.
+
+What qualities must managers and employees alike possess to steer a company through such a transformation?
+
+Jens Alder A culture of trust is an absolute necessity, especially in times of change and increased uncertainty. This requires listening to each other, taking concerns seriously, putting aside personal sensitivities and making room for new ideas. It is key that managers are able to demonstrate understanding as much as they do assertiveness.
+
+Frank Koch It is imperative that everyone takes responsibility for their own work and its results. An organization in transition must be able to rely on each other all the more. In essence, it's all about the right mindset - openness for new ideas, thinking outside the box and a willingness for change. In this context, the seed of innovation can grow - and that is key going forward.
+
+'We are putting all Group entities to the test in regard to their future viability.'
+
+<!-- image -->
+
+Frank Koch
+
+## What is key to Swiss Steel Group's future success?
+
+Frank Koch Building on our expertise, we push to meet the challenges of our customers across industries. Our deep understanding of value chains allow innovative products and tailored advice for tangible improvements, resulting step by step in safer, more efficient and more sustainable solutions for everyone. But that is not enough. We dedicate all our capabilities to the success of our customers, so together we achieve a powerful partnership experience, where reliability translates into operational excellence. And finally, we empower industries with materials with a carbon footprint inherently well below the industry average, offering a decisive response to the challenge of green transformation.
+
+Our modern world is built on steel - from bearings to bridges, from cutlery to cars and from screwdrivers to surgical instruments. Steel is our foundation, for progress, for reliability, for sustainability, for the future. For us at Swiss Steel Group, sustainable steel is our backbone, our DNA. It's what we do best to contribute to shaping a sustainable tomorrow.
+
+## Strategic starting point
+
+## Shaping the transition in a dynamic framework
+
+## Mobility transformation
+
+## Green transformation
+
+The development toward postfossil mobility is going strong. With alternative drive systems, lightweight vehicle construction and environmental requirements on the rise, Swiss Steel Group helps shape the transformation with innovative special steel solutions. Backed by its broad product portfolio, Swiss Steel Group is at the forefront of this change, as new mobility players enter the market and model diversity increases.
+
+Climate change is an existential threat to the world. We are all called upon to transition to a sustainable economy. Sustainable steel production based on EAF technology, decarbonized electricity and circular economy is part of our DNA. Swiss Steel Group empowers customers with materials with a carbon footprint well below the industry average. Together we transform our industries for a sustainable future.
+
+## Operating in a volatile context
+
+<!-- image -->
+
+Skyrocketing energy prices
+
+<!-- image -->
+
+Inflation and economic downturn
+
+## Digital transformation
+
+To assess and activate digital potential to its fullest, we need to take a holistic view of digitization that encompasses more than just technological aspects. Making use of data warehouses, Swiss Steel Group seamlessly tracks material quality beyond processing steps. Through strategic partnerships, we explore new possibilities in scrap procurement with the support of digital shadows.
+
+Volatile supply chains and geopolitical instabilities
+
+<!-- image -->
+
+## Strategy Program SSG 2025
+
+## Built on the three pillars
+
+Resilience and Profitability
+
+Customer Centricity and Reliability
+
+## Innovation and Sustainability
+
+<!-- image -->
+
+Our strategy program SSG 2025 was initiated to build a strong and resilient Swiss Steel Group in a fast-changing environment. Through its implementation, we will transform into a robust and best-in-class special long steel player, leading the green transformation in Europe. In order to achieve our goals, we are building on three strategic pillars:
+
+## Resilience and Profitability
+
+The foundation for increased profitability and future growth is resilience. We will strengthen our resilience by focusing on our core business and reassessing the future viability of our businesses.
+
+## Customer Centricity and Reliability
+
+To enable growth, we must understand and anticipate the needs and challenges of our customers. We are creating an integrated Swiss Steel
+
+Group that will increase efficiency and effectiveness, above all to better serve our customers.
+
+## Innovation and Sustainability
+
+Building on a strong foundation, Swiss Steel Group has the potential to expand its market position in sustainable steel production. As part of this, we empower our customers in their decarbonization efforts to become leading sustainability champions.
+
+## Resilience and Profitability
+
+<!-- image -->
+
+Ensuring resilience, profitability and growth in a challenging environment requires courage to change. With our strategy program SSG 2025 we have initiated a fundamental transformation that will set the course for a successful future.
+
+Our strategy program SSG 2025 comprises structural improvements, measures to increase our profitability and important levers for growth to secure our future.
+
+able market phase. With that in mind, it is crucial to build a strong core founded on stable pillars, by minimizing risks and focusing on the core business.
+
+## Maintain a stable performance
+
+The implementation of our new strategy will make us stronger and more resilient. Resilience is the answer to current and future challenges as it encompasses the ability to successfully adapt to a changing environment, no matter what comes our way. For us, in fact, this explicitly reflects the capability and strength to maintain a stable performance within the profitability target corridor in any conceiv-
+
+## Spot leverage potentials
+
+Knowing the sources of our profitability and their levers allows targeted steering toward businesses offering attractive margins. This makes it crucial to continuously reassess the current and future viability of each of our entities in order to spot obvious and uncover hidden leverage potential, and especially to channel efforts into forward-thinking new ideas.
+
+## What steers us through difficult times? Resilience!
+
+The term resilience comes from the Latin word resilire: to leap or spring back, to rebound. The term was first used in a psychological context by the American psychologist John Block in the 1950s referring to the ability of children to adapt to change and to experience positive development despite difficult circumstances. It was only in the 21 st  century that the term was increasingly applied to the ability to manage crises of companies, systems and organizations. In the wake of political and economic challenges including the international debt crisis, major refugee movements and recently the pandemic, resilience has become a major target on the political and economic agenda.
+
+Resilience and Profitability
+
+Customer Centricity and Reliability
+
+Innovation and Sustainability
+
+## The triad for sustainable value
+
+The implementation of our strategy program SSG 2025 will turn us into a leading and best-in-class steel manufacturer, leading the green transformation in Europe. It will create an integrated Group with one strong brand, ensuring profitable growth with a focus on core markets. And finally, it will allow us to deliver excellent performance.
+
+<!-- image -->
+
+## Stabilize
+
+We are focusing on our core business and driving improvement initiatives to become more resilient. This requires us to assess all our assets and our product portfolio, and to ensure our core business areas have a clear focus and mission and deliver performance. This will boost our performance and stabilize our Group.
+
+## Strengthen
+
+To achieve long-term success, we are adapting our organizational setup to respond quickly and flexibly in our continually changing business environment. This allows us to focus on key activities and drives us to achieve greater efficiency and performance.
+
+## Scale up
+
+With the same resolve and building on our strong foundation, we will intensify our efforts to seize further growth opportunities in our core markets and execute our Green Steel strategy.
+
+## 'The main driver for our transformation is efficiency.'
+
+<!-- image -->
+
+## Torsten Niemann Vice President Strategy
+
+Having worked for over 15 years in the steel industry, Torsten Niemann had already gained profound knowledge of the business before he joined Swiss Steel Group in 2021. As Vice President Strategy, he applied his strategic experience during the development of SSG 2025 and is one of the masterminds behind the new strategy. He holds a degree in business administration and an MBA.
+
+Resilience and Profitability
+
+Torsten Niemann explains how the strategy program SSG 2025 will turn Swiss Steel Group into a resilient and profitable leader in the steel industry. Torsten, why has Swiss Steel Group embarked on such a substantial transformation?
+
+Given our constantly changing environment and the unprecedented challenges in the past few years, the pressure for change was high. It quickly became clear that the main driver for our transformation had to be efficiency - efficiency through synergies and integration in order to drive profitability, sustainable management and growth.
+
+## Can you give an example of the mentioned efficiency through synergy and integration?
+
+With raw materials and energy making up the largest proportion of production costs, it is obvious to implement procurement optimization measures. Among others, a Group-wide scrap sourcing strategy will reinforce our purchasing power. Optimizing our purchasing strategy by means of bundling and collaboration will make a notable contribution to our profitability. There is no doubt that putting our focus immediately on procurement is a wise choice
+
+Customer Centricity and Reliability of direction in the current times. Such optimized processes that involve functions Group-wide will additionally require adjusted organizational structures to provide an effective basis for implementation.
+
+## An economic downturn seems to be looming - can you realistically speak of growth by 2025?
+
+Once the robustness of our Group is set and the foundation built to become bestin-class, we will be well prepared to position ourselves even stronger in the special long steel market. We are keen to move ahead with organic growth. Of course, we are also dependent on the market environment providing us with some tailwind. But first, we must strictly follow the path we have laid out until we are convinced that we have empowered ourselves to withstand any upcoming adverse conditions and have the capability to maintain our defined profitability corridor in the future. We know our promise and we will keep our promise toward our customers, shareholders and employees, striving for steady value creation.
+
+Innovation and Sustainability
+
+## What is your vision of Swiss Steel Group once the strategy program SSG 2025 is completed?
+
+We will be a Group where efficiency is at the center throughout all dimensions of our business - in operations, in production, but also on an organizational level. We will leverage synergies within our production network and across the core businesses Engineering Steel, Stainless Steel and Tool Steel. The ratio between input and output will have been optimized, inefficiencies will have been eliminated and our position in Green Steel will be even stronger. All this will increase the strength and resilience of our Group so we can better manage change and unpredictability. It also puts us in an ideal position to serve our customers.
+
+## Customer Centricity and Reliability
+
+<!-- image -->
+
+We have embarked on a journey to create one united Swiss Steel Group with integrated operations to stabilize and strengthen our business for growth, to increase efficiency and effectiveness, and above all to better serve our customers.
+
+Swiss Steel Group is on a transformation path. Along this path, we are reshaping and strengthening our organization, evolving from a group of loosely connected companies into one integrated and actively managed Swiss Steel Group. We are refocusing our sales organization around the three Divisions Engineering Steel, Stainless Steel and Tool Steel, which will allow a more holistic market approach and more effective and tailored customer service.
+
+## Backbone of bestin-class production
+
+Each Division leverages its sales and distribution networks and has access to the full production network of our Group.
+
+Nonetheless, best-inclass production remains the backbone of our Group. And so while the Divisions know our markets and their needs, our Production Assets ensure that quality, service levels and cost efficiency are spot on.
+
+## One central point of contact
+
+Our customers will benefit from more clarity about our portfolio, access to the entire Group offering via one central point of contact, combined innovative strength and even stronger reliability when it comes to production, quality and delivery.
+
+## One strong brand
+
+As a consequence of the reorganization of the Group, the former entity brands are being merged into one strong brand: Swiss Steel Group. Going forward, we stand united under one flag that now encompasses all our entities. Our logo will continue to combine the colors of glowing steel with the shape of infinity - symbolizing our commitment to a sustainable value chain and circular economy.
+
+Resilience and Profitability
+
+Customer Centricity and Reliability
+
+Innovation and Sustainability
+
+## Reshaping into an efficient and effective organization
+
+<!-- image -->
+
+At the doorstep of our partners - Swiss Steel Group around the globe
+
+Swiss Steel Group is one of the world's leading providers of individual solutions in the special long steel products sector. As one of Europe's largest electric steel producers, Swiss Steel Group is at the forefront of sustainable steel production. Offering engineering, stainless and tool steel solutions, the Group's portfolio services a large range of customer needs.
+
+With approximately 10,000 employees together with in-house production and distribution entities in over 30 countries and on five continents, Swiss Steel Group guarantees its customers global supply and customer service at their doorstep.
+
+8 Melt shops
+
+- &gt; 25 Production sites
+- &gt; 70 Sales and distribution centers
+- &gt; 30 Countries
+- ~ 10,000 Employees
+- &gt; 20,000 Customers
+
+## Our Divisions
+
+<!-- image -->
+
+<!-- image -->
+
+## Engineering Steel
+
+Engineering Steel is the largest segment in specialty long steel and is in particular demand wherever high mechanical loads are present, and reliable, long-term use of components must be guaranteed. We aim to become one of the top three players in Europe, by growing profitably through a mix of highmargin technical and cost-competitive standard products and by building on our in-depth customer understanding.
+
+Industries
+
+-   Mobility (Train, Automotive)
+-   Mechanical Engineering
+- Energy (e.g. wind)
+- Turbines
+
+## Stainless Steel
+
+Our Stainless Steel Division offers materials for applications across various industries, where high resistance to corrosion or acid and high thermal loads are a necessity. We will strengthen our position as one of the leading partners worldwide for stainless steels, banking on our broad product portfolio and extensive expertise - which is unique around the globe. The ultimate goal is to become THE reference player in the stainless long products market.
+
+- Aerospace
+- Energy (e.g. hydrogen)
+- Medical
+- Building
+- Exploration
+
+<!-- image -->
+
+## Tool Steel
+
+In Tool Steel, we offer solutions focused on economic machinability, high wear resistance and good thermal conductivity. Building on our broad product portfolio, comprised of cold work steels, hot work steels, high-speed steels and steels for plastic molding, we aim to be among the top three tool steel suppliers worldwide and position ourselves as the most renowned brand for innovation and best-inclass technical expertise.
+
+- Mobility
+- Packaging
+- Optics
+- Tools
+- Molds
+
+Resilience and Profitability
+
+Customer Centricity and Reliability
+
+Innovation and Sustainability
+
+<!-- image -->
+
+## Special long steel - a promising niche market
+
+Of the global steel production volume of approximately 1,756 million tons, 105 million tons are special long steel. Estimates based on data from SMR, rounded
+
+## Offering a broad range of special steel solutions
+
+Swiss Steel Group offers a large range of different types of steel aligned to customers' needs. We can supply one of the most comprehensive portfolios of steel grades on the market and are focused on products in the form of bars and wire.
+
+## Servicing a wide range of industries
+
+Our world is built on steel. The special steel solutions of Swiss Steel Group find application in a wide range of industries and often stand at the forefront of innovation.
+
+## 'We are creating a powerful partnership experience that moves our customers forward.'
+
+<!-- image -->
+
+## Anina Berger Vice President Marketing and Communications
+
+Anina Berger joined Swiss Steel Group in 2016 and thus benefits from an indepth knowledge of the business and an extensive corporate network. She is a marketing and communications expert based at the headquarters in Lucerne and has been involved in the change process from the very start, making sure that change as significant as this is accompanied by clear, timely and transparent communication.
+
+Resilience and Profitability
+
+Anina Berger talks about creating an integrated Group, the value of one strong brand and the benefit for customers. Anina, why is the new structure the right path into a sustainable future?
+
+Our Group has a lot of potential. We have highly motivated and skilled employees, sustainable production facilities, a broad portfolio and a global presence. The creation of an integrated Group will enable us to leverage this potential and harness our strengths to maximum effect. As a strong, solid and successful Group, we will be able to secure the future of our business, create value for our shareholders and raise the necessary funds to invest in our products, our processes and our team. This is what makes us a reliable and long-term partner for our customers.
+
+## What is it Swiss Steel Group is changing?
+
+We have begun to implement an entirely new operating model. This model is focused around the three sales Divisions Engineering Steel, Stainless Steel and Tool Steel. Of course production remains the core of our business, but going forward our Divisions can access the respective Pro-
+
+Customer Centricity and Reliability duction Asset directly, resulting in closer Group-wide collaboration. This means the Business Unit structure has disappeared with the beginning of 2023.
+
+## What about your employees - how are you facilitating the change in the organization?
+
+Very often, change is not exactly comfortable. But what it comes down to is the right mindset. To facilitate this, everyone of us has to lead by example. Of course, any change takes time and needs to be implemented in a transparent, communicative and supportive manner.
+
+## What role does the new Group-wide branding play in enacting the change?
+
+Although seemingly just an image, the logo of a brand is a key identifier - both internally and externally. It provides direction and stands for common values. Unifying under one brand helps build a common understanding of who we are and what we stand for: Steel is our backbone, our DNA. It's what we do best to contribute in shaping a sustainable future. And so we are teaming up with each other, with customers and suppliers. Together we are designing ever better steel solutions with the highest quality and profound
+
+Innovation and Sustainability passion. Our drive, expertise and dedication make us a powerful ally. Furthermore, the new brand values curious, active and united - capture the essence of Swiss Steel Group's culture.
+
+## How will customers benefit from the new and improved Swiss Steel Group?
+
+We are creating a powerful partnership experience that moves our customers forward into a more successful and more sustainable future. Through us, our customers can realize concrete and tangible improvements - and take advantage of close collaboration that focuses on their challenges. We dedicate all our capabilities to the success of our customers, integrating them into a flexible and reliable long steel supplier with a broad product portfolio, crossdivisional production, fast and efficient processes, powerful technical and innovation competencies, and a leading carbon footprint.
+
+## Innovation and Sustainability
+
+<!-- image -->
+
+Our Green Steel approach positions us and empowers our customers and partners in their decarbonization efforts to become leading sustainability champions for a future that matters.
+
+The steel sector plays a key role in achieving the EU's climate goals for 2050. And as one of Europe's largest electric arc furnace steel manufacturers, Swiss Steel Group is committed to living up to its responsibility.
+
+## Sustainable steel production is our DNA
+
+The steel industry is one of the biggest carbon emitters. But because steel is such a valuable material, it influences our daily lives in so many ways that we cannot do without it. In consequence, we at Swiss Steel Group see it as our duty to contribute to shaping a better, greener and more sustainable world. By exclusively operating electric arc furnaces, we are already applying the technology of future steel- making today. Because sustainable steel production based on circular economy and recycling runs in our DNA.
+
+## Carbon footprint well below industry average
+
+Our profound expertise in recycling and electric arc furnace technology, highest operational standards and use of energy from renewable sources have allowed us to reduce the carbon footprint of our products well below the industry average, offering a distinct environmental value proposition to our customers. While the worldsteel average is approx. 1,9 tons of CO 2 per ton of carbon / engineering steel produced, our Group average for Scopes 1  +  2 lies at 195 kilograms. Scope 3 lies between 134 kg for engineering and 2050 kg for stainless steel. Overall our carbon emissions are up to 83 % below the industry mean. In Switzerland, a record low of 45 kilograms of CO 2 were emitted for every ton of engineering crude steel produced (Scope 1 and 2).
+
+## Empowering customers with transparency
+
+It is our ambition to empower all our customers with products carrying a low and fully disclosed carbon footprint. With a validated and holistic roadmap addressing our direct and indirect emissions, unconditional transparency and utmost dedication, Swiss Steel Group strives to further reduce the environmental footprint until our name stands for climate neutral steel.
+
+Resilience and Profitability
+
+Customer Centricity and Reliability
+
+Innovation and Sustainability
+
+## Swiss Steel Group is committed to the Science Based Target initiative (SBTi)
+
+Emission levels
+
+<!-- image -->
+
+## Illustrative decarbonization roadmap*
+
+*   Our final targets will be developed in accordance with the sectoral guidance for the steel industry provided by SBTi. The final percentual reduction of our carbon emissions will result from these targets.
+
+In May 2022, Swiss Steel Group joined the Science Based Targets initiative (SBTi).
+
+## Major part of reduction in Scope 3 emissions
+
+## Ambitious target levels
+
+In cooperation with the SBTi, we have set ambitious levels for our targets and have committed to net zero by 2050. This partnership between the disclosure system provider CDP , the United Nations Global Compact, the World Resources Institute and the World Wide Fund for Nature drives ambitious climate action in the private sector by enabling organizations to set sciencebased emissions reduction targets.
+
+In line with our commitment to the SBTi, we have developed and defined our decarbonization roadmap. A major part of this reduction will be realized in Scope 3 emissions, i.e. emissions in the upstream process mainly driven by the carbon footprint of exploiting raw materials. New recycling concepts offer a strong lever to push Scope 3 emissions toward zero.
+
+## Scope 2 reduction depending on availability of green energy
+
+Scope 2 emissions are directly linked to the purchased electric power mix, whereas further reduction is closely linked to the availability of green electricity.
+
+## Extensive investment required for Scope 1 reduction
+
+Finally, lowering Scope 1 emissions, which are caused by our own production and closely linked to our use of natural gas, will require extensive investments. For Swiss Steel Group this means continuously focusing on energy efficiency, as well continuing our research of the effect of hydrogen in furnaces to prepare our production process for the transition from natural gas to green hydrogen.
+
+## Our Green Steel products
+
+We serve a wide range of customers with individual solutions and therefore empower many industries on their decarbonization path. Offering a broad Green Steel portfolio allows our customers to choose the most suitable product.
+
+## Products currently on offer
+
+Product categories
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+| Current portfolio with below industry average emissions  Any  Any  Steel with renewlable power only  Renewables, e.g. wind, hydropower  Any  Stainless steel from 95 % + recycled raw materials  Any  Any  Description  Power Source  Gas   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Green Steel refers to steel produced solely with electric arc furnace technology resulting in significantly lower carbon emissions compared to the industry average.
+
+Green Steel Climate+ is our label for products with an even lower carbon footprint, produced with electricity exclusively from renewable sources such as wind or solar power - thus addressing mainly Scope 2 emissions from purchased electricity.
+
+Green Steel Stainless+ is our stainless portfolio produced with a scrap rate of more than 95 percent. It is the segment that strongly targets the lowest Scope 3 emissions from purchased raw materials that account for the largest part of CO 2 emissions in steel production.
+
+Resilience and Profitability
+
+Customer Centricity and Reliability
+
+Innovation and Sustainability
+
+## Technology, experimentation and innovation platforms
+
+The tasks of Swiss Steel Group's production sites and scientific laboratories will be expanded with Green Steel. Green Steel turns them into technology, experimentation and innovation platforms whose horizons, but also their impact, are intended to extend far beyond the steel sector.
+
+## Products in development
+
+Product categories
+
+<!-- image -->
+
+<!-- image -->
+
+| Steel with renewable power only and H 2  Renewables, e.g. wind, hydropower  Green hydrogen  Steel with fully compensated emissions  Any  Any  Description  Power Source  Gas   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Green Steel Climate + H 2 is a product segment still under development which will include products produced exclusively with energy from renewable power sources and green hydrogen.
+
+Swiss Green Steel Net Zero is a portfolio under development that will offer customers steel from production with completely compensated carbon emissions.
+
+## SSG Green Steel for a sustainable future
+
+Our Green Steel builds on circular economy and low carbon energy sources. We facilitate trust by transparently disclosing our carbon footprint and thus help our customers achieve their decarbonization targets.
+
+The steel industry distinguishes between two production routes: the primary and the secondary route, or the blast furnace and the electric arc furnace route. Swiss Steel Group's steel mills operate exclusively on the electric arc furnace (EAF) route.
+
+## EAF route works exclusively with steel scrap
+
+Instead of iron ore, the electric arc furnace route uses exclusively steel scrap, resulting in carbon emissions well below the industry average. The EAF route is well-established and proven, especially as steel is one of the most recycled materials in the world. Swiss Steel Group is one of the largest EAF producers in Europe.
+
+## Prime example of circular economy
+
+With our use of scrap, we are a role model in circular economy. We do not wait for our steel scrap to make its way back to us, but actively approach our customers with our scrap recycling system. Furthermore, carbon capture, utilization and storage are key - we will not be able to achieve climate neutrality with carbon avoidance alone.
+
+## More than 2 million tons of scrap used per year
+
+Our Green Steel is produced by recycling steel scrap and reprocessing it using low carbon and renewable energy. Processing 2 million tons of steel scrap per year makes us a relevant recycling company.
+
+## The EAF allows the further use of by-products
+
+-   Electric arc furnace slag is reusable in road construction
+-   Filtering of exhaust air, extraction of zinc for brass alloys and electroplating plants
+-   Mill scale is reused in the cement industry
+-   Surplus heat from rolling mill is used to heat households
+
+## Circular economy in Swiss Steel Group's production
+
+Whether in transportation, infrastructure, energy, mechanical engineering or automotive, steel has been one of the most important materials for centuries. Not least because steel is the only material that is 100 % recyclable, making it a prime example of a circular economy.
+
+<!-- image -->
+
+## 'Our low carbon footprint is a great benefit for our customers.'
+
+<!-- image -->
+
+## Dr. Klaus Harste Vice President Technology
+
+Klaus Harste holds a Ph.D. in metallurgy from the Clausthal University of Technology in Germany. During his career, he acquired extensive experience regarding the decarbonization of steel production and related certification processes at major steel producers and also as an independent researcher. He joined Swiss Steel Group in September 2021 and has put these topics even higher on the agenda.
+
+Resilience and Profitability
+
+Dr. Klaus Harste explains why CO 2 reduction targets are important and how they can be reached. Klaus, Swiss Steel Group has set ambitious goals in carbon reduction. What will be the main levers to reach this?
+
+It will require many small steps and improvements in many areas. Our electric arc furnace production of steel already emits much less CO 2 than blast furnace production. A blast furnace producer emits approx. 2 tons of CO 2 per ton of steel produced, whereas at our production site in Emmenbrücke in Switzerland, for example, we only emit 45 kilograms of CO 2 . Needless to say, while in blast furnace production there is huge potential for reduction that is quite easy to leverage, we have to look for many extra opportunities to improve even further from our already much lower level. One of them will be to replace fossil power sources for reheating processes at our steel mills.
+
+Customer Centricity and Reliability
+
+The CO 2 footprint of Swiss Steel Group is already much lower than at many other steel companies. Why is it important to reduce it even further?
+
+Even though our nominal CO 2 reduction will be smaller than that of many competitors due to our lower overall volume of emissions, 40 percent is still 40 percent. And every company has to make its contribution if we want to achieve the goal of limiting global warming to 1.5 degrees by 2050. The image of the steel industry as one of the biggest industrial emitters will suffer declining public acceptance if we do not demonstrate that we are prepared to do our bit. For us, a challenge will be to communicate and explain our green production processes to the public, setting us apart from the overall steel industry.
+
+Have customers already understood this and what was the response to the ambitious target you have set yourself as part of the Science Based Targets initiative?
+
+For our customers, it is a great benefit that our carbon footprint is already low and we will reduce it even further. They themselves have to lower their footprint. And if they procure materials
+
+Innovation and Sustainability with a low footprint from us, it will improve their Scope 3 emissions. Our targets are therefore also an obligation toward our customers and they have eagerly welcomed our participation in the SBTi and the related targets.
+
+## Do you see any external hurdles that could obstruct the path to achieving your reduction goals?
+
+A lot will depend on whether the governments will be able to reach their own green energy goals. If they don't succeed in decarbonizing their energy supply, we will not have the possibility to purchase enough green energy for our production. Investing big sums in switching from gas to electricity will not have the desired reduction effect if there is not enough electricity from renewable sources. With regard to hydrogen in particular, a lot of questions about where it will come from and how it will be generated still remain unanswered.
+
+<!-- image -->
+
+## SSG 2025 Goals
+
+#1 Become a robust and best-in-class special long steel player
+
+Resilience and Profitability
+
+<!-- image -->
+
+#2 Lead the Green Transformation in Europe
+
+#3 Develop into one integrated Group with one strong brand
+
+Customer Centricity and Reliability
+
+Innovation and Sustainability
+
+<!-- image -->
+
+#4 Achieve profitable growth and expand market share in core markets
+
+#5 Excel in performance, reliability and customer satisfaction
+
+SSG 2025 Goal #2 Lead the Green Transformation in Europe
+
+## Transforming liquid steel into solid blooms
+
+Once the steel scrap is liquid, the addition of selected alloy materials defines the chemical composition. The liquid steel in the desired grade is then cast and cooled, transforming it into a solidified product.
+
+## Management Report
+
+Business environment 36 Financial development 41 Sustainability 52 Capital market 83 Opportunities and risks 87 Outlook 95
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+|    |
+|----|
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+SSG 2025 Goal #3 Develop into one integrated Group with one strong brand
+
+## Transforming blooms into wire rod
+
+Steel blooms are reheated and then enter the rolling process, where several mills reduce the bloom cross-section to the desired diameter or size. The rolling process also influences the geometric tolerances and microstructure of the steel.
+
+## Corporate Governance
+
+Group structure and shareholders 100 Capital structure 102 Board of Directors 104 Executive Board 114 Compensation 117 Shareholders' rights of participation 118 Changes of control and defense measures 119 Statutory auditors 119 Information policy 120
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+SSG 2025 Goal #4
+
+Achieve profitable growth and market share expansion in core markets
+
+## Transforming ingots into forged pieces
+
+The ingots are shaped and formed using compressive forces, such as pressing. The result is changed geometrical shapes, higher fatigue resistance and strength as well as specific mechanical properties achieved in the finished product.
+
+## Compensation Report
+
+Introduction 124 Governance and processes for compensation 126 Compensation principles 130 Compensation of the Executive Board 131 Compensation of the Board of Directors 142 Loans and credits 146 Shareholdings 147 Report of the statutory auditor on the compensation report 148
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+SSG 2025 Goal #5 Excel in performance, reliability and customer satisfaction
+
+## Transforming wire rod into drawn bright bars
+
+Wire rod deformed when passing through a drawing die is transformed into bright steel. The process enables narrowed dimensional tolerances, improved surface qualities and higher mechanical properties.
+
+## Financial Reporting
+
+## Swiss Steel Group consolidated financial statements 154
+
+Consolidated income statement  154 Consolidated statement of comprehensive income  155 Consolidated statement of financial position  156 Consolidated statement of cash flows  157 Consolidated statement of changes in shareholders' equity  158 Notes to the consolidated financial statements  159 Statutory auditor's report on the audit of the consolidated financial statements  216 Five-year overview  220 Five-quarter overview  222
+
+## Swiss Steel Holding AG individual financial statements 224
+
+Income statement  224
+
+Balance sheet  225
+
+Notes to the financial statements  226
+
+Report of the statutory auditor on the financial statements  232
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+<!-- image -->
+
+Swiss Steel Holding AG ir@swisssteelgroup.com www.swisssteel-group.com
