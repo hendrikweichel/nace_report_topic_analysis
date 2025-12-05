@@ -1,0 +1,1159 @@
+<!-- image -->
+
+## TENACITY AND CONFIDENCE
+
+<!-- image -->
+
+## Statement of responsibility
+
+'To the best of our knowledge this document contains truthful and sufficient information  regarding  the  development  of  the  business  of  Southern  Copper Corporation  ('SCC')  during  2022.  SCC  takes  responsibility  for  its  contents according to applicable requirements'.
+
+## Andres Ferrero Ghislieri
+
+General Counsel
+
+Raul Jacob Ruisanchez
+
+Vice-President Finance and Chief Financial Officer
+
+CONVERSION INFORMATION: All  tonnages in this annual report are metric tons unless otherwise noted. To convert to short tons, multiply by 1.102. All distances are in kilometers, to convert to miles, multiply by 0.62137. All ounces are troy ounces. U.S. dollar amounts represent either historical dollar amounts, where  appropriate,  or  U.S.  dollar  equivalents  translated  in  accordance  with generally accepted accounting principles in the United States. 'SCCO', 'SCC', 'Southern Copper' or the 'Company' includes Southern Copper Corporation and its consolidated subsidiaries.
+
+## Index
+
+05 Letter to shareholders 08 Production statistics 10 Copper reserves 11 Selected and financial data 12 Capital investment program and exploration (Expansion &amp; modernization) 17 Development - community outreach 44 Results of operations For the years ended December 31, 2022, 2021 and 2020 48 Commitment - Environmental Affairs 55 General information Description of operations and development regarding the issuing entity 78 Recursos Humanos 87 MEMBERS OF THE BOARD OF DIRECTORS
+
+Refinery' copper cathodes, Buenavista del Cobre, Sonora, Mexico
+
+## Letter to Shareholders
+
+The year 2022 was challenging. The world expected to return to  some  semblance  of  stability  but  new  global  conditions triggered volatility across economies.
+
+In  this  context,  Southern  Copper  made  a  solid  show  of  its strengths and ability to generate cash flows. With the support of  our  workforce,  we  shored  up  our  operations  and  our financial position.
+
+Proof or our ability to bounce back from difficult situations lies in the fact that in the fourth quarter of 2022, net sales were up 30.8% YoY. The operating cash cost per pound of copper, including bi-product revenues, was 57% lower than the print in 2021.
+
+We have worked arduously to overcome the impact of drop of 8.1% in global sales in year-over-year terms. This reduction was driven by a decrease in sales volumes of copper (-6.5%), silver  (-1.9%)  and  molybdenum  (-13.4%).  Notwithstanding, we reported 10.5% growth in the zinc sales volume, which was fueled by a 16.2% increase in the price of this metal. Prices for molybdenum also rose, up 20% compared to 2021, while fell prices for copper and silver fell -5.4% and -13.6% respectively.
+
+Net  profit  in  2022  stood  at  $2,638.5  million,  down  22.3% from 2021. The net profit margin in 2022 was 26.3%, versus
+
+31.1% in 2021. Adjusted EBITDA in 2022 was $5,365.3 million, which reflected a  decrease of 21.7% with regard to the figure in 2021. The adjusted EBITDA margin in 2022, in turn, was 53.4% vs 62.7% in 2021.
+
+Overall copper production in 2022 fell 6.6% to 894,703 tons, impacted by the stoppage at Cuajone and by a reduction in ore grades.
+
+Molybdenum production stood at 26,240 tons in 2022, 13.3% below the print in  2021. This  drop  was  driven  by  a  decrease  in  production  at  our Toquepala mine due to lower ore grades. Mined zinc production fell 10.4%, which reflected lower  production  at  the  Charcas  and  Santa  Barbara  mines.  Silver  production decreased 2.1% in 2022, fueled by a decrease in production at our Peruvian operations and at the La Caridad mine. This reduction was partially offset by an uptick in production at our Buenavista and IMMSA mines.
+
+Despite the challenges of 2022, Southern Copper has maintained its current capital investment program for the decade, which tops $15 billion and includes investments  in  the  Buenavista  Zinc,  Pilares,  El  Pilar  and  El  Arco  projects  in Mexico and the Tia Maria, Los Chancas and Michiquillay projects in Peru. This program includes diverse investments in infrastructure and contemplates others to drive the competitiveness of the El Arco project These initiatives heighten our optimism about the Company's ability to continue delivering attractive results to our shareholders in coming years.
+
+<!-- image -->
+
+## Buenavista del Cobre open pit, Sonora, Mexico
+
+Southern  Copper  has  been  consistently  working  to  promote  well-being  of population in its areas of influence.  As part of these efforts, we have implemented successful social programs in education, health care and productive development to improve the quality of life in the countries in which we operate. Depending on characteristics of each zone, we also promote agricultural and livestock activities and support initiatives in manufacturing, fishing, and tourism, among others.
+
+On behalf of Southern Copper Corporation Board, we express our gratitude to all personnel for their uninterrupted effort and dedication, to our customers for their repeated displays of trust and loyalty, and to you, our shareholders, for your unwavering support.
+
+## LIC. GERMAN LARREA MOTA VELASCO Chairman of the Board
+
+## ING. OSCAR GONZALEZ ROCHA
+
+President and Chief Executive Officer
+
+## Production statistics
+
+Southern Copper Corporation and Subsidiaries Five-year Production Statistics
+
+| 2022  2021  2020  2019  2018  Mine production  toneladas  Mined Material  (thousand)  797,738  780,689  656,237  790,365  814,228  Copper in concentrates  751,628  825,226  851,323  841,452  741,488  Copper SX/EW  143,075  132,974  150,045  152,370  142,201  Total Copper  894,703  958,200  1,001,368  993,822  883,689  Molybdenum in concentrates  26,240  30,262  30,248  26,885  21,985  Zinc in concentrates  60,010  66,958  68,930  73,922  70,778  Silver in concentrates  (thousand ounces)  18,562  18,962  21,540  20,273  17,308  Smelter/refineries production  Copper  637,489  598,569  633,801  595,173  633,630  Zinc  99,893  92,672  102,440  104,977  107,536  Silver  (thousand ounces)  14,272  13,691  13,888  12,588  13,583  Toquepala  Mined Material  (thousand)  209,745  203,150  168,715  249,083  241,514  Copper in concentrates  175,055  203,624  229,116  231,673  143,720  Molybdenum in concentrates  7,681  10,642  10,019  7,277  4,159  Cuajone  Mined Material  (thousand)  139,916  148,302  130,047  153,911  175,177  Copper in concentrates  140,314  168,990  168,663  156,393  160,579  Molybdenum in concentrates  3,625  4,190  4,225  3,285  3,099  Smelter/refineries in Peru  SX/EW  26,451  25,754  26,010  26,329  26,526  Smelt concentrates  1,241,999  1,089,193  1,210,625  1,075,513  1,187,710  Blister produced  2,045  2,601  4,163  -  2,630  Anode produced  350,006  308,562  345,955  317,519  344,758  Cathode produced  289,728  260,173  286,271  256,647  292,654   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| 2022  2021  2020  2019  2018  Mexicana de Cobre - Caridad  Mined Material  (thousand)  106,251  100,412  93,373  94,578  96,541  Copper in concentrates  88,492  102,689  109,671  107,161  106,087  Molybdenum in concentrates  9,560  10,203  10,535  10,206  9,809  Buenavista  Mined material  (thousand)  337,727  324,860  259,860  288,882  297,718  Copper in concentrates  338,633  142,912  140,888  141,521  139,157  Smelter/Refineries in Mexico  SX/EW  116,624  107,221  124,036  126,041  115,675  Smelt concentrates  1,051,981  1,047,292  1,029,486  1,011,374  1,041,663  Anode produced  285,438  287,406  283,683  277,654  286,242  Cathode produced  245,670  242,667  240,407  231,609  239,185  Rod produced  156,441  150,122  129,439  142,728  147,147  Underground Mines - Contents in concentrates  Zinc  60,010  66,958  68,930  73,922  70,778  Lead  16,590  17,104  20,358  22,567  22,081  Copper in concentrates  9,134  8,719  10,302  8,265  6,221  Silver  (thousand ounces)  6,750  6,589  7,983  6,943  5,649  Gold  (ounces)  6,428  7,662  8,734  7,647  6,423   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+<!-- image -->
+
+Toquepala mine, Tacna Peru
+
+## Copper reserves
+
+We believe we hold the world's largest position of copper reserves.  As  of  December  31,  2022,  our  copper  mineral reserves, calculated at a copper price of $3.30 per pound, totaled  45,134  million  tons  of  contained  copper,  at  the following locations:
+
+| Copper contained in ore reserves  Million tons  Mexican open-pit  15,849  Peruvian operations  20,542  Development projects  8,743  Total  45,134   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------|
+
+For more information about ore reserves refer to 'summary disclosure  of  mineral  reserves',  on  page  36  of  our  2022 Form 10-K.
+
+## Five-year selected financial and statistical data
+
+Southern Copper Corporation and Subsidiaries For the years ended December 31
+
+(in millions, except per share amounts, employee data and stock and financial ratios)
+
+| 2022  2021  2020  2019  2018  Consolidated Statement of Earnings  Net sales  $10,047.9  $10,934.1  $7,984.9  $ 7,285.6  $7,096.7  Operating costs and expenses  5,612.1  4,869.0  4,864.2  4,532.6  4,215.5  Operating income  4,435.8  6,065.1  3,120.7  2,753.0  2,881.2  Net income attributable to  Non-controlling interest  9.5  14.1  7.4  6.1  5.2  Net earnings attributable to SCC  2,638.5  $3,397.1  $1,570.4  $ 1,485.8  $1,543.0  Per share amount:  Earnings basic and diluted  3.41  $4.39  $2.03  $ 1.92  $2.00  Dividends paid  $3.50  $3.20  $1.50  $ 1.60  $1.40  Consolidated Balance Sheet  Cash and cash equivalents  $2,069.7  $3,002.0  $2,183.6  $  1,925.1  $844.6  Total assets  17,277.4  18,297.6  16,946.5  16,407.4  14,267.8  Total debt  6,251.2  6,247.9  6,544.2  6,541.0  5,960.1  Total equity  $8,146.9  $8,207.8  $7,276.0  $  6,858.2  6,612.9  Consolidated Statement of Cash Flows  Cash provided by operating activities  $2,802.5  $4,292.4  $2,783.6  $1,911.9  $2,235.1  Dividends paid  2,705.8  2,473.8  1,159.6  1,236.9  1,082.3  Capital investments  948.5  892.3  592.2  707.5  1,121.4  Depreciation, amortization and depletion  796.3  $806.0  $775.6  $764.4  $674.3  Capital Stock  Common shares outstanding - basic and diluted (in  thousands)  773,098  773,087  773,073  773,059  773,044  NYSE price - high  $78.17  $81.53  $65.82  $43.19  $ 57.34  NYSE price - low  $42.81  $56.14  $23.53  $23.21  $ 29.78  Book value per share  10.46  10.54  9.35  8.82  8.50  P/E ratio  17.69  14.04  32.06  22.10  15.42  Financial Ratios  Current assets to current liabilities  4.20  2.73  3.50  2.83  2.61  Net debt as % of Net capitalization (1)  32.80%  27.1%  35.2%  41.8%  42.6%  Employees (at year end)  15,018  14,462  13,777  14,301  13,899   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+(1) Represents net debt divided by net debt plus equity. Net debt is defined as total debt minus cash, cash equivalents and short-term investments balance.
+
+## Capital Expenditures and Exploration Programs (Expansion and modernization)
+
+Capital investments were $948.5 million for 2022. This is 6.3% higher than in 2021 and represented 36.2% of net income. Our growth program to develop our Company's full production potential is well underway. We are currently developing a new organic growth plan, whose goal is to increase our copper volume production to 1.7 million tons by the end of this decade.
+
+For  2023,  the  Board  of  Directors  approved  a  capital  investment  program  of  $1,099.6 million. In general, the capital investments and projects described below are intended to increase production, decrease costs or address social and environmental commitments.
+
+Our principal capital programs include the following
+
+## MEXICAN PROJECTS:
+
+## Buenavista Zinc, Sonora:
+
+This project is located within the Buenavista deposit, where a new concentrator is being built. This facility has a production capacity of 100,000 tonnes of zinc and 20,000 tonnes of  copper  per year. We have completed the engineering study and the project has all the  necessary  permits.  When  operating,  this  facility  will  double  the  Company's  zinc production  capacity  and  will  provide  more  than  2,000  operational  jobs.  We  expect  to initiate operations in the second half of 2023. As of December 31, 2022, we have invested most of the $416 million budget.
+
+## Pilares, Sonora:
+
+Located six kilometers from La Caridad, this project consists of an open-pit mine operation with an annual production capacity of 35,000 tonnes of copper in concentrate. This project will  significantly improve the overall mineral ore grade (combining the 0.78% expected from Pilares with 0.29% from La Caridad). The budget for Pilares is $159 million, most of which has already been invested. Pilares is currently operating and delivering copper mineral oxides to the SX-EW facilities of the Caridad operation. We expect to produce mineral for the Caridad concentrator at full capacity in the second quarter of 2023.
+
+Ecological warehouse at Buenavista del Cobre mine, Cananea, Sonora
+
+## El Pilar, Sonora:
+
+This  low-capital  intensity  copper  greenfield  project  is  strategically  located  in Sonora,  Mexico,  approximately  45  kilometers  from  our  Buenavista  mine.  Its copper oxide mineralization contains estimated proven and probable reserves of  317  million  tonnes  of  ore  with  an  average  copper  grade  of  0.249%.  We anticipate  that  El  Pilar  will  operate  as  a  conventional  open-pit  mine  with  an annual production capacity of 36,000 tonnes of copper cathodes. This operation will  use  highly  cost  efficient  and  environmentally friendly SX-EW technology. The  budget  for  El  Pilar  is  $310  million.  The  results  from  experimental  pads in  leaching process have confirmed adequate levels of copper recovery. The basic  engineering  study  is  finished  and  the  Company  continues  developing the  project  and  engage  in  onsite  environmental  activities.  The  SX-EW  plant EPCM project has been awarded to a contractor and has started. We expect production to begin in 2024 and mine life is estimated at 13 years.
+
+## Lime plant - Sonora:
+
+As  part  of  our  cost  improvement  projects,  we  built  a  new  lime  plant  with  a production capacity of 600 metric tonnes per day, which will be the largest lime plant of Mexico. This facility will allow us to reduce our current lime cost at our Mexican operations by approximately 50%. The total budget for the plant is $65.5 million, of which we had invested $62.6 million as of December 31, 2022. The  furnace  of  the  plant  started  operations  in  the  second  quarter  of  2022, complying with the performance tests.
+
+- We are currently developing a new organic growth plan, whose goal is to increase our copper volume production to 1.7 million tons by the end of this decade.
+
+## PERUVIAN PROJECTS:
+
+## Quebrada Honda dam expansion - Tacna:
+
+This project aims to enlarge the main and lateral dams in Quebrada Honda and includes the relocation and repowering of some facilities due to dam growth and  installations  of  facilities  for  water  recovery,  among  other  factors.  As  of December 31, 2022, the drainage works and removal of Eolic material for the main and lateral dam had been completed; complementary operational works are underway and are expected to be completed in the first quarter 2023. This project has a total budget of $174.4 million, of which we have invested $153.6 million as of December 31, 2022.
+
+## Tia Maria - Arequipa:
+
+This greenfield project, located in Arequipa, Peru, will use state of the art SX-EW technology with the highest international environmental standards to produce 120,000 tonnes of SX- EW copper cathodes per year. SX-EW facilities are the most environmentally friendly in the industry as they do not require a smelting process and therefore, do not release any emissions into the atmosphere.
+
+The Company has been consistently working to promote the welfare of the Islay province population. As part of these efforts, we have implemented successful social  programs  in  education,  healthcare  and  productive  development  to improve the quality-of-life in the region. We have also promoted agricultural and livestock activities in the Tambo Valley and supported growth in manufacturing, fishing and tourism in Islay.
+
+<!-- image -->
+
+## Refinery cathode at La Caridad Sonora, Mexico
+
+We  reiterate  our  view  that  the  initiation  of  construction activities  at  Tia  Maria  will  generate  significant  economic opportunities  for  the  Islay  province  and  the  Arequipa region. Given the current Peruvian economic situation, it is  crucial  to  move ahead on projects that will stimulate a sustainable growth cycle. We will make it a priority to hire local labor to fill the 9,000 jobs that we expect to generate during Tia  Maria's  construction  phase.  Additionally,  from day  one  of  our  operations,  we  will  generate  significant contributions to revenues in the Arequipa region.
+
+Tia Maria's project budget is approximately $1.4 billion, of which $329.8 million had been invested as of December 31, 2022 (Property net book value is $294.4 million).
+
+## Environmental, social and governance ('ESG')
+
+Responsible  production  is  an  essential  axis  of  our  sustainable  development strategy, which is comprised of specific goals and objectives in areas such as water management, climate  change  and  mining  waste,  human  talent,  occupational safety and health, labor relations, community development, among others. The Company has also updated a range of sustainability-related corporate policies, which are publicly disclosed on Grupo Mexico's website: https://www.gmexico. com/en/Pages/Politicsds.aspx. These policies, which are applicable to SCC and its  subsidiaries, set forth our vision, commitments, and objectives to promote sustainable development and generate shared value for our stakeholders. For further  information  on  our  disclosure  on  Human  Capital  Resources,  see  the section included in Part I, Item 1 of our Annual Report on Form 10-K for the year ended December 31, 2022.
+
+We  are  committed  to  improving  our  ESG  performance  by  adopting  best practices. Southern Copper Corporation has consistently increased its scores on the Corporate Sustainability Assessment (CSA) of S&amp;P Global over the past four years and achieved a score of 69/100 in 2022. As a result, the Company has  earned  a  place  in  the  Dow  Jones  Sustainability  Index  MILA  ('Integrated Latin-American Markets' 1 ) every year for the past 4 years. SCCO's 2022 score of 69 points is significantly above the average in the Mining and Metals industry, and the Company achieved one of the highest scores in the industry for the following 5 indicators: Political Influence, Environmental Reporting, Operational Ecoefficiencies, Social Reporting, and Corporate Citizenship and Philanthropy. This result was thanks to the good ratings we obtained for shared values, business ethics, cybersecurity, environmental and social reporting, among others.
+
+1   Comprised by the Pacific Alliance: Mexico, Peru, Chile and Colombia.
+
+## Human rights
+
+At Southern Peru, we are committed to enforcing the United Nations Guiding Principles on Business and Human Rights. We have a series of policies and procedures  that  serve  as  a  guide  to  all  employees  and  suppliers:  General Human Rights Policy; Policy of Respect for the Rights of Indigenous Peoples and Communities; Diversity, Inclusion and Non-Discrimination, No Workplace or  Sexual  Harassment  Policy;  and  the  Code  of  Conduct  for  Suppliers, Contractors and Relevant Business Partners, which includes several sections related to human rights.
+
+The company has a human rights' due diligence process in place to identify, prevent,  mitigate  or  remediate  adverse  impacts  on  the  human  rights  of communities.  In  the  Mining  and  Infrastructure  divisions,  it  has  three  main components:
+
+1. Participatory  Social  Diagnosis  to  allow  the  communities  to  voice  their concerns regarding human rights,
+2. Social Management Plans that define actions to address those concerns, and,
+3. The  Community  Care  Service  (SAC),  a  tool  that  was  designed  with  the advice of the United Nations High Commissioner for Human Rights Mexico Office and allows the community to immediately communicate its concerns to the Company.
+
+The Company also has a human rights' due diligence process in place to protect the rights of employees (both the Company's and those of contractors). The work climate surveys, Complaint Hotline and the due diligence of suppliers are tools  that  enable  the  company to comply with the commitments included in the General Human Rights Policy. We are currently implementing a Diversity and Inclusion  Strategic  Plan,  which  focuses  primarily  on  training;  revision  of recruitment processes; and physical changes to working areas.
+
+Workers at Cuajone Mine - Moquegua, Peru
+
+Worker in Toquepala mine - Tacna, Peru
+
+<!-- image -->
+
+## Diversity, equity and inclusion (DEI)
+
+Our vision on DEI is to ensure that our people always feel included, welcomed and  valued  for  their  personal  and  professional  contributions.  This  vision  is based on our core values of respect, honesty and responsibility.
+
+Consistent with our Code of Conduct and Human Rights Policy, our goal is to (i) build an organizational culture of total equality and well-being with a focus on  diversity,  inclusion  and  non-discrimination,  (ii)  increase  the  sensitivity, knowledge and skills of our leaders and employees to assemble diverse and inclusive teams and promote a culture of respect, and (iii) extend this culture to the communities in which we operate.
+
+Based  on  the  results  of  a  DEI  survey  in  Mexico  and  Peru,  we  aligned  our diversity and inclusion Strategic Plan with six strategic initiatives to create Key Performance Indicators and increase women's participation in the organization by  2%;  strengthen  our  human  resource  policies  for  inclusion;  consolidate commitment  at  the  executive  level;  and  implement  continuous  training  and communication campaigns at all levels of the organization.
+
+In 2022, we disclosed our DEI Corporate Policy, originally issued in 2021, and trained our total workforce on DEI fundamental principles through the Training Program 'Towards an Inclusive Grupo Mexico'. We are committed to inclusion and to honoring our diversity. We increased our female workforce from 944 to over 1,090, which represents an increase of 15% in our female headcount year-over-year. Additionally, 30% of our female workforce hold a STEM position (Science, Technology, Engineering, Mathematics).
+
+We  now  have  a  better  understanding  of  our  diversity  distribution,  which we believe  allows  us  to  design  efforts  for  each  group  and  advance  towards inclusion.
+
+## Code of Ethics
+
+We certify our employees's knowledge and commitment to our Code of Ethics on a yearly basis. Every employee, including new hires, signs a commitment to observe the rules laid out in our main document and guidance tool for legal, professional and ethical obligations for our business dealings and interpersonal relationships.
+
+## Community outreach
+
+We have implemented several sustainable development policies to integrate the Company´s operations with local communities in our areas of influence. Some of the relevant policies include the General Policy for Sustainable Development; a  Community Outreach Policy; a General Policy of Respect for the Rights of Indigenous  Peoples  and  Communities,  a  Human  Rights  Policy  Statement. These policies are disclosed publicly on Grupo Mexico's website and fully apply to Southern Copper Corporation.
+
+These  policies  focus  on  creating  permanent  and  positive  relationships  to generate optimal social conditions and promote sustainable development in the area. We continue to make significant expenditures for community programs. For  additional  information  on  our  community  programs,  refer  to  Corporate Social Responsibility under Note 13 'Commitments and contingencies' to the consolidated financial statements reported on Form 10-K, 2022.
+
+In 2022, in Mexico we obtained recognition as an Exceptional Company from the Business Coordinating Council of the Institute for the Promotion of Quality and the Communication Council, which recognizes companies that carry out successful practices. In the case of Grupo Mexico, the following practices and programs were recognized: Community Development Model, Community Care Service, Youth Orchestras and Choirs, Traveling Documentary Film Workshop and Casa Grande Movil.
+
+Additionally,  the  Business  Coordinating  Council  (CCE)  and  the  Mexican Association of Organizational Communicators (AMCO) recognized the social impact generated by the Traveling Documentary Film Workshop (TACD) that the Company promotes in the communities in which it operates. Through this program, young and adults' people have the opportunity to create audiovisual materials with themes and characters from their own localities to strenghten ties between mining and communities. Since this program began, 547 students have developed 173 productions, some of which were presented at the Cineteca Nacional de Mexico.
+
+Operations and Mining Projects in Peru were certified in ISO 9001:2015 Quality Management System for Community Development in 2022.
+
+## COMMUNITY DEVELOPMENT MODEL
+
+SCC seeks to improve the quality of life in the communities around its operations by engaging in responsible management. SCC has developed a model where people are agents of their own development.
+
+Our  Community  Development  Model  approaches  developing  relationships with communities through three specific components:
+
+<!-- image -->
+
+- Ensuring that the operations coexist in a positive and healthy manner in the places where we operate.
+- Sharing the wealth generated by the operations with the community by creating or regenerating the social fabric and strengthening the same to consequently increase economic value.
+- Strengthen the capacities the members of the communities in which we operate; these individuals are the main drivers of development at the personal, family and environmental levels.
+
+We promote an approach based in co-responsibility
+
+26  |  27
+
+We generate a positive and healthy coexistence with our neighbors
+
+## Good Neigbors
+
+To  generate  positive  relations  with  neighboring  communities,  we  maintain constant communication.
+
+## Economic Development
+
+Through  training  and  skill-building  programs,  as  well  as  investments  in infrastructure,  we  contribute  to  strengthening  the  productive  and  economic capacities of communities.
+
+## Human Development
+
+To  generate  trust  relationships  and  co-responsibility  with  communities,  our Casa  Grande  model  rolls  out  programs  at  community  centers;  these  efforts focus on education, health, culture and the environment.
+
+This model is known as 'Casa Grande', and it has been implemented through the following tools:
+
+- 32 Community Development Centers (17 in Mexico and, 15 in Peru) -These are Open Houses for communities that offer courses and workshops to  promote  development  through  programs  and  projects  that  focus  on education, health, culture and environmental protection.
+- Participatory  Diagnostics -  The  community  and  SCC  work  together  on Human  Development  initiatives.  Through  a  community  diagnostic,  we identify needs and expectations that are subsequently satisfied through the Casa Grande model.
+- Community  Committees -  Led  by  volunteers  from  the  community  and Company employees, who collaborate to assess proposals for sustainable projects.
+- Seed Capital - We call on communities to present their own initiatives. SCC's primary axes are education and the environment, which are complemented by initiatives relative to health, safety and productivity.
+
+Pig farmer, winner of Seed Capital, one of our social programs, Ilabaya, Tacna, Peru
+
+Children from La Encañada, a district close to our Michiquillay project - Cajamarca, Peru
+
+<!-- image -->
+
+<!-- image -->
+
+Children and young people are our priority, and we strive to ensure a better future for new generations. Community projects are assessed by committees that are comprised of both SCC employees and local personalities  and  the  focus  is  on  promoting  dialogue  and  citizen participation.
+
+- Productive Projects -  Projects  that  transform  community lives by generating productive skills. Our team of experts uses this  model  to  materialize  the  Company's  initiatives  with  the participation of SCC volunteers and the community. Community centers  are  used  to  hold  these  meetings  to  generate  shared value.
+
+SCC's social team and volunteers from neighboring communities, an  important  number  of  projects  were  developed.  In  2022,  we conducted  7,173  activities,  180  programs  and  projects  with  152 community  and  corporate  volunteers.  Through  our  Seed  Capital and productive projects, we helped create development generators and promoted the participation of proactive leaders who work to enhance the well-being of their communities.
+
+## EDUCATION AND ENTREPRENEURSHIP
+
+Another way of contributing to people's development  is by providing  training  and  education  opportunities  to  children  and young  people  in  neighboring  communities  at  the  elementary, secondary, vocational or university levels. At our mining operations in Mexico and Peru, we contribute to community education through 11  schools  that  are  sponsored  by  the  Company  and  which  offer scholarships  to  employees  and  their  families  for  different  levels of  study.  These  company-sponsored  schools  are  home  to  3,542 students from the preschool to high school levels. Most students are children of employees or of community members. In addition, we have complemented school subjects with programs for students and parents.
+
+We continue our efforts to promote and implement the job training  program  Forjando  Futuro  ('Forging  the  Future'). This program was created to train employees needed to the Company's operations and to strengthen the vocational skills of residents in the Company's areas of influence in Peru. This program was replicated in Mexico in 2021. In 2022, more than 671  people  from  communities  were  trained  at  our  miningmetallurgical  operations;  36%  of  these  individuals  were women.
+
+## Infrastructure and Services
+
+In Peru, our mining operations are located in a remote rural area  in  the  south  of  the  country.  In  close  cooperation  with authorities and representative organizations from the region, we contribute to the development program. Our commitment to the community  is  in  the  following  areas:  education, reinforcing  capabilities,  health,  nutrition,  infrastructure,  and support to agricultural sector.
+
+SCC  contributes  to  the  provinces  in  which  it  operates  by expanding  water  infrastructure  for  irrigation  programs.  In 2022,  we  invested  more  than  $2.2  million  in  projects  to optimize  the  use  of  water  in  agricultural  activities  in  Peru through Social Investment for Taxes law. Recently completed projects include sanitation infrastructure for a rural drinking water and sanitation system in the district of Torata,  which built a 7.9 km-conduction line; a 9.3 km-adduction line; a 15 m3reservoir; 139 household connections; and 137 biodigesters for 520 beneficiaries Pre-feasibility studies were also completed for Ilo's sewage pumping chamber improvement project and covered aspects relative to relocation, electrical equipment, and construction of 05 pumping chambers. This project is complementary and will be connected to the new Ilo PTAR (for its acronym in Spanish) that is under construction.
+
+## SOCIAL INVESTMENT
+
+In 2022, SCC invested more than $ 72.1 million in social development programs related to education, health, productive projects, infrastructure and services.
+
+| Investiment and Social Expenses  $USD (millions)  Community development programs, social linking and productive projects  8.2  Operating expenses in schools SCC  6.2  Operating expenses in camps SCC  13.8  Infrastructure and equipment in neighboring communities  40.9  Infrastructure in schools SCC  0.9  Infrastructure in camps SCC  0.3  Donations  1.8  Total  72.1   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Southern  Copper  Corporation's  business  model  is  focused  on  continuously improving the lives of the residents of the communities in which we operate by encouraging them to participate in efforts to enhance society's wellbeing by identifying local leaders who operate as agents for development.
+
+## Our environmental commitment
+
+Southern Copper's mining operations are aligned with the best practices in the sector to ensure that our environmental impacts are minimal and preserve the environment. We operate in alignment with our environmental management system:
+
+1. Plan,  design,  build  and  operate  our  facilities  with  a  preventive  approach throughout their life cycle.
+2. Reduce  the  risks  and  damage  that  our  activities  may  imply  for  the environment.
+3. Improve our environmental performance by going beyond environmental compliance.
+4. Reduce our carbon footprint and contribute to an environment resilient to climate change.
+
+32  |  33
+
+Workers at Ilo smelter - Moquegua, Peru
+
+5. Conserve  water  by  using  efficient  processes  during  production  while contributing  to  ensuring  that  water  is  available  in  the  basins  near  our operating areas.
+6. Promote the efficient use of energy.
+7. Contribute to the conservation of biodiversity and the environment, which generates ecosystems with a positive impact.
+8. SCC adds value to its customers, suppliers, society and the environment through all of our activities.
+
+The  aforementioned  actions  implied  an  investment  of  US$150  million  in 2022. Actions were conducted within the framework of local and international certifications obtained by our operating units in the two countries in which we are  present.  Fourteen (14) of SCC's systems have obtained ISO 14001:2015 certification  for  environmental  management  systems,  which  attests  to  the commitment  of  our  employees  and  the  effectiveness  of  the  transversal application of environmental practices.
+
+Additionally, Southern Copper Corporation is commited  to aligning its operations with The Copper Mark, which promotes responsible production in the copper industry and also contributes to the UN Sustainable Development Goals. In 2022, La Caridad open pit mine and Metallurgical Complex in Sonora, Mexico  (smelter  and  refinery)  obtained  The  Copper  Mark  certificate.  These operations also obtained The Molybdenum Mark and The Zinc Mark certificates respectively. Our goal in the near future is demonstrate to customers, investors, communities and other stakeholders that the copper we produce meets the environmental, social and governance criteria of Copper Mark (32 in total) and that compliance has been verified by an independent auditor.
+
+## Climate change
+
+Southern  Copper  Corporation  is  committed  to  preserving  the  environment, minimizing  the  carbon  footprint  of  our  operations,  and  efficiently  managing climate-related  risks  and  opportunities.  Our  approach  seeks  continuous improvement  in  the  responsible  use  of  natural  resources,  complying  with strict  applicable  legal  standards  for  the  prevention,  mitigation,  control  and remediation of environmental impacts.
+
+Everyone  is  responsible  for  stemming  climate  change,  including  the  private sector. Climate change may impact our operations; as such, we have identified potential risks linked to global temperature change to anticipate any situation that may be adverse for the Company.
+
+We recognize that climate change will likely influence our strategy in various ways, and we aim to meet the expectations of global business trends, which are  moving  toward  demanding  products  with  lower  carbon  footprints.  SCC recognizes  importance  and  urgency  of  addressing  climate  change.  In  2022, we updated our climate change strategy, and recently Grupo Mexico issued a Policy,  along  with  a  road  map  to  reduce  greenhouse  emissions  effect  in  the short, medium, and long term.
+
+Since 2006, Grupo Mexico, our indirect parent company, has generated annual reports  on  SCC's  performance  with  regard  to  the  Global  Reporting  Initiative Standards  (GRI).  As  of  2020,  the  Group's  sustainability  reports  also  include the metrics of the Sustainability Accounting Standards Board (SASB) and the recommendations of the Task Force on Climate-Related Financial Disclosure (TCFD).
+
+Information concerning  SCC  is  included in  Grupo  Mexico's  Sustainable Development Report. Since 2016, Grupo Mexico has participated in the annual
+
+assessment of Climate Change of CDP (formerly known as Carbon Disclosure Project). In 2021, its score improved two levels from 5th C to 3rd B and in 2022, maintained the last level recorded. This score is superior to the regional average in North America ('C') and superior to the global average for smelting, refining and production of metals ('C').
+
+The Company is committed to continuously improving its management of the aforementioned issues. Accordingly, it has initiated a multi-year process to align its disclosure on climate change for all its operations in Mexico and Peru with the TCFD recommendations. As of 2020, Grupo Mexico's Sustainable Development Report  includes  sections  on  climate-related  risks  and  opportunities,  as  well as  more  detailed  information  on  climate  targets,  strategy  and  governance mechanisms. Further details are available in the report, which can be accessed at https://www.gmexico. com/en/Pages/development.aspx.
+
+We  refer  our  investors  to  our  parent  company's  website  for  details  on  the aforementioned initiatives. Said details are for informational purposes only. We do not claim that this Internet link is active or that the contents of the report uploaded to this website are the same as those reported on Form 10-K.
+
+Climate change represents challenges to SCC. We are working on:
+
+- Providing products and services in ways aligned with the transition to lowcarbon economies.
+- Reducing the organization's carbon footprint.
+- Increasing  resilience  to  climate  change  effects  at  our  operations  and  in surrounding communities.
+- Ensuring management is aligned with the best international practices.
+
+We  are  diversifying  our  energy  supply  sources  to  contemplate  clean  and renewable  generation.  Our  operations  in  Mexico  mitigate  a  portion  on  their greenhouse emissions by utilizing electricity from clean energy sources, which are  generated  through  high-efficiency,  combined-cycle  power  plants  and  a wind farm.
+
+Additionally, we take advantage of smelter emissions and recovery boilers to generate  energy.  In  Peru,  63%  of  the  electricity  consumed  is  generated  by hydroelectric and renewable sources.
+
+By  implementing  efficient  energy  projects,  as  well  a  using  cleaner  fuels  and renewable energy, we mitigated scope 1 and 2 emission in 2022 for a total of 840,000 tons of CO 2 .
+
+In addition to generating and consuming energy from renewable sources and cleaner fuels, we also implement best practices to boost the energy efficiency of our operations by improving, redesigning, converting and adapting equipment; rationally using resources; and improving staff training.
+
+## Climate-related transition risks:
+
+SCC recognizes that climate change has the potential to generate transition risks  for  the  Company associated with, for instance, technological and other operational  changes;  changing  market  trends;  or  credit  risks.  Based  on  its assessment, SCC does not believe at this time that said risks have had or will have a material impact on its business, financial condition or results of operation. The impacts of climate change policy and regulatory changes in Mexico and Peru are described below.
+
+Mexican Operations: Several taxes are applicable to SCC's mining operations in Mexico, including federal and state fossil fuel taxes and taxable obligations under  Mexico's  emission  trading  scheme.  These  taxes  range  from  US$2.5/ tCO 2 to  US$12.5/tCO 2 (approximately) and entail regional taxes applicable in the States of Baja California and Zacatecas as well as a federal tax linked to
+
+115
+
+830
+
+50
+
+Operations in open pit mine La Caridad - Sonora Mexico
+
+400 Tons truck in La Caridad mine - Sonora, Mexico
+
+<!-- image -->
+
+Mexico's carbon market system. The requirements associated with this scheme are  currently  applicable  to  only  two  business  units,  the  metallurgic  and  lime plants located in Sonora, which generate annual GHG emissions levels above the threshold of 100,000 tCO 2 e per year contemplated by the scheme. These business units are required to report and verify their emissions once a year if their average costs run less than $6,000 per each unit.
+
+SCC units located in Mexico that emit more than 25,000 tons of CO 2 equivalent per year (all our units except the Guaymas Terminal and the Taxco underground mine) must report their emissions to the National Emissions Registry (RENE) each year  and verify  emissions  reported  every  three  years.  Our  total  annual compliance costs  related  to  climate  change  regulations  in  Mexico  were  less than  $30,000  for  each  of  the  three  years  ended  December  31,  2022;  this amount had no material impact on the Company.
+
+Peruvian  Operations: On  April  17,  2018,  the  Peruvian  government  enacted Law  No.  30754,  which  establishes  a  Climate  Change  Framework.  Through this  law,  it  is  declared  of  national  interest  to  promote  public  and  private investments in the management of climate change. The law proposes creating an institutional framework to address climate change in Peru and outlines new measures, particularly with regard to climate change mitigation. For example, it includes provisions relating to: increasing carbon sequestration and the use of carbon sinks; afforestation and reforestation practices; changes in land use;
+
+and sustainable transportation systems, solid waste management, and energy systems. This is the first climate change framework law in Latin America that incorporates obligations of the Paris Agreement. The Regulation of this law was enacted by Supreme Decree 013-2019, which was published on December 31, 2019, and is applicable to all Peruvian institutions and organizations. Peruvian regulations are expected to be extended to non-governmental entities in the future.
+
+For the Company's operations in Peru, there are no mechanisms in place for carbon pricing; this seems unlikely to change before 2025, when the country is due to review its NDCs (nationally determined contributions) according to the Paris Climate Agreement.
+
+The  Company  recognizes  that  national  or  global  greenhouse  gas  emission reduction goals have an impact on the business. Climate-related changes in market trends may include a lower demand for goods that produce significant greenhouse gas emissions or those derived from carbon-based energy sources and an increase demand for goods that generate lower emissions. Additionally, there will be greater demand for goods that have a lower carbon footprint or for  materials  that  help  reduce  emissions from the point of origination. Large copper  consumers  will  more  than  likely  increasingly  seek  to  acquire  low  or zero-emission products to achieve their own GHG emission reduction targets. Adapting  to  this  trend  inadequately  or  with  insufficient  speed  might  result in  reputational risks or loss of market opportunities for SCC. Based on these assessments, the Company does not believe that these impacts have been or are material at this time.
+
+The Company will continue evaluating how climate-related risks could affect its  financial  interests  and  will  define  appropriate  mitigation  and  adaptation responses  as  necessary.  The  Company  will  also  continue  to  evaluate  how variations in global and national GHG emissions may increase the regulatory burden as well  as  the  demand  for  low-carbon  or  carbon-free  products  from customers,  investors,  and  stakeholders  in  general.  Recently,  investors  have been asking the Company to disclose its GHG emission reduction goals, aligned with the Paris Agreement to limit global temperature rise to below 2 degrees Celsius. The Company is currently defining these targets, and aims to publicly disclose the same in forthcoming reporting.
+
+## CLIMATE-RELATED OPPORTUNITIES
+
+In accordance with the goals of the Paris Agreement on climate change, global GHG emissions reductions must be achieved to contain global warming below 1.5 degrees Celsius, above the pre-industrial average temperature. Copper is a critical component for many technologies required for transition to lowcarbon economies, including wind and solar photovoltaic power generation, electric  vehicles,  power  grids,  and  more.  Consequently,  the  demand  for copper is expected to increase significantly, which could boost copper prices and positively impact the Company.
+
+Additionally, we believe that the cost of renewable electricity generation will become increasingly competitive with the costs of conventional power plants, offering an opportunity to reduce both operating costs and GHG emissions.
+
+As  one  of  the  world's  largest  copper  producers,  we  believe  that  the implications of climate change could benefit SCC's reputation as stakeholders increasingly  recognize  the  vital  role  that  copper  plays  in  helping  societies migrate to low carbon economies. However, we realize that this is conditional upon the Company's commitment to help achieve the objectives of the Paris Agreement  and  its  ability  to  demonstrate  clear  and  sustained  progress  in decarbonizing its operations as required by said agreement.
+
+SCC is a sustainable company. It constantly strives to increase its competitiveness while contributing to a low-carbon economy and reducing its carbon footprint.
+
+## Biodiversity
+
+Southern Copper Corporation implements actions to generate positive  impacts,  reaffirming  its  commitment  to  the  environment and  biodiversity  and  in  accordance  with  its  Environmental  Policy. Our biodiversity plans are aligned with the guide of Good Practices for Mining and Biodiversity published by the International Council of Mining and Metals (ICMM). The Company is implementing mitigation measures, contributing to environmental preservation.
+
+SCC is the largest tree producer in the mining industry in Mexico. In 2022, to contribute to reforestation and rehabilitate areas inside and outside of our operating areas, we planted 5.8 million trees that were grown in 6 forest nurseries and greenhouses.
+
+As part of our effort to conserve biodiversity, we have an 89-hectare Environmental Management Unit (UMA), which has been conditioned to replicate -through enclosures- threatened and endangered species such as the Mexican Gray Wolf and Gould's Turkey and other.
+
+SCC's UMA in Mexico is located in a strategic area to boost Mexican Gray Wolf  reproduction.  Since  2013,  SCC  has  been  part  of  the  USMexico Binational Program to Recover the Mexican Gray Wolf. UMA Buenavista del Cobre has release 59 wolves into the wild, 23 of which were born at UMA. Approximately 50 per cent of the wolves released into the wild in Mexico were raised at UMA Buenaventura del Cobre.
+
+Blue Heron, Ite wetlands - Tacna, Peru
+
+Our  recovery  program  in  Ite  Bay  (Tacna,  Peru)  secured 1,600  hectares  of  wetland,  which  is  home  to  a  variety of  waterfowl  life.  This  area  has  become  a  new  tourist attraction.
+
+## Water care
+
+SCC has developed projects to guarantee the sustainability of water resources. Our operations reuse our water as well as resources discharged by third parties. At some of our units, we utilize municipal wastewater, which we treat prior to use. At our operations in San Luis Potosi and Cananea (Mexico),  we  provide  freshwater  to  the  local  population. SCC  has  implemented  modern  pumping  systems  and thickeners to recover water from tailings and also utilizes closed  circuits  to  recirculate  water.  In  2021,  74.5%  of water  consumption  was  recovered,  which  reflects  good management.
+
+In 2021, SCC invested in infrastructure and technology to reuse water. Effort focused on optimizing closed circuits and installing thickeners and high-efficiency tailings filters. In 2022, more than 74% of the total water consumed at our mining operations was recovered water.
+
+## Results of operations
+
+Years ended December 31, 2022, 2021 and 2020.
+
+Our net income attributable to SCC in 2022 was $2,638.5 million, compared to  $3,397.1  million  in  2021  and  $1,570.4  million  in  2020.  SCC's  net  income attributable to SCC decreased 22.3%, which was mainly driven by an uptick in costs of sales and by a reduction in sales volumes.
+
+The Company presents its operating cash costs with and without the revenues of its by-products (molybdenum, silver, sulfuric acid, etc.). It excludes the cost of  purchases  of  third-party  metal,  depreciation,  amortization  and  depletion, exploration, provisions for employee profit sharing, other non-recurring items and royalty charges from its operating cash cost calculation.
+
+The Company's operating cash cost per pound of copper produced, as previously defined, for the three years ended December 31, is as follows:
+
+## (dollar per pound)
+
+| 2022  2021  2020  Operating Cash Cost before by-product revenues  2.02  1.64  1.37  Operating Cash Cost net of by-product revenues  0.78  0.67  0.69   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+As seen in the table above, our per pound cash cost before by-product revenues in 2022 was 22.8% higher when compared with 2021. This result was mainly attributable  to  an  increase  in  production  costs  and  to  the  unit  cost  effect generated by a decrease in pounds of copper produced (-7.2%).
+
+Worker in spreader, Buenavista del Cobre, Sonora, Mexico
+
+<!-- image -->
+
+## Net Sales:
+
+2022-2021: Net sales in 2022 were $10,047.9, compared to $10,934.1 million in 2021, which represented a decrease of $886.2 million. This 8.1% reduction was driven primarily by a decrease in sales volume for copper (-6.5%), silver (-1.9%) and molybdenum (-13.4%) due to a lower production, and secondarily by a drop in prices for copper (-5.4%) and silver (-13.6%). The aforementioned was partially offset by an increase in sales volume for zinc (+10.5%) and by an uptick in prices for molybdenum (+20.0%) and zinc (+16.2%).
+
+Ingots in Zinc Plant, San Luis Potosi, Mexico
+
+<!-- image -->
+
+Agricola
+
+Quimicos
+
+2021-2020: Net sales in 2021 were $10,934.1 million, the highest in our history, compared to $7,984.9 million in 2020. This growth represented a YoY increase of  $2,949.2  million,  or  36.9%,  and  was  primarily  driven  by  growth  in  copper (+51.1% - LME), molybdenum (+81.0%), silver (22.1%) and zinc (+32.0%) prices. This effect was partially offset by lower copper (-11.0%), silver (-14.1%) and zinc (-12.6%) sales volumes.
+
+## Prices:
+
+Ventas 2022 US$2,713 The profitability of our operations is dependent on, and our financial performance is significantly affected by, the international market prices for the products we produce, and for copper, molybdenum, zinc and silver in particular. Sales prices for the Company's metals are mainly pegged to the prices quoted on the London Metal Exchange (LME) and The New York Commodity Exchange (COMEX) or to those published in the Platt's Metals Week for dealer oxide mean prices for molybdenum.
+
+| Intermodal  14%  Minerales  12%  Industriales  8%  Energia  8%  2022  2021  2020  Price/Volume Data  Average metal prices  Copper  (per pound - LME)  $4.00  $4.23  $2.80  Copper  (per pound - COMEX)  $4.01  $4.24  $2.80  Molybdenum  (per pound)  $18.61  $15.51  $8.57  Zinc  (per pound - COMEX)  $1.58  $1.36  $1.03  Silver  (per ounce - COMEX)  $21.76  $25.18  $20.62  SALES VOLUME (in million pounds, except silver - million ounces)  Copper  1,920.4  2,052.9  2,305.9  Molybdenum  (1)  57.9  66.8  66.7  Zinc  223.0  201.9  230.9  Silver  18.8  19.2  22.4   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Automotriz
+
+Metales
+
+Cemento
+
+Otros
+
+(1) The Company´s molybdenum production is sold as concentrates. Volume represents pounds of molybdenum contained in concentrates.
+
+## Commitment environmental affairs
+
+## Environmental matters
+
+The  Company  has  established  comprehensive  environmental  conservation programs at its mining facilities in Peru and Mexico.  The Company's environmental programs include water recovery systems to conserve water and minimize the impact on nearby streams, reforestation programs to stabilize the surface of the tailings dams and the implementation of scrubbing technology in the mines to reduce dust emissions, among others.
+
+Environmental  capital  investments  in  years  2022,  2021  and  2020,  were  as follows (in millions):
+
+| 2022  2021  2020  Mexican operation  $52.7  $62.3  $41.1  Peruvian operation  $   8.7  $  6.4  $(3.3)  Total  $61.4  $68.7  $37.8   |
+|-------------------------------------------------------------------------------------------------------------------------------------|
+
+## MEXICAN OPERATIONS
+
+The Company's operations are subject to applicable Mexican federal, state and municipal environmental laws, to Mexican official standards, and to regulations for  the  protection  of  the  environment,  including  regulations  relating  to  water supply, water quality, air quality, noise levels and hazardous and solid waste.
+
+The  principal  legislation  applicable  to  the  Company's  Mexican  operations  is the  Federal  General  Law  of  Ecological  Balance  and  Environmental  Protection (the 'General Law'), which is enforced by the Federal Bureau of Environmental Protection  ('PROFEPA').  PROFEPA  monitors  compliance  with  environmental legislation  and  enforces  Mexican  environmental  laws,  regulations  and  official standards. It may also initiate administrative proceedings against companies that
+
+<!-- image -->
+
+## Environmental Management Unit, Sonora, Mexico
+
+violate environmental laws, which in the most extreme cases may result in the temporary or permanent shutdown of non-complying facilities, the revocation of operating licenses and/or other sanctions or fines.
+
+In  2011, the General Law was amended to provide an individual or entity the ability  to  contest  administrative  acts,  including  environmental  authorizations, permits or concessions granted, without the need to demonstrate the actual existence  of  harm  to  the  environment  as  long  as  it  can  be  argued  that  harm may be caused. Additionally, amendments to the Civil Federal Procedures Code ('CFPC') were enacted in 2011 and established three categories of collective actions  under  which  a  group  of  30  or  more  individuals  can  be  considered sufficient to prove a 'legitimate interest' to file civil actions for injuries arising out of alleged violations of environmental, consumer protection, financial services and economic competition laws. The group can seek restitution or economic compensation  for  the  alleged  injuries  or  suspension  of  the  activities  which allegedly caused the injuries in question. The amendments to the CFPC may result in more litigation, with plaintiffs seeking remedies, including suspension of the activities alleged to cause harm.
+
+In 2013, the Environmental Liability Federal Law was enacted. The law establishes general guidelines for actions to be considered to likely cause environmental harm. If a possible determination regarding harm occurs, environmental clean-
+
+up and remedial actions sufficient to restore environment to a pre-existing condition should be taken. If restoration is not possible, compensation measures should be provided. Criminal  penalties  and  monetary  fines  can  be  imposed under this law.
+
+In  February 2019, the Mexican Supreme Court confirmed the  constitutionality  of  an  ecological  tax  on  extractive activities developed in the state of Zacatecas, which taxes the environmental remediation actions; emissions of certain gases to the atmosphere; emissions of polluting substances to  the  soil  or  water;  and  waste  storage  within  the  state. The  Company  has  determined  that  this  environmental regulation will have no impact on its financial position.
+
+Climate change: Several taxes are applicable to the Company's mining operations in Mexico, including federal and state fossil fuel taxes, and the requirements associated with Mexico's emission trading scheme. These taxes range from  $1.2/tCO 2 to  $20/tCO 2 ,  approximately.  These  refer to regional taxes applicable in the States of Baja California and Zacatecas, as well as a federal tax linked to the import of fuels. In addition, an emission trading scheme (ETS) is currently available to the Company.
+
+The requirements associated with this scheme are currently applicable  only  to  two  business  units,  the  metallurgic and  lime  plants  in  Sonora,  which  generate  annual  GHG emissions  levels  above  the  threshold  of  100,000  tCO 2 e per year contemplated by the scheme. These two units are required  to  report  and  verify  their  emissions  once  a  year with average costs of less than $6,000 per unit. Units that emit more than 25,000 tonnes CO 2 equivalent per year (all our  Mexican  units)  are  required  to  report  their  emissions to the National Emissions Registry (RENE) every year and to  verify  the  reported  emissions  every  three  years.  As  a
+
+result,  the  total  expenses  for  ensure  annual  compliance  with  climate  change regulations in Mexico were not material to the Company.
+
+## PERUVIAN OPERATIONS
+
+The Company's operations are subject to applicable Peruvian environmental laws and regulations. The Peruvian government, through the Ministry of Environment ('MINAM'),  conducts  annual  audits  of  the  Company's  Peruvian  mining  and metallurgical operations. Through these environmental audits, matters related to environmental obligation, compliance with legal requirements, atmospheric emissions,  effluent  monitoring  and  waste  management  are  reviewed.  The Company  believes  that  it  is  in  material  compliance  with  applicable  Peruvian environmental laws and regulations. Peruvian law requires that companies in the mining industry provide assurances for future mine closure and remediation. In accordance with the requirements of this law, the Company's closure plans were approved by MINEM. See Note 10 'Asset retirement obligation,' for further discussion of this matter.
+
+Air Quality Standards ('AQS'): In June 2017, MINAM enacted a supreme decree which defines new AQS for daily sulfur dioxide in the air. As of December 31, 2022, the Company maintains a daily average level of µg/m3 of SO2, which falls below the requirement under the AQS.
+
+Soil Environmental Quality Standards ('SQS'): In 2013, the Peruvian government enacted Soil Quality Standards. In accordance with the regulatory requirements of  the  law,  the  Company  prepared  Soil  Descontamination  Plans  ('SDP')  for environmentally  impacted  sites  in  each  of  its  operation  units  (Toquepala, Cuajone and Ilo) with the assistance of consulting companies. The cost of these SDPs is not material, either individually or in aggregated form, for the financial statements of the Company.
+
+Climate change: On April 17, 2018, the Peruvian government enacted Law N. 30754, which promulgates that it is in the national interest to promote public and private investments in climate change management and establishes a Climate Change Framework. The law proposes creating an institutional framework to address climate change in Peru and outlines new measures for climate change
+
+mitigation,  such  as  provisions  to  address  an  increase  in carbon capture and use of carbon sinks; afforestation and reforestation practices; land  use  changes;  sustainable systems of transportation, solid waste management, and  energy  systems.  This  climate  change  framework law  incorporates  obligations  from  the  Paris  Agreement. Supreme  Decree  013-2019  published  on  December  31, 2019, enacted statutory regulations, which are applicable to  all  Peruvian  institutions  and  agencies.  It  is  expected that  additional  Peruvian  regulations  will  be  applicable  to non-governmental  entities.  However,  no  carbon  pricing mechanism  is currently applicable to the  Company's operations in Peru.
+
+The Company believes that all of its facilities in Peru and Mexico  are  in  material  compliance  with  environmental, mining  and  other  applicable  laws  and  regulations.  The Company  also  believes  that  continued  compliance  with environmental laws of Mexico and Peru will have no material adverse effects on the Company's business, properties, or operating results.
+
+ex
+
+4
+
+Copper refinery at Buenavista del
+
+Cobre, Sonora, Mexico.
+
+46
+
+16
+
+Leaching pads at Toquepala Tacna, Peru
+
+## General information
+
+Information related to its constitution and inscription in the Public Registry:
+
+## 'Brief historical review from the constitution of the Company'.
+
+Southern  Copper  Corporation  (SCC)  is  one  of  the  largest  integrated  copper producers in the world. We produce copper, molybdenum, zinc, silver, lead and other by-products. All of our mining, smelting and refining facilities are located in Peru and in Mexico and we conduct exploration activities in those countries and in Chile, Ecuador and Argentina. Our operations make us one of the largest mining companies in both Peru and Mexico. We are one of the largest copper mining companies in the world. We were incorporated in Delaware in 1952 and have conducted copper mining operations since 1960. Since 1996, our common stock has been listed on both the New York and the Lima Stock Exchanges.
+
+Our Peruvian copper operations involve mining, milling and flotation of copper ore  to  produce  copper  concentrates  and  molybdenum  concentrates;  the smelting of copper concentrates to produce anode copper; and the refining of anode copper to produce copper cathodes. As part of this production process, we produce significant amounts of molybdenum concentrate and refined silver. We  also  produce  refined  copper  using  SX/EW  technology.  We  operate  the Toquepala and Cuajone mines high in the Andes Mountains, approximately 860 kilometers southeast of the city of Lima, Peru. We also operate a smelter and refinery west of the Toquepala and Cuajone mines in the coastal city of Ilo, Peru.
+
+Our Mexican operations are conducted through our subsidiary, Minera Mexico S.A.  de  C.V.  ('Minera  Mexico'),  which  we  acquired  in  2005.  Minera  Mexico engages  principally  in  the  mining  and  processing  of  copper,  molybdenum, zinc, silver, gold and lead. Minera Mexico operates through subsidiaries that are grouped into three separate units. Mexicana de Cobre S.A. de C.V. (together with its subsidiaries, the 'Mexcobre unit') operates La Caridad, an open-pit copper mine, a copper ore concentrator, a SX/EW plant, a smelter, refinery and a rod plant.
+
+<!-- image -->
+
+## Workers at Toquepala mine, Tacna, Peru
+
+Operadora de Minas e Instalaciones Mineras S.A de C.V. (the 'Buenavista unit') operates Buenavista, formerly named Cananea, an open-pit copper mine, which is located at the site of one of the world's largest copper ore deposits, a copper concentrator  and  two  SX/EW  plants.  The  Buenavista  mine  was  operated  by Mexicana de Cananea S.A. de C.V.  and  by  Buenavista  del  Cobre  S.A.  de  C.V. until December 11, 2010. From this date, Industrial Minera Mexico, S.A. de C.V. (together  with  its  subsidiaries,  the  'IMMSA  unit')  operated  five  underground mines that produce zinc, lead, copper, silver and gold, a coal mine and a zinc refinery  until  July  2012.  Effective  February  1,  2012,  Minerales  Metalicos  del Norte  S.A  was  merged  with  Industrial  Minera  Mexico  S.A.  de  C.V.  (IMMSA). IMMSA absorbed Minerales Metalicos del Norte S.A.
+
+We utilize modern/state-of-the-art mining and processing methods, including global positioning systems and computerized mining operations. Our operations have  a  high  level  of  vertical  integration  that  allows  us  to  manage  the  entire production process, from ore mining to the production of refined copper and other products, as well as most related transport and logistics functions, using our own facilities, employees and equipment.
+
+(1) Investment shares
+
+(2) Include 82.69% of common shares and 16.60% of investment shares.
+
+## Economic Group
+
+SCC, indirectly,  is  part  of 'Grupo  Mexico  S.A.B.  de  C.V.'  which  owns  100%  of Americas Mining Corporation ('AMC').
+
+| Several Activities  Location  Inscription in  the RPMV  %  1  Grupo Mexico, S.A.B. de C. V.  Mexico  2  Grupo Mexico Servicios, S.A. de C.V.  Mexico  100  Mining Activities  3  Americas Mining Corporation ('AMC')  USA  100  4  Southern Copper Corporation (SCC)  USA  Yes  88.90  5  Minera Mexico, S. A. de C. V.  Mexico  99.96  6  Industrial Minera Mexico, S.A. de C. V.  Mexico  100  7  Buenavista del Cobre, S.A. de C. V.  Mexico  100  8  Mexicana de Cobre, S.A. de C. V.  Mexico  98.18  9  Southern Peru Copper Corporation, Agencia en Chile  Chile  100  10  Southern Peru Copper Corporation, Sucursal del Peru  Peru  Yes  (1)  99.29  (2)  11  Compañia Minera Los Tolmos, S.A.  Peru  100   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Corporate Capital and Common Stock  Shares  The authorized number of shares  2,000,000,000  Issues an Paid Capital: Common Shares  884,596,086  Nominal Value of Common Shares  $ 0.01   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+| Total number and percent of shares  Shares  Interest  Americas Mining Corporation  687,405,997  88.9%  Common Shares owned by 3rd parties  85,692,472  11.1%  Total  773,098,469  100.0%   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## SOUTHERN COPPER CORPORATION
+
+## Variable Income
+
+| Symbol ISIN  Nnemonic  Year-Month  COTISATION   2022  Average  Price  Open  Close  Maximum  Minimum  US84265V1052  SCCO  2022-01  61.27  63.80  70.08  61.27  66.34  US84265V1052  SCCO  2022-02  65.00  68.95  69.50  62.12  66.36  US84265V1052  SCCO  2022-03  70.93  77.03  78.25  67.93  74.41  US84265V1052  SCCO  2022-04  77.40  63.08  78.18  62.21  72.26  US84265V1052  SCCO  2022-05  61.80  61.78  63.23  53.64  58.68  US84265V1052  SCCO  2022-06  62.09  49.59  64.90  49.00  57.22  US84265V1052  SCCO  2022-07  49.50  48.90  51.59  44.85  47.95  US84265V1052  SCCO  2022-08  47.80  47.59  51.30  45.98  48.67  US84265V1052  SCCO  2022-09  44.97  45.16  49.42  42.89  45.38  US84265V1052  SCCO  2022-10  47.94  47.00  49.31  45.75  47.85  US84265V1052  SCCO  2022-11  48.63  60.85  60.88  47.00  59.24  US84265V1052  SCCO  2022-12  61.36  61.57  62.01  59.71  61.23   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## Description of operations and development
+
+Regarding the Issuing Entity
+
+## CORPORATE PURPOSE
+
+The purpose of SCC is to engage in activities that are permitted under the laws of the State of Delaware. Its  main activity is to extract, mill, concentrate, smelt, treat, prepare for market, manufacture, sell, exchange and, in general, to produce and negotiate sales of copper, molybdenum, gold, silver, lead, zinc, iron and any other class of minerals and materials or other materials, effects and goods of any nature or description; as well as to explore, exploit, sample, examine, investigate, recognize, locate, appraise, buy, sell, exchange, etc., mining concessions and mining deposits. SCC belongs to the CIIU 1320 group.
+
+The term of duration of the Company is indefinite.
+
+## Brief historical review from the constitution of SCC:
+
+The Company was organized on December 12, 1952, according to the Laws of the State of Delaware of the United States of America, under the original denomination of Southern Peru Copper Corporation ('SPCC'), which was renamed on October 11, 2005, to Southern Copper Corporation.
+
+In 1954, SCC established a Branch in Peru to carry out mining activities in this country. The Branch was established under public instrument certified by public notary from Lima, Dr. Ricardo Fernandini Arana, on November 6, 1954.
+
+The Branch is registered in the Electronic Record Nº 03025091 of the Juridical People of the Registry Office of Lima and Callao.
+
+## Actions following company incorporation:
+
+## Capital increase:
+
+By Public Deed dated May 31, 1995, signed before notary public of Lima, Dr. Carlos A. Sotomayor Bernos,  the  Branch  capital  increase  was  formalized.  Said  increase  was  made  through  a  money contribution by the Company in favor of its Peru Branch and by the owners of labor shares, pursuant to Legislative Decree No. 677. The capital contribution made by the Company aimed to increase the capital allotted to the Branch by Headquarters and registered in Peru. The capital contribution made by the owners of Labor Shares (today Investment Shares) was assigned to the Labor Shares account of the Branch for issuing new Labor Shares.
+
+Part of the money contributed by the Company in favor of its Branch and by the Labor Shares owners was applied as a capital premium to the Resident account as Additional Capital.
+
+## Exchange of Investment Shares (Labor Shares) for Common Shares:
+
+Dated September 7, 1995, 'Southern Peru Copper Holding Company' was also incorporated pursuant to the Laws of the State of Delaware to act as the holding company that owns all of Southern Peru Copper Corporation 's shares. This was executed through an exchange of shares that were formerly denominated 'Labor Shares' (now, Investment Shares), which were issued by the branch in Peru; through this operation, owners of labor shares were given a number of Common Shares issued by SPCC in the United States. As a consequence of this share exchange, previous  owners  of  Labor  Shares  acquired  17.31%  of  SPCC's  Capital  and  this company acquired ownership of 80.77% of Labor Shares (now, Investment Shares).
+
+On December 31, 1995, Southern Peru Copper Corporation changed its corporate name to 'Southern Peru Limited', and 'Southern Peru Copper Holding Company' changed its corporate name to Southern Peru Copper Corporation.
+
+After  the  corporate  name  change, the mining activities of the Company in Peru were performed under the name of Southern Peru Limited, Peru Branch (SPL).
+
+On December 31, 1998, the merger between Southern Peru Copper Corporation and Southern Peru Limited was agreed. The first company absorbed the second and assumed all its assets and liabilities, including the Branch in Peru. This merger did not imply any change to the share percentage in the corporate capital or in the Equity Participation Account (Investment Shares), which remained unchanged.
+
+As a consequence of the merger, the mining activities of the corporation in Peru were again carried out under the name of Southern Peru Copper Corporation, Peru Branch, or the abbreviated name of 'Southern Peru' and/or the acronym SPCC.
+
+## Change of Economic Group:
+
+In  November  1999,  Grupo  Mexico  S.A.B.  de  C. V.,  a  firm  incorporated  pursuant to  the  Laws  of  the  Republic  of  Mexico,  acquired,  in  the  United  States,  100%  of ASARCO Incorporated, the main shareholder of Southern Peru Copper Corporation
+
+at that time. In this way, SPCC became a subsidiary of Grupo Mexico, which holds its shares through Americas Mining Corporation (AMC).
+
+## Acquisition of Minera Mexico ('MM'), and other corporate changes:
+
+SCC  shareholders,  in  a  shareholder  extraordinary  meeting  dated  March  28, 2005, approved the issuance of Common Shares and required actions related to the acquisition of MM, a firm incorporated pursuant to the Laws of the Republic of  Mexico. This  transaction  was  approved  by  more  than  90%  of  the  stocks  and circulating capital of SCC. To acquire Minera Mexico, SCC issued 67,207,640 shares in exchange for MM shares. Once the shares related to the acquisition were issued, AMC increased its share in SCC from 54.2% to approximately 75.1%.
+
+## AMC Increased its Participation in SCC:
+
+In 2008 and 2009, Grupo Mexico, through its wholly owned subsidiary Americas Mining Corporation, purchased 11.8 million and 4.9 million shares of the Company's common Stock, respectively.
+
+## SCC $500 Million Share Repurchase Programs:
+
+In 2008, our Board of Directors (''BOD'') authorized a $500 million share repurchase program that has since been increased by the BOD and is currently authorized to $3 billion. The SCC share repurchase program has registered no activity since the third quarter of 2016. The NYSE closing price of SCC common shares at December 31, 2022 was $60.39 and the maximum number of shares that the Company could purchase at that price was 1.4 million shares.
+
+As a result of the repurchase of shares of SCC's common stock, Grupo Mexico's direct and indirect ownership was 88.9% as of December 31, 2022.
+
+## Change in the Certificate of Incorporation:
+
+On  March  28,  2005,  following  Board  of  Directors  recommendations,  SCC shareholders approved, during an extraordinary meeting, the amendments to the Articles  of  Incorporation  Deed that changed the composition and obligations of some Board committees.
+
+## Special Nominating Committee and Special Independent Directors:
+
+The changes to the Certificate of Incorporation require the Board to include a certain
+
+<!-- image -->
+
+## Cuajone mine Moquegua, Peru
+
+number  of  special  independent  directors.  The  Special  Nominating  Committee functions  as  a  special  committee  to  nominate  special  independent  directors  to the  Board.  Pursuant  to  our  Amended  and  Restated  Certificate  of  Incorporation, as  amended, a special  independent  director  is  any  director  who  (i)  satisfies  the independence requirements of the New York Stock Exchange or NYSE (or any other exchange or association on which the Common Stock is listed) and (ii) is nominated by the Special Nominating Committee. The Special Nominating Committee has the right  to  nominate a number of special independent directors based on the total number of directors in the Board multiplied by the percentage of Common Shares all the shareholders (that are not Grupo Mexico and its affiliates) have, rounding up to the following integer number.   Notwithstanding the aforementioned, the total number of individuals appointed as special independent directors (not belonging to Grupo Mexico) cannot be less than two or more than six.
+
+The  Special  Nominating  Committee  consists  of  three  directors.  Two  of  these directors (2) are Luis Miguel Palomino and Carlos Ruiz Sacristan (each is an 'Initial Member' and, together with their successors, 'Special Designees') and the third is currently Xavier Garcia de Quevedo (who is appointed by the Board of Directors or the 'Board Designee'. The Board Designee will be selected annually by the Board of Directors. The Special Designees will be selected annually by the members of the Board who are special independent directors or Initial Members. Only Special Independent Directors can fill vacancies on the Special Nominating Committee. Any member of the Special Nominating Committee may be removed at any time by the
+
+Board of Directors for cause. The unanimous vote of all members of the nominating committee will be necessary for the adoption of any resolution or the taking of any action.
+
+Notwithstanding the foregoing, the power of the Special Nominating Committee to nominate special independent directors is subject to the rights of the stockholders to make nominations in accordance with our by-laws.
+
+The  provisions  of  the  Amended  and  Restated  Certificate  of  Incorporation,  as amended, relating to Special Independent Directors may only be amended by the affirmative vote of a majority of the holders of shares of Common Stock (calculated without giving effect to any super majority voting rights) other than Grupo Mexico and its affiliates.
+
+## Transactions with affiliates:
+
+In  2019,  the  Company  entered  into  certain  transactions  in  the  ordinary  course of  business  with  parties  that  are  controlling  shareholders  or  their  affiliates. These transactions  include  the  lease  of  office  space,  air  and  railroad  transportation, construction  services,  energy  supply  and  other  products  and  services  related  to mining  and  refining.  The  Company  lends  and  borrows  funds  among  affiliates  for acquisitions and other corporate purposes. These financial transactions bear interest and are subject to review and approval by senior management, as all are related party transactions. It  is  the  Company's  policy  that  the  Audit  Committee  of  the  Board  of Directors shall review all related party transactions. The Company is prohibited from entering or continuing a material related party transaction that has not been reviewed and approved or ratified by the Audit Committee.
+
+## Change of corporate name and other corporate changes:
+
+On September 20, 2005, by written consent instead of an extraordinary shareholder meeting,  the  majority  shareholder  approved  renaming  Southern  Peru  Copper Corporation  'Southern  Copper  Corporation  or  SCC.'  The  change  was  adopted because the new corporate name more accurately reflects the Company's operational reach outside the Republic of Peru after its acquisition of Minera Mexico, and the latter's  presence  in  the  Republic  of  Chile  through  the  acquisition  of  some  mining exploration concessions, and its exploration activities in the Republics of Argentina and Ecuador.
+
+Additionally,  on  the  same  date,  the  majority  shareholder approved an amendment to our Articles of Incorporation to remove  others'  provisions  in  our  Articles  of  Incorporation related to our Class A Common Shares that were formerly in circulation, which were converted to Common Shares on May 19, 2005, and to change the number of Corporate directors from fifteen to a number that will be regularly established by a consensus reached by the majority of Board members and stipulating that the number of directors will not be less than six or more than fifteen.
+
+The amendment of our Articles of Incorporation was submitted to the Secretary of State of the State of Delaware, and came into effect on October 11, 2005.
+
+## Peru Branch Name:
+
+Generally, any change in the corporate name of headquarters should  comprise  the  corresponding  name  of  the  ancillary organizations linked to it,  as  is  the  case  of  the  Peru  Branch through which the Corporation develops its mining activities in Peru.
+
+After consulting with Peruvian lawyers, the Board of Directors, in acknowledgement of the importance of the net worth and assets of the Branch, decided it was necessary to: continue acknowledging the position of the Peruvian Branch with its local and international copper clients; preserve its proceeds, position  its  good  name  in  the  copper  market;  prevent  any possible client loss; and guarantee the Branch's revenue flow from sales, its financial and economic revenues and solvency, agreed to maintain the original corporate name of the Peru Branch,  that  is,  Southern  Peru  Copper  Corporation,  Peru Branch, or the abbreviated name 'Southern Peru' and/or the acronym SPCC.
+
+## Changes to the Articles of Incorporation and By-laws
+
+On January 26, 2006, the Board approved an amendment to Southern Copper Corporation's Articles of Incorporation and by-laws: (i) to remove the provisions related to Class A Common Shares  among  other  changes.(ii)  add  a  new  provision  for advance notice to shareholders seeking to nominate directors or  to  propose  other  business  at  annual  or  special  meetings of  the  Common  Stockholders  (as  applicable)  (iii)  substitute Grupo  Mexico  for  ASARCO  Incorporated  in  the  'Change in  Control'  definition  in  the  Corporation's  by-laws  (iv)  and eliminate the 80% supermajority vote requirement for certain corporate actions. The modification of the Modified Certificate of Incorporation increased the capital stock from 167,207,640 shares  to  320,000,000  shares.  These  modifications  were submitted for approval of the shareholders at the shareholders annual meeting held on April 27, 2006 which was adjourned and reconvened for May 4, 2006, and later on adjourned and reconvened for May 11, 2006.
+
+At  the  annual  meeting,  on  April  27,  2006,  the  proposal  to amend the by-laws to eliminate certain extraneous provisions relating to the retired series of Class A Common Stock had an affirmative vote of 79.85% of the required votes. Given that the required vote for the approval of this proposal was 80% and because some votes still needed to be tabulated, the annual meeting for this proposal was adjourned until May 4, 2006. On May 4, 2006, at the adjourned and reconvened meeting the stockholders approved the proposal with an affirmative vote of 80.61% of the required votes.
+
+On April 27, 2006, stockholders approved (i) the amendment to the by-laws to introduce a new provision for advance notice to shareholders seeking to nominate directors or to propose other business at annual or special meetings of the Common
+
+Stockholders (as applicable); (ii) the amendment to the by-laws to substitute Grupo Mexico for ASARCO Incorporated in the 'Change in Control' definition in the Corporation's bylaws; (iii) the amendments to the Amended and Restated Certificate  of  Incorporation  to  increase  the  number  of  shares  of  Common Stock, which the Corporation is authorized to issue from 167,207,640 shares to 320,000,000 shares; and (iv) the selection of the independent accountants.
+
+On April 27, 2006, the proposal to amend the by-laws to eliminate the 80% supermajority  vote  requirement  for  certain  corporate  actions  had  received preliminary votes, representing an affirmative vote of 78.35% of the required votes. Given that the required vote for the approval of this proposal was 80% and because some votes still needed to be tabulated, the annual meeting for this proposal was adjourned first until May 4, 2006, and subsequently until May 11, 2006. On May 11, 2006, at the adjourned and reconvened meeting stockholders did not approve the proposal having received an affirmative vote of 79.61% of the required votes.
+
+SCC is, indirectly, part of Grupo Mexico S.A.B. de C.V. which owns 100% of Americas Mining Corporation (AMC) shareholding, owner of 88.9% of SCC shares.
+
+## Information about plans and investment policies:
+
+See Capital Expenditures and Exploration on page 13.
+
+## Relationship between the Issuer and the Government
+
+On  November  20,  1996,  SCC  and  the  Peruvian  Government  (Ministry  of Energy and Mines) signed a contract that remained effective until the year 2010  and  guaranteed  the  tax  stability  and  the  availability  of  exchange  to foreign currency of the Branch's earnings related to the operation of the SX/ EW plant at Toquepala and the Solvent Extraction (SX) operation in Cuajone. Also, on April 18, 1995, SCC and the Peruvian Government (CONITE) signed a  contract  that  remained  effective  during  ten  years  and  guaranteed  the availability of foreign currencies, free remittance of dividends to the exterior, among other guarantees related to the acid plant of the Ilo Smelter.
+
+Cularjahuira dam - Tacna, Peru. Built with the contribution of the Company through Candarave Development Fund
+
+SCC obtains refunds for tax credits in Peru for the general sales tax (IGV) paid in connection with the acquisition of capital goods and other goods and services used in its operations, counting these credits as a paid expense in advance. By virtue of these refunds, SCC is entitled to credit the amount of the IGV against its Peruvian tax obligations or to receive a refund.
+
+## SPECIAL MINING TAX
+
+This tax is based on operating income with graduated rates increasing from 2% to 8.4%. The Company recognized $56.4 million, $114.0 million and $50.0 million in 2022, 2021 and 2020, respectively, with respect to this tax. These amounts were included as income taxes in the Consolidated Statement of Earnings.
+
+## MINING ROYALTY
+
+The royalty charge is based on operating income margins with graduated rates ranging from 1% to 12% of operating profits, with a minimum royalty charge assessed at 1% of net sales. The minimum royalty charge is recorded as cost of sales and those amounts assessed at higher rates are included in the income tax provision. The Company has accrued $71.4 million, $140.8 million and $60.6 million of royalty charges in 2022, 2021 and 2020, respectively, of which $35.8 million, $97.8 million and $31.4 million were included in income taxes in 2022, 2021 and 2020, respectively.
+
+## SOCIAL INVESTMENT FOR TAXES
+
+SCC  has  signed  agreements  with  Ministry  of  Education,  regional  and  local governments  of  Tacna,  Moquegua,  and  Arequipa,  and  a  public  university 'Universidad  Nacional  San  Agustin  de  Arequipa'  under  the  law  of  Social Investments  for  Taxes  (Obras  por  Impuestos).    Once  the  investments  are completed, the municipalities benefiting from these investments must submit a certificate of public, local or regional investment.  SCC has the right to use these investment amounts as an advance payment on its income tax liability for up to 50% of the income tax levied for the prior year.
+
+<!-- image -->
+
+La Caridad mine, Sonora, Mexico
+
+## Operations in Mexico
+
+## LA CARIDAD MINE
+
+'La  Caridad  Concentrator' ,  began  operations  in  1979.    The  concentrator has  a  current  capacity  of  94,500  tons  of  ore  per  day.    'Molybdenum  Plant' started operations in 1982, with a production capacity of 2,000 tons of coppermolybdenum concentrate per day.
+
+La  Caridad  SX-EW has  an  annual  design  capacity  of  21,900  tons  of  copper cathodes.  Approximately  983.9  million  tons  of  leaching  ore  with  an  average grade of approximately 0.239% copper was extracted from the La Caridad open pit mine and deposited in leaching dumps to December 31, 2022.
+
+## LA CARIDAD METALLURGIC COMPLEX
+
+'La  Caridad  Smelter' ,  started  operations  in  July,  1986.  The  current  installed capacity of the smelter is 1,000,000 tons per year, which is sufficient to treat all the concentrates of La Caridad and almost 40.5% of the total production of the OMIMSA I and OMIMSA II concentrators from Buenavista. In 2010, the smelter also began processing concentrates from the IMMSA mines after we closed the San Luis Potosi smelter.
+
+684
+
+Our workforce is comprised of more than 15,000 employees
+
+'La  Caridad  Refinery' ,  started  operations  in  July,  1997  with  a production capacity of 493 tons of copper cathode per day, which was expanded to 822 tons in January, 1998. The installed capacity of the refinery is 300,000 tons per year.
+
+'La  Caridad  Precious  Metals  Plant' ,  started  operations  in  May, 1999 with  a  capacity  of  43,836  ounces  of  silver;  247  ounces  of gold; and 342 kilograms of selenium.
+
+'La  Caridad  Wire  Rod  Plant' ,  a  rod  plant  at  the  La  Caridad complex,  began  operations  in  1998  and  reached  its  full  annual operating capacity of 150,000 tons in 1999. The plant is producing eight-millimeter copper rods with a purity of 99.99%.
+
+'Effluent  and  Dust Treatment  Plant' ,  a  dust  and  effluent  plant with a treatment capacity of 5,000 tons of smelter dusts per year, which will produce 1,500 tons of copper by-products and 2,500 tons of lead sulfates per year. This plant began operating in 2012.
+
+## BUENAVISTA MINE
+
+'Buenavista  Concentrator' ,  the  original  concentrator  currently has a nominal milling capacity of 82,000 tons per day. The second concentrator  began  operations  in  2015  with  a  nominal  milling capacity of 100,000 tons per day.
+
+'Buenavista  SX/EW  I  Plant' ,started  operating  in  1980,  with  a capacity of 30 tons per day.
+
+'Buenavista  SX/EW  II  Plant ,  inicio  sus  operaciones  con  una capacidad de 66 t/d en 1989 y amplio su capacidad a 120 t/d en 2001.
+
+'Buenavista  SX/EW  III  Plant' started  operating  in  June  2014; we  completed  the  construction  of  a  new  SX-EW  plant  that  has significantly increased production of leachable material by approximately 120,000 tons per year. The SX-EW facilities have a cathode production capacity of 174,470 tons per year.
+
+## UNDERGROUND MINES
+
+1. The Santa Barbara Unit with a milling capacity of 5,800 tons of ore per day.
+2. The Santa Eulalia Unit with a milling capacity of 1,450 tons of ore per day.
+3. The San Martin Unit with a milling capacity of 4,400 tons of ore per day.
+4. The Charcas Unit with a milling capacity of 4,100 tons of ore per day.
+5. The Taxco Unit with a milling capacity of 2,000 tons per day.
+6. Coque Coal Plant, in Coahuila Unit, with a capacity of 105,000 tons of coke per year.
+7.   The Zinc Refinery with a capacity of 288 tons per day of refined zinc.
+
+## Peruvian Operations
+
+## TOQUEPALA MINE
+
+'Toquepala Concentrator' . Directorial Resolution No.455-91-EM/DGM/DCM dated July 5, 1991 approved the operation of the Toquepala Concentrator. The resolution granted 240 hectares of surface land and authorized a throughput of 39,000 tons/ day.
+
+Based  on  Report  No.  413-97-EM/DGM/DPDM  dated  July  7,  1997,  the  'Director General de Mineria' authorized the expansion of the Toquepala Concentrator to a 43,000 tons/day throughput.
+
+Based  on  Report  N°  547-2002-EM/DGM/DPDM,  dated  November  6,  2002, the  'Director  General  de  Mineria'  authorized  the  expansion  of  the  Toquepala Concentrator to a capacity of 60,000 MT per day.
+
+Resolution N°  0163-2020-MINEM-DGM/V,  dated  June  11,  2020,  based  on Report N° 081 - 2020 - MINEM-DGM-DTM/PB, the 'Director General de Mineria' authorized  the  operation  and  auxiliary  facilities  of  II  Molibdenum  Circuit  at  the Toquepala Concentrator to a capacity of 120,000 MT per day. According with this Report,  the  Company  must  comply  with,  among  other  aspects,  environmental recommendations and commitments; safety regulations; and occupational Health and Safety Regulations.
+
+'Toquepala Leaching Plant (SX/EW)' .  Directorial  Resolution No. 166-96-EM/DGM dated May 7, 1996, approved the operation of the Toquepala SX/EW plant. The resolution granted 60 hectares of surface land and authorized a throughput of 11,850 tons/day.
+
+Based  on  Report  No.  660-98-EM-DGM/DPDM  dated  November  10,  1998  the  'Director General  de  Mineria'  authorized  construction  and  expansion  of  Toquepala  SX/EW  plant to  18,737  tons/day  throughput.  Directoral  Resolution  dated  May  19,  2003,  based  on Report  No.  291-2003-EM-DGM/DPDM,  authorized  operation  of  the  SX/EW  plant  to  a throughput of 18,737 tons/day. Resolution dated December 15, 2021, based on Report No. 0457-2021-MINEM-DGM-DTM/PB, authorized operation of the SX/EW plant from 18,737 tons/day to 18, 756 TMD.
+
+## CUAJONE MINE
+
+'Botiflaca  Concentrator' in  Cuajone.  Directorial  Resolution  No.  150-81-EM/DCM  dated August 14, 1981 approved the operation of Botiflaca Concentrator. The resolution granted 56 hectares of surface land.
+
+Based on Report No. 266-99-EM/DGM/DPDM dated July 20, 1999 the 'Director General de Mineria' authorized the expansion of Botiflaca Concentrator to 87,000 MT per day throughput.
+
+Resolution N° 379-2010-MEM-DGM/V dated October 7, 2010 and based on Report N°3122010-MEM-DGM-DTM/PB, authorized construction and expansion of Botiflaca Concentrator to 90,000 MT per day throughput.
+
+For operating reasons, and as part of crusher process optimization, on November 18, 2011, we requested, through resource N° 2144941, that Peruvian authorities consider the addition of three more facilities (HPGR mill and others).
+
+On May 2012, through Directoral Resolution N° 153-2012-MEM-DGM-V and based on report 165-2012-MEM-DGM-DTM-P, MEM approved and authorized the project to include the three aforementioned additional facilities in the amendment and increased the installed capacity from 87,000 to 90,000 MT per day.
+
+'Cuajone Leaching Plant (LX/EW)' . Directorial Resolution No.155-96-EM/DGM dated May 6, 1996 approved the operation of the Cuajone Leaching plant. The resolution granted 400
+
+hectares of surface land and authorized a throughput of 2,100 MT  per  day.  Based  on  Report  No.  988-2009-MEM-DGM/V, dated  December  16,  2009,  the  Cuajone  SX  plant  operation was approved and authorized with a capacity of 3100 MT per day.
+
+## ILO METALLURGICAL COMPLEX
+
+'Ilo Smelter' Authorized (definitely) by Directorial Resolution No.  078-69-EM/DGM  dated  August  21,  1969  approved the  operation  of  the  Ilo  Smelter.  The  resolution  authorized production of 400 short tons/day of blister copper.
+
+Based  on  Report  No.204-2000-EM-DGM-DPDM  dated  June 20, 2000 the 'Director General de Mineria' authorized the Ilo Smelter to expand its capacity to 3,100 MT per day throughput of copper concentrates.
+
+On  February  4,  2010,  by  the  Application  Nº  1961695,  the Company  began  the  process  to  obtain  authorization  from the MINEM to operate a capacity of 3,770 MT per day, which is  included as an ancillary facility to Acid Plant No. 2, with a capacity of 2,880 MT per day or 1,051,200 MT per year.
+
+'Ilo  Refinery' .  Authorized  by  Report  No.  056-94-EM/DGM/ DRDM dated May 27, 1994 the 'Director General de Mineria' authorized the operation of the Ilo Copper Refinery at 533 MT per day throughput of blister copper.
+
+Based on Report No. 506-97-EM/DGM/DPDM dated September 2, 1998 the 'Director General de Mineria' authorized  expanding  Ilo  Copper  Refinery's  capacity  to  658 MT per day throughput.
+
+Ilo refinery, Moquegua, Peru
+
+Based on Report N° 080-2002-EM-DGM/DPDM, dated March 14, 2002, the 'Director General de Mineria' authorized the Ilo Copper Refinery to expand its capacity to 800 MT per day.
+
+Resolution  N°  520-2010-MEM-DGM/V  dated  December  30, 2010,  based  on  Report  N°  N°414-2010-MEM-DGM-DTM/PB, authorized changes in Ilo copper refinery without expanding its capacity throughput.
+
+Resolution N° 0162-2020-MINEM-DGM/V dated June 11, 2020, based on Report N° 080-2020-MINEM-DGM-DTM/PB, authorized the Ilo Copper Refinery to expand its capacity to 810 MT per day.
+
+'Sulfuric Acid Plant' .  Authorized  by  Directorial  Resolution No.  024-96-EM/DGM  dated  January  19,  1996,  approved  the operation of the sulfuric acid plant, installed at the smelter, at a production rate of 150,000 tons per year.
+
+Based  on  Report  No.  313-98-EM/DGM/DPDM  dated  May  21, 1998 the 'Director General de Mineria' authorized the expansion of  the  Ilo  Sulfuric  Acid  Plant  to  a  capacity  of  300,000  tons  per year production.
+
+'Coquina Wash Plant and Sea shell Concentrates' authorized to  operate  by  Directorial  Resolution  Nº  110-93-EM/DGM  of August  3,  1993.  The  plant  processes  95  TC/h  of  raw  material (coquina)  recovered  from  nearby  mines.  Seashell  is  produced separating  sand  and  other  materials  from  the  coquina  using seawater-washing screens.
+
+Resolution N°038-2011-MEM-DGM-DTM/PB  dated  February 2,  2011,  based  on  Report  N°035-2011-MEM-DGM-DTM/PB, authorized  modifications  to  the  concession  of  'Coquina  Wash
+
+<!-- image -->
+
+## Panoramic view of Ilo Smelter, Moquegua, Peru
+
+Plant and Seashell Concentrates' to designate it a dry seashell plant without expanding  its capacity throughput, which represents 2,068 tons/day. Through Nº 2499277, dated May 19, 2015, SPCC requested a temporary, three-year suspension of its Dry Seashell Concentrates plant.
+
+Resolution N° 0850-2018 - MEM-DGM/V dated November 15, 2018, based on Report N° 162-2018 /MEM-DGM-DTM-PCM, SPCC communicated to MEM that it was initiating the closure of the facilities at Coquina Mine.
+
+## Human resources
+
+## Safety and health
+
+At Southern Copper Corporation, caring for the lives, health and welfare of our employees and their families is a priority at all of our operations.
+
+Accordingly,  our  main  commitment is  to  create  optimal  and safe  work  environments  for  our  employees  by  applying  the highest occupational health and safety standards. Our goal: ZERO  accidents.  Our  main  commitments  regarding  health and safety, are disclosed on Grupo Mexico website.
+
+An Integrated Occupational Health and Safety Management System  allows  us  to  implement  effective  processes  and to  provide  our  employees  with  the  knowledge  and  skills necessary to identify, control and mitigate risks. The focus is on prioritizing actions and taking the necessary precautions to prevent accidents.
+
+In  2022,  we  operated  13  units  in  Mexico  and  Peru,  where Occupational Safety and Health Management Systems have been certified according to OHSAS 18001: 2007. Additionally, in  Mexico,  we  maintain  28  units  that  are  certified  by  the Secretariat  of  Labor  and  Social  Welfare  in  Self-Managed Occupational Health and Safety (PASST), which have endorsed our commitment to best practices in health and safety at work and compliance with government provisions on the matter.
+
+In 2022, the accident rate (IR) increased 37% compared to 2021 but stood at rates similar to previous years. We will continue working to reinforce prevention activities to diminish risks and ensure the physical integrity of our collaborators.
+
+| Accident Rate  (IR)  SCC, 2018-2022 t  Severity Rate (GR)  SCC, 2018-2022  2018     0.74  2018      0.31  2019     0.82  2019      0.89  2020     0.49  2020      0.19  2021     0.79  2021      0.81  2022     0.50  2022      0.57   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+IR =
+
+GR =
+
+x 200,000
+
+x 1,000
+
+N° of disabling accidents
+
+N° of total men - hours worked
+
+N° of days lost
+
+N° of total men - hours worked
+
+The  accomplishments  in  2022  on  the  occupational  health  and  safety  front include:
+
+- The occupational accident rate at our mining operations in SCC is 62% below the average in the mining industry in the USA, according to the Mine Safety and Health Administration.
+- The  Mining  Chamber  of  Mexico  (CAMIMEX)  in  2022  awarded  the  'Jorge Rangel Zamorano' Silver Helmet Trophy to the Planta de Metales Preciosos de  Mexicana  del  Cobre,  after  it  reported  the  lowest  accident  rates  in  the industry and in recognition of its efforts in the field of accident prevention.
+- The Metalurgica del Cobre, La Caridad, Santa Barbara, Charcas, San Martin and  Zinc  Refinery  operations  were  recognized  with  the  distinctive  ELSSA Program. Awarded by the Mexican Government for those companies that promote safe and healthy work environments.
+- XVI  National  Competition  of  Underground  Mining  Rescue  Crews,  First Aid  and  Hazardous  Materials,  organized  by  the  Mexican  Mining  Chamber
+
+(CAMIMEX) and the National Council for Standardization and Certification of Labor Competences (CONOCER), following achievements were obtained:
+
+-  1st place to Santa Barbara Unit (First Aid to rescue crew 'Coyotes')
+-  1st place to Santa Barbara Unit (Underground mining rescue 'Nahuales')
+
+## OCCUPATIONAL HEALTH
+
+Healthy environments are part of the organizational culture and management system.  The  Company  assumes  the  responsibility  to  establish  culture  of involvement, participation and commitment to generate better health conditions that improve the quality of life of our employees, their families and the communities in which we operate.
+
+| Occupational Disease Rate  SCC 2018-2022  2018  0.18  2019  0.23  2020  0.18  2021  0.15  2022  0.13   |
+|--------------------------------------------------------------------------------------------------------|
+
+<!-- formula-not-decoded -->
+
+N° of Total Men-Hours Worked
+
+We  continued  efforts  to  implement  several  programs  relative  to  education, prevention, risk control and medical treatment, and aim to preserve our workers' health. These programs cover our employees and, in some cases, their family members, contractors, suppliers, institutions and the general public.
+
+## Targeting workplace personnel:
+
+<!-- image -->
+
+## Targeting employees' families and the community:
+
+<!-- image -->
+
+## INVESTING IN SAFETY AND HEALTH
+
+In 2022, we invested over $41 million in occupational safety and health efforts for engineering work; purchase  personal  protective  equipment;  provide  training  and  coaching;  and  conduct  industrial hygiene studies. To enhance the culture of occupational health, we have developed programs to promote and protect health and focused on primary prevention, treatment and rehabilitation.
+
+## EMPLOYEES FOR THE YEAR ENDED DECEMBER 31TH
+
+| TOTAL EMPLOYEES IN SCC  2022  2021  2020  2019  2018  Mexico  10,005  9,722  8,962  9,358  9,002  Peru  4,947  4,675  4,739  4,890  4,850  Ecuador  4  35  58  23  30  Argentina  9  15  4  15  5  Chile  10  7  6  9  5  Corporate Office  38  3  3  1  2  OHYSA  5  5  5  5  5  Total  15,018  14,462  13,777  14,301  13,899   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## Labor Matters
+
+## Mexican operations:
+
+72.4% of our 10,005 Mexican employees were unionized as of December 31, 2022 and are represented by four different unions. Under Mexican law, the terms of employment for unionized workers are set  forth  in  collective  bargaining  agreements. Mexican companies negotiate the salary provisions of collective bargaining agreements with the labor unions on an annual basis and negotiate other benefits  every  two  years.  We  conduct  negotiations  separately  at  each  mining  complex  and  each processing plant.
+
+In  recent  years,  the  Mexican  operations  have  experienced  a  positive  improvement  in  their  labor environment, as workers opted to change their affiliation from the Sindicato Nacional de Trabajadores Mineros, Metalurgicos y Similares de la Republica Mexicana (the 'National Mining Union') to other less politicized unions.
+
+## Peruvian operations:
+
+76.5% of the Company's 4,947 Peruvian employees were unionized at December 31, 2022. Currently, there are six separate unions, none of which represents the majority of workers, as defined by current Peruvian labor legislation.
+
+In the first half of 2022, the six unions came together to defend their rights to work at the Cuajone unit. This action was taken after a small group of residents from the community of Tumilaca, Pocata, Coscore and Tala, Moquegua cut off the water supply and blocked railroad access, which directly affected the health and safety of workers and their families and the production process.
+
+## Principles of corporate governance
+
+Information referred to the Resolution of 'Superintendencia del Mercado de Valores' No. 012-2014-SMV / 01, consisting of a 'Report on  Compliance  with  the  Code  of  Good  Corporate  Governance  for Peruvian Companies' is applicable only to Peruvian companies. Given that SCC is not a Peruvian company, this report is not submitted to the 'Superintendencia del Mercado de Valores' (SMV) of Peruvian Republic. Notwithstanding, SCC submits the 'Annual Written Affirmation' to SMV. This  document provides information on Good Corporate Governance, which our company remits annually to the New York Stock Exchange.
+
+Economic relations with other companies due to loans that commit more than 10% of the stockholder's equity of the issuing entity:
+
+To the date, there are no loans with other companies that comprise more than 10% of SCC's property.
+
+## ADMINISTRATIVE JUDICIAL OR ARBITRATION PROCESSES LITIGATION
+
+See  Note  13  'Commitments  and  Contingencies'  to  our  Consolidated Financial Statements on our 2022 Form 10-K.
+
+Ms.  CPC  Lina  Vingerhoets  is  the  Company´s  Controller  and  Mr.  Eco. Marco Antonio Garcia Vargas was our Finance Manager until December 2, 2022. The Company has expressed its deepest gratitude to Mr. Garcia for his work, dedication and service to the Company during his 40-year career there.
+
+## INFORMATION  RELATED  TO  THE  STOCK  ENTERED IN THE STOCK MARKET PUBLIC
+
+## Common Stock
+
+On  November  29,  1995  the  Company  offered  to  exchange  the recently issued common shares for any and all labor shares of the Peruvian Branch of the Company at a ratio of one common share per  four  S-1  shares  and  one  common  share  per  five  S-2  shares. The exchange expired on December 29, 1995, and 80.8% of the total  labor  shares  in  circulation  were  exchanged  for  22,959,334 common shares. These common shares are quoted in New York Stock Exchange and the Lima Stock Exchange and are entitled to one vote per share.
+
+Along with the exchange of labor shares, the holders of common shares of the Company exchanged their shares for Class A common shares, with the right to five votes per share.
+
+In  connection  with  Minera  Mexico's  acquisition  (April  1,  2005), 134,415,280 new common shares were issued and class A common shares  of  the  Company  were  converted  to  common  shares,  and preferential votes were eliminated. On June 9, 2005, Cerro Trading Company, Inc., SPC Investors L.L.C., Phelps Dodge Overseas Capital Corporation  and  Climax  Molybdenum  B.V.,  subsidiaries  of  two  of SCC's founding shareholders and affiliates, sold their shares in SCC.
+
+On  August  30,  2006,  the  Executive  Committee  of  the  Board  of Directors declared a two-for-one split of the Company's outstanding common  stock.  On  October  2,  2006,  common  shareholders  of record at the close of business on September 15, 2006 received one additional share of common stock for every share owned. The Company's  common  stock  began  trading  at  its  post-split  price on  October  3,  2006.  The  split  increased  the  number  of  shares outstanding to 294,460,850 from 147,230,425.
+
+On June 19, 2008, the Executive Committee of the Board of Directors declared a three-for-one split of the Company's outstanding common stock. On July 10, 2008, common shareholders of record at the close of business on June 30, 2008 received two additional shares of common stock for every share owned. The split increased the number of shares outstanding to 883,410,150 from 294,470,050.
+
+All share and per share amounts were retroactively adjusted to reflect the stock splits.
+
+Between 2008 and 2016, the Company and AMC had bought shares periodically.
+
+At December 31, 2022, there were of record 773,098,469 shares of common stock of the Company, par value $0.01 per share, outstanding.
+
+## Corporate notes
+
+Between July 2005 and October 2015, the Company issued senior unsecured notes eight times totaling $6.2 billion. Interest on the notes is paid semi-annually in arrears. The notes rank pari passu with each other and rank pari passu in right of payment with all of the Company's other existing and future unsecured and unsubordinated indebtedness.
+
+The  indentures  relating  to  the  notes  contain  certain  restrictive  covenants, including  limitations  on  liens,  limitations  on  sale  and  leaseback  transactions, rights of the holders of the notes upon the occurrence of a change of control triggering  event,  limitations  on  subsidiary  indebtedness  and  limitations  on consolidations, mergers, sales or conveyances. Certain of these covenants cease to be applicable before the notes mature if the Company obtains an investment grade rating. The Company obtained investment grade rating in 2005.
+
+In  addition,  the  Company´s  Mexican  operations  hold  $51.2  million  in  bonds referred above as 'Yankee bonds', contain a covenant requiring Minera Mexico to maintain a ratio of EBITDA to interest expense of not less than 2.5 to 1.0 as
+
+<!-- image -->
+
+## Workers at Cuajone mine, Moquegua, Peru
+
+such terms are defined in the debt instrument. At December 31, 2022, the Company was in compliance with this covenant.
+
+On September 26, 2019, Minera Mexico S.A. de C.V., a subsidiary of SCC, issued $1 billion Senior Notes at a fixed rate with a discount of $12.7 million, which will be amortized over the corresponding debt period. This debt was issued in a single tranche, maturing in 2050 at an annual interest rate of 4.5%. Interest on the notes will be paid semi-annually at maturity. The Company aims to use the net proceeds from the offer (i) to finance the expansion program of Minera Mexico, including the Buenavista Zinc, Pilares and El Pilar projects, (ii) for other capital expenditures, and (iii) for general corporate purposes.
+
+The notes constitute general unsecured obligations of Minera Mexico. The notes were issued in an unregistered offering pursuant to Rule 144A and Regulation S under the Securities Act of 1933.
+
+Please see Note 11 'Financing' for a discussion about the covenants' requirements with regard to our long-term debt, on our 2022 Form 10-K.
+
+## Members of the Board of Directors
+
+At December 31, 2022
+
+German Larrea Mota-Velasco, Director. Mr. Larrea has been Chairman of the Board of Directors since December 1999, Chief Executive Officer from December 1999 to October 2004, and a member of our Board of Directors since November 1999.  He  has  been  Chairman  of  the  board  of  directors,  President  and  Chief Executive  Officer  of  Grupo  Mexico,  S.A.B.  de  C.V.  ('Grupo  Mexico')  (holding) since 1994. Mr. Larrea has been Chairman of the board of directors and Chief Executive Officer of Grupo Ferroviario Mexicano, S.A. de C.V. (railroad company) since 1997. Mr. Larrea was previously Executive Vice Chairman of Grupo Mexico and has been member of the board of directors since 1981. He is also Chairman of the board of directors and Chief Executive Officer of Empresarios Industriales de  Mexico,  S.A.  de  C.V.  ('EIM')  (holding)  and  Fondo  Inmobiliario  (real  estate company), since 1992.
+
+Mr.  Larrea  presides  over  every  Board  meeting  and  since  1999,  has  been contributing  his  education,  leadership  skills,  industry  knowledge,  strategic vision, informed judgment and over 20 years of business experience, especially in the mining sector.  As Chairman and Chief Executive Officer of Grupo Mexico, of  Grupo  Ferroviario  Mexicano,  S.A.  de  C.V.  and  of  EIM,  a  holding  company engaged in a variety of business, including mining, construction, railways, real estate and drilling, he brings a valuable mix of business experience in different industries.
+
+Oscar Gonzalez Rocha, Director. Mr. Gonzalez Rocha has been our President since  December  1999  and  our  President  and  Chief  Executive  Officer  since October 21, 2004. He has been a director of the Company since November 1999. Mr.  Gonzalez Rocha has been Chief Executive Officer and director of Asarco LLC (integrated US copper producer), an affiliate of the Company, since August
+
+2010 and President, Chief Executive Officer of Americas Mining Corporation ('AMC'), a holding company of Grupo Mexico, since 2015. Previously, he was the  President  and  General  Director  and  Chief  Operating  Officer    of    Minera Mexico S.A. de C.V. from December 1999 to October 20, 2004. Mr. Gonzalez Rocha has been a director of Grupo Mexico since 2002. He was General Director of Mexicana de Cobre, S.A. de C.V. from 1986 to 1999 and of Buenavista del Cobre, S.A. de C.V. (formerly Mexicana de Cananea, S.A. de C.V.) from 1990 to 1999. He was an alternate director of Grupo Mexico from 1988 to April 2002. Mr. Gonzalez Rocha is a civil engineer with a degree from the Autonomous National University of Mexico ('UNAM') in Mexico City, Mexico.
+
+Mr. Gonzalez Rocha,  is a civil engineer by profession and a business man with over  40  years  of  experience  in  the  mining  industry.  He  has  been  associated with  our  Mexican  operations  since  1976.  His  contributions  to  the  Company include  his  professional  skills,  leadership,  an  open  mind  and  willingness  to listen  to  different  opinions. Mr. Gonzalez Rocha has proven his ability to deal with crises to lessen negative impacts on the Company. His devotion of time to the Company and his hands-on management of the operations in Mexico and Peru contribute to his effective leadership. Mr. Gonzalez Rocha was recognized as Copper Man of the Year 2015 and inducted into the American Mining Hall of Fame in December 2016 in Tucson, Arizona and into the Mexican Mining Hall of Fame in October 2017 in Guadalajara, Mexico.
+
+Vicente Ariztegui Andreve, Independent Director. Mr. Ariztegui Andreve has been a director of the Company since April 25, 2018.  Mr. Ariztegui Andreve is  Managing Director and Chairman of Aonia Holding, a wholly owned private investment  firm  he  founded  in  1989.    Aonia  has  made  investments  in  the following industries: gold mining, global commodity trading, retailing (e.g. duty free shops), infrastructure (e.g. airport terminal operation), asset management and real estate.  Over the last nine years, Mr. Ariztegui has been actively selling and buying stakes in non-public companies, including Pallium Trading (fish meal) and MK Metal Trading (copper, zinc, lead, gold and silver concentrates). He also sold  Aonia's  equity  stake  in  Fumisa  and  Aerodom,  airport  terminal  operating companies in Mexico City and in the Dominican Republic, respectively.  In 2013, Mr. Ariztegui Andreve made inroads in the financial asset management business
+
+by acquiring a stake in InverCap, the fifth largest pension fund manager in Mexico, which he sold in April 2017.  Mr. Ariztegui Andreve worked as a Corporate Banker and Vice President of international operations and trade finance for Citibank in New York and Mexico City for eight years (1979-1987).  Mr. Ariztegui Andreve cofounded and was President and Chief Executive Officer of MK Metal Trading, an international metal and mineral (copper, zinc, lead, gold and silver concentrates) trading company start-up, for 18 years (1994-2012). MK Metal Trading was sold in 2012.  Mr. Ariztegui Andreve currently sits on the boards of several non-public companies,  including  InverCap  Holding  (financial  assets  management),  Reim (real  estate  mid-size  residential  development),  Alvamex  (international  storage and logistics). He is also a director of the University Club in Mexico. Previously, he was director of Dufry AG (leading global retail and airport duty free operator), Latin American Airport Holdings (airport infrastructure and terminal operator), Satelites Mexicanos (SATMEX) (telecommunications), Banco Mexicano, Grupo Financiero  Inverlat  (financial  services)  and  Minera  Santa  Gertrudis  (mining). Mr.  Ariztegui  has  not  served  as  a  director  of  any  other  US  public  company over the last five years.  Mr. Ariztegui Andreve received a Master in Business Administration degree from the Wharton School of Business and Finance and a Master in Systems Engineering degree from the University of Pennsylvania.
+
+Mr. Ariztegui Andreve brings to the Company his vast experience in the financial, mining  and  commercial  sectors.  He  also  adds  to  the  Board  of  Directors  his leadership experience and the expertise attained through his work as director of other companies.
+
+Enrique  Castillo  Sanchez  Mejorada,  Independent  Director. Mr.  Castillo Sanchez Mejorada  has been a director of the Company since July 26, 2010 and is our fifth independent director nominee. From May 2013 to December 2020, Mr. Castillo Sanchez Mejorada was Senior Partner of Ventura Capital Privado, S.A. de C.V. (Mexican financial company).
+
+From October 2013 to April 2021, he was Chairman of the board of directors of  Maxcom Telecomunicaciones, S.A.B. de C.V. (Mexican telecommunications company).  From April 2011 to May 2013, Mr. Castillo Sanchez Mejorada was a senior advisor at Grupo Financiero Banorte, S.A.B. de C.V.('GFNorte'), a financial holding  institution  that  controls  a  bank,  a  broker  dealer  and  other  financial
+
+institutions in Mexico.  From October 2000 to March 2011, Mr. Castillo Sanchez Mejorada  was  the  Chairman  of  the  board  of  directors  and  Chief  Executive Officer  of  Ixe  Grupo  Financiero,  S.A.B.  de  C.V.,  a  Mexican  financial  holding company that merged into GFNorte in April 2011. In addition, from March 2007 to March 2009, Mr. Castillo Sanchez Mejorada was the President of the Mexican Banking Association (Asociacion de Bancos de Mexico).  Currently, Mr. Castillo Sanchez Mejorada is Chairman of the Board of Banco Nacional de Mexico, S.A. (Citibanamex), one of the largest banks in Mexico, and member of the board of Grupo Financiero Citibanamex, where he serves as a member of the practices committee and audit committee.  He serves as an independent director on the board of directors of (i) Grupo Herdez, S.A.B. de C.V., a Mexican holding company for the manufacture, sale and distribution of food products; (ii) Alfa, S.A.B. de C.V., a Mexico-based holding company that, through its subsidiaries, is engaged in  the  petrochemical,  food  processing,  automotive  and  telecommunication sectors.  Mr.  Castillo  Sanchez  Mejorada  also  serves  as  a  member  of  the  audit committee; (iii) Medica Sur, S.A.B. de C.V., a Mexico-based company engaged in  the  hospital  business; and (iv) Laboratorios Sanfer, S.A. de C.V., one of the leading companies in the Mexican pharmaceutical market. He is also a Senior Advisor for General Atlantic in Mexico, a private equity firm based out of New York.  Mr.  Castillo  Sanchez  Mejorada  holds  a  Bachelor's  degree  in  Business Administration from the Anahuac University, in Mexico City, Mexico.
+
+Mr. Castillo Sanchez Mejorada became a member of our Audit Committee on April 18, 2013.  He brings to the Company more than 44 years of experience in the financial sector as well as the leadership experience and expertise he has attained as independent director of other companies.
+
+Leonardo Contreras Lerdo de Tejada, Director. Mr. Leonardo Contreras Lerdo de Tejada has been a director of the Company since May 2021. He joined AMC on September 10, 2018. He was appointed President of ASARCO in January 2019, Director for Commercial and Supply Chain of AMC in August 2019, President of  IMMSA,  a  subsidiary  of  the  Company  that  integrates  the  underground operations, in August 2020, and CFO of Americas Mining Corporation in January 2022. Mr. Contreras Lerdo de Tejada has more than 10 years of experience in private equity, investment banking, and entrepreneurship. Mr. Contreras Lerdo de  Tejada  holds  a  BS  in  Industrial  Engineering  from  Universidad  Anahuac  in Mexico City and earned an MBA degree from The University of Chicago Booth School of Business.
+
+Mr.  Leonardo  Contreras  Lerdo  de  Tejada  brings  to  the  Company  his operating,  human  capital,  and  financial  skills  as  well  as  more  than 10  years  of  experience  in  private  equity,  investment  banking  and entrepreneurship.
+
+Xavier Garcia de Quevedo Topete, Director. Mr. Garcia de Quevedo has  been  a  director  of  the  Company  since  November  1999.  He  was our  Chief  Operating  Officer  from  April  12,  2005  until  April  23,  2015. Since November 1, 2014, Mr. Garcia de Quevedo Topete has served as the President of the infrastructure division of Grupo Mexico, which is comprised of the energy, gas, oil and construction subsidiaries of Grupo Mexico.   He is also Vice-chairman of Grupo Mexico. Additionally, Mr. Garcia  de  Quevedo  was  the  President  and  Chief  Executive  Officer  of Southern Copper Minera Mexico from September 2001 until November 1, 2014. He was the President and Chief Executive Officer of Americas Mining Corporation from September 7, 2007 to October 31, 2014.  From December 2009 to June 2010, he was Chairman and Chief Executive Officer of Asarco LLC.  Previously he was President of Asarco LLC from November 1999 to September 2001. Mr. Garcia de Quevedo began his professional  career  in  1969  with  Grupo  Mexico.  He  was  President  of Grupo Ferroviario Mexicano, S.A. de C.V. and of Ferrocarril Mexicano, S.A.  de  C.V.  from  December  1997  to  December  1999,  and  Executive Vice President of Exploration and Development of Grupo Mexico from 1994  to  1997.  He  has  been  a  director  of  Grupo  Mexico  since  April 2002.  He  was  also  Vice  President  of  Grupo  Condumex,  S.A.  de  C.V. (telecommunications,  electronics  and  automotive  parts  producer)  for eight  years.  Mr.  Garcia  de  Quevedo  was  the  Chairman  of  the  Mining Chamber  of  Mexico  from  November  2006  to  August  2009.  He  is  a chemical engineer with a degree from the UNAM in Mexico City, Mexico. He  also  attended  a  continuous  business  administration  and  finance program at the Technical Institute of Monterrey in Monterrey, Mexico.
+
+Mr. Garcia de Quevedo contributes his extensive business experience and leadership,  industry knowledge, skills to motivate high-performing talent, and general management skills to the Company. During his more than  45  years  of  experience  as  an  executive  with  Grupo  Mexico  and subsidiaries, he was responsible for developing the integration strategy
+
+Copper discharge in La Caridad Metallurgical Complex - Sonora, Mexico
+
+Anode wheel, Ilo smelter - Moquegua, Peru
+
+<!-- image -->
+
+<!-- image -->
+
+of Grupo Mexico. He was directly responsible for the development of the copper smelter, refinery, precious metal and rod plants of Grupo Mexico. Mr. Garcia de Quevedo also headed the process for the acquisition of railroad concessions for Grupo Mexico, the formation of Grupo Ferroviario Mexicano, S.A. de C.V., and its partnership with Union Pacific. Previously, he had a distinguished career as Vice President of sales and marketing for Grupo Condumex, S.A. de C.V., where among other achievements, he was responsible for the formation of a division for the sale, marketing and distribution of products in the United States and Latin America and where he headed the Telecommunications division. Mr. Garcia de Quevedo also contributes to the Company the diversified business experience he gained from having served on the boards of different Mexican and United States companies and as Chairman of the Mining Chamber of Mexico.
+
+Luis  Miguel  Palomino  Bonilla,  Special  Independent  Director. Dr.  Palomino has been a director of the Company since March 19, 2004. Dr. Palomino is the President of the Peruvian Economics Institute (a think tank) since April of 2022, after having served as Director, Consultant, and Chief Executive Officer since January 2007.  He has also been Director of the Master's in Finance Program at the University of the Pacific in Lima, Peru since July 2009, Dr. Palomino has been a member of the board of directors of Laboratorios Portugal (personal care products manufacturer) since September 2017 and a member of the board of directors of Summa Capital, S. A. (corporate consulting firm) since April 2014. He has been a director of Mall Aventura, S.A. since March 2021 and an Associate of the Instituto Educacional Franklin Delano Roosevelt since December 2022. Dr. Palomino was a member of the board of directors and Vice-chairman of the Central Bank of Peru (Banco Central de Reserva del Peru) from September 2016 to  October 2021. He was the Chairman of the board of directors of Aventura Plaza, S.A. (commercial real estate developer and operator) from January  2008 to June 2016, Partner of Profit Consultoria e Inversiones (a financial consulting firm) from July 2007 to July 2016, and a member of the board of directors and chairman of the audit committee of the Bolsa de Valores de Lima (Lima Stock Exchange) from March 2013 to July 2016. Dr. Palomino was Principal and Senior Consultant of Proconsulta International (financial consulting) from September 2003  to  June  2007.  He  was  First  Vice  President  and  Chief  Economist,  Latin America,  for  Merrill  Lynch,  Pierce,  Fenner  &amp;  Smith,  New  York  (investment banking) from 2000 to 2002. He was Chief Executive Officer, Senior Country and
+
+Equity Analyst of Merrill Lynch, Peru (investment banking) from 1995 to 2000. Dr. Palomino has held various positions with banks and financial institutions as an economist, financial advisor and analyst. He has a PhD in finance from the Wharton School of the University of Pennsylvania in Philadelphia, Pennsylvania and graduated from the Economics Program of the University of the Pacific in Lima, Peru.
+
+Dr. Palomino is a member of our Audit Committee and a special independent director  nominee.    He  is  also  our  'audit  committee  financial  expert,'  as  the term is defined by the SEC. Dr. Palomino contributes to the Company through his  education  in  economics  and  finance,  acquired  from  extensive  academic studies, including a PhD in Finance from the Wharton School of the University of Pennsylvania in Philadelphia, Pennsylvania, his expertise, his wise counsel, and the extensive business experience gained from his past and current activities while  serving  as  a  financial  analyst  in  multiple  sectors,  including  the  mining sectors of Mexico and Peru.
+
+Gilberto Perezalonso Cifuentes, Special Independent Director. Mr. Perezalonso has been a director of the Company since June 2002. Currently, Mr. Perezalonso is a member of the board of directors of Gigante, S.A. de C.V. (retail and real estate) and Blasky (hotel chain in Baja California, Mexico). He is also National Vice President of the Cruz Roja Mexicana (Red Cross). Mr. Perezalonso was Chairman of the board of directors of Volaris Compañia de Aviacion, S.A.P.I. de C.V. (airline) from March 2, 2011 to November 2014. He was Chief Executive Officer of Corporacion Geo, S.A. de C.V. (housing construction) from February 2006  to  February  2007.  Mr.  Perezalonso  was  the  Chief  Executive  Officer  of Aeromexico (Aerovias de Mexico, S.A. de C.V.) (airline company) from 2004 until December 2005. From 1998 until April 2001, he was Executive Vice President of Administration and Finance of Grupo Televisa, S.A.B. (media company). From 1980 until February 1998, Mr. Perezalonso held various positions with Grupo Cifra, S.A. de C.V. (retail and department stores), the most recent position being that of General Director of Administration and Finance. He was also a member of the Advisory Council of Banco Nacional de Mexico, S.A. de C.V. (banking), the board of directors and the investment committee of Afore Banamex (banking), the board and the investment committee of Siefore Banamex No. 1 (banking),
+
+Masnegocio Co. S. de R.L. de C.V. (information technology), Intellego (technology), Telefonica  Moviles  Mexico,  S.A.  de  C.V.  (wireless  communication),  Marhnos Construction Company (housing construction), and Fomento de Investigacion y Cultura Superior, A.C. (Foundation of the Iberoamerican University in Mexico). Mr. Perezalonso was also a director of Cablevision, S.A. de C.V., and a member of the audit committee of Grupo Televisa, S.A.B.  from March 1998 to September 2009.  Mr. Perezalonso has a law degree from the Iberoamerican University in Mexico  City,  Mexico  and  a  Master's  degree  in  Business  Administration  from the  Business  Administration  Graduate  School  for  Central  America  (INCAE)  in Nicaragua. Mr. Perezalonso has also attended a Corporate Finance program at Harvard University in Cambridge, Massachusetts.
+
+Mr. Perezalonso is a member of our Audit Committee and a special independent director nominee.  Mr. Perezalonso contributes to the Company the legal and financial  education  acquired  from  extensive  academic  studies,  including  a Master's degree in Business Administration from INCAE in Nicaragua, and his business experience acquired serving in the financial areas of several companies and  as  Chief  Executive  Officer  of  different  companies.  Mr.  Perezalonso  also brings to the Board of Directors his informed judgment and diversified business experience, which as been gained from serving on boards of directors of different Mexican companies.
+
+Carlos Ruiz Sacristan, Special Independent Director. Mr. Ruiz Sacristan has been  a  director  of  the  Company  since  February  12,  2004.  Since  November 2001, he has been the owner and Managing Partner of Proyectos Estrategicos Integrales,  a  Mexican  investment  banking  firm  specialized  in  agricultural, transport, tourism, and housing projects. Since January 2022, he has served as a strategic advisor to Sempra Infrastructure, an operating subsidiary of Sempra Energy. Mr. Ruiz Sacristan has held various distinguished positions in the Mexican government, the most recent being that of Secretary of Communications and Transportation of Mexico from 1995 to 2000. While holding that position, he was also Chairman of the board of directors of the Mexican-owned companies in  the  sector,  and  member  of  the  board  of  directors  of  development  banks. Additionally, he was Chairman of the board of directors of Asarco LLC. Mr. Ruiz Sacristan was Chairman of the board of directors and Executive President of
+
+IEnova,  the  Mexican  operating  subsidiary  of  Sempra  Energy  from  September 2020 to Noviember 2021.   Mr. Ruiz Sacristan was Chief Executive Officer of Sempra North American Infrastructure Group from 2018 until September 2020. Prior to this appointment, he was Chairman and Chief Executive Officer of IEnova from 2012 to 2018 and a member of the board of directors of Sempra Energy from 2007 to 2012. He is a member of the boards of directors of Constructora y Perforadora Latina, S.A. de C.V. (Mexican geothermal exploration and drilling company) and of Banco Ve Por Mas, S.A. (Mexican bank). Mr. Ruiz Sacristan holds a Bachelor's degree in Business Administration from the Anahuac University in Mexico  City,  Mexico,  and  a  Master's  degree  in  Business  Administration  from Northwestern University in Chicago, Illinois.
+
+Mr. Ruiz Sacristan is one of our special independent director nominees. Mr. Ruiz Sacristan contributes to the Company his extensive business studies, including a  Master's  Degree  in  Business  Administration  from  Northwestern  University in Chicago, Illinois, his investment banking experience and his broad business experience as a former Chief Executive Officer of PEMEX (Mexican oil company), combined with his distinguished career in the Mexican government as a former Secretary  of  Communications  and  Transport  of  Mexico  and  as  a  director  of Mexican-owned  enterprises  and  financial  institutions.  Mr.  Ruiz  Sacristan  also brings  to  the  Board  of  Directors  informed  judgment  and  diversified  business experience gained from serving on the board of directors and of the audit, and environmental and technology committees of Sempra Energy, a Fortune 500 energy service company, based in San Diego, California; as the former Chairman of Asarco LLC; and as the Chief Executive Officer of IEnova.
+
+Ilo Smelter - Moquegua, Peru
+
+Kiess
+
+## Executive officers
+
+## GERMAN LARREA MOTA-VELASCO
+
+Chairman of the Board of Directors
+
+OSCAR GONZALEZ ROCHA
+
+President and Chief Executive Officer
+
+## RAUL JACOB RUISANCHEZ
+
+Vice President, Finance Treasurer and Chief Financial Officer
+
+## EDGARD CORRALES AGUILAR
+
+Vice President, Exploration
+
+JORGE LAZALDE PSIHAS
+
+Secretary
+
+ANDRES FERRERO GHISLIERI
+
+General Counsel
+
+## LINA VINGERHOETS VILCA
+
+Comptroller
+
+## RAUL VACA CASTRO
+
+General Auditor
+
+Mill maintenance work
+
+## CONTROLLED COMPANIES- AFFINITY AND INBREEDING
+
+A company with more than 50% of the voting power held by a one single entity is  a  'controlled  company',  and  does  not  need  to  comply  with  the  Corporate Governance  requirements  of  the  New  York  Stock  Exchange  ('NYSE'),  which requires a majority of independent directors and independent Compensation and Nomination/Corporate Governance committees.
+
+SCC  is  a  controlled  company  as  defined  by  the  rules  of  the  NYSE.  Grupo Mexico owns indirectly 88.9% of the stock of the Company, as of December 31,  2022.      The  Company  has  taken  advantage  of  the  exceptions  to  comply with the corporate governance rules of the NYSE.  The Board of Directors of the Company determined that Messrs. Luis Miguel Palomino Bonilla, Gilberto Perezalonso  Cifuentes,  and  Carlos  Ruiz  Sacristan,  the  three  members  of  the Company's Audit Committee, are independent of management and financially literate in accordance with the requirements of the NYSE and the Securities and Exchange  Commission  ('SEC'),  as  such  requirements  are  interpreted  by  the Company's Board of Directors in its business judgment. Additionally, Messrs. Vicente Ariztegui Andreve and Enrique Castillo Sanchez Mejorada are our fourth and fifth independent directors.
+
+At  its  meeting  on  April  28th,  2022,  the  Board  of  Directors  determined  that Messrs. Luis  Miguel  Palomino  Bonilla,  Gilberto  Perezalonso  Cifuentes,  Carlos Ruiz Sacristan, Vicente Ariztegui Andreve, Enrique Castillo Sanchez Mejorada and Rafael Mac Gregor Anciola continue to be independent of management, in  accordance  with  the  requirements  of  the  NYSE  as  such  requirements  are interpreted by our Board of Directors in its business judgment.
+
+## SPECIAL COMMITTEES OF THE BOARD
+
+SCC's Board of Directors has organized the following Special Committees:
+
+1. Executive Committee. It is comprised of five members who substitute for the Board when sessions or decisions are required concerning urgent matters or matters for which the Board would have expressly delegated its mandate.
+2.   Audit Committee. It is comprised of three independent Board members who are  knowledgeable  in  accounting  and  financial  matters.  Its  main  purpose
+
+is  to:  (a)  assist  the  Board  in  monitoring  (i)  the  quality  and  integrity  of  the Company's financial statements; (ii) the qualifications and independence of the independent auditors; (iii) the performance of the internal audit function and of the independent auditors; and (iv) the Company's compliance with legal and regulatory requirements; and (b) prepare the report required by the Securities and Exchange Commission (SEC) rules.
+
+3.   Compensation Committee.  It is comprised of four Board members and its principal objective is to evaluate and establish the remunerations of principal officers and key employees of the Company and its subsidiaries.
+4.   Special  Nominating  Committee.    It  is  comprised  of  two  independents Board members, and one nominated by the Board and it has the exclusive authority to propose and evaluate individuals who are proposed as special independents directors.
+5.   Corporate Governance Committee.  It is comprised of four Board members and has as its primary functions to consider and make recommendations to the Board concerning the appropriate function and needs of the Board, to develop and recommend to the Board corporate governance principles of SCC, to oversee evaluation of the Board and management, and to oversee and  review  compliance  with  the  disclosure  and  reporting  standards  of the  Company  that  require  full,  fair,  accurate,  timely,  and  understandable disclosure  of  material  information  regarding  the  Company  in  reports  and documents that it files with the SEC, the NYSE and equivalent authorities in the countries in which the Company operates, as well as in other public communications that it regularly makes.
+6.   Administrative Committee. It is designated by the Named  Fiduciary appointed by the Board for the benefit plans as required by the Employee Retirement Income Security Act - ERISA of the United States.  ERISA is the law that covers employee retirement and other benefit plans for employees that are US citizens or residents The Named Fiduciary controls and manages the  Company's benefits plans subject to US regulations, including ERISA. This Officer appoints an Administrative Committee, which is comprised of three management members and its purpose is, with delegated authority, to administer and manage said plans and to oversee the performance of the trust agents and other fiduciaries charged with investing the plans' funds.
+
+## Administration and board income
+
+Total  remunerations of  Board  and  Administration  members, in  relation  to  the Company´s gross income is 0.11%.
+
+## Annual meeting
+
+The annual meeting will be hold on May 26th, 2023, at 9:00 hour in Mexico City.
+
+| Corporate Offices:  United States  Mexico  Peru  7310 North 16th, Suite 135  Phoenix, AZ 85020, USA  Phone: +1(602) 264-1375  Campos Eliseos No. 400,  11 floor,  Col. Lomas de Chapultepec  Mexico D.F.  Phone +(52-55) 1103-5000,  Extension 35855  Caminos del Inca Avenue  N° 171  Chacarilla del Estanque  Santiago de Surco,  Cod. Postal 15038, Peru  Phone: +(511) 512-0440, Ext.  63181   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+## Transfer Agent, Registrar and Stockholder Services
+
+Computershare 480 Washington Boulevard Jersey City, NJ 07310-1900 Phone: +1(866)230-0172
+
+## Dividend Reinvestment Program
+
+SCC  stockholders  can  have  their  dividends  automatically  reinvested  in  SCC common shares. SCC pays all administrative and brokerage fees. This plan is administered by Computershare. For more information, contact Computershare at phone +1(866) 230-0172.
+
+## Stock Exchange Listing
+
+The principal markets for SCC's Common Stock are the New York Stock Exchange ('NYSE')  and  the  Lima  Stock  Exchange  ('BVL').  Effective  February  17,  2010, SCC's Common Stock changed its symbol from PCU to SCCO on both the NYSE and the Lima Stock Exchange.
+
+## Others
+
+The Branch in Peru has issued, in accordance with Peruvian law, 'investment shares'  (formerly  named  labor  shares)  that  are  quoted  in  the  Lima  Stock Exchange under the symbol SPCCPI1 and SPCCPI2.
+
+Transfer Agent, registrar and stockholders services to the SCC Common and Investment shareholders are provided by Credicorp Capital, at Av. El Derby 055, Tower 4, 10th floor, Santiago de Surco, Lima, Peru (Cod. Postal 15038-Peru.
+
+Phone +(511) 313-2478.
+
+## OTHER CORPORATE INFORMATION
+
+For other information on the corporation or to obtain additional copies of the annual report, Form 10-K 2022 (free of charge) contact to Investor Relations Department at our corporate offices:
+
+## USA:
+
+7310 North 16th, Suite 135
+
+Phoenix, AZ 85020, USA
+
+Phone: +(602) 264-1375
+
+## Mexico:
+
+Campos Eliseos N° 400, 11 floor Col. Lomas de Chapultepec, Mexico D.F. Phone: +(52-55) 1103-5000, Anexo 35855
+
+## Peru:
+
+Caminos del Inca Avenue N° 171 (B-2), Chacarilla del Estanque, Santiago de Surco Cod postal 15038 - Peru. Phone: + (511) 512-0440, Anexo 63181
+
+Web page: www.southerncoppercorp.com
+
+Email address: southerncopper@southernperu.com.pe
+
+## Members of the Board of Directors
+
+GERMAN LARREA MOTA-VELASCO
+
+OSCAR GONZALEZ ROCHA
+
+VICENTE ARIZTEGUI ANDREVE
+
+ENRIQUE CASTILLO SANCHEZ MEJORADA
+
+LEONARDO CONTRERAS LERDO DE TEJADA
+
+XAVIER GARCIA DE QUEVEDO TOPETE
+
+LUIS MIGUEL PALOMINO BONILLA
+
+GILBERTO PEREZALONSO CIFUENTES
+
+CARLOS RUIZ SACRISTAN
+
+## AUDIT COMMITTEE
+
+LUIS MIGUEL PALOMINO BONILLA
+
+Chairman
+
+VICENTE ARIZTEGUI ANDREVE
+
+ENRIQUE CASTILLO SANCHEZ MEJORADA
+
+Birds at the Ite wetland, Tacna, Peru
+
+<!-- image -->
+
+southerncoppercorp.com

@@ -37,6 +37,7 @@ from sentence_splitter import split_text_into_sentences
 # - mean score for each class given a threshold
 
 # In[2]:
+print("Hello, los gehts")
 
 
 # Parameters: 
@@ -57,8 +58,8 @@ dataset_path = "../data/datasets/german_annual_reports"
 dataset_path = "../data/datasets/stoxx_600"
 dataset_path = "../data/datasets/stoxx_600_extended"
 dataset_path = "../data/datasets/reports_subset_from_full_data_1"
-dataset_path = mypath+"data/datasets/reports_subset_from_full_data_1"
 dataset_path = mypath+"data/datasets/reports_subset_from_full_data_3"
+dataset_path = mypath+"data/datasets/reports_subset_from_full_data_1"
 
 
 # In[4]:
@@ -188,8 +189,9 @@ def preprocess_report(pdf_path: str) -> List[str]:
 
 # In[ ]:
 
+print("Hello", len(reports_path))
 
-for i in range(1,2): 
+for i in range(4,5): 
     nace_level = i
 
     result_path = mypath+ f"results/dataset__{dataset_name}_sentence_len_{sentence_length}__min_chunk_len_{threshold_min_chunk_len}__cos_thresh_{cos_threshold}__nace_level_{nace_level}"
