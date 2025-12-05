@@ -5,6 +5,7 @@
 
 from transformers import DataCollatorWithPadding
 import torch
+import json
 import torch.nn as nn
 from transformers import Trainer
 from sklearn.metrics import classification_report, confusion_matrix, ConfusionMatrixDisplay
@@ -34,7 +35,7 @@ for num_layers in [2]:
 #for num_layers in [2,3,4]:
 
     #for thres in [0.35,0.4,0.45,0.5,0.55]:
-    for thres in [0.5]:
+    for thres in [0.4, 0.45, 0.5]:
     
         #### Run Params
         
@@ -44,11 +45,11 @@ for num_layers in [2]:
         model_name = "bert-base-uncased"
         num_layers = 2
         new_thresh = thres
+        only_labels = True # if False also train a "no-class" class
     
         #####
         
         mypath = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/"
-        
         #data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_topic_analysis_3/data/test_read_training_data_right_classifications/paragraph_and_sentence_len_5_min_chunk_len_100_cos_thresh_0.4_nace_level_1_stoxx_with_null/"
         data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_topic_analysis_3/data/test_read_training_data/paragraph_and_sentence_len_5_min_chunk_len_100_cos_thresh_0.4_nace_level_1_stoxx_with_no_class/"
         data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_topic_analysis_3/data/training_data/paragraph_and_sentence_len_4_min_chunk_len_100_cos_thresh_0.4_nace_level_1_stoxx/"
@@ -56,12 +57,35 @@ for num_layers in [2]:
         data_path = "/Users/hendrikweichel/projects/NaceCodeClassification/nace_report_topic_analysis_3/data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
         data_path = "../../data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
         data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks_labeling"
+        
+        data_path = mypath +f"data/training_data/dataset_reports_subset_from_full_data_1__sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__2nd_approach__nace_level_1__cos_thres_{new_thresh}"
+        dataset_description = "data_approach_2__desc_lvl_level_1"
+        
         data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
-        data_path = mypath + f"data/training_data/dataset_reports_subset_from_full_data_1__sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__2nd_approach__nace_level_1__cos_thres_{new_thresh}"
+        dataset_description = "data_approach_1__desc_lvl_level_1"
         
+        data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_4__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
+        dataset_description = "data_approach_1__desc_lvl_level_4"
         
-        results_path = mypath + f"results/BERT_models/results__new_approach_data__num_layers_{num_layers}__cos_thres_{new_thresh}" + os.path.basename(model_name)
+        data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_3__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
+        dataset_description = "data_approach_1__desc_lvl_level_3"
+        
+        data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_2__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
+        dataset_description = "data_approach_1__desc_lvl_level_2"
+        
+        results_path = mypath + f"results/BERT_models/results__{dataset_description}__num_layers_{num_layers}__cos_thres_{new_thresh}" + os.path.basename(model_name)
         #results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
+
+        training_config = {
+            "data_path" : data_path,
+            "train_full_model" : train_full_model,
+            "all_labels": all_labels,
+            "model_name" : model_name,
+            "num_layers" : num_layers,
+            "new_thresh" : new_thresh,
+            "only_labels": only_labels
+        }
+        
         if train_full_model: 
             results_path += "__train_full_model" 
         else: 
@@ -71,10 +95,15 @@ for num_layers in [2]:
             results_path += "__all_labels" 
         else: 
             results_path += "__some_labels" 
-            
-        os.makedirs(results_path, exist_ok = True)
+
+        if only_labels: 
+            results_path += "__only_labels" 
+        else: 
+            results_path += "__with_no_class" 
         
-        print(results_path)
+        os.makedirs(results_path, exist_ok = True)
+        with open(os.path.join(results_path, "training_config.json"), "w") as f:
+            json.dump(training_config, f)
         
         # In[]:
         
@@ -85,9 +114,9 @@ for num_layers in [2]:
         test_df = pd.read_csv(data_files["test"])
         validation_df = pd.read_csv(data_files["validation"])
         
-        #train_df = train_df[(train_df["Score"] > new_thresh) | (train_df["NACE_Code"] == "NO_CLASS")]
-        #validation_df = validation_df[(validation_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
-        #test_df = test_df[(test_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
+        train_df = train_df[(train_df["Score"] > new_thresh) | (train_df["NACE_Code"] == "NO_CLASS")]
+        validation_df = validation_df[(validation_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
+        test_df = test_df[(test_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
         
         
         if not all_labels: 
@@ -120,7 +149,12 @@ for num_layers in [2]:
             validation_df = validation_df[validation_df["NACE_Code"]!="S"]
             validation_df = validation_df[validation_df["NACE_Code"]!="T"]
             validation_df = validation_df.reset_index(drop=True)
-        
+
+        if only_labels:
+            train_df = train_df[train_df["NACE_Code"]!="NO_CLASS"]
+            test_df = test_df[test_df["NACE_Code"]!="NO_CLASS"]
+            validation_df = validation_df[validation_df["NACE_Code"]!="NO_CLASS"]
+
         
         # Load a custom CSV file
         dataset = DatasetDict({

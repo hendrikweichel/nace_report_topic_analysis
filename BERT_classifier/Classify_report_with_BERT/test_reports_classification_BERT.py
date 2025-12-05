@@ -174,10 +174,12 @@ model_version = "2_1"
 model_version = "1_0"
 if model_version == "1_0":
     ckpt = wor_dir + "/results/BERT_models/results_null_classifiers__cos_thres_0.5__bert-base-uncased__train_full_model__some_labels/checkpoint-2331"
+    num_layers = 1
 elif model_version == "2_1":
     ckpt = wor_dir + "/results/BERT_models/_best_2nd_results__new_approach_data__num_layers_2__cos_thres_0.5bert-base-uncased__train_full_model__some_labels/checkpoint-4800"
+    num_layers = 2
 
-model = classification_report_BERT.load_custom_bert_from_checkpoint(ckpt_path=ckpt)
+model = classification_report_BERT.load_custom_bert_from_checkpoint(ckpt_path=ckpt, num_layers_base=num_layers)
 tokenizer = AutoTokenizer.from_pretrained(ckpt)
 
 # In[ ]:
@@ -186,10 +188,11 @@ import random
 
 random.shuffle(reports_path)
 
+
 for i in range(1,2):
     nace_level = i
 
-    result_path = wor_dir + f"/results/BERT_classification/model_{model_version}__dataset__{dataset_name}_sentence_len_{sentence_length}__nace_level_{nace_level}"
+    result_path = wor_dir + f"/results/BERT_classification/model_{model_version}__with_relevancy__dataset__{dataset_name}_sentence_len_{sentence_length}__nace_level_{nace_level}"
     os.makedirs(result_path, exist_ok=True)
     config = {"model": ckpt, "dataset": dataset_name}
     with open(os.path.join(result_path, "config.json"), "w") as f: 

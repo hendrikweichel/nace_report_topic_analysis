@@ -84,7 +84,7 @@ def get_evaluation(classification: dict, label: str, df_nace_codes_descriptions,
         try: 
             position = [k.split("_")[0] for k in new_classification].index(str(all_levels_label[level]))
         except ValueError: 
-            position = None
+            position = len(new_classification) + 1
 
         evaluation["nace_lvl_1"] = all_levels_label[1]
         evaluation["position_lvl_" + str(level)] = position
@@ -205,6 +205,7 @@ def test_report_classification(reports_path: List[str],
     df_nace_codes_descriptions = pd.read_csv(path_nace_code_descriptions, sep="\t")
 
     for report_path in tqdm.tqdm((reports_path)): 
+        print(report_path)
 
         label = report_to_nace_class.get(os.path.basename(report_path))
         level_1_label = get_all_level(label)[1]
