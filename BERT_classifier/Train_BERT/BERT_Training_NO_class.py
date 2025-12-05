@@ -26,7 +26,7 @@ import pandas as pd
 from datasets import DatasetDict, Dataset
 import time 
 from safetensors.torch import load_file  # comes with HF if safetensors installed
-
+from scipy.special import softmax
 # In[]:
 
 tik = time.time()
@@ -354,6 +354,29 @@ for num_layers in [2]:
         with open(results_path + "/results_txt.txt", "w") as f:
             f.write(results_txt)
         
+        with open(results_path + "/results.json", "w") as f:
+            json.dump(classification_report(tokenized_datasets["test"]["label"], predicted_labels, output_dict=True), f)
+
+        # create false classified dataset
+        false_classified = ~(np.array(tokenized_datasets["test"]["label"][:100]) == predicted_labels)
+
+        false_classified_df = pd.DataFrame(
+            np.array([
+                np.array(tokenized_datasets["test"]["label"][:100])[false_classified], 
+                predicted_labels[false_classified], 
+                np.array(tokenized_datasets["test"]["text"][:100])[false_classified],        
+            ]).T,
+            columns=["label", "prediction", "text"],)
+
+        false_classified_df["probabilities"] = false_classified_df["prediction"].apply(
+            lambda pred: dict(sorted(
+                {id2label[i]: p for i, p in enumerate(softmax(predictions.predictions[false_classified][np.where(false_classified_df["prediction"] == pred)[0][0]]))}.items(),
+                key=lambda item: item[1], reverse=True
+            ))
+        )
+        false_classified_df["notes"] = None
+        false_classified_df.to_csv(os.path.join(results_path, "false_classifications.csv"))
+
         logs = pd.DataFrame(trainer.state.log_history)
         logs.head()
         
