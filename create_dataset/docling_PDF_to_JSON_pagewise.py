@@ -7,8 +7,8 @@ import os
 import glob
 import json
 
-pdfs_path = "projects/nace_classification/nace_report_topic_analysis/data/datasets/stoxx_600/company_descriptions"
-texts_path = "projects/nace_classification/nace_report_topic_analysis/data/datasets/stoxx_600/company_descriptions_txt"
+pdfs_path = "projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_3/PDFs"
+texts_path = "projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_3/JSONs"
 
 pdfs = glob.glob(pdfs_path + "/*.pdf")
 print(pdfs)
@@ -30,14 +30,14 @@ doc_converter = DocumentConverter(
 )
 
 os.makedirs(texts_path, exist_ok=True)
-print("HI")
+
 for pdf in tqdm.tqdm(pdfs):
     #try:
     if True: 
         print("Converting:", pdf)
 
         out_path = os.path.join(
-            texts_path, os.path.splitext(os.path.basename(pdf))[0] + ".txt"
+            texts_path, os.path.splitext(os.path.basename(pdf))[0] + ".json"
         )
         
         if os.path.isfile(out_path): 
@@ -49,13 +49,12 @@ for pdf in tqdm.tqdm(pdfs):
             continue
         doc = result.document
         
-        pages = ""
+        pages = []
         # Option A: directly export a single page to Markdown
         print(doc.num_pages())
         for i in range(doc.num_pages()):              # 0-based
             md = doc.export_to_markdown(page_no=i)  # page-wise export
-            #pages.append({"page": i + 1, "markdown": md})
-            pages += md + "\nhalloo"
+            pages.append({"page": i + 1, "markdown": md})
 
         # If you’d rather have plain text instead of Markdown, replace the loop by:
         # for i in range(doc.num_pages):
@@ -67,21 +66,10 @@ for pdf in tqdm.tqdm(pdfs):
             "num_pages": doc.num_pages(),
             "pages": pages,
         }
-        print("pages")
-        print(pages)
-        print()
-        print()
-        print()
-        print("md")
-        print(md)
-        print()
-        print()
-        print()
-        print()
+        
         print(out_path)
         with open(out_path, "w", encoding="utf-8") as f:
-            #json.dump(out, f)
-            f.write(pages)
+            json.dump(out, f)
             print("stored at", out_path)
 
     #except RuntimeError as e:
