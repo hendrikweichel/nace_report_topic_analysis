@@ -113,7 +113,6 @@ def get_relevancy_model(ckpt_path: str = wor_dir + "/results/BERT_models/relevan
     
     return model_binary
 
-
 @lru_cache(1)
 def get_relevancy_tokenizer(ckpt_path: str = wor_dir + "/results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
     return AutoTokenizer.from_pretrained(ckpt_path) 

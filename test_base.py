@@ -8,7 +8,7 @@ import ast
 
 mypath = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/benchmark"
 
-os.chdir(mypath)
+#os.chdir(mypath)
 
 def translate_classification_to_other_level(classification, other_level, df_nace_codes_descriptions=None): 
     """ Take one classificaiton to another level, therefore: 
@@ -201,6 +201,7 @@ def test_report_classification(reports_path: List[str],
 
     if path_nace_code_descriptions is None: 
         path_nace_code_descriptions = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
+        path_nace_code_descriptions = "../data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
         
     df_nace_codes_descriptions = pd.read_csv(path_nace_code_descriptions, sep="\t")
 
@@ -267,6 +268,3 @@ def test_report_classification(reports_path: List[str],
         df_recording.to_csv(os.path.join(result_path, "recordings.csv"))
 
     return df_recording
-
-
-
