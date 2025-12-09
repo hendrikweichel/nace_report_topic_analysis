@@ -365,26 +365,19 @@ print(classification_report(tokenized_datasets["test"]["label"], predicted_label
 results_txt = str(classification_report(tokenized_datasets["test"]["label"], predicted_labels)) + "\n"
 results_txt += "\n\n\nTime: " + str(time.time() - tik)
 
-false_classified = ~(np.array(tokenized_datasets["test"]["label"]) == predicted_labels)
+false_classified = ~(np.array(tokenized_datasets["test"]["label"]) == predicted_labels.flatten())
 
 false_classified_df = pd.DataFrame(
     np.array([
         np.array(tokenized_datasets["test"]["label"])[false_classified], 
-        predicted_labels[false_classified], 
+        predicted_labels[false_classified].flatten(), 
         np.array(tokenized_datasets["test"]["text"])[false_classified],        
+        probs[false_classified].flatten(), 
     ]).T,
-    columns=["label", "prediction", "text"],)
+    columns=["label", "prediction", "text", "probabilities"])
         
-false_classified_df["label"] = false_classified_df["label"].apply(lambda x: id2label[int(x)])
-false_classified_df["prediction"] = false_classified_df["prediction"].apply(lambda x: id2label[int(x)])
-        
-false_classified_df["probabilities"] = false_classified_df["prediction"].apply(
-lambda pred: dict(sorted(
-                {id2label[i]: p for i, p in enumerate(softmax(predictions.predictions[false_classified][np.where(false_classified_df["prediction"] == pred)[0][0]]))}.items(),
-                key=lambda item: item[1], reverse=True
-            ))
-        )
 false_classified_df["notes"] = None
+
 false_classified_df.to_csv(os.path.join(results_path, "false_classifications.csv"))
 
 # Confusion matrix
