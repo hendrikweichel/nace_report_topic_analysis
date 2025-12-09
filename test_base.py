@@ -228,7 +228,7 @@ def test_report_classification(reports_path: List[str],
         chunks = [chunk for chunk in chunks if len(chunk) > threshold_min_chunk_len]
         
         # remove duplicates
-        chunks = list(set(chunks))
+        chunks = list(dict.fromkeys(chunks))
         
         if len(chunks) == 0:
             continue

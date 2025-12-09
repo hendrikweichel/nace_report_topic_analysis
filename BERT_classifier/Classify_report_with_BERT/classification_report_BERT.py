@@ -14,7 +14,7 @@ import os
 from functools import lru_cache
 
 wor_dir = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis"
-
+RELEVANCY_MODEL = "/results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"
 
 def load_model(ckpt_path: str):
     """
@@ -84,7 +84,7 @@ def BERT_classification_chunk(chunk: str, model, tokenizer):
     return logits
 
 @lru_cache(1)
-def get_relevancy_model(ckpt_path: str = wor_dir + "/results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
+def get_relevancy_model(ckpt_path: str = wor_dir + RELEVANCY_MODEL): 
     # load checkpoint
     config = AutoConfig.from_pretrained(ckpt_path)
     
@@ -113,8 +113,20 @@ def get_relevancy_model(ckpt_path: str = wor_dir + "/results/BERT_models/relevan
     
     return model_binary
 
+def get_treshold_relevancy_model(ckpt_path: str = wor_dir + RELEVANCY_MODEL): 
+    path = os.path.dirname(ckpt_path)
+    config_json_path = os.path.join(path, "config.json")
+    if os.path.isfile(config_json_path):
+        try:
+            with open(config_json_path, "r", encoding="utf-8") as f:
+                cfg = json.load(f)
+            if "threshold" in cfg:
+                return cfg["threshold"]
+        except Exception:
+            return 0.5
+
 @lru_cache(1)
-def get_relevancy_tokenizer(ckpt_path: str = wor_dir + "/results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"): 
+def get_relevancy_tokenizer(ckpt_path: str = wor_dir + RELEVANCY_MODEL): 
     return AutoTokenizer.from_pretrained(ckpt_path) 
 
 def relevancy_classification(chunk): 
@@ -201,11 +213,11 @@ def classify_report(chunks: list,
     sentence_classification["Sentences"] = chunks
 
     # add the relevancy check
-
-    tik = time.time()    
+    tik = time.time()
+    treshold_relevancy_model = get_treshold_relevancy_model()
     if True: 
         sentence_classification["Relevancy_sig"] = sentence_classification["Sentences"].apply(relevancy_classification)
-        sentence_classification["Relevancy_over_0_5"] = sentence_classification["Relevancy_sig"] > 0.5
+        sentence_classification["Relevancy_over_0_5"] = sentence_classification["Relevancy_sig"] > treshold_relevancy_model
     time_relevancy = time.time()-tik
     
     os.makedirs(os.path.join(result_path, os.path.basename(report_path)), exist_ok=True)
