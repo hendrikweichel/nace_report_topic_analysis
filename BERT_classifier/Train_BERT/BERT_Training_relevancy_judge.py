@@ -357,6 +357,7 @@ model.config.save_pretrained(trainer.args.output_dir)
 
 # Generate predictions
 predictions = trainer.predict(tokenized_datasets["test"])
+logits = predictions.predictions        
 probs = torch.sigmoid(torch.tensor(logits)).numpy()
 predicted_labels = probs > best_t
 
