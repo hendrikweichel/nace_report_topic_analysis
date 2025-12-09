@@ -42,7 +42,6 @@ dataset_path = "data/datasets/reports_subset_from_full_data_1"
 dataset_path = wor_dir + "/data/datasets/stoxx_600"
 dataset_path = wor_dir + "/data/datasets/reports_subset_from_full_data_1"
 
-
 # In[5]:
 
 

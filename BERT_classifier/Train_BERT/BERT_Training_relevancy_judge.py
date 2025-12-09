@@ -35,10 +35,10 @@ tik = time.time()
 
 #### Run Params
 
-train_full_model = False
+train_full_model = True
 model_name = "ProsusAI/finbert"
 model_name = "bert-base-uncased"
-num_layers = 2
+num_layers = 3
 
 #####
 
@@ -54,8 +54,9 @@ data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_
 data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
 data_path = mypath + "data/training_data/test_dataset_sentiment"
 data_path = mypath + "data/training_data/company_description"
+data_path = mypath + "data/training_data/company_description_2"
 
-results_path = mypath + f"results/BERT_models/Relevancy_Classifier/relevancy_judge__2__num_layers_{num_layers}__train_full_model_{train_full_model}" + os.path.basename(model_name)
+results_path = mypath + f"results/BERT_models/Relevancy_Classifier/relevancy_judge__2__dataset__2__num_layers_{num_layers}__train_full_model_{train_full_model}_" + os.path.basename(model_name)
 #results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
     
 os.makedirs(results_path, exist_ok = True)
@@ -113,13 +114,10 @@ dataset = DatasetDict({
 
 # In[56]:
 
-
 label_mapping = {char: val for val, char in enumerate(set(train_df["label"]))}
 #dataset = dataset.map(lambda x: {"label": int(x["NACE_Code"])})
 
-
 # In[57]:
-
 
 # Initialize the BERT tokenizer
 tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -331,23 +329,33 @@ trainer.train()
 val_predictions = trainer.predict(tokenized_datasets["validation"])
 logits = val_predictions.predictions        
 probs = torch.sigmoid(torch.tensor(logits)).numpy()
-true_labels = np.array(tokenized_datasets["test"]["label"])
+true_labels = np.array(tokenized_datasets["validation"]["label"])
 
 thresholds = np.linspace(0.01, 0.99, 99)
 best_precision = -1
+best_t = None
+
+thresholds = np.linspace(0.01, 0.99, 99)
+best_f1 = -1
 best_t = None
 
 for t in thresholds:
     preds = probs > t
     preds = preds.flatten()
     
-    # precision = recall_score(true_labels, preds, average="macro")
-    # precision = f1_score(true_labels, preds, average="macro")
-    precision = precision_score(true_labels, preds, average="macro")
-    
-    if precision > best_precision:
-        best_precision = precision
+    #precision = recall_score(true_labels, preds, average="macro")
+    f1 = f1_score(true_labels, preds, average="macro")
+    #precision = precision_score(true_labels, preds, average="macro")
+    print(f1)
+    if f1 > best_f1:
+        best_f1 = f1
         best_t = t
+
+print("Best threshold:", best_t)
+print("Best macro precision:", best_f1)
+
+model.config.threshold = best_t
+#model.config.save_pretrained(trainer.args.output_dir)
 
 print("Best threshold:", best_t)
 print("Best macro precision:", best_precision)
@@ -413,4 +421,16 @@ plt.savefig(results_path + "/losses.png")
 
 # In[ ]:
 
+all_test_df = pd.DataFrame(
+    np.array([
+        np.array(tokenized_datasets["test"]["label"]), 
+        predicted_labels.flatten(), 
+        np.array(tokenized_datasets["test"]["text"]),        
+        probs.flatten(), 
+    ]).T,
+    columns=["label", "prediction", "text", "probabilities"])
+        
+all_test_df["positive"] = all_test_df["prediction"] == all_test_df["label"]
+all_test_df["notes"] = None
 
+all_test_df.to_csv(os.path.join(results_path, "all_test_df.csv"))
