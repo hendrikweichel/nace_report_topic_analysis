@@ -14,7 +14,7 @@ import os
 from functools import lru_cache
 
 wor_dir = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis"
-RELEVANCY_MODEL = "/results/BERT_models/relevancy_judge__2__num_layers_1__cos_thres_0.35__train_full_model_Truebert-base-uncased__train_full_model__all_labels/checkpoint-88"
+RELEVANCY_MODEL = os.path.join(wor_dir, "results/BERT_models/Relevancy_Classifier/relevancy_judge__2__dataset__2__num_layers_2__train_full_model_True_bert-base-uncased/checkpoint-110")
 
 def load_model(ckpt_path: str):
     """
@@ -84,7 +84,7 @@ def BERT_classification_chunk(chunk: str, model, tokenizer):
     return logits
 
 @lru_cache(1)
-def get_relevancy_model(ckpt_path: str = wor_dir + RELEVANCY_MODEL): 
+def get_relevancy_model(ckpt_path: str = RELEVANCY_MODEL): 
     # load checkpoint
     config = AutoConfig.from_pretrained(ckpt_path)
     
@@ -113,7 +113,7 @@ def get_relevancy_model(ckpt_path: str = wor_dir + RELEVANCY_MODEL):
     
     return model_binary
 
-def get_treshold_relevancy_model(ckpt_path: str = wor_dir + RELEVANCY_MODEL): 
+def get_treshold_relevancy_model(ckpt_path: str = RELEVANCY_MODEL): 
     path = os.path.dirname(ckpt_path)
     config_json_path = os.path.join(path, "config.json")
     if os.path.isfile(config_json_path):
@@ -126,7 +126,7 @@ def get_treshold_relevancy_model(ckpt_path: str = wor_dir + RELEVANCY_MODEL):
             return 0.5
 
 @lru_cache(1)
-def get_relevancy_tokenizer(ckpt_path: str = wor_dir + RELEVANCY_MODEL): 
+def get_relevancy_tokenizer(ckpt_path: str = RELEVANCY_MODEL): 
     return AutoTokenizer.from_pretrained(ckpt_path) 
 
 def relevancy_classification(chunk): 

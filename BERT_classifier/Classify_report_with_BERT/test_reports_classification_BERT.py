@@ -187,6 +187,7 @@ import random
 
 random.shuffle(reports_path)
 
+print("LETS GO")
 
 for i in range(1,2):
     nace_level = i
