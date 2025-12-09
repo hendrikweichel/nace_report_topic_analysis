@@ -26,7 +26,7 @@ import pandas as pd
 from datasets import DatasetDict, Dataset
 import time 
 from safetensors.torch import load_file  # comes with HF if safetensors installed
-
+from sklearn.metrics import f1_score, precision_score, recall_score
 
 # In[50]:
 
@@ -36,10 +36,9 @@ tik = time.time()
 #### Run Params
 
 train_full_model = False
-all_labels = True
 model_name = "ProsusAI/finbert"
 model_name = "bert-base-uncased"
-num_layers = 1
+num_layers = 2
 
 #####
 
@@ -56,24 +55,12 @@ data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_
 data_path = mypath + "data/training_data/test_dataset_sentiment"
 data_path = mypath + "data/training_data/company_description"
 
-new_thresh = 0.35
-
-results_path = mypath + f"results/BERT_models/Relevancy_Classifier/relevancy_judge__2__num_layers_{num_layers}__cos_thres_{new_thresh}__train_full_model_{train_full_model}" + os.path.basename(model_name)
+results_path = mypath + f"results/BERT_models/Relevancy_Classifier/relevancy_judge__2__num_layers_{num_layers}__train_full_model_{train_full_model}" + os.path.basename(model_name)
 #results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
-if train_full_model: 
-    results_path += "__train_full_model" 
-else: 
-    results_path += "__train_classifier_only" 
-
-if all_labels: 
-    results_path += "__all_labels" 
-else: 
-    results_path += "__some_labels" 
     
 os.makedirs(results_path, exist_ok = True)
 
 print(results_path)
-
 
 # In[51]:
 
@@ -338,10 +325,38 @@ print(results)
 
 # In[ ]:
 
+# Generate predictions
+val_predictions = trainer.predict(tokenized_datasets["validation"])
+val_predicted_labels = val_predictions.predictions.argmax(axis=-1)
+logits = val_predictions.predictions          # shape: (N, num_labels)
+probs = torch.sigmoid(torch.tensor(logits)).numpy()
+true_labels = np.array(tokenized_datasets["test"]["label"])
+thresholds = np.linspace(0.01, 0.99, 99)
+best_precision = -1
+best_t = None
+
+for t in thresholds:
+    preds = probs > t
+    preds = preds.flatten()
+    
+    # precision = recall_score(true_labels, preds, average="macro")
+    # precision = f1_score(true_labels, preds, average="macro")
+    precision = precision_score(true_labels, preds, average="macro")
+    
+    if precision > best_precision:
+        best_precision = precision
+        best_t = t
+
+print("Best threshold:", best_t)
+print("Best macro precision:", best_precision)
+
+model.config.threshold = best_t
+model.config.save_pretrained(trainer.args.output_dir)
+
 
 # Generate predictions
 predictions = trainer.predict(tokenized_datasets["test"])
-predicted_labels = np.array(predictions.predictions) > 0.5
+predicted_labels = np.array(predictions.predictions) > best_t
 
 print(predictions.predictions)
 print(predicted_labels)
