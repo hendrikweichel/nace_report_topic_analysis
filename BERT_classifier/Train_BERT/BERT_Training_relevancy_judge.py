@@ -58,7 +58,7 @@ data_path = mypath + "data/training_data/company_description"
 
 new_thresh = 0.35
 
-results_path = mypath + f"results/BERT_models/relevancy_judge__2__num_layers_{num_layers}__cos_thres_{new_thresh}__train_full_model_{train_full_model}" + os.path.basename(model_name)
+results_path = mypath + f"results/BERT_models/Relevancy_Classifier/relevancy_judge__2__num_layers_{num_layers}__cos_thres_{new_thresh}__train_full_model_{train_full_model}" + os.path.basename(model_name)
 #results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
 if train_full_model: 
     results_path += "__train_full_model" 
@@ -348,9 +348,30 @@ print(predicted_labels)
 
 # Classification report
 print(classification_report(tokenized_datasets["test"]["label"], predicted_labels))
-
 results_txt += str(classification_report(tokenized_datasets["test"]["label"], predicted_labels)) + "\n"
 results_txt += "\n\n\nTime: " + str(time.time() - tik)
+
+false_classified = ~(np.array(tokenized_datasets["test"]["label"]) == predicted_labels)
+
+false_classified_df = pd.DataFrame(
+    np.array([
+        np.array(tokenized_datasets["test"]["label"])[false_classified], 
+        predicted_labels[false_classified], 
+        np.array(tokenized_datasets["test"]["text"])[false_classified],        
+    ]).T,
+    columns=["label", "prediction", "text"],)
+        
+false_classified_df["label"] = false_classified_df["label"].apply(lambda x: id2label[int(x)])
+false_classified_df["prediction"] = false_classified_df["prediction"].apply(lambda x: id2label[int(x)])
+        
+false_classified_df["probabilities"] = false_classified_df["prediction"].apply(
+lambda pred: dict(sorted(
+                {id2label[i]: p for i, p in enumerate(softmax(predictions.predictions[false_classified][np.where(false_classified_df["prediction"] == pred)[0][0]]))}.items(),
+                key=lambda item: item[1], reverse=True
+            ))
+        )
+false_classified_df["notes"] = None
+false_classified_df.to_csv(os.path.join(results_path, "false_classifications.csv"))
 
 # Confusion matrix
 cm = confusion_matrix(tokenized_datasets["test"]["label"], predicted_labels, normalize="true")
@@ -383,7 +404,5 @@ plt.savefig(results_path + "/losses.png")
 
 
 # In[ ]:
-
-
 
 

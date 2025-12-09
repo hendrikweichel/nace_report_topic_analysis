@@ -31,14 +31,36 @@ from scipy.special import softmax
 
 tik = time.time()
 
+def get_experiment_nbr(base_dir="results"):
+
+    # List existing experiment folders
+    existing = [
+        d[:3] for d in os.listdir(base_dir)
+        if os.path.isdir(os.path.join(base_dir, d)) and d[:3].isdigit()
+    ]
+
+    # Determine next experiment number
+    if existing:
+        next_num = max(int(d) for d in existing) + 1
+    else:
+        next_num = 1
+
+    # Format as 3 digits with leading zeros
+    folder_name = f"{next_num:03d}"
+
+    return folder_name
+
+
 for num_layers in [2]:
 #for num_layers in [2,3,4]:
 
+    #thres = 0.4
+    description_class = 1
     #for thres in [0.35,0.4,0.45,0.5,0.55]:
-    for thres in [0.4, 0.45, 0.5]:
-    
+    #for description_class in [1,2,3,4]:
+    for thres in [0.4]:
         #### Run Params
-        
+
         train_full_model = True
         all_labels = False
         model_name = "ProsusAI/finbert"
@@ -72,21 +94,23 @@ for num_layers in [2]:
         
         data_path = mypath + "data/training_data/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_2__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
         dataset_description = "data_approach_1__desc_lvl_level_2"
-        
-        results_path = mypath + f"results/BERT_models/results__{dataset_description}__num_layers_{num_layers}__cos_thres_{new_thresh}" + os.path.basename(model_name)
-        #results_path = mypath + f"results/BERT_models/___results_null_classifiers__cos_thres_{new_thresh}__num_layers_{num_layers}" + os.path.basename(model_name)
 
-        training_config = {
-            "data_path" : data_path,
-            "train_full_model" : train_full_model,
-            "all_labels": all_labels,
-            "model_name" : model_name,
-            "num_layers" : num_layers,
-            "new_thresh" : new_thresh,
-            "only_labels": only_labels
-        }
+        # description_class
+
+        data_path = mypath + f"data/training_data/approach_1/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_{description_class}__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1"
+        dataset_description = f"data_approach_1__desc_lvl_level_{description_class}"
         
-        if train_full_model: 
+        data_path = mypath + "data/training_data/approach_1/dataset__reports_subset_from_full_data_1_sentence_len_6__min_chunk_len_100__cos_thresh_0.4__nace_level_1__sample_ratio_1__filter_only_right_chunks__with_null_classifiers__nace_level_1__cos_thres_0.5"
+        dataset_description = "data_approach_1__desc_lvl_level_1"
+
+
+        
+        results_path = mypath + f"results/BERT_models/NACE_classification/"
+        
+        experiment_nbr = get_experiment_nbr(results_path)
+        results_path = results_path + f"{experiment_nbr}_results__{dataset_description}__num_layers_{num_layers}__cos_thres_{new_thresh}" + os.path.basename(model_name)
+        
+        if train_full_model:
             results_path += "__train_full_model" 
         else: 
             results_path += "__train_classifier_only" 
@@ -102,8 +126,6 @@ for num_layers in [2]:
             results_path += "__with_no_class" 
         
         os.makedirs(results_path, exist_ok = True)
-        with open(os.path.join(results_path, "training_config.json"), "w") as f:
-            json.dump(training_config, f)
         
         # In[]:
         
@@ -244,7 +266,7 @@ for num_layers in [2]:
             learning_rate=5e-5,              # Start with a small learning rate
             per_device_train_batch_size=16,  # Batch size per GPU
             per_device_eval_batch_size=16,
-            num_train_epochs=10,              # Number of epochs
+            num_train_epochs=1,              # Number of epochs
             weight_decay=0.01,               # Regularization
             save_total_limit=1,              # Limit checkpoints to save space
             load_best_model_at_end=True,     # Automatically load the best checkpoint
@@ -317,7 +339,26 @@ for num_layers in [2]:
                 early_stopping_threshold=0.0    # optional min improvement; e.g. 1e-4
             )]
         )
+
+        ### Store config
+
+        training_config = {
+            "data_path" : data_path,
+            "train_full_model" : train_full_model,
+            "all_labels": all_labels,
+            "model_name" : model_name,
+            "num_layers" : num_layers,
+            "new_thresh" : new_thresh,
+            "only_labels": only_labels, 
+            "len_test": len(test_df),
+            "len_train": len(train_df),
+            "len_val": len(validation_df), 
+            "test_distribution": test_df.groupby("NACE_Code").count()["Score"].to_dict() 
+        }
+        with open(os.path.join(results_path, "training_config.json"), "w") as f:
+            json.dump(training_config, f)
         
+
         # In[]:
         
         # Start trainingO
@@ -331,6 +372,8 @@ for num_layers in [2]:
         results_txt = str(results)
         
         print(results)
+
+        
         # In[]:
         
         # Generate predictions
@@ -358,16 +401,19 @@ for num_layers in [2]:
             json.dump(classification_report(tokenized_datasets["test"]["label"], predicted_labels, output_dict=True), f)
 
         # create false classified dataset
-        false_classified = ~(np.array(tokenized_datasets["test"]["label"][:100]) == predicted_labels)
+        false_classified = ~(np.array(tokenized_datasets["test"]["label"]) == predicted_labels)
 
         false_classified_df = pd.DataFrame(
             np.array([
-                np.array(tokenized_datasets["test"]["label"][:100])[false_classified], 
+                np.array(tokenized_datasets["test"]["label"])[false_classified], 
                 predicted_labels[false_classified], 
-                np.array(tokenized_datasets["test"]["text"][:100])[false_classified],        
+                np.array(tokenized_datasets["test"]["text"])[false_classified],        
             ]).T,
             columns=["label", "prediction", "text"],)
-
+        
+        false_classified_df["label"] = false_classified_df["label"].apply(lambda x: id2label[int(x)])
+        false_classified_df["prediction"] = false_classified_df["prediction"].apply(lambda x: id2label[int(x)])
+        
         false_classified_df["probabilities"] = false_classified_df["prediction"].apply(
             lambda pred: dict(sorted(
                 {id2label[i]: p for i, p in enumerate(softmax(predictions.predictions[false_classified][np.where(false_classified_df["prediction"] == pred)[0][0]]))}.items(),
