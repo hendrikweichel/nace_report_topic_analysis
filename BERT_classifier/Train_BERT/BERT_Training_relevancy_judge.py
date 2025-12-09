@@ -278,17 +278,19 @@ class WeightedBCELossTrainer(Trainer):
         logits = logits.view(-1)
         labels = labels.view(-1)
 
-        print("Logits: ", logits)
-        print("Labels: ", labels)
+        # print("Logits: ", logits)
+        # print("Labels: ", labels)
         
         loss_fn = nn.BCEWithLogitsLoss(
             pos_weight=self.pos_weight.to(logits.device) if self.pos_weight is not None else None
         )
         loss = loss_fn(logits, labels)
 
-        print("Loss: ", loss)
+        # print("Loss: ", loss)
         
         return (loss, outputs) if return_outputs else loss
+    
+
 trainer = WeightedBCELossTrainer(
     model=model,
     args=training_args,
@@ -314,23 +316,23 @@ trainer.train()
 
 # In[ ]:
 
+################################################################################################################
+#### Evaluation
+################################################################################################################
+
 
 # Evaluate the model
-results = trainer.evaluate()
+# results = trainer.evaluate()
+# results_txt = str(results)
+# print(results)
 
-results_txt = str(results)
+# Generate Threshold
 
-print(results)
-
-
-# In[ ]:
-
-# Generate predictions
 val_predictions = trainer.predict(tokenized_datasets["validation"])
-val_predicted_labels = val_predictions.predictions.argmax(axis=-1)
-logits = val_predictions.predictions          # shape: (N, num_labels)
+logits = val_predictions.predictions        
 probs = torch.sigmoid(torch.tensor(logits)).numpy()
 true_labels = np.array(tokenized_datasets["test"]["label"])
+
 thresholds = np.linspace(0.01, 0.99, 99)
 best_precision = -1
 best_t = None
@@ -353,17 +355,14 @@ print("Best macro precision:", best_precision)
 model.config.threshold = best_t
 model.config.save_pretrained(trainer.args.output_dir)
 
-
 # Generate predictions
 predictions = trainer.predict(tokenized_datasets["test"])
-predicted_labels = np.array(predictions.predictions) > best_t
-
-print(predictions.predictions)
-print(predicted_labels)
+probs = torch.sigmoid(torch.tensor(logits)).numpy()
+predicted_labels = probs > best_t
 
 # Classification report
 print(classification_report(tokenized_datasets["test"]["label"], predicted_labels))
-results_txt += str(classification_report(tokenized_datasets["test"]["label"], predicted_labels)) + "\n"
+results_txt = str(classification_report(tokenized_datasets["test"]["label"], predicted_labels)) + "\n"
 results_txt += "\n\n\nTime: " + str(time.time() - tik)
 
 false_classified = ~(np.array(tokenized_datasets["test"]["label"]) == predicted_labels)
