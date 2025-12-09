@@ -39,8 +39,8 @@ sentence_length = 6
 dataset_path = "data/datasets/german_annual_reports"
 dataset_path = "data/datasets/stoxx_600_extended"
 dataset_path = "data/datasets/reports_subset_from_full_data_1"
-dataset_path = wor_dir + "/data/datasets/stoxx_600"
 dataset_path = wor_dir + "/data/datasets/reports_subset_from_full_data_1"
+dataset_path = wor_dir + "/data/datasets/stoxx_600"
 
 # In[5]:
 
@@ -55,10 +55,12 @@ dataset_name = os.path.basename(dataset_path)
 # In[6]:
 
 
-nace_classes = pd.read_csv(over_view_df_path, index_col=0, sep=",")
-nace_classes.head()
-
-
+try:
+    nace_classes = pd.read_csv(over_view_df_path, index_col=0, sep=",")
+    nace_classes.head()
+except pd.errors.ParserError:
+    nace_classes = pd.read_csv(over_view_df_path, index_col=0, sep=";")
+    
 # In[7]:
 
 
@@ -192,7 +194,7 @@ print("LETS GO")
 for i in range(1,2):
     nace_level = i
 
-    result_path = wor_dir + f"/results/BERT_classification/model_{model_version}__with_relevancy__dataset__{dataset_name}_sentence_len_{sentence_length}__nace_level_{nace_level}"
+    result_path = wor_dir + f"/results/BERT_classification/rel_only_model_{model_version}__with_relevancy__dataset__{dataset_name}_sentence_len_{sentence_length}__nace_level_{nace_level}"
     os.makedirs(result_path, exist_ok=True)
     config = {"model": ckpt, "dataset": dataset_name}
     with open(os.path.join(result_path, "config.json"), "w") as f: 

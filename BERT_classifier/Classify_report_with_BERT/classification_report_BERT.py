@@ -93,7 +93,7 @@ def get_relevancy_model(ckpt_path: str = RELEVANCY_MODEL):
     
     # 3. Rebuild the SAME classifier architecture as in training
     hidden = getattr(config, "custom_hidden", 512)  # fallback if not in config
-    num_layers = getattr(config, "custom_num_layers", 1)
+    num_layers = getattr(config, "custom_num_layers", 2)
     
     layers = []
     for i in range(num_layers):
@@ -180,9 +180,10 @@ def classify_report(chunks: list,
     tik = time.time()    
     for chunk in (chunks):
 
-        logits = BERT_classification_chunk(chunk, 
-                                           model=model, 
-                                           tokenizer=tokenizer)
+        #logits = BERT_classification_chunk(chunk, 
+        #                                   model=model, 
+        #                                   tokenizer=tokenizer)
+        logits = torch.tensor(np.ones(len(model.config.id2label)))
         chunk_logits.append(logits)
         
         label_scores = {
