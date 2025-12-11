@@ -1,6 +1,7 @@
 import re
 from typing import List
 from sentence_splitter import split_text_into_sentences
+from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
 def get_tables(lines: list): 
     tables = []
@@ -95,7 +96,7 @@ import re
 def preprocess_report_into_bert_chunks(
     pdf_path: str,
     tokenizer,
-    max_length: int,
+    max_length: int = None,
     **kwargs,
 ) -> List[str]:
     """
@@ -109,6 +110,9 @@ def preprocess_report_into_bert_chunks(
     Returns: list of text chunks (strings)
     """
 
+    if max_length is None: 
+        max_length = tokenizer.model_max_length
+    
     with open(pdf_path, "r") as f: 
         sentences = f.read()
 
@@ -172,5 +176,15 @@ def preprocess_report_into_bert_chunks(
     return chunks
 
 if __name__ == "__main__": 
+
+    ckpt_path = "results/BERT_models/NACE_classification/037_results__data_approach_3__desc_lvl_level_1_dataset_2__num_layers_1__cos_thres_0.5bert-base-uncased__train_full_model__some_labels__only_labels/checkpoint-743"
+    tokenizer = AutoTokenizer.from_pretrained(ckpt_path) 
+
     #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
-    print(preprocess_report_into_bert_chunks('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
+    #print(preprocess_report_into_bert_chunks('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt', tokenizer))
+    #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
+    chunks = preprocess_report_into_bert_chunks('data/datasets/stoxx_600/company_descriptions_txt/ABB Ltd.2.txt', tokenizer)
+    for chunk in chunks: 
+        print()
+        print()
+        print(chunk)
