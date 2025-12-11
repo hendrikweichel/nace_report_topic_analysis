@@ -20,7 +20,7 @@ def get_tables(lines: list):
 
     return tables
 
-def preprocess_report(pdf_path: str, sentence_length: int = 6, add_tables: bool = True) -> List[str]:
+def preprocess_report(pdf_path: str, sentence_length: int = 6, add_tables: bool = True, **kwargs) -> List[str]:
 
     with open(pdf_path, "r") as f: 
         text = f.read()
@@ -88,5 +88,89 @@ def preprocess_report(pdf_path: str, sentence_length: int = 6, add_tables: bool 
 
     return chunks
 
+
+from typing import List
+import re
+
+def preprocess_report_into_bert_chunks(
+    pdf_path: str,
+    tokenizer,
+    max_length: int,
+    **kwargs,
+) -> List[str]:
+    """
+    Pack sentences into chunks such that each chunk fits into the BERT context
+    window (max_length) according to the tokenizer.
+
+    - sentences: list of already-cleaned sentences (strings)
+    - tokenizer: a HuggingFace tokenizer (e.g. BertTokenizerFast)
+    - max_length: maximum sequence length INCLUDING special tokens
+
+    Returns: list of text chunks (strings)
+    """
+
+    with open(pdf_path, "r") as f: 
+        sentences = f.read()
+
+    chunks = []
+    current_sentences: List[str] = []
+
+    for sent in sentences:
+        sent = sent.strip()
+        if not sent:
+            continue
+
+        # 1) Handle the case where a single sentence is longer than max_length.
+        enc_sent = tokenizer(
+            sent,
+            add_special_tokens=True,
+            truncation=False,
+            return_attention_mask=False,
+            return_token_type_ids=False,
+        )
+        if len(enc_sent["input_ids"]) > max_length:
+            # Flush current chunk (if any) before splitting long sentence
+            if current_sentences:
+                chunks.append(" ".join(current_sentences))
+                current_sentences = []
+
+            # Split the overly long sentence into token windows (max_length - 2 for [CLS], [SEP])
+            token_ids = tokenizer.encode(sent, add_special_tokens=False)
+            window_size = max_length - 2  # leave room for special tokens
+            for i in range(0, len(token_ids), window_size):
+                window_ids = token_ids[i:i + window_size]
+                chunk_text = tokenizer.decode(window_ids, skip_special_tokens=True)
+                chunks.append(chunk_text.strip())
+            continue
+
+        # 2) Normal case: sentence fits individually, try to add it to current chunk.
+        if not current_sentences:
+            # Start a new chunk
+            current_sentences.append(sent)
+        else:
+            tentative_text = " ".join(current_sentences + [sent])
+            enc_tentative = tokenizer(
+                tentative_text,
+                add_special_tokens=True,
+                truncation=False,
+                return_attention_mask=False,
+                return_token_type_ids=False,
+            )
+
+            if len(enc_tentative["input_ids"]) <= max_length:
+                # It still fits, keep growing current chunk
+                current_sentences.append(sent)
+            else:
+                # Close current chunk and start a new one with this sentence
+                chunks.append(" ".join(current_sentences))
+                current_sentences = [sent]
+
+    # Flush last chunk
+    if current_sentences:
+        chunks.append(" ".join(current_sentences))
+
+    return chunks
+
 if __name__ == "__main__": 
-    print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
+    #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
+    print(preprocess_report_into_bert_chunks('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
