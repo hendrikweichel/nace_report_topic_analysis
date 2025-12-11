@@ -114,7 +114,9 @@ def preprocess_report_into_bert_chunks(
         max_length = tokenizer.model_max_length
     
     with open(pdf_path, "r") as f: 
-        sentences = f.read()
+        text = f.read()
+    
+    sentences = split_text_into_sentences(text, language='en')
 
     chunks = []
     current_sentences: List[str] = []
@@ -178,6 +180,7 @@ def preprocess_report_into_bert_chunks(
 if __name__ == "__main__": 
 
     ckpt_path = "results/BERT_models/NACE_classification/037_results__data_approach_3__desc_lvl_level_1_dataset_2__num_layers_1__cos_thres_0.5bert-base-uncased__train_full_model__some_labels__only_labels/checkpoint-743"
+    ckpt_path = "bert-base-uncased"
     tokenizer = AutoTokenizer.from_pretrained(ckpt_path) 
 
     #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
@@ -188,3 +191,4 @@ if __name__ == "__main__":
         print()
         print()
         print(chunk)
+        print(tokenizer(chunk, return_tensors="pt", truncation=True)["input_ids"].shape[1])
