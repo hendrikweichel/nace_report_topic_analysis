@@ -118,6 +118,14 @@ def preprocess_report_into_bert_chunks(
     
     sentences = split_text_into_sentences(text, language='en')
 
+    sentences = [re.sub(r'\b\d+\.\d+\b', '', sentence) for sentence in sentences]
+    sentences = [re.sub(r"[^a-zA-ZäöüÄÖÜß.\s]", '', sentence) for sentence in sentences]
+    sentences = [re.sub(r"\s+", " ", sentence) for sentence in sentences]
+    sentences = [re.sub(r'\.{2,}', " ", sentence) for sentence in sentences]
+    sentences = [re.sub(r'^\d+\.\s*', " ", sentence) for sentence in sentences]
+    sentences = [sentence.lower() for sentence in sentences]
+    sentences = [sentence.strip() for sentence in sentences]
+
     chunks = []
     current_sentences: List[str] = []
 
@@ -186,8 +194,8 @@ if __name__ == "__main__":
     #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
     #print(preprocess_report_into_bert_chunks('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt', tokenizer))
     #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
-    chunks = preprocess_report_into_bert_chunks('data/datasets/stoxx_600/company_descriptions_txt/ABB Ltd.2.txt', tokenizer)
-    for chunk in chunks: 
+    chunks = preprocess_report_into_bert_chunks('data/datasets/stoxx_600/TXTs/ABB Ltd.2.txt', tokenizer)
+    for chunk in chunks[:10]: 
         print()
         print()
         print(chunk)
