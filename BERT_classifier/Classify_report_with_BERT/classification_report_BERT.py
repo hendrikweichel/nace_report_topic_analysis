@@ -180,10 +180,12 @@ def classify_report(chunks: list,
     tik = time.time()    
     for chunk in (chunks):
 
-        #logits = BERT_classification_chunk(chunk, 
-        #                                   model=model, 
-        #                                   tokenizer=tokenizer)
-        logits = torch.tensor(np.ones(len(model.config.id2label)))
+        logits = BERT_classification_chunk(chunk, 
+                                           model=model, 
+                                           tokenizer=tokenizer)
+
+        # dirty trick to turn of the classification
+        #logits = torch.tensor(np.ones(len(model.config.id2label)))
         chunk_logits.append(logits)
         
         label_scores = {

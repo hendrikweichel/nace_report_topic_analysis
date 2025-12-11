@@ -39,8 +39,8 @@ sentence_length = 6
 dataset_path = "data/datasets/german_annual_reports"
 dataset_path = "data/datasets/stoxx_600_extended"
 dataset_path = "data/datasets/reports_subset_from_full_data_1"
-dataset_path = wor_dir + "/data/datasets/reports_subset_from_full_data_1"
 dataset_path = wor_dir + "/data/datasets/stoxx_600"
+dataset_path = wor_dir + "/data/datasets/reports_subset_from_full_data_3"
 
 # In[5]:
 
@@ -171,14 +171,18 @@ def preprocess_report(pdf_path: str) -> List[str]:
 
 
 # In[11]:
-model_version = "2_1"
 model_version = "1_0"
+model_version = "2_1"
+model_version = "2_2"
 if model_version == "1_0":
     ckpt = wor_dir + "/results/BERT_models/results_null_classifiers__cos_thres_0.5__bert-base-uncased__train_full_model__some_labels/checkpoint-2331"
     num_layers = 1
 elif model_version == "2_1":
     ckpt = wor_dir + "/results/BERT_models/_best_2nd_results__new_approach_data__num_layers_2__cos_thres_0.5bert-base-uncased__train_full_model__some_labels/checkpoint-4800"
     num_layers = 2
+elif model_version == "2_2":
+    ckpt = wor_dir + "/results/BERT_models/NACE_classification/037_results__data_approach_3__desc_lvl_level_1_dataset_2__num_layers_1__cos_thres_0.5bert-base-uncased__train_full_model__some_labels__only_labels/checkpoint-743"
+    num_layers = 1
 
 model = classification_report_BERT.load_custom_bert_from_checkpoint(ckpt_path=ckpt, num_layers_base=num_layers)
 tokenizer = AutoTokenizer.from_pretrained(ckpt)
