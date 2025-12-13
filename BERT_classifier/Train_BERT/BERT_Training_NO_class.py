@@ -58,7 +58,9 @@ def train_BERT_model(
                     results_path: str,
                     train_full_model: bool, 
                     model_name: str,
-                    num_layers: int):
+                    num_layers: int, 
+                    training_config: dict, 
+                    ):
     os.makedirs(results_path, exist_ok = True)
 
     # Load a custom CSV file
@@ -341,6 +343,7 @@ if __name__ == "__main__":
             #for thres in [0.35,0.4,0.45,0.5,0.55]:
             #for description_class in [1,2,3,4]:
             for thres in [0.4,0.45,0.5]:
+                
                 #### Run Params
         
                 train_full_model = True
