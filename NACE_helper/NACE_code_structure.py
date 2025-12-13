@@ -1,4 +1,4 @@
-sectors = {'A': 'AGRICULTURE, FORESTRY AND FISHING',
+level_1 = {'A': 'AGRICULTURE, FORESTRY AND FISHING',
  'B': 'MINING AND QUARRYING',
  'C': 'MANUFACTURING',
  'D': 'ELECTRICITY, GAS, STEAM AND AIR CONDITIONING SUPPLY',
@@ -20,7 +20,7 @@ sectors = {'A': 'AGRICULTURE, FORESTRY AND FISHING',
  'T': 'ACTIVITIES OF HOUSEHOLDS AS EMPLOYERS; UNDIFFERENTIATED GOODS- AND SERVICES-PRODUCING ACTIVITIES OF HOUSEHOLDS FOR OWN USE',
  'U': 'ACTIVITIES OF EXTRATERRITORIAL ORGANISATIONS AND BODIES'}
 
-divisions = {'A': ['1', '2', '3'],
+level_2 = {'A': ['1', '2', '3'],
  'B': ['5', '6', '7', '8', '9'],
  'C': ['10',
   '11',
@@ -65,7 +65,7 @@ divisions = {'A': ['1', '2', '3'],
  'T': ['97', '98'],
  'U': ['99']}
 
-classes = {'1': ['01.1', '01.2', '01.3', '01.4', '01.5', '01.6', '01.7'],
+level_3 = {'1': ['01.1', '01.2', '01.3', '01.4', '01.5', '01.6', '01.7'],
  '2': ['02.1', '02.2', '02.3', '02.4'],
  '3': ['03.1', '03.2'],
  '5': ['05.1', '05.2'],
