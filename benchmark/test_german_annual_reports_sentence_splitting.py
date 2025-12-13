@@ -105,7 +105,7 @@ reports_path
 
 print("Hello", len(reports_path))
 
-for i in range(3,4): 
+for i in range(2,3): 
     nace_level = i
 
     result_path = mypath+ f"results/dataset__{dataset_name}_sentence_len_{sentence_length}__min_chunk_len_{threshold_min_chunk_len}__cos_thresh_{cos_threshold}__nace_level_{nace_level}"

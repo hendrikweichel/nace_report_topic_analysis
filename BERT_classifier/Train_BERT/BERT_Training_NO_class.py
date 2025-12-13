@@ -67,7 +67,7 @@ for dataset_nbr in [2]:
             model_name = "bert-base-uncased"
             #num_layers = 2
             new_thresh = thres
-            only_labels = False # if False also train a "no-class" class
+            only_labels = True # if False also train a "no-class" class
             
             #####
             
@@ -93,7 +93,7 @@ for dataset_nbr in [2]:
             if all_labels: 
                 results_path += "__all_labels" 
             else: 
-                results_path += "__some_labels" 
+                results_path += "__some_labels_no_G" 
     
             if only_labels: 
                 results_path += "__only_labels" 
@@ -125,12 +125,14 @@ for dataset_nbr in [2]:
                 train_df = train_df[train_df["NACE_Code"]!="S"]
                 train_df = train_df[train_df["NACE_Code"]!="T"]
                 train_df = train_df[train_df["NACE_Code"]!="N"]
+                train_df = train_df[train_df["NACE_Code"]!="G"]
                 train_df = train_df.reset_index(drop=True)
                 
                 #test_df = test_df[test_df["NACE_Code"]!="C"]
                 #test_df = test_df[test_df["NACE_Code"]!="N"]
                 #test_df = test_df[test_df["NACE_Code"]!="P"]
                 #test_df = test_df[test_df["NACE_Code"]!="M"]
+                test_df = test_df[test_df["NACE_Code"]!="G"]
                 test_df = test_df[test_df["NACE_Code"]!="N"]
                 test_df = test_df[test_df["NACE_Code"]!="S"]
                 test_df = test_df[test_df["NACE_Code"]!="R"]
@@ -141,6 +143,7 @@ for dataset_nbr in [2]:
                 #validation_df = validation_df[validation_df["NACE_Code"]!="P"]
                 #validation_df = validation_df[validation_df["NACE_Code"]!="M"]
                 #validation_df = validation_df[validation_df["NACE_Code"]!="N"]
+                validation_df = validation_df[validation_df["NACE_Code"]!="G"]
                 validation_df = validation_df[validation_df["NACE_Code"]!="R"]
                 validation_df = validation_df[validation_df["NACE_Code"]!="N"]
                 validation_df = validation_df[validation_df["NACE_Code"]!="S"]
@@ -241,7 +244,7 @@ for dataset_nbr in [2]:
                 learning_rate=5e-5,              # Start with a small learning rate
                 per_device_train_batch_size=16,  # Batch size per GPU
                 per_device_eval_batch_size=16,
-                num_train_epochs=1,              # Number of epochs
+                num_train_epochs=40,              # Number of epochs
                 weight_decay=0.01,               # Regularization
                 save_total_limit=1,              # Limit checkpoints to save space
                 load_best_model_at_end=True,     # Automatically load the best checkpoint

@@ -85,9 +85,9 @@ len(reports_path)
 
 
 # In[11]:
+model_version = "2_2"
 model_version = "1_0"
 model_version = "2_1"
-model_version = "2_2"
 if model_version == "1_0":
     ckpt = wor_dir + "/results/BERT_models/results_null_classifiers__cos_thres_0.5__bert-base-uncased__train_full_model__some_labels/checkpoint-2331"
     num_layers = 1
