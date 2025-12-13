@@ -31,11 +31,14 @@ from scipy.special import softmax
 
 def get_experiment_nbr(base_dir="results"):
 
-    # List existing experiment folders
-    existing = [
-        d[:3] for d in os.listdir(base_dir)
-        if os.path.isdir(os.path.join(base_dir, d)) and d[:3].isdigit()
-    ]
+    try: 
+        # List existing experiment folders
+        existing = [
+            d[:3] for d in os.listdir(base_dir)
+            if os.path.isdir(os.path.join(base_dir, d)) and d[:3].isdigit()
+        ]
+    except FileNotFoundError: 
+        return "001"
 
     # Determine next experiment number
     if existing:
