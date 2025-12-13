@@ -195,7 +195,7 @@ if __name__ == "__main__":
     #print(preprocess_report_into_bert_chunks('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt', tokenizer))
     #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
     chunks = preprocess_report_into_bert_chunks('data/datasets/stoxx_600/TXTs/ABB Ltd.2.txt', tokenizer)
-    for chunk in chunks[:10]: 
+    for chunk in chunks[:10f]: 
         print()
         print()
         print(chunk)
