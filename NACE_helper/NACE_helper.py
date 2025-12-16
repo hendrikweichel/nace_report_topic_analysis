@@ -46,6 +46,7 @@ def get_level_1_nace(x):
     else:
         return None
 
+
 def get_nace_level(nace_code):
 
     try: 
