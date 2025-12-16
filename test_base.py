@@ -210,7 +210,7 @@ def test_report_classification(reports_path: List[str],
 
         label = report_to_nace_class.get(os.path.basename(report_path))
         level_1_label = get_all_level(label)[1]
-
+        
         #print("Report: ", report_path)
 
         # create report folder 

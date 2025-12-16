@@ -1,3 +1,4 @@
+
 #!/usr/bin/env python
 # coding: utf-8
 
@@ -62,7 +63,12 @@ def train_BERT_model(
                     training_config: dict, 
                     ):
     os.makedirs(results_path, exist_ok = True)
-
+    
+    with open(os.path.join(results_path, "training_config.json"), "w") as f:
+        json.dump(training_config, f)
+    
+    tik = time.time()
+    
     # Load a custom CSV file
     dataset = DatasetDict({
         "train": Dataset.from_pandas(train_df),
@@ -89,7 +95,7 @@ def train_BERT_model(
     tokenized_datasets = dataset.map(tokenize_function, batched=True)
     
     # Inspect tokenized samples
-    print(tokenized_datasets["train"][0])
+    # print(tokenized_datasets["train"][0])
     
     labels = dataset["train"]["label"]
     class_weights = compute_class_weight("balanced", classes=np.unique(labels), y=labels)
@@ -114,7 +120,7 @@ def train_BERT_model(
             label2id=label2id
             )
         model = AutoModelForSequenceClassification.from_pretrained(model_name, config=config)
-    print(model.config)
+    # print(model.config)
     
     hidden = 512
     
@@ -151,8 +157,7 @@ def train_BERT_model(
         learning_rate=5e-5,              # Start with a small learning rate
         per_device_train_batch_size=16,  # Batch size per GPU
         per_device_eval_batch_size=16,
-        #num_train_epochs=40,              # Number of epochs
-        num_train_epochs=1,              # Number of epochs
+        num_train_epochs=40,              # Number of epochs
         weight_decay=0.01,               # Regularization
         save_total_limit=1,              # Limit checkpoints to save space
         load_best_model_at_end=True,     # Automatically load the best checkpoint
@@ -163,7 +168,7 @@ def train_BERT_model(
         save_strategy="epoch"
     )
     
-    print(training_args)
+    # print(training_args)
     
     # In[109]:
     
@@ -224,9 +229,7 @@ def train_BERT_model(
         )]
             )
     ### Store config
-
-    with open(os.path.join(results_path, "training_config.json"), "w") as f:
-        json.dump(training_config, f)
+    
             
     # In[]:
     
@@ -240,7 +243,7 @@ def train_BERT_model(
     
     results_txt = str(results)
     
-    print(results)
+    #print(results)
     
     # In[]:
     
@@ -336,7 +339,7 @@ def train_BERT_model(
 if __name__ == "__main__":
     tik = time.time()
     if True:
-        for num_layers in [1,2,3]:
+        for num_layers in [2]:
         
             #thres = 0.4
             description_class = 1
@@ -397,34 +400,41 @@ if __name__ == "__main__":
                 train_df = train_df[(train_df["Score"] > new_thresh) | (train_df["NACE_Code"] == "NO_CLASS")]
                 validation_df = validation_df[(validation_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
                 test_df = test_df[(test_df["Score"] > new_thresh) | (test_df["NACE_Code"] == "NO_CLASS")]
-                        
+
+                filter_classes = ["A","C","F","J","N"]
+                
                 if not all_labels: 
                     #train_df = train_df[train_df["NACE_Code"]!="C"]
                     #train_df = train_df[train_df["NACE_Code"]!="P"]
                     #train_df = train_df[train_df["NACE_Code"]!="M"]
                     #train_df = train_df[train_df["NACE_Code"]!="M"]
-                    train_df = train_df[train_df["NACE_Code"]!="R"]
-                    train_df = train_df[train_df["NACE_Code"]!="S"]
-                    train_df = train_df[train_df["NACE_Code"]!="T"]
-                    train_df = train_df[train_df["NACE_Code"]!="N"]
-                    train_df = train_df[train_df["NACE_Code"]!="G"]
+                    
+                    train_df = train_df[train_df["NACE_Code"].apply(lambda x: x in filter_classes)]
+                    #train_df = train_df[train_df["NACE_Code"]!="S"]
+                    #train_df = train_df[train_df["NACE_Code"]!="T"]
+                    #train_df = train_df[train_df["NACE_Code"]!="N"]
+                    #train_df = train_df[train_df["NACE_Code"]!="G"]
                     train_df = train_df.reset_index(drop=True)
                     
                     #test_df = test_df[test_df["NACE_Code"]!="C"]
                     #test_df = test_df[test_df["NACE_Code"]!="N"]
                     #test_df = test_df[test_df["NACE_Code"]!="P"]
                     #test_df = test_df[test_df["NACE_Code"]!="M"]
-                    test_df = test_df[test_df["NACE_Code"]!="G"]
-                    test_df = test_df[test_df["NACE_Code"]!="N"]
-                    test_df = test_df[test_df["NACE_Code"]!="S"]
-                    test_df = test_df[test_df["NACE_Code"]!="R"]
-                    test_df = test_df[test_df["NACE_Code"]!="T"]
+                    test_df = test_df[test_df["NACE_Code"].apply(lambda x: x in filter_classes)]
+                    
+                    #test_df = test_df[test_df["NACE_Code"]!="G"]
+                    #test_df = test_df[test_df["NACE_Code"]!="N"]
+                    #test_df = test_df[test_df["NACE_Code"]!="S"]
+                    #test_df = test_df[test_df["NACE_Code"]!="R"]
+                    #test_df = test_df[test_df["NACE_Code"]!="T"]
                     test_df = test_df.reset_index(drop=True)
                     
                     #validation_df = validation_df[validation_df["NACE_Code"]!="C"]
                     #validation_df = validation_df[validation_df["NACE_Code"]!="P"]
                     #validation_df = validation_df[validation_df["NACE_Code"]!="M"]
                     #validation_df = validation_df[validation_df["NACE_Code"]!="N"]
+                    validation_df = validation_df[validation_df["NACE_Code"].apply(lambda x: x in filter_classes)]
+                    
                     validation_df = validation_df[validation_df["NACE_Code"]!="G"]
                     validation_df = validation_df[validation_df["NACE_Code"]!="R"]
                     validation_df = validation_df[validation_df["NACE_Code"]!="N"]
@@ -457,5 +467,6 @@ if __name__ == "__main__":
                     results_path,
                     train_full_model, 
                     model_name,
-                    num_layers
+                    num_layers, 
+                    training_config
                 )

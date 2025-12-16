@@ -59,9 +59,9 @@ dataset_path = "../data/datasets/german_annual_reports"
 dataset_path = "../data/datasets/stoxx_600"
 dataset_path = "../data/datasets/stoxx_600_extended"
 dataset_path = "../data/datasets/reports_subset_from_full_data_1"
-dataset_path = mypath+"data/datasets/reports_subset_from_full_data_3"
 dataset_path = mypath+"data/datasets/reports_subset_from_full_data_1"
 dataset_path = mypath+"data/datasets/reports_subset_from_full_data_2"
+dataset_path = mypath+"data/datasets/reports_subset_from_full_data_3"
 
 
 # In[4]:
@@ -105,7 +105,7 @@ reports_path
 
 print("Hello", len(reports_path))
 
-for i in range(2,3): 
+for i in [3]: 
     nace_level = i
 
     result_path = mypath+ f"results/dataset__{dataset_name}_sentence_len_{sentence_length}__min_chunk_len_{threshold_min_chunk_len}__cos_thresh_{cos_threshold}__nace_level_{nace_level}"
@@ -119,5 +119,5 @@ for i in range(2,3):
         threshold_min_chunk_len=threshold_min_chunk_len, 
         cos_threshold=cos_threshold,  
         level=i, 
-        overwrite=True, 
+        overwrite=False, 
         classification_function=create_sentence_nace_code_similarities.classification_by_similarities)

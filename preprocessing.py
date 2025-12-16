@@ -67,8 +67,8 @@ def preprocess_report(pdf_path: str, sentence_length: int = 6, add_tables: bool 
 
         chunks += new_chunks
     
-    if len(chunks) == 0: 
-        return []
+    if len(chunks) < 3: 
+        return chunks
 
     # if there is only one sentence in the last chunk, balance the two last chunks
     if len(split_text_into_sentences(chunks[-1], language = "en")) == 1: 
@@ -195,7 +195,7 @@ if __name__ == "__main__":
     #print(preprocess_report_into_bert_chunks('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt', tokenizer))
     #print(preprocess_report('/Users/hendrikweichel/Downloads/S.S. Lazio S.p.A.3.txt'))
     chunks = preprocess_report_into_bert_chunks('data/datasets/stoxx_600/TXTs/ABB Ltd.2.txt', tokenizer)
-    for chunk in chunks[:10f]: 
+    for chunk in chunks[:10]: 
         print()
         print()
         print(chunk)
