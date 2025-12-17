@@ -97,6 +97,7 @@ def preprocess_report_into_bert_chunks(
     pdf_path: str,
     tokenizer,
     max_length: int = None,
+    text = None,
     **kwargs,
 ) -> List[str]:
     """
@@ -113,8 +114,9 @@ def preprocess_report_into_bert_chunks(
     if max_length is None: 
         max_length = tokenizer.model_max_length
     
-    with open(pdf_path, "r") as f: 
-        text = f.read()
+    if text is None:
+        with open(pdf_path, "r") as f: 
+            text = f.read()
     
     sentences = split_text_into_sentences(text, language='en')
 
