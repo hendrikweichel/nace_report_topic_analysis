@@ -18,6 +18,9 @@ def summarize_text(
         Concise summary as a string
     """
 
+    if text.strip() == "":
+        return ""
+
     llm = ChatOpenAI(
         model=model,
         temperature=temperature,
@@ -38,5 +41,5 @@ def summarize_text(
     
 if __name__ == "__main__":
 
-    summary = summarize_text("MMS  ANNUAL REPORT 2022 B ## Annual General Meeting The Annual General Meeting of the members of McMillan Shakespeare Limited A.B.N. 74 107 233 983 will be held virtually and in person on 28 October 2022 at 10.00am. Please refer to the AGM notice for further details. mmsg.com.au The McMillan Shakespeare Group is a provider of salary packaging, novated leasing, disability plan management and support co-ordination, asset management and related financial products and services. Through its subsidiaries, it offers a breadth of services and expertise, designed to responsibly deliver longterm value to its customers. The Group employs a highly committed team of c.1,300 people across Australia, New Zealand and the United Kingdom and domestically manages programs for some of the largest public sector, corporate and charitable organisations. Header <!-- image --> SUBHEADER <!-- image --> <!-- image --> <!-- image --> <!-- image --> <!-- image --> <!-- image --> <!-- image --> <!-- image -->")
+    summary = summarize_text("## CHAPTER 1.0 INTRODUCTION ## 1.1 ABOUT FRONTKEN GROUP We build technology and provide services that enable our customers to be more sustainable and do more for our environment, community, and society. We integrate our technology, business practices, partnerships, supply chain and production processes around a single mission - to build sustainability through actionable technology and make more positive impact towards the environment and society together with our customers, employees and shareholders and stakeholders. Our foundation is built on our core values, which distinguish us and guide our actions and the way we conduct our business in a socially responsible and ethical manner. We are committed to delivering value to all our stakeholders including customers, employees and shareholders through sustaining growth in our businesses, protecting the environment, empowering lives of people and nurturing communities where we operate. We will also continue to build the company on the foundation of: - (a) Responsible management; - (b) Responsible innovation and service; - (c) Responsible green production; - (d) Responsible workplace; - (e) Responsible inclusion and diversity; - (f) Responsible supply chain; - (g) Responsible Climate Change. We want to make it easy to be more sustainable, by building technology and providing services including training to help people to better understand their impact and actions. <!-- image -->")
     print(summary)
