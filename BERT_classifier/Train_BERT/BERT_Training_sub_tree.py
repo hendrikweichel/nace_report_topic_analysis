@@ -16,7 +16,7 @@ from NACE_helper import NACE_code_structure
 #### CONFIG
 ################################################
 
-subtree_of_level = 2
+subtree_of_level = 1
 nace_level = subtree_of_level + 1
 #subtree_of_class = "A"
 
@@ -28,7 +28,7 @@ model_name = "ProsusAI/finbert"
 model_name = "bert-base-uncased"
 num_layers = 2
 new_thresh = 0.35
-only_labels = True # if False also train a "no-class" class
+only_labels = False # if False also train a "no-class" class
 
 ################################################
 
@@ -49,24 +49,31 @@ elif subtree_of_level == 2:
 
 print(f"Iterate over {classes}")
 
+set1 = [['F', ['41', '42']], 
+        ['J', ['58', '61']], 
+        ['K', ['64', '66']], 
+        ['N', ['77', '81']]]
+
+set2 = [['77', ['77.1', '77.3']],
+        ['81', ['81.2', '81.3']], 
+        ['41', ['41.1', '41.2']], 
+        ['42', ['42.1', '42.2', "42.9"]], 
+        ['58', ['58.1', '58.2']], 
+        ['61', ['61.1', '61.2']],
+        ['64', ['64.1', '64.2', '64.3', '64.9']],
+        ['66', ['66.1', '66.2', '66.3']]]
+
 #for subtree_of_class in classes:
-# for subtree_of_class, take_classes in [['F', ['41', '42']], 
-#                                        ['J', ['58', '61']], 
-#                                        ['K', ['64', '66']], 
-#                                        ['N', ['77', '81']]]:
-for subtree_of_class, take_classes in [['77', ['77.1', '77.3']],
-                                        ['81', ['81.2', '81.3']]]:
-                                        #['41', ['41.1', '41.2']], 
-                                        #['42', ['42.1', '42.2', "42.9"]], 
-                                        #['58', ['58.1', '58.2']], 
-                                        #['61', ['61.1', '61.2']],
-                                        #['64', ['64.1', '64.2', '64.3', '64.9']],
-                                        #['66', ['66.1', '66.2', '66.3']],
-                                        
+for subtree_of_class, take_classes in set1:
+    
     if subtree_of_level == 1: 
         subtree_classes = NACE_code_structure.level_2[subtree_of_class]
     if subtree_of_level == 2: 
         subtree_classes = NACE_code_structure.level_3[subtree_of_class]
+
+    if not only_labels:
+        subtree_classes.append("NO_CLASS")
+        take_classes.append("NO_CLASS")
     
     # Print what we now train
     print(f"Training Model for level {nace_level} and level 1 classes {level_1_classes}. Train subtree of {subtree_of_class} -> {subtree_classes}")
@@ -113,33 +120,33 @@ for subtree_of_class, take_classes in [['77', ['77.1', '77.3']],
         #train_df = train_df[train_df["NACE_Code"]!="P"]
         #train_df = train_df[train_df["NACE_Code"]!="M"]
         #train_df = train_df[train_df["NACE_Code"]!="M"]
-        train_df = train_df[train_df["NACE_Code"]!="R"]
-        train_df = train_df[train_df["NACE_Code"]!="S"]
-        train_df = train_df[train_df["NACE_Code"]!="T"]
-        train_df = train_df[train_df["NACE_Code"]!="N"]
-        train_df = train_df[train_df["NACE_Code"]!="G"]
+        #train_df = train_df[train_df["NACE_Code"]!="R"]
+        #train_df = train_df[train_df["NACE_Code"]!="S"]
+        #train_df = train_df[train_df["NACE_Code"]!="T"]
+        #train_df = train_df[train_df["NACE_Code"]!="N"]
+        #train_df = train_df[train_df["NACE_Code"]!="G"]
         train_df = train_df.reset_index(drop=True)
         
         #test_df = test_df[test_df["NACE_Code"]!="C"]
         #test_df = test_df[test_df["NACE_Code"]!="N"]
         #test_df = test_df[test_df["NACE_Code"]!="P"]
         #test_df = test_df[test_df["NACE_Code"]!="M"]
-        test_df = test_df[test_df["NACE_Code"]!="G"]
-        test_df = test_df[test_df["NACE_Code"]!="N"]
-        test_df = test_df[test_df["NACE_Code"]!="S"]
-        test_df = test_df[test_df["NACE_Code"]!="R"]
-        test_df = test_df[test_df["NACE_Code"]!="T"]
+        #test_df = test_df[test_df["NACE_Code"]!="G"]
+        #test_df = test_df[test_df["NACE_Code"]!="N"]
+        #test_df = test_df[test_df["NACE_Code"]!="S"]
+        #test_df = test_df[test_df["NACE_Code"]!="R"]
+        #test_df = test_df[test_df["NACE_Code"]!="T"]
         test_df = test_df.reset_index(drop=True)
         
         #validation_df = validation_df[validation_df["NACE_Code"]!="C"]
         #validation_df = validation_df[validation_df["NACE_Code"]!="P"]
         #validation_df = validation_df[validation_df["NACE_Code"]!="M"]
         #validation_df = validation_df[validation_df["NACE_Code"]!="N"]
-        validation_df = validation_df[validation_df["NACE_Code"]!="G"]
-        validation_df = validation_df[validation_df["NACE_Code"]!="R"]
-        validation_df = validation_df[validation_df["NACE_Code"]!="N"]
-        validation_df = validation_df[validation_df["NACE_Code"]!="S"]
-        validation_df = validation_df[validation_df["NACE_Code"]!="T"]
+        #validation_df = validation_df[validation_df["NACE_Code"]!="G"]
+        #validation_df = validation_df[validation_df["NACE_Code"]!="R"]
+        #validation_df = validation_df[validation_df["NACE_Code"]!="N"]
+        #validation_df = validation_df[validation_df["NACE_Code"]!="S"]
+        #validation_df = validation_df[validation_df["NACE_Code"]!="T"]
         validation_df = validation_df.reset_index(drop=True)
     
     if only_labels:
@@ -163,6 +170,22 @@ for subtree_of_class, take_classes in [['77', ['77.1', '77.3']],
     test_df = test_df[test_df["NACE_Code"].apply(lambda x: x in take_classes)]
     validation_df = validation_df[validation_df["NACE_Code"].apply(lambda x: x in take_classes)]
 
+    if not only_labels:
+        amount_no_class = test_df[test_df["NACE_Code"] != "NO_CLASS"]["NACE_Code"].value_counts().max()
+        test_df_right = test_df[test_df["NACE_Code"] != "NO_CLASS"]
+        test_df_NO_CLASS = test_df.loc[test_df["NACE_Code"] == "NO_CLASS"].sample(n=amount_no_class)
+        test_df = pd.concat([test_df_right, test_df_NO_CLASS], axis=0)
+        
+        amount_no_class = train_df[train_df["NACE_Code"] != "NO_CLASS"]["NACE_Code"].value_counts().max()
+        train_df_right = train_df[train_df["NACE_Code"] != "NO_CLASS"]
+        train_df_NO_CLASS = train_df.loc[train_df["NACE_Code"] == "NO_CLASS"].sample(n=amount_no_class)
+        train_df = pd.concat([train_df_right, train_df_NO_CLASS], axis=0)
+        
+        amount_no_class = validation_df[validation_df["NACE_Code"] != "NO_CLASS"]["NACE_Code"].value_counts().max()
+        validation_df_right = validation_df[validation_df["NACE_Code"] != "NO_CLASS"]
+        validation_df_NO_CLASS = validation_df.loc[validation_df["NACE_Code"] == "NO_CLASS"].sample(n=amount_no_class)
+        validation_df = pd.concat([validation_df_right, validation_df_NO_CLASS], axis=0)
+    
     if len(train_df) < 10:
         continue    
     if "NACE_Code" in train_df.columns: 
