@@ -1,3 +1,6 @@
+from sklearn.model_selection import train_test_split
+import re
+import json
 import pandas as pd
 import os
 from langchain_openai import ChatOpenAI
@@ -6,8 +9,9 @@ from langchain_core.prompts import ChatPromptTemplate
 from tqdm import tqdm
 import datetime
 
-nace_description_path = "projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
-nace_descriptions = pd.read_csv("projects/nace_classification/nace_report_topic_analysis/data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
+nace_description_path = "data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
+nace_descriptions = pd.read_csv("data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
+
 system_prompt_format = """You are an AI assistant that generates descriptions of companies' business models as presented in annual reports, with respect to a specific industry sector definition.
 You generate realistic business-related paragraphs suitable for training a text classification model.
 Do NOT mention industry codes, divisions, or classifications explicitly.
@@ -112,20 +116,19 @@ def generate_synthetic_data(
 
     formatted_prompt = prompt.invoke(input)
 
-    print("Formatted Prompt:", formatted_prompt)
-
     # Run
     response = chain.invoke(input)
 
-    print(response.content)
-
     return formatted_prompt, response.content
+    
 def split_synthetic_data(content: str, num_samples: int): 
     content_list = content.split("\n")
     content_list = [c for c in content_list if c != ""]
     # if len(content_list) != num_samples: 
     #     print("Warning: length of creates examples != num_samples!")
     return content_list
+
+    
 def get_sublevels(nace_class, level): 
     nace_class_temp = nace_class
     nace_id = nace_descriptions[nace_descriptions["CODE"] == nace_class_temp]["ID"].iloc[0]
@@ -176,7 +179,7 @@ gold_standard = []
 # df_gold_standard = pd.concat(gold_standard, axis=1).T
 
 #df_gold_standard.to_csv("/Users/hendrikweichel/Downloads/reports_subset_from_full_data_2_gold_standard_descriptions_for_data_generation.csv")
-df_gold_standard = pd.read_csv("projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_2/reports_subset_from_full_data_2_gold_standard_descriptions_for_data_generation.csv", sep=";")
+df_gold_standard = pd.read_csv("data/datasets/reports_subset_from_full_data_2/reports_subset_from_full_data_2_gold_standard_descriptions_for_data_generation.csv", sep=";")
 
 
 
@@ -288,12 +291,12 @@ for h in hyperparms:
     # generate date 
 
     date = datetime.datetime.now().strftime("%Y%m%d")
-    store_path = "projects/nace_classification/nace_report_topic_analysis/data/synthetic_data/data_" + date + f"__level_{level}__subclasses_{head_nace_code}/"
+    store_path = "data/synthetic_data/data_" + date + f"__level_{level}__subclasses_{head_nace_code}/"
     os.makedirs(store_path, exist_ok=True)
     generated_data = {}
-    num_samples = 1000
-    num_samples = 20
-    iterations_ = 50
+    num_samples = 10
+    iterations_ = 100
+    model = "gpt-4o-mini"
 
     for generate_nace_class in generated_classes:
 
@@ -311,7 +314,7 @@ for h in hyperparms:
         examples = ""
 
         for i in tqdm(range(iterations_), desc=generate_nace_class):
-            res = generate_synthetic_data(num_samples=num_samples, gold_standard=gold_standard, includes=includes, includes_also=includes_also, excludes=excludes, subsections=subsections, model="openai/gpt-oss-120b")
+            res = generate_synthetic_data(num_samples=num_samples, gold_standard=gold_standard, includes=includes, includes_also=includes_also, excludes=excludes, subsections=subsections, model=model)
             examples += res[1]
             data = split_synthetic_data(examples, num_samples * iterations_)
             pd.DataFrame(data, columns=[generate_nace_class]).to_csv(os.path.join(store_path, f"class_{generate_nace_class}.csv"), index=False)
@@ -325,6 +328,8 @@ for h in hyperparms:
         }
 
         generated_data[generate_nace_class] = results
+
+    
     # print prompts
     for k,v in generated_data.items(): 
         print(k,"_______"*20)
@@ -339,11 +344,11 @@ for h in hyperparms:
         "generated_iterations": iterations_,
         "level": level,
         "head_nace_code": head_nace_code,
-        "system_prompt": system_prompt_format
+        "system_prompt": system_prompt_format, 
+        "model": model,
     }
 
     # store
-    import json
     with open(os.path.join(store_path, "config.json"), "w") as f: 
         json.dump(config, f, indent=4)
     df_full = []
@@ -354,14 +359,11 @@ for h in hyperparms:
     df_full = pd.concat(df_full, axis=0)
     # make new index from 0 to len(df_full)-1
     df_full = df_full.reset_index(drop=True)
-    df_full
-    import re
+
     clean_text = lambda x: re.sub(r'^\d+\.\s*', " ", x).strip()
     df_full["text"] = df_full["text"].apply(clean_text)
     df_full.to_csv(os.path.join(store_path, "synthetic_data_full.csv"), index=False)
     # make train test split 6:2:2
-
-    from sklearn.model_selection import train_test_split
 
     train_df, temp_df = train_test_split(df_full, test_size=0.4, random_state=42, stratify=df_full["label"])
     test_df, val_df = train_test_split(temp_df, test_size=0.5, random_state=42, stratify=temp_df["label"])
