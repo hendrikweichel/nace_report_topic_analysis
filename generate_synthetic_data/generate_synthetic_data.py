@@ -161,7 +161,6 @@ excludes = nace_descriptions[nace_descriptions["CODE"] == generate_nace_class]["
 excludes = "" if pd.isna(excludes) else excludes
 
 num_samples = 2
-gold_standard = ["A fischeeeee", "A Weizeeeen"]
 gold_standard = []
 ### Generate Zero-Shot Data
 ### Generate Few-Shot Data
@@ -301,13 +300,16 @@ for h in hyperparms:
     for generate_nace_class in generated_classes:
 
         includes = nace_descriptions[nace_descriptions["CODE"] == generate_nace_class]["Includes"].item()
-        assert includes is not None and includes != ""
+        if pd.isna(includes):
+          print("No description for class:", generate_nace_class)
+          continue
         includes_also = nace_descriptions[nace_descriptions["CODE"] == generate_nace_class]["IncludesAlso"].item()
         includes_also = "" if pd.isna(includes_also) else includes_also
         excludes = nace_descriptions[nace_descriptions["CODE"] == generate_nace_class]["Excludes"].item()
         excludes = "" if pd.isna(excludes) else excludes
 
         gold_standard = df_gold_standard[df_gold_standard["NACE_letter"] == generate_nace_class]["Description_clean"].to_list()[:3]
+        gold_standard = []
         
         subsections = get_sublevels(generate_nace_class, level=2)
 
