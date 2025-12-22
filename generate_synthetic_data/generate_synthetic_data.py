@@ -349,7 +349,7 @@ for h in hyperparms:
 
         for i in tqdm(range(iterations_), desc=generate_nace_class):
             res = generate_synthetic_data(num_samples=num_samples, gold_standard=gold_standard, includes=includes, includes_also=includes_also, excludes=excludes, subsections=subsections, model=model)
-            examples += res[1]
+            examples += "\n\n" + res[1]
             data = split_synthetic_data(examples, num_samples * iterations_)
             pd.DataFrame(data, columns=[generate_nace_class]).to_csv(os.path.join(store_path, f"class_{generate_nace_class}.csv"), index=False)
         

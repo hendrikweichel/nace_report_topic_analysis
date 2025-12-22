@@ -3,6 +3,33 @@ from typing import List
 from sentence_splitter import split_text_into_sentences
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 
+def clean_chunks(chunks): 
+    # Remove decimal numbers like "3.14", "10.5", "2023.1"
+    chunks = [re.sub(r'\b\d+\.\d+\b', '', chunk) for chunk in chunks]
+
+    # Remove all characters except:
+    #  - letters (including German umlauts and ß)
+    #  - dots (sentence boundaries)
+    #  - whitespace
+    chunks = [re.sub(r"[^a-zA-ZäöüÄÖÜß.\s]", '', chunk) for chunk in chunks]
+
+    # Collapse multiple whitespace characters into a single space
+    chunks = [re.sub(r"\s+", " ", chunk) for chunk in chunks]
+
+    # Replace sequences of two or more dots ("..", "...") with a single space
+    chunks = [re.sub(r'\.{2,}', " ", chunk) for chunk in chunks]
+
+    # Remove leading numbered list markers like:
+    chunks = [re.sub(r'^\d+\.\s*', " ", chunk) for chunk in chunks]
+
+    # Convert all text to lowercase
+    chunks = [chunk.lower() for chunk in chunks]
+
+    # Remove leading and trailing whitespace
+    chunks = [chunk.strip() for chunk in chunks]
+
+    return chunks
+
 def get_tables(lines: list): 
     tables = []
     current_table = []
@@ -76,13 +103,7 @@ def preprocess_report(pdf_path: str, sentence_length: int = 6, add_tables: bool 
         chunks[-2] = last_two_chunks[0:(len(last_two_chunks) + 1) // 2]
         chunks[-1] = last_two_chunks[(len(last_two_chunks) + 1) // 2: (len(last_two_chunks)) - (len(last_two_chunks) + 1) // 2]
 
-    chunks = [re.sub(r'\b\d+\.\d+\b', '', chunk) for chunk in chunks]
-    chunks = [re.sub(r"[^a-zA-ZäöüÄÖÜß.\s]", '', chunk) for chunk in chunks]
-    chunks = [re.sub(r"\s+", " ", chunk) for chunk in chunks]
-    chunks = [re.sub(r'\.{2,}', " ", chunk) for chunk in chunks]
-    chunks = [re.sub(r'^\d+\.\s*', " ", chunk) for chunk in chunks]
-    chunks = [chunk.lower() for chunk in chunks]
-    chunks = [chunk.strip() for chunk in chunks]
+    chunks = clean_chunks(chunks)
 
     if add_tables:
         accepted_lines += tables
