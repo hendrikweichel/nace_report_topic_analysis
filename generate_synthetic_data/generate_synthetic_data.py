@@ -12,9 +12,22 @@ import datetime
 nace_description_path = "data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
 nace_descriptions = pd.read_csv("data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t")
 
-system_prompt_format = """You are an AI assistant that generates descriptions of companies' business models as presented in annual reports, with respect to a specific industry sector definition.
-You generate realistic business-related paragraphs suitable for training a text classification model.
-Do NOT mention industry codes, divisions, or classifications explicitly.
+system_prompt_format = """You generate realistic paragraphs from corporate annual reports.
+
+The text must:
+- sound natural and specific
+- avoid textbook or definitional language
+- avoid naming industries, sectors, or classification systems
+- vary structure, length, and narrative style
+- include concrete operational details
+
+The text must NOT:
+- mention category names or codes
+- repeat industry definitions
+- follow a fixed template
+- explicitly explain what the company does in generic terms
+
+Assume the reader is familiar with the company context.
 """
 
 few_shot_prompt_format = """Here is a definition of a industry sector:
@@ -31,10 +44,20 @@ Here are some examples of descriptions of these classes:
 {gold_standard}
 ```
 
-Instruction: Please generate {num_samples} paragraphs that are from this industry class.
-- Write one realistic paragraph (80 to 120 words) describing business activities in the information and communication sector.
-- The paragraph should focus on concrete activities, products, services, technologies, or value creation.
-- Avoid generic definitions or encyclopedic language.
+Instruction: Write {num_samples} paragraphs (70–140 words) from a company annual report.
+
+Context:
+- Revenue depends on long-term supply contracts and fluctuating market prices
+- Operations rely on land-intensive facilities and specialized equipment
+- Performance is affected by weather patterns and input cost volatility
+- Planning cycles are seasonal
+- Activities are spread across rural regions
+
+Constraints:
+- Do not name industries, sectors, or classifications
+- Do not define or explain the business in generic terms
+- Avoid standard phrases used in industry descriptions
+- Use a natural corporate reporting tone
 """
 
 zero_shot_prompt_format = """Here is a definition of a industry sector:
@@ -46,10 +69,20 @@ Definition: {includes} {includes_also}
 Here are some possible subsections:
 {subsections}
 
-Instruction: Please generate {num_samples} paragraphs that are from this industry class.
-- Write one realistic paragraph (80 to 120 words) describing business activities in the information and communication sector.
-- The paragraph should focus on concrete activities, products, services, technologies, or value creation.
-- Avoid generic definitions or encyclopedic language.
+Instruction: Write {num_samples} paragraphs (70–140 words) from a company annual report.
+
+Context:
+- Revenue depends on long-term supply contracts and fluctuating market prices
+- Operations rely on land-intensive facilities and specialized equipment
+- Performance is affected by weather patterns and input cost volatility
+- Planning cycles are seasonal
+- Activities are spread across rural regions
+
+Constraints:
+- Do not name industries, sectors, or classifications
+- Do not define or explain the business in generic terms
+- Avoid standard phrases used in industry descriptions
+- Use a natural corporate reporting tone
 """
 def generate_synthetic_data(
         num_samples: int, 
@@ -185,11 +218,11 @@ df_gold_standard = pd.read_csv("data/datasets/reports_subset_from_full_data_2/re
 # generate synthetic data for multiple groups, good night
 
 hyperparms = [
-  {
-    "level": 2,
-    "head_nace_code": "A",
-    "generated_classes": ["1", "2", "3"]
-  },
+#  {
+#    "level": 2,
+#    "head_nace_code": "A",
+#    "generated_classes": ["1", "2", "3"]
+#  },
   {
     "level": 3,
     "head_nace_code": "1",
@@ -205,12 +238,11 @@ hyperparms = [
     "head_nace_code": "3",
     "generated_classes": ["03.1", "03.2"]
   },
-
-  {
-    "level": 2,
-    "head_nace_code": "B",
-    "generated_classes": ["5", "6", "7"]
-  },
+#  {
+#    "level": 2,
+#    "head_nace_code": "B",
+#    "generated_classes": ["5", "6", "7"]
+#  },
   {
     "level": 3,
     "head_nace_code": "5",
@@ -227,11 +259,11 @@ hyperparms = [
     "generated_classes": ["07.1", "07.2"]
   },
 
-  {
-    "level": 2,
-    "head_nace_code": "C",
-    "generated_classes": ["20", "21"]
-  },
+  #{
+  #  "level": 2,
+  #  "head_nace_code": "C",
+  #  "generated_classes": ["20", "21"]
+  #},
   {
     "level": 3,
     "head_nace_code": "20",
@@ -243,11 +275,11 @@ hyperparms = [
     "generated_classes": ["21.1", "21.2"]
   },
 
-  {
-    "level": 2,
-    "head_nace_code": "F",
-    "generated_classes": ["41", "42", "43"]
-  },
+  #{
+  #  "level": 2,
+  #  "head_nace_code": "F",
+  #  "generated_classes": ["41", "42", "43"]
+  #},
   {
     "level": 3,
     "head_nace_code": "41",
@@ -264,11 +296,11 @@ hyperparms = [
     "generated_classes": ["43.1", "43.2", "43.3", "43.9"]
   },
 
-  {
-    "level": 2,
-    "head_nace_code": "J",
-    "generated_classes": ["58", "63"]
-  },
+  #{
+  #  "level": 2,
+  #  "head_nace_code": "J",
+  #  "generated_classes": ["58", "63"]
+  #},
   {
     "level": 3,
     "head_nace_code": "58",

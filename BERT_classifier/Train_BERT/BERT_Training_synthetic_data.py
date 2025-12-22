@@ -78,8 +78,11 @@ def train_BERT_model(
     })
     
     #label_mapping = {char: val for val, char in enumerate(['A','B','C','D','E','F','G','H','I','J','K','L','M','N','O','P','Q','R','S','T','U',"NO_CLASS"])}
-    label_mapping = {char: val for val, char in enumerate(set(train_df["label"]))}
-    dataset = dataset.map(lambda x: {"label": label_mapping[x["label"]]})
+    #label_mapping = {char: val for val, char in enumerate(set(train_df["label"]))}
+    label2id = {char: val for val, char in enumerate(set(dataset["test"]["label"]))}
+    id2label = {val: char for val, char in enumerate(set(dataset["test"]["label"]))}
+
+    dataset = dataset.map(lambda x: {"label": label2id[x["label"]]})
     
     # Initialize the BERT tokenizer
     tokenizer = AutoTokenizer.from_pretrained(model_name)
@@ -100,9 +103,8 @@ def train_BERT_model(
     
     labels = dataset["train"]["label"]
     class_weights = compute_class_weight("balanced", classes=np.unique(labels), y=labels)
-    
-    label2id = {char: val for val, char in enumerate(set(dataset["test"]["label"]))}
-    id2label = {val: char for val, char in enumerate(set(dataset["test"]["label"]))}
+            
+    print(dataset["test"]["label"][0])
     
     if model_name == "ProsusAI/finbert": 
         config = AutoConfig.from_pretrained(
@@ -203,9 +205,16 @@ def train_BERT_model(
             labels = inputs["labels"]                 # shape [B], dtype long
             outputs = model(**{k: v for k, v in inputs.items() if k != "labels"})
             logits  = outputs.logits                  # [B, C]
+            labels = labels.to(logits.device).long()
             loss_fn = nn.CrossEntropyLoss(
                 weight=self.class_weights.to(logits.device) if self.class_weights is not None else None
             )
+            print(logits)
+            print(labels)
+            print(logits.dtype)
+            print(labels.dtype)
+            print(type(logits))
+            print(type(labels))
             loss = loss_fn(logits, labels)
             return (loss, outputs) if return_outputs else loss
     
@@ -260,7 +269,7 @@ def train_BERT_model(
     
     # Confusion matrix
     cm = confusion_matrix(tokenized_datasets["test"]["label"], predicted_labels, normalize="true")
-    disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=list(label_mapping.keys()))
+    disp = ConfusionMatrixDisplay(confusion_matrix=cm, display_labels=list(id2label.keys()))
     fig, ax = plt.subplots(figsize=(10, 10))
     disp.plot(ax=ax, xticks_rotation="vertical")
     plt.show()
@@ -281,8 +290,8 @@ def train_BERT_model(
         ]).T,
         columns=["label", "prediction", "text"],)
     
-    false_classified_df["label"] = false_classified_df["label"].apply(lambda x: id2label[int(x)])
-    false_classified_df["prediction"] = false_classified_df["prediction"].apply(lambda x: id2label[int(x)])
+    false_classified_df["label"] = false_classified_df["label"].apply(lambda x: id2label[int(float(x))])
+    false_classified_df["prediction"] = false_classified_df["prediction"].apply(lambda x: id2label[int(float(x))])
     
     false_classified_df["probabilities"] = false_classified_df["prediction"].apply(
         lambda pred: dict(sorted(
@@ -338,14 +347,23 @@ def train_BERT_model(
     print("Best macro F1:", best_f1)
 
 if __name__ == "__main__":
-    tik = time.time()
-    if True:
-        for num_layers in [1,2,3]:
+
+    datasets_to_train = [
+        {"data_path": "data/synthetic_data/data_20251222__level_1__subclasses_None__level_descriptions_3"},
+        #{"data_path": "data/synthetic_data/data_20251218__level_2__subclasses_A"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_2__subclasses_B"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_2__subclasses_C"},
+        #{"data_path": "data/synthetic_data/data_20251218__level_3__subclasses_1"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_2"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_3"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_5"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_6"},
+        #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_7"},
+    ]  
+    
+    for data_path in datasets_to_train:
+        for num_layers in [2]:
         
-            #thres = 0.4
-            description_class = 1
-            #for thres in [0.35,0.4,0.45,0.5,0.55]:
-            #for description_class in [1,2,3,4]:
             if True:
                 
                 #### Run Params
@@ -357,9 +375,11 @@ if __name__ == "__main__":
                 
                 #####
                 mypath = "/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis/"
-                
-                data_path = mypath + "data/synthetic_data/data_20251218__level_1"
-                dataset_description = f"synthetic_data_1"
+            
+                data_path = mypath + data_path["data_path"]
+                dataset_description = "level" + data_path.split("level")[1]
+
+                print(data_path)
                 
                 results_path = mypath + f"results/BERT_models/NACE_synthetic_data/"
                 
@@ -378,8 +398,6 @@ if __name__ == "__main__":
                 train_df = pd.read_csv(data_files["train"])
                 test_df = pd.read_csv(data_files["test"])
                 validation_df = pd.read_csv(data_files["validation"])
-                            
-                filter_classes = ["A", "C", "F", "J", "K"]
                 
                 training_config = {
                     "data_path" : data_path,
