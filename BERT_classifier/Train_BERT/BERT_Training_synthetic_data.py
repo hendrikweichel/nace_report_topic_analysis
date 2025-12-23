@@ -280,7 +280,11 @@ def train_BERT_model(
     
     with open(results_path + "/results.json", "w") as f:
         json.dump(classification_report(tokenized_datasets["test"]["label"], predicted_labels, output_dict=True), f)
+    
+    
     # create false classified dataset
+
+
     false_classified = ~(np.array(tokenized_datasets["test"]["label"]) == predicted_labels)
     false_classified_df = pd.DataFrame(
         np.array([
@@ -293,12 +297,9 @@ def train_BERT_model(
     false_classified_df["label"] = false_classified_df["label"].apply(lambda x: id2label[int(float(x))])
     false_classified_df["prediction"] = false_classified_df["prediction"].apply(lambda x: id2label[int(float(x))])
     
-    false_classified_df["probabilities"] = false_classified_df["prediction"].apply(
-        lambda pred: dict(sorted(
-            {id2label[i]: p for i, p in enumerate(softmax(predictions.predictions[false_classified][np.where(false_classified_df["prediction"] == pred)[0][0]]))}.items(),
-            key=lambda item: item[1], reverse=True
-        ))
-    )
+    probabilities = np.array(list(map(softmax, predictions.predictions[false_classified])))
+    false_classified_df["probabilities"] = list(map(lambda x: {id2label[i]: x[i] for i in range(len(x))},probabilities))
+
     false_classified_df["notes"] = None
     false_classified_df.to_csv(os.path.join(results_path, "false_classifications.csv"))
     logs = pd.DataFrame(trainer.state.log_history)
@@ -320,31 +321,31 @@ def train_BERT_model(
     plt.savefig(results_path + "/losses.png")
     # get threshold for classification
     
-    logits = predictions.predictions          # shape: (N, num_labels)
-    probs = torch.softmax(torch.tensor(logits), dim=-1).numpy()
-    true_labels = np.array(tokenized_datasets["test"]["label"])
-    from sklearn.metrics import f1_score
-    thresholds = np.linspace(0.01, 0.99, 99)
-    best_f1 = -1
-    best_t = None
+    # logits = predictions.predictions          # shape: (N, num_labels)
+    # probs = torch.softmax(torch.tensor(logits), dim=-1).numpy()
+    # true_labels = np.array(tokenized_datasets["test"]["label"])
+    # from sklearn.metrics import f1_score
+    # thresholds = np.linspace(0.01, 0.99, 99)
+    # best_f1 = -1
+    # best_t = None
     
-    for t in thresholds:
-        preds = []
-        for p in probs:
-            max_prob = p.max()
-            pred_class = p.argmax()
+    # for t in thresholds:
+    #     preds = []
+    #     for p in probs:
+    #         max_prob = p.max()
+    #         pred_class = p.argmax()
     
-            if max_prob < t:
-                preds.append(-1)  # -1 = NO_CLASS oder Reject
-            else:
-                preds.append(pred_class)
+    #         if max_prob < t:
+    #             preds.append(-1)  # -1 = NO_CLASS oder Reject
+    #         else:
+    #             preds.append(pred_class)
     
-        f1 = f1_score(true_labels, preds, average="macro")
-        if f1 > best_f1:
-            best_f1 = f1
-            best_t = t
-    print("Best threshold:", best_t)
-    print("Best macro F1:", best_f1)
+    #     f1 = f1_score(true_labels, preds, average="macro")
+    #     if f1 > best_f1:
+    #         best_f1 = f1
+    #         best_t = t
+    # print("Best threshold:", best_t)
+    # print("Best macro F1:", best_f1)
 
 if __name__ == "__main__":
 
