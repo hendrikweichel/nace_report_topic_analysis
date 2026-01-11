@@ -311,14 +311,14 @@ for generate_nace_class in generated_classes:
     df_subsections = get_sublevels_df(generate_nace_class, level=4)
 
     topics_per_subsec = math.ceil(n_data / len(df_subsections))
-    topic_samples = min(topics_per_subsec, 50)
+    topic_samples = min(topics_per_subsec, 25)
     topic_iterations = math.ceil(topics_per_subsec / topic_samples)
 
-    print("Nbr. of Subsecs. : ", len(df_subsections), "Topics per Subclass", topics_per_subsec, "Samples per LLM call: ", topic_samples, "LLM calls per Subsec.: ", topic_iterations)
+    print("Nbr. of Subsecs. : ", len(df_subsections), ", Topics per Subclass: ", topics_per_subsec, ", Samples per LLM call: ", topic_samples, ", LLM calls per Subsec.: ", topic_iterations)
 
     examples = []
 
-    for i, subsection in df_subsections.head(2).iterrows(): 
+    for i, subsection in df_subsections.iterrows(): 
 
         includes = subsection["Includes"]
         if pd.isna(includes):

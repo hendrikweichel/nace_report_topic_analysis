@@ -350,7 +350,7 @@ def train_BERT_model(
 if __name__ == "__main__":
 
     datasets_to_train = [
-        {"data_path": "data/synthetic_data/data_20251222__level_1__subclasses_None__level_descriptions_3"},
+        #{"data_path": "data/synthetic_data/data_20251222__level_1__subclasses_None__level_descriptions_3"},
         #{"data_path": "data/synthetic_data/data_20251218__level_2__subclasses_A"},
         #{"data_path": "data/synthetic_data/data_20251219__level_2__subclasses_B"},
         #{"data_path": "data/synthetic_data/data_20251219__level_2__subclasses_C"},
@@ -360,6 +360,7 @@ if __name__ == "__main__":
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_5"},
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_6"},
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_7"},
+        {"data_path": "data/synthetic_data/data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics"},
     ]  
     
     for data_path in datasets_to_train:
@@ -399,6 +400,9 @@ if __name__ == "__main__":
                 train_df = pd.read_csv(data_files["train"])
                 test_df = pd.read_csv(data_files["test"])
                 validation_df = pd.read_csv(data_files["validation"])
+
+                print(len(train_df))
+                print(data_files)
                 
                 training_config = {
                     "data_path" : data_path,
