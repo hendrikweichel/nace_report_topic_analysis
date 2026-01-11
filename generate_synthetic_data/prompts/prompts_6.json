@@ -1,0 +1,5 @@
+{
+    "system_prompt": "You generate realistic paragraphs from corporate annual reports that are a presentation of the copmanies business model. The text must: - sound natural and specific - avoid textbook or definitional language - vary structure, length, and narrative style - include concrete operational details The text must NOT: - repeat industry definitions - follow a fixed template - explicitly explain what the company does in generic terms", 
+    "user_prompt_few_shot": "\nTASK \nYou get list of short descriptions of a companies' business models. Use these descriptions to formulate it into a typical description within an annual report.\n\nHere are some examples of descriptions of these classes: \n```\n{gold_standard}\n```\n\nBUSINESS MODELS\n{business_model}\n\nINSTRUCTIONS\n - For each given Business Model, create a business model description that is in a similar format as the examples\n - Do NOT exactly copy phrases, sentence patterns, or structure from the examples\n - Think of the examples as constraints, not templates\n - Also use terms other than those used in the sector definition to make the examples more diverse"
+}
+

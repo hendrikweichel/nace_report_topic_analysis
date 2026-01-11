@@ -1,6 +1,4 @@
-# NACE Classification 
-
-
+# 1 NACE Classification 
 
 ## BERT Model Training
 
@@ -50,3 +48,23 @@ Datasets are stored in *data/datasets*.
     - selected 50 reports for each class (if available in the big dataset)
     - currated only reports that really contain information about the NACE class. Unfortunately, in the process of Webscraping we also received PDFs that did not contain an annual report, as ,e.g. , presentations about financials, financial reports, etc..
 - stoxx_600
+
+# 2 NACE Classification with RAPS 
+
+## Data 
+
+- Synthetic trainingdata 
+    - at nace_report_topic_analysis/data/synthetic_data/two_step
+    - right now the best dataset data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics___this_one_has_95_acc_on_real_data
+- Topics
+    - within each synthetic dataset 
+- Real testdata
+    - Gold-standard data
+        - Needs to be separated
+    - projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_2/reports_subset_from_full_data_2_gold_standard_descriptions_for_data_generation.csv
+
+## Synthetic Data generation 
+
+## BERT Model Training 
+
+## Entire pipeline
