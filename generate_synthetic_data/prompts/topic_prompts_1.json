@@ -1,0 +1,3 @@
+{
+"user_prompt":"TASK\nFor the following business sector, create short descriptions of realistic business models for exisiting companies. \nDEFINITION\n{includes} {includes_also}\n{excludes}\nINSTRUCTION\n- Create a list of {num_samples} different realistic explanations of a business model \n- The length should be one sentence\n- Pick one or multiple subsections for this business model\n- Do not explain what you did or what you used\n- Output only a numbered list\n- Do not add any introduction, explanation, or concluding text\n- Start directly with item 1\n- Dot invent another name"
+}
