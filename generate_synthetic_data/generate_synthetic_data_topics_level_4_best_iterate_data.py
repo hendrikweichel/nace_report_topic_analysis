@@ -3,7 +3,7 @@
 
 # In[1]:
 
-
+from collections import defaultdict, deque
 import pandas as pd
 import os
 import math
@@ -30,9 +30,82 @@ if __name__ == "__main__":
     nace_description_path = "data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
     nace_descriptions = pd.read_csv(nace_description_path, sep="\t")
 
+def get_sublevels_df(
+    df: pd.DataFrame,
+    nace_class: str,
+    level: int,
+    *,
+    id_col: str = "ID",
+    code_col: str = "CODE",
+    parent_col: str = "PARENT_ID",
+    level_col: str = "LEVEL",
+    sort_by: str | None = "ORDER_KEY",  # set None to keep original order
+) -> pd.DataFrame:
+    """
+    Return all rows with LEVEL == `level` that lie under the node with CODE == `nace_class`.
+    Assumes the hierarchy is encoded by PARENT_ID -> ID.
+    """
+    if code_col not in df.columns or id_col not in df.columns or parent_col not in df.columns:
+        raise ValueError(f"df must contain columns: {id_col}, {code_col}, {parent_col}")
 
-# In[6]:
+    # Make safe copies of the relevant columns (avoid surprises with NaN/ints)
+    work = df.copy()
+    work[id_col] = work[id_col].astype(str)
+    work[code_col] = work[code_col].astype(str)
 
+    # LEVEL is needed to filter the requested "level"
+    if level_col in work.columns:
+        work[level_col] = pd.to_numeric(work[level_col], errors="coerce")
+    else:
+        raise ValueError(f"df must contain '{level_col}' to filter by level")
+
+    # Root lookup: CODE -> ID
+    root_rows = work.loc[work[code_col] == str(nace_class), [id_col]]
+    if root_rows.empty:
+        raise ValueError(f"No row found with {code_col} == {nace_class!r}")
+    if len(root_rows) > 1:
+        raise ValueError(f"Multiple rows found with {code_col} == {nace_class!r}; can't choose uniquely.")
+    root_id = root_rows.iloc[0][id_col]
+
+    # Build adjacency: parent_id -> [child_id, ...]
+    children = defaultdict(list)
+    for child_id, parent_id in zip(work[id_col], work[parent_col]):
+        if pd.isna(parent_id):
+            continue
+        children[str(parent_id)].append(str(child_id))
+
+    # BFS/DFS from root_id collecting nodes at target level
+    target_ids = []
+    q = deque([root_id])
+    visited = set()
+
+    while q:
+        node = q.popleft()
+        if node in visited:
+            continue
+        visited.add(node)
+
+        node_level = work.loc[work[id_col] == node, level_col].iloc[0]
+        if pd.notna(node_level) and int(node_level) == int(level):
+            target_ids.append(node)
+
+        # Optional prune: if we've already gone deeper than target level, no need to explore children
+        if pd.notna(node_level) and int(node_level) >= int(level):
+            continue
+
+        for ch in children.get(node, []):
+            q.append(ch)
+
+    out = work[work[id_col].isin(target_ids)].copy()
+    if sort_by is not None and sort_by in out.columns:
+        out = out.sort_values(sort_by, kind="mergesort")
+    return out
+
+
+# Example usage with your TSV:
+# df = pd.read_csv("NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t", dtype=str)
+# rows = get_rows_under_code_at_level(df, nace_class="01.1", level=4)
+# print(rows[["ID", "CODE", "PARENT_ID", "LEVEL", "NAME"]])
 
 def get_zero_shot_user_prompt(path): 
     with open(path, "r") as f: 
@@ -264,40 +337,7 @@ def get_sublevels(nace_class, level):
         return nace_class_lvl_4
 
 
-# In[12]:
-
-
-def get_sublevels_df(nace_class, level) -> pd.DataFrame: 
-    nace_class_temp = nace_class
-    nace_id = nace_descriptions[nace_descriptions["CODE"] == nace_class_temp]["ID"].iloc[0]
-    nace_class_lvl_2 = []
-    nace_class_lvl_3 = []
-    nace_class_lvl_4 = []
-
-    for _, row in nace_descriptions[nace_descriptions["PARENT_ID"] == nace_id].iterrows(): 
-        nace_id_temp = row["ID"]
-        nace_class_lvl_2.append(row)
-        for _, row_2 in nace_descriptions[nace_descriptions["PARENT_ID"] == nace_id_temp].iterrows(): 
-            nace_id_temp_temp = row_2["ID"]
-            nace_class_lvl_3.append(row_2)
-            for _, row_3 in nace_descriptions[nace_descriptions["PARENT_ID"] == nace_id_temp_temp].iterrows(): 
-                nace_class_lvl_4.append(row_3)
-        
-    if level == 2: 
-        df =  pd.concat(nace_class_lvl_2, axis=1).T
-        return df.drop_duplicates()
-
-    if level == 3: 
-        df = pd.concat(nace_class_lvl_3, axis=1).T
-        return df.drop_duplicates()
-
-    if level == 4: 
-        df = pd.concat(nace_class_lvl_4, axis=1).T
-        return df.drop_duplicates()
-
-
 if __name__ == "__main__":
-
 
     # In[14]:
 
@@ -475,7 +515,7 @@ if __name__ == "__main__":
 
         for generate_nace_class in generated_classes:
 
-            df_subsections = get_sublevels_df(generate_nace_class, level=4)
+            df_subsections = get_sublevels_df(nace_descriptions, generate_nace_class, level=4)
 
             topics_per_subsec = math.ceil(n_data / len(df_subsections))
             topic_samples = min(topics_per_subsec, 50)
@@ -499,7 +539,7 @@ if __name__ == "__main__":
                 topics_subsection = []
 
                 for i in range(topic_iterations):
-                    res = generate_topic(num_samples=topic_samples, 
+                    res = generate_topic(num_samples=topic_samples,
                                         includes=includes, 
                                         includes_also=includes_also, 
                                         excludes=excludes,  
