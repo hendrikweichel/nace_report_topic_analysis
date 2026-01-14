@@ -209,12 +209,7 @@ def train_BERT_model(
             loss_fn = nn.CrossEntropyLoss(
                 weight=self.class_weights.to(logits.device) if self.class_weights is not None else None
             )
-            print(logits)
-            print(labels)
-            print(logits.dtype)
-            print(labels.dtype)
-            print(type(logits))
-            print(type(labels))
+
             loss = loss_fn(logits, labels)
             return (loss, outputs) if return_outputs else loss
     
@@ -360,7 +355,8 @@ if __name__ == "__main__":
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_5"},
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_6"},
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_7"},
-        {"data_path": "data/synthetic_data/data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics"},
+        #{"data_path": "data/synthetic_data/data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics"},
+        {"data_path": "data/synthetic_data/two_step/data_20260112__level_1__subclasses_None__prompts_5_list_hardcoded_few_shot__few_shot__from_lvl_4_topics"},
     ]  
     
     for data_path in datasets_to_train:

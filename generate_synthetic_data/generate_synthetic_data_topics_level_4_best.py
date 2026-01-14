@@ -497,7 +497,6 @@ for generate_nace_class in generated_classes:
         "user_prompt": res[0].messages[1].content,
         "output": data,
         "few_shot": few_shot,
-        "model": model
     }
 
     topics[generate_nace_class] = results
@@ -650,7 +649,8 @@ config = {
     "level": level,
     "head_nace_code": head_nace_code,
     "system_prompt": get_system_prompt(prompt_path), 
-    "few_shot_prompting": few_shot
+    "few_shot_prompting": few_shot, 
+    "model": model
 }
 
 # store

@@ -22,7 +22,7 @@ import datetime
 # In[2]:
 
 if __name__ == "__main__":
-    #os.chdir('/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis')
+    os.chdir('/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis')
 
 
     # In[5]:
@@ -382,15 +382,35 @@ if __name__ == "__main__":
 
     hyperparms = [
     {
-        "level": 3,
+        "level": 1,
         "head_nace_code": None,
-        "generated_classes": ["A", "B", "C", "J", "F"]
+        "generated_classes": ["B", "A", "C", "J", "F"]
     },
-    #  {
-    #    "level": 2,
-    #    "head_nace_code": "A",
-    #    "generated_classes": ["1", "2", "3"]
-    #  },
+       {
+        "level": 2,
+        "head_nace_code": "A",
+        "generated_classes": ["1", "2", "3"]
+      },
+        {
+      "level": 2,
+      "head_nace_code": "F",
+      "generated_classes": ["41", "42", "43"]
+    },
+        {
+        "level": 2,
+        "head_nace_code": "B",
+        "generated_classes": ["5", "6", "7"]
+      },
+        {
+      "level": 2,
+      "head_nace_code": "C",
+      "generated_classes": ["20", "21"]
+    },
+        {
+      "level": 2,
+      "head_nace_code": "J",
+      "generated_classes": ["58", "63"]
+    },
     {
         "level": 3,
         "head_nace_code": "1",
@@ -406,11 +426,7 @@ if __name__ == "__main__":
         "head_nace_code": "3",
         "generated_classes": ["03.1", "03.2"]
     },
-    #  {
-    #    "level": 2,
-    #    "head_nace_code": "B",
-    #    "generated_classes": ["5", "6", "7"]
-    #  },
+    
     {
         "level": 3,
         "head_nace_code": "5",
@@ -426,12 +442,6 @@ if __name__ == "__main__":
         "head_nace_code": "7",
         "generated_classes": ["07.1", "07.2"]
     },
-
-    #{
-    #  "level": 2,
-    #  "head_nace_code": "C",
-    #  "generated_classes": ["20", "21"]
-    #},
     {
         "level": 3,
         "head_nace_code": "20",
@@ -442,12 +452,6 @@ if __name__ == "__main__":
         "head_nace_code": "21",
         "generated_classes": ["21.1", "21.2"]
     },
-
-    #{
-    #  "level": 2,
-    #  "head_nace_code": "F",
-    #  "generated_classes": ["41", "42", "43"]
-    #},
     {
         "level": 3,
         "head_nace_code": "41",
@@ -463,12 +467,6 @@ if __name__ == "__main__":
         "head_nace_code": "43",
         "generated_classes": ["43.1", "43.2", "43.3", "43.9"]
     },
-
-    #{
-    #  "level": 2,
-    #  "head_nace_code": "J",
-    #  "generated_classes": ["58", "63"]
-    #},
     {
         "level": 3,
         "head_nace_code": "58",
@@ -487,14 +485,13 @@ if __name__ == "__main__":
     iterations_ = n_data // num_samples
     model = "llama3.1:70b"
 
-
     #############################################################################
     #
     # ITERATE OVER HYPERPARAMS
     #
     ##############################################################################
 
-    for h in hyperparms[:1]: 
+    for h in hyperparms[2:]: 
         level = h["level"]
         head_nace_code = h["head_nace_code"]
         generated_classes = h["generated_classes"]
@@ -508,11 +505,12 @@ if __name__ == "__main__":
         generated_data = {}
 
         topics = {}
-
+    
         ################################
         # RUN DATA GENERATION FOR TOPICS
         ################################
-
+        print(generated_classes)
+        
         for generate_nace_class in generated_classes:
 
             df_subsections = get_sublevels_df(nace_descriptions, generate_nace_class, level=4)
@@ -551,13 +549,12 @@ if __name__ == "__main__":
                 
                 examples.append({"CODE": subsection["CODE"], "NAME": subsection["NAME"], "TOPICS": "\n".join(topics_subsection)})
             
-            clean_text = lambda x: re.sub(r'^\d+\.\s*', " ", x).strip()
-            
             examples = pd.DataFrame(examples)
-            examples["TOPICS"] = examples["TOPICS"].apply(clean_text)
 
+            clean_text = lambda x: re.sub(r'^\d+\.\s*', " ", x).strip()
             data = split_synthetic_data("\n\n".join(examples["TOPICS"]), num_samples * iterations_)
-
+            data = list(map(clean_text, data))
+                
             results = {
                 "topics": random.sample(data, k=2),
                 "topics_df": examples,
@@ -625,7 +622,7 @@ if __name__ == "__main__":
             for i in tqdm(range(iterations_), desc=generate_nace_class):
 
                 iteration_topics = topics[generate_nace_class]["output"][num_samples*i:num_samples*(i+1)]
-                res = generate_synthetic_data(num_samples=num_samples, gold_standard=gold_standard, includes=includes, includes_also=includes_also, excludes=excludes, subsections=subsections, prompt_path=prompt_path, model="gpt-4o-mini", topic=iteration_topics)
+                res = generate_synthetic_data(num_samples=num_samples, gold_standard=gold_standard, includes=includes, includes_also=includes_also, excludes=excludes, subsections=subsections, prompt_path=prompt_path, model=model, topic=iteration_topics)
                 examples.append(res[1])
                 data = split_synthetic_data("\n\n".join(examples), num_samples * iterations_, only_enumarated=True)
                 pd.DataFrame(data, columns=[generate_nace_class]).to_csv(os.path.join(store_path, f"class_{generate_nace_class}.csv"), index=False)
