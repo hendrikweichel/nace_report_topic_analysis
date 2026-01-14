@@ -18,7 +18,6 @@ from langchain_core.prompts import ChatPromptTemplate
 from tqdm import tqdm
 import datetime
 
-
 # In[2]:
 
 if __name__ == "__main__":
@@ -481,9 +480,11 @@ if __name__ == "__main__":
 
 
     n_data = 1000 # total number of samples to generate per class
+    n_data = 50 # total number of samples to generate per class
     num_samples = 20 # number of samples per iteration (generated through one LLM call)
     iterations_ = n_data // num_samples
     model = "llama3.1:70b"
+    model = "gpt-4o-mini"
 
     #############################################################################
     #
@@ -499,6 +500,7 @@ if __name__ == "__main__":
         date = datetime.datetime.now().strftime("%Y%m%d")
         suffix = "__few_shot" if few_shot else "__zero_shot"
         suffix += "__from_lvl_4_topics"
+        suffix += f"__{model}"
         store_path = "data/synthetic_data/two_step/data_" + date + f"__level_{level}__subclasses_{head_nace_code}__{os.path.basename(prompt_path).replace('.json', '')}{suffix}/" 
         os.makedirs(store_path, exist_ok=True)
 
@@ -699,13 +701,6 @@ if __name__ == "__main__":
         train_df, temp_df = train_test_split(df_full, test_size=0.4, random_state=42, stratify=df_full["label"])
         test_df, val_df = train_test_split(temp_df, test_size=0.5, random_state=42, stratify=temp_df["label"])
 
-        # In[ ]:
-
-
         train_df.to_csv(os.path.join(store_path, "train_data.csv"), index=False)
         test_df.to_csv(os.path.join(store_path, "test_data.csv"), index=False)
         val_df.to_csv(os.path.join(store_path, "val_data.csv"), index=False)
-
-
-
-
