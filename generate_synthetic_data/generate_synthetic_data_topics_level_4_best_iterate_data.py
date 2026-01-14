@@ -21,90 +21,26 @@ import datetime
 # In[2]:
 
 if __name__ == "__main__":
-    os.chdir('/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis')
+    # os.chdir('/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis')
 
     
     # In[5]:
-
     nace_description_path = "data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
     nace_descriptions = pd.read_csv(nace_description_path, sep="\t")
 
-def get_sublevels_df(
-    df: pd.DataFrame,
-    nace_class: str,
-    level: int,
-    *,
-    id_col: str = "ID",
-    code_col: str = "CODE",
-    parent_col: str = "PARENT_ID",
-    level_col: str = "LEVEL",
-    sort_by: str | None = "ORDER_KEY",  # set None to keep original order
-) -> pd.DataFrame:
-    """
-    Return all rows with LEVEL == `level` that lie under the node with CODE == `nace_class`.
-    Assumes the hierarchy is encoded by PARENT_ID -> ID.
-    """
-    if code_col not in df.columns or id_col not in df.columns or parent_col not in df.columns:
-        raise ValueError(f"df must contain columns: {id_col}, {code_col}, {parent_col}")
+def get_sublevels_df(nace_descriptions, nace_class, level) -> pd.DataFrame: 
+    class_level = nace_descriptions[nace_descriptions["CODE"] == nace_class]["LEVEL"].iloc[0]
+    nace_index = nace_descriptions[nace_descriptions["CODE"] == nace_class].index.item()
 
-    # Make safe copies of the relevant columns (avoid surprises with NaN/ints)
-    work = df.copy()
-    work[id_col] = work[id_col].astype(str)
-    work[code_col] = work[code_col].astype(str)
+    i = nace_index + 1
+    subtree = []
 
-    # LEVEL is needed to filter the requested "level"
-    if level_col in work.columns:
-        work[level_col] = pd.to_numeric(work[level_col], errors="coerce")
-    else:
-        raise ValueError(f"df must contain '{level_col}' to filter by level")
+    while nace_descriptions.iloc[i]["LEVEL"] != class_level: 
+        subtree.append(nace_descriptions.iloc[i])
+        i += 1
 
-    # Root lookup: CODE -> ID
-    root_rows = work.loc[work[code_col] == str(nace_class), [id_col]]
-    if root_rows.empty:
-        raise ValueError(f"No row found with {code_col} == {nace_class!r}")
-    if len(root_rows) > 1:
-        raise ValueError(f"Multiple rows found with {code_col} == {nace_class!r}; can't choose uniquely.")
-    root_id = root_rows.iloc[0][id_col]
-
-    # Build adjacency: parent_id -> [child_id, ...]
-    children = defaultdict(list)
-    for child_id, parent_id in zip(work[id_col], work[parent_col]):
-        if pd.isna(parent_id):
-            continue
-        children[str(parent_id)].append(str(child_id))
-
-    # BFS/DFS from root_id collecting nodes at target level
-    target_ids = []
-    q = deque([root_id])
-    visited = set()
-
-    while q:
-        node = q.popleft()
-        if node in visited:
-            continue
-        visited.add(node)
-
-        node_level = work.loc[work[id_col] == node, level_col].iloc[0]
-        if pd.notna(node_level) and int(node_level) == int(level):
-            target_ids.append(node)
-
-        # Optional prune: if we've already gone deeper than target level, no need to explore children
-        if pd.notna(node_level) and int(node_level) >= int(level):
-            continue
-
-        for ch in children.get(node, []):
-            q.append(ch)
-
-    out = work[work[id_col].isin(target_ids)].copy()
-    if sort_by is not None and sort_by in out.columns:
-        out = out.sort_values(sort_by, kind="mergesort")
-    return out
-
-
-# Example usage with your TSV:
-# df = pd.read_csv("NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv", sep="\t", dtype=str)
-# rows = get_rows_under_code_at_level(df, nace_class="01.1", level=4)
-# print(rows[["ID", "CODE", "PARENT_ID", "LEVEL", "NAME"]])
+    df_subtree = pd.concat(subtree, axis=1).T
+    return df_subtree[df_subtree["LEVEL"] == level]
 
 def get_zero_shot_user_prompt(path): 
     with open(path, "r") as f: 
@@ -283,13 +219,13 @@ def generate_synthetic_data(
 
     formatted_prompt = prompt.invoke(input)
 
-    print("Formatted Sys Prompt:", formatted_prompt.messages[0].content)
-    print("Formatted User Prompt:", formatted_prompt.messages[1].content)
+    # print("Formatted Sys Prompt:", formatted_prompt.messages[0].content)
+    # print("Formatted User Prompt:", formatted_prompt.messages[1].content)
 
     # Run
     response = chain.invoke(input)
 
-    print("\n\n\n", response.content)
+    # print("\n\n\n", response.content)
 
     return formatted_prompt, response.content
 
@@ -372,19 +308,18 @@ if __name__ == "__main__":
 
     topic_prompt_path = "generate_synthetic_data/prompts/topic_prompts_1.json"   
     prompt_path = "generate_synthetic_data/prompts/prompts_5_list.json"
-    print("System Prompt: ", get_system_prompt(prompt_path))
-    print("User Prompt: ", get_few_shot_user_prompt(prompt_path))
+    # print("System Prompt: ", get_system_prompt(prompt_path))
+    # print("User Prompt: ", get_few_shot_user_prompt(prompt_path))
 
     # In[ ]:
 
     few_shot = True
 
-
     hyperparms = [
     {
         "level": 1,
         "head_nace_code": None,
-        "generated_classes": ["A", "C"]
+        "generated_classes": ["C","A"]
     #    "generated_classes": ["B", "A", "C", "J", "F"]
     },
        {
@@ -512,7 +447,6 @@ if __name__ == "__main__":
         ################################
         # RUN DATA GENERATION FOR TOPICS
         ################################
-        print(generated_classes)
         
         for generate_nace_class in generated_classes:
 
@@ -596,7 +530,7 @@ if __name__ == "__main__":
         ##################################   
         # Generate Descriptions
         ##################################   
-        
+
         generated_data = {}
 
         for generate_nace_class in generated_classes:
