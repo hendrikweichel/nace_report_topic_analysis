@@ -23,7 +23,7 @@ import datetime
 if __name__ == "__main__":
     os.chdir('/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis')
 
-
+    
     # In[5]:
 
     nace_description_path = "data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
@@ -283,12 +283,13 @@ def generate_synthetic_data(
 
     formatted_prompt = prompt.invoke(input)
 
-    #print("Formatted Prompt:", formatted_prompt)
+    print("Formatted Sys Prompt:", formatted_prompt.messages[0].content)
+    print("Formatted User Prompt:", formatted_prompt.messages[1].content)
 
     # Run
     response = chain.invoke(input)
 
-    #print(response.content)
+    print("\n\n\n", response.content)
 
     return formatted_prompt, response.content
 
@@ -302,7 +303,7 @@ def split_synthetic_data(content: str, num_samples: int, only_enumarated = False
 
     # filer out those elements that start with 1., 2., ... 
     if only_enumarated: 
-        content_list = [line for line in content_list if re.match(r'^\d+\.\s*', line)]
+        content_list = [line for line in content_list if re.match(r'^\d\s*', line)]
 
     # if len(content_list) != num_samples: 
     #     print("Warning: length of creates examples != num_samples!")
@@ -370,7 +371,7 @@ if __name__ == "__main__":
     # In[16]:
 
     topic_prompt_path = "generate_synthetic_data/prompts/topic_prompts_1.json"   
-    prompt_path = "generate_synthetic_data/prompts/prompts_5_list_hardcoded_few_shot.json"
+    prompt_path = "generate_synthetic_data/prompts/prompts_5_list.json"
     print("System Prompt: ", get_system_prompt(prompt_path))
     print("User Prompt: ", get_few_shot_user_prompt(prompt_path))
 
@@ -383,13 +384,14 @@ if __name__ == "__main__":
     {
         "level": 1,
         "head_nace_code": None,
-        "generated_classes": ["B", "A", "C", "J", "F"]
+        "generated_classes": ["A", "C"]
+    #    "generated_classes": ["B", "A", "C", "J", "F"]
     },
        {
         "level": 2,
         "head_nace_code": "A",
         "generated_classes": ["1", "2", "3"]
-      },
+    },
         {
       "level": 2,
       "head_nace_code": "F",
@@ -480,7 +482,6 @@ if __name__ == "__main__":
 
 
     n_data = 1000 # total number of samples to generate per class
-    n_data = 50 # total number of samples to generate per class
     num_samples = 20 # number of samples per iteration (generated through one LLM call)
     iterations_ = n_data // num_samples
     model = "llama3.1:70b"
@@ -492,7 +493,7 @@ if __name__ == "__main__":
     #
     ##############################################################################
 
-    for h in hyperparms[2:]: 
+    for h in hyperparms[:1]: 
         level = h["level"]
         head_nace_code = h["head_nace_code"]
         generated_classes = h["generated_classes"]
@@ -524,9 +525,8 @@ if __name__ == "__main__":
             print("Nbr. of Subsecs. : ", len(df_subsections), ", Topics per Subclass", topics_per_subsec, ", Samples per LLM call: ", topic_samples, ", LLM calls per Subsec.: ", topic_iterations)
 
             examples = []
-
+            
             for i, subsection in tqdm(df_subsections.iterrows()): 
-
                 includes = subsection["Includes"]
                 if pd.isna(includes):
                     includes = subsection["NAME"]
@@ -552,7 +552,7 @@ if __name__ == "__main__":
                 examples.append({"CODE": subsection["CODE"], "NAME": subsection["NAME"], "TOPICS": "\n".join(topics_subsection)})
             
             examples = pd.DataFrame(examples)
-
+            
             clean_text = lambda x: re.sub(r'^\d+\.\s*', " ", x).strip()
             data = split_synthetic_data("\n\n".join(examples["TOPICS"]), num_samples * iterations_)
             data = list(map(clean_text, data))
@@ -573,7 +573,7 @@ if __name__ == "__main__":
         # Store Topics
         ############################
 
-        all_topics = []
+        all_topics = []    
         for class_ in topics: 
             df_temp = topics[class_]["topics_df"].copy()
             df_temp["LVL_1_CODE"] = class_
@@ -589,12 +589,15 @@ if __name__ == "__main__":
         with open(os.path.join(store_path, "topics.json"), "w") as f: 
             json.dump(topics_store, f, indent=4)
 
+        # load_topics
+        # with open("data/synthetic_data/two_step/C_data_20260114__level_1__subclasses_None__prompts_5_list_hardcoded_few_shot__few_shot__from_lvl_4_topics__gpt-4o-mini/topics.json", "r") as f: 
+        #     topics = json.load(f)
+        
         ##################################   
         # Generate Descriptions
         ##################################   
-
+        
         generated_data = {}
-
 
         for generate_nace_class in generated_classes:
 
@@ -620,22 +623,15 @@ if __name__ == "__main__":
             #if generated_data.get(generate_nace_class) is not None:
             #    if len(generated_data[generate_nace_class].get("data", [])) > 0:
             #        examples = generated_data[generate_nace_class]["data"]
-
+            
             for i in tqdm(range(iterations_), desc=generate_nace_class):
 
                 iteration_topics = topics[generate_nace_class]["output"][num_samples*i:num_samples*(i+1)]
                 res = generate_synthetic_data(num_samples=num_samples, gold_standard=gold_standard, includes=includes, includes_also=includes_also, excludes=excludes, subsections=subsections, prompt_path=prompt_path, model=model, topic=iteration_topics)
                 examples.append(res[1])
-                data = split_synthetic_data("\n\n".join(examples), num_samples * iterations_, only_enumarated=True)
+                data = split_synthetic_data("\n\n".join(examples), num_samples * iterations_, only_enumarated=False)
                 pd.DataFrame(data, columns=[generate_nace_class]).to_csv(os.path.join(store_path, f"class_{generate_nace_class}.csv"), index=False)
-
-                if i < 2: 
-                    [print(example) for example in examples]
-                    print(res[0].messages[1].content)
-
-                if len(data) >= num_samples * iterations_:
-                    break
-
+                
             results = {
                 "data": data,
                 "prompt": res[0],
