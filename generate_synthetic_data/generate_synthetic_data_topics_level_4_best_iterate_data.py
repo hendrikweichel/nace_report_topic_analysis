@@ -18,12 +18,12 @@ from langchain_core.prompts import ChatPromptTemplate
 from tqdm import tqdm
 import datetime
 
+from NACE_helper import NACE_helper
 # In[2]:
 
 if __name__ == "__main__":
     # os.chdir('/data/resources/weichel-llama3/work/projects/nace_classification/nace_report_topic_analysis')
 
-    
     # In[5]:
     nace_description_path = "data/NACE_Rev2_Structure_Explanatory_Notes_EN__1_.tsv"
     nace_descriptions = pd.read_csv(nace_description_path, sep="\t")
@@ -317,17 +317,17 @@ if __name__ == "__main__":
     few_shot = True
 
     hyperparms = [
+   {
+        "level": 2,
+        "head_nace_code": "A",
+        "generated_classes": ["1", "2", "3"]
+    },
     {
         "level": 1,
         "head_nace_code": None,
         #"generated_classes": ["C","A"]
         #"generated_classes": ["C","F"]
         "generated_classes": ["B", "A", "C", "J", "F"]
-    },
-       {
-        "level": 2,
-        "head_nace_code": "A",
-        "generated_classes": ["1", "2", "3"]
     },
         {
       "level": 2,
@@ -546,9 +546,18 @@ if __name__ == "__main__":
             excludes = nace_descriptions[nace_descriptions["CODE"] == generate_nace_class]["Excludes"].item()
             excludes = "" if pd.isna(excludes) else excludes
 
-            if few_shot: 
-                gold_standard = df_gold_standard[df_gold_standard["NACE_letter"] == generate_nace_class]["Description_clean"].to_list()[:3] 
+            if few_shot:
+
+                nace_level = NACE_helper.get_nace_level(generate_nace_class)
+                if nace_level != 1: 
+                    nace_class_gold_standard = NACE_helper.get_level_1_nace(generate_nace_class)
+                elif nace_level == 1: 
+                    nace_class_gold_standard = generate_nace_class
+
+                nace_class_gold_standard
+                gold_standard = df_gold_standard[df_gold_standard["NACE_letter"] == nace_class_gold_standard]["Description_clean"].to_list()[:3] 
                 gold_standard = [text.replace("\n", "") for text in gold_standard]
+    
             else: 
                 gold_standard = [] 
 
