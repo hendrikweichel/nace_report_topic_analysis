@@ -307,6 +307,7 @@ if __name__ == "__main__":
     # In[16]:
 
     topic_prompt_path = "generate_synthetic_data/prompts/topic_prompts_1.json"   
+    prompt_path = "generate_synthetic_data/prompts/prompts_5_list_hardcoded_few_shot.json"
     prompt_path = "generate_synthetic_data/prompts/prompts_5_list.json"
     # print("System Prompt: ", get_system_prompt(prompt_path))
     # print("User Prompt: ", get_few_shot_user_prompt(prompt_path))
@@ -319,8 +320,9 @@ if __name__ == "__main__":
     {
         "level": 1,
         "head_nace_code": None,
-        "generated_classes": ["C","A"]
-    #    "generated_classes": ["B", "A", "C", "J", "F"]
+        #"generated_classes": ["C","A"]
+        #"generated_classes": ["C","F"]
+        "generated_classes": ["B", "A", "C", "J", "F"]
     },
        {
         "level": 2,
@@ -428,7 +430,7 @@ if __name__ == "__main__":
     #
     ##############################################################################
 
-    for h in hyperparms[:1]: 
+    for h in hyperparms[:]: 
         level = h["level"]
         head_nace_code = h["head_nace_code"]
         generated_classes = h["generated_classes"]

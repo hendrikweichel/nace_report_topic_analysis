@@ -357,7 +357,11 @@ if __name__ == "__main__":
         #{"data_path": "data/synthetic_data/data_20251219__level_3__subclasses_7"},
         #{"data_path": "data/synthetic_data/data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics"},
         #{"data_path": "data/synthetic_data/two_step/_data_20260114__level_1__subclasses_None__prompts_5_list_hardcoded_few_shot__few_shot__from_lvl_4_topics__gpt-4o-mini"},
-        {"data_path": "data/synthetic_data/data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics"},
+        # {"data_path": "data/synthetic_data/data_20251218__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics"},
+        # {"data_path": "data/synthetic_data/two_step/data_20260114__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics__gpt-4o-mini"},
+        # {"data_path": "data/synthetic_data/two_step/data_20260116__level_1__subclasses_None__prompts_5_list_hardcoded_few_shot__few_shot__from_lvl_4_topics__gpt-4o-mini"},
+        #{"data_path": "data/synthetic_data/two_step/data_20260116__level_1__subclasses_None__prompts_5_list_hardcoded_few_shot__few_shot__from_lvl_4_topics__gpt-4o-mini"},
+        {"data_path": "data/synthetic_data/two_step/data_20260116__level_1__subclasses_None__prompts_5_list__few_shot__from_lvl_4_topics__gpt-4o-mini"},
     ]  
     
     for data_path in datasets_to_train:
@@ -398,17 +402,17 @@ if __name__ == "__main__":
                 test_df = pd.read_csv(data_files["test"])
                 validation_df = pd.read_csv(data_files["validation"])
 
-                train_df = train_df[train_df["label"] != "J"]
-                test_df = test_df[test_df["label"] != "J"]
-                validation_df = validation_df[validation_df["label"] != "J"]
+                #train_df = train_df[train_df["label"] != "J"]
+                #test_df = test_df[test_df["label"] != "J"]
+                #validation_df = validation_df[validation_df["label"] != "J"]
                 
-                train_df = train_df[train_df["label"] != "B"]
-                test_df = test_df[test_df["label"] != "B"]
-                validation_df = validation_df[validation_df["label"] != "B"]
+                #train_df = train_df[train_df["label"] != "B"]
+                #test_df = test_df[test_df["label"] != "B"]
+                #validation_df = validation_df[validation_df["label"] != "B"]
                 
-                train_df = train_df[train_df["label"] != "F"]
-                test_df = test_df[test_df["label"] != "F"]
-                validation_df = validation_df[validation_df["label"] != "F"]
+                #train_df = train_df[train_df["label"] != "F"]
+                #test_df = test_df[test_df["label"] != "F"]
+                #validation_df = validation_df[validation_df["label"] != "F"]
                 
                 print(len(train_df))
                 print(data_files)
