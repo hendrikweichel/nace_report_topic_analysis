@@ -303,6 +303,7 @@ if __name__ == "__main__":
 
     #df_gold_standard = pd.read_csv("projects/nace_classification/nace_report_topic_analysis/data/datasets/reports_subset_from_full_data_2/reports_subset_from_full_data_2_gold_standard_descriptions_for_data_generation.csv", sep=";")
     df_gold_standard = pd.read_csv("data/datasets/reports_subset_from_full_data_2/reports_subset_from_full_data_2_gold_standard_descriptions_for_data_generation.csv", sep=";")
+    df_gold_standard = df_gold_standard[df_gold_standard["Description_clean"].notna()]
 
     # In[16]:
 
@@ -554,7 +555,6 @@ if __name__ == "__main__":
                 elif nace_level == 1: 
                     nace_class_gold_standard = generate_nace_class
 
-                nace_class_gold_standard
                 gold_standard = df_gold_standard[df_gold_standard["NACE_letter"] == nace_class_gold_standard]["Description_clean"].to_list()[:3] 
                 gold_standard = [text.replace("\n", "") for text in gold_standard]
     
